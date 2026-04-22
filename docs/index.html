@@ -1,0 +1,2416 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>稳定币海外舆情日报</title>
+  <style>
+    :root {
+      --bg: #f7f8fb;
+      --surface: #ffffff;
+      --text: #18202a;
+      --muted: #5e6a78;
+      --border: #dfe5ee;
+      --blue: #1f5f99;
+      --blue-soft: #e8f2fb;
+      --green: #2f7d5c;
+      --green-soft: #e8f6ef;
+      --orange: #b95f24;
+      --orange-soft: #fff0e5;
+      --purple: #6750a4;
+      --purple-soft: #f0edfb;
+      --rose: #a94461;
+      --rose-soft: #fdebf1;
+      --gold: #95720a;
+      --gold-soft: #fff7cf;
+      --shadow: 0 1px 2px rgba(24, 32, 42, 0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+      line-height: 1.55;
+    }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 28px 20px 20px;
+      text-align: center;
+    }
+    .wrap {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: 30px;
+      font-weight: 760;
+      letter-spacing: 0;
+    }
+    .subline {
+      color: var(--muted);
+      margin: 0;
+      font-size: 14px;
+    }
+    .actions {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 16px;
+    }
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 36px;
+      padding: 7px 12px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--surface);
+      color: var(--text);
+      font-size: 14px;
+      box-shadow: var(--shadow);
+    }
+    main { padding: 24px 0 40px; }
+    section {
+      margin: 0 0 26px;
+      border-top: 1px solid var(--border);
+      padding-top: 22px;
+    }
+    section:first-child {
+      border-top: 0;
+      padding-top: 0;
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 19px;
+      text-align: center;
+      letter-spacing: 0;
+    }
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .metric {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 16px;
+      background: var(--surface);
+      min-height: 96px;
+      text-align: center;
+    }
+    .metric:nth-child(1) { background: var(--blue-soft); }
+    .metric:nth-child(2) { background: var(--green-soft); }
+    .metric:nth-child(3) { background: var(--orange-soft); }
+    .metric:nth-child(4) { background: var(--purple-soft); }
+    .metric .value {
+      display: block;
+      font-size: 30px;
+      font-weight: 780;
+      font-variant-numeric: tabular-nums;
+    }
+    .metric:nth-child(1) .value { color: var(--blue); }
+    .metric:nth-child(2) .value { color: var(--green); }
+    .metric:nth-child(3) .value { color: var(--orange); }
+    .metric:nth-child(4) .value { color: var(--purple); }
+    .metric .label {
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .chips {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+    .metric-chip {
+      border: 1px solid var(--border);
+      background: var(--surface);
+      border-radius: 999px;
+      padding: 4px 9px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .metric-chip b {
+      color: var(--text);
+      font-variant-numeric: tabular-nums;
+    }
+    .grid-2 {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+      gap: 18px;
+      align-items: start;
+    }
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+      font-size: 14px;
+    }
+    th, td {
+      border-bottom: 1px solid var(--border);
+      padding: 10px 12px;
+      vertical-align: middle;
+      text-align: center;
+      overflow-wrap: anywhere;
+    }
+    th {
+      background: var(--blue-soft);
+      color: #173e63;
+      font-weight: 700;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+    tbody tr:nth-child(even) { background: #fbfcfe; }
+    tbody tr:hover { background: var(--gold-soft); }
+    .notes {
+      margin: 0;
+      padding: 14px 18px 14px 34px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .notes li + li { margin-top: 8px; }
+    .filters {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+    select {
+      min-width: 150px;
+      min-height: 36px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--surface);
+      color: var(--text);
+      padding: 6px 9px;
+      font-size: 14px;
+    }
+    .items {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .item {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 5px solid var(--blue);
+      border-radius: 8px;
+      padding: 14px;
+      box-shadow: var(--shadow);
+      min-height: 170px;
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+    }
+    .item.risk { border-left-color: var(--rose); }
+    .item.positive { border-left-color: var(--green); }
+    .item.neutral { border-left-color: var(--blue); }
+    .item.empty {
+      grid-column: 1 / -1;
+      min-height: 80px;
+      text-align: center;
+      justify-content: center;
+      color: var(--muted);
+    }
+    .item h3 {
+      margin: 0;
+      font-size: 16px;
+      line-height: 1.42;
+      letter-spacing: 0;
+    }
+    .meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .snippet {
+      margin: 0;
+      color: #334150;
+      font-size: 14px;
+      flex: 1;
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      padding: 3px 8px;
+      font-size: 12px;
+      line-height: 1.3;
+      border: 1px solid transparent;
+    }
+    .badge.entity {
+      background: var(--purple-soft);
+      color: var(--purple);
+      border-color: #d9d0f2;
+    }
+    .badge.sentiment-risk {
+      background: var(--rose-soft);
+      color: var(--rose);
+      border-color: #efc8d2;
+    }
+    .badge.sentiment-positive {
+      background: var(--green-soft);
+      color: var(--green);
+      border-color: #c7ead8;
+    }
+    .badge.sentiment-neutral {
+      background: var(--blue-soft);
+      color: var(--blue);
+      border-color: #c8dff3;
+    }
+    .status {
+      display: inline-block;
+      min-width: 72px;
+      border-radius: 999px;
+      padding: 3px 9px;
+      font-size: 12px;
+    }
+    .status.ok {
+      background: var(--green-soft);
+      color: var(--green);
+    }
+    .status.warn {
+      background: var(--orange-soft);
+      color: var(--orange);
+    }
+    footer {
+      color: var(--muted);
+      font-size: 12px;
+      text-align: center;
+      padding: 0 0 32px;
+    }
+    @media (max-width: 860px) {
+      .metrics, .items, .grid-2 {
+        grid-template-columns: 1fr;
+      }
+      h1 { font-size: 24px; }
+      th, td { padding: 9px 8px; font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>稳定币海外舆情日报</h1>
+      <p class="subline">生成时间：2026-04-22 10:46（北京时间） · 免费公开源 · 每日 08:00 自动更新</p>
+      <div class="actions">
+        <a class="button" href="data/latest.json" target="_blank" rel="noopener">latest.json</a>
+        <a class="button" href="archive/2026-04-22.json" target="_blank" rel="noopener">archive.json</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section>
+      <div class="metrics">
+        <div class="metric"><span class="value">110</span><span class="label">匹配条目</span></div>
+        <div class="metric"><span class="value">6</span><span class="label">活跃主题</span></div>
+        <div class="metric"><span class="value">20</span><span class="label">风险/监管信号</span></div>
+        <div class="metric"><span class="value">9</span><span class="label">可用来源</span></div>
+      </div>
+      <div class="chips"><span class="metric-chip">News RSS <b>77</b></span><span class="metric-chip">Reddit <b>20</b></span><span class="metric-chip">RSS Feed <b>13</b></span></div>
+    </section>
+
+    <section class="grid-2">
+      <div>
+        <h2>核心叙事</h2>
+        <div class="panel">
+          <table>
+            <thead><tr><th style="width: 20%">主题</th><th style="width: 16%">数量</th><th>代表链接</th></tr></thead>
+            <tbody>
+        <tr>
+          <td>Stablecoin</td>
+          <td>62</td>
+          <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXhNbFpTNDVTQjQwWkFhZ2gwRFlUak9VZDRFQmNiQ3RFdjV0Sml4NTVlTnhqbGJydGwtY1lHbEVxa3BrMXN2bTRjLXZmWl80Z0VCdS1fUGhYUVNpbW52ZVRmNW9ubEZxQTNSMnBJeUEtd01YSFYxRGVGSXpXVnNfeThXYTQ4a2tuNGFGeGJLbTVaZDFneWRQMzVfXzJlZldjSEk2MzIwSzJ4TG5tWTdydUM0NVVLWlNaMkZkYg?oc=5" target="_blank" rel="noopener">News Explorer — Pornhub Is Dumping Tether&#x27;s USDT Stablecoin for Circle&#x27;s USDC: Report - Decrypt</a></td>
+        </tr>
+        
+
+        <tr>
+          <td>USDT</td>
+          <td>36</td>
+          <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXhNbFpTNDVTQjQwWkFhZ2gwRFlUak9VZDRFQmNiQ3RFdjV0Sml4NTVlTnhqbGJydGwtY1lHbEVxa3BrMXN2bTRjLXZmWl80Z0VCdS1fUGhYUVNpbW52ZVRmNW9ubEZxQTNSMnBJeUEtd01YSFYxRGVGSXpXVnNfeThXYTQ4a2tuNGFGeGJLbTVaZDFneWRQMzVfXzJlZldjSEk2MzIwSzJ4TG5tWTdydUM0NVVLWlNaMkZkYg?oc=5" target="_blank" rel="noopener">News Explorer — Pornhub Is Dumping Tether&#x27;s USDT Stablecoin for Circle&#x27;s USDC: Report - Decrypt</a></td>
+        </tr>
+        
+
+        <tr>
+          <td>Tether</td>
+          <td>25</td>
+          <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXhNbFpTNDVTQjQwWkFhZ2gwRFlUak9VZDRFQmNiQ3RFdjV0Sml4NTVlTnhqbGJydGwtY1lHbEVxa3BrMXN2bTRjLXZmWl80Z0VCdS1fUGhYUVNpbW52ZVRmNW9ubEZxQTNSMnBJeUEtd01YSFYxRGVGSXpXVnNfeThXYTQ4a2tuNGFGeGJLbTVaZDFneWRQMzVfXzJlZldjSEk2MzIwSzJ4TG5tWTdydUM0NVVLWlNaMkZkYg?oc=5" target="_blank" rel="noopener">News Explorer — Pornhub Is Dumping Tether&#x27;s USDT Stablecoin for Circle&#x27;s USDC: Report - Decrypt</a></td>
+        </tr>
+        
+
+        <tr>
+          <td>USDC</td>
+          <td>21</td>
+          <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXhNbFpTNDVTQjQwWkFhZ2gwRFlUak9VZDRFQmNiQ3RFdjV0Sml4NTVlTnhqbGJydGwtY1lHbEVxa3BrMXN2bTRjLXZmWl80Z0VCdS1fUGhYUVNpbW52ZVRmNW9ubEZxQTNSMnBJeUEtd01YSFYxRGVGSXpXVnNfeThXYTQ4a2tuNGFGeGJLbTVaZDFneWRQMzVfXzJlZldjSEk2MzIwSzJ4TG5tWTdydUM0NVVLWlNaMkZkYg?oc=5" target="_blank" rel="noopener">News Explorer — Pornhub Is Dumping Tether&#x27;s USDT Stablecoin for Circle&#x27;s USDC: Report - Decrypt</a></td>
+        </tr>
+        
+
+        <tr>
+          <td>Circle</td>
+          <td>10</td>
+          <td><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXhNbFpTNDVTQjQwWkFhZ2gwRFlUak9VZDRFQmNiQ3RFdjV0Sml4NTVlTnhqbGJydGwtY1lHbEVxa3BrMXN2bTRjLXZmWl80Z0VCdS1fUGhYUVNpbW52ZVRmNW9ubEZxQTNSMnBJeUEtd01YSFYxRGVGSXpXVnNfeThXYTQ4a2tuNGFGeGJLbTVaZDFneWRQMzVfXzJlZldjSEk2MzIwSzJ4TG5tWTdydUM0NVVLWlNaMkZkYg?oc=5" target="_blank" rel="noopener">News Explorer — Pornhub Is Dumping Tether&#x27;s USDT Stablecoin for Circle&#x27;s USDC: Report - Decrypt</a></td>
+        </tr>
+        
+
+        <tr>
+          <td>Robinhood</td>
+          <td>3</td>
+          <td><a href="https://www.coindesk.com/markets/2026/04/21/prediction-markets-are-the-new-secret-weapon-for-coinbase-and-robinhood-growth" target="_blank" rel="noopener">Prediction markets are the new secret weapon for Coinbase and Robinhood growth</a></td>
+        </tr>
+        </tbody>
+          </table>
+        </div>
+      </div>
+      <div>
+        <h2>覆盖说明</h2>
+        <div class="panel"><ul class="notes"><li>X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.</li><li>Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.</li><li>Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.</li><li>YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured.</li></ul></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>重点发言与文章</h2>
+      <div class="filters">
+        <select id="entityFilter" aria-label="主题筛选"><option value="">全部主题</option><option value="Circle">Circle</option><option value="USDC">USDC</option><option value="Tether">Tether</option><option value="USDT">USDT</option><option value="Stablecoin">Stablecoin</option><option value="Robinhood">Robinhood</option></select>
+        <select id="sentimentFilter" aria-label="信号筛选">
+          <option value="">全部信号</option>
+          <option value="risk">风险/监管</option>
+          <option value="positive">积极进展</option>
+          <option value="neutral">中性</option>
+        </select>
+        <select id="platformFilter" aria-label="来源筛选"><option value="">全部来源</option><option value="News RSS">News RSS</option><option value="RSS Feed">RSS Feed</option><option value="Reddit">Reddit</option></select>
+      </div>
+      <div class="items" id="items">
+      <article class="item neutral" data-entities="Circle|USDC|Tether|USDT|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 04:43</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXhNbFpTNDVTQjQwWkFhZ2gwRFlUak9VZDRFQmNiQ3RFdjV0Sml4NTVlTnhqbGJydGwtY1lHbEVxa3BrMXN2bTRjLXZmWl80Z0VCdS1fUGhYUVNpbW52ZVRmNW9ubEZxQTNSMnBJeUEtd01YSFYxRGVGSXpXVnNfeThXYTQ4a2tuNGFGeGJLbTVaZDFneWRQMzVfXzJlZldjSEk2MzIwSzJ4TG5tWTdydUM0NVVLWlNaMkZkYg?oc=5" target="_blank" rel="noopener">News Explorer — Pornhub Is Dumping Tether&#x27;s USDT Stablecoin for Circle&#x27;s USDC: Report - Decrypt</a></h3>
+        <p class="snippet">News Explorer — Pornhub Is Dumping Tether&#x27;s USDT Stablecoin for Circle&#x27;s USDC: Report Decrypt</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span><span class="badge entity">Tether</span><span class="badge entity">USDT</span><span class="badge entity">Stablecoin</span>
+          <span>score 63.71</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Circle|USDC|Tether|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 02:34</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXpFZmdhSlI1bnZKazRZMVJvY1EyM3ZrZjVRRDZsZ1RaaUxkZG85bExHbmhwbmlEaVFERzBxdGl5MXpEZ0VhY0NwS2k5MjRBRE5Nbk5jMjJJRUxiOUlfSnJQTklQYkNNamJKYzBHaEQ5U2Z6amN4SXJjc1Bndk9SQlhWOWk1M0ZIeWVkTGZvR0VzQTjSAZsBQVVfeXFMUHUwWmRJaUdnUUR5UEF3Q3VsbTBWZHNHRExEUzZ6YWl5MGlWVl9xU3J3cWNsMENEenVoUzhRaFQzbFJqZDA2VHNtYU9uZHlWeTdwQzlTcVQzckxKY1RVZ2lGWmpWTFdWSk5fWk9qNmVKNzN0cmhSY0EweWtBX2NlRzRBNTVienNSQmdqRUpxQUFVNXdTdTY3UUVXbjg?oc=5" target="_blank" rel="noopener">Tether Asserts Stablecoin Dominance Over Circle&#x27;s USDC Amid Major Crypto Hacks - Decrypt</a></h3>
+        <p class="snippet">Tether Asserts Stablecoin Dominance Over Circle&#x27;s USDC Amid Major Crypto Hacks Decrypt</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span><span class="badge entity">Tether</span><span class="badge entity">Stablecoin</span>
+          <span>score 54.86</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Circle|USDC|Stablecoin" data-sentiment="risk" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 08:39</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/BitMartExchange/comments/1ss62qw/bitmartcard_now_supports_direct_exchange_of_usdcx/" target="_blank" rel="noopener">💳 BitMartCard now supports direct exchange of #USDCx @AleoHQ @Aleo_Asia.</a></h3>
+        <p class="snippet">​ More options. More flexibility. USDCx on Aleo is one of the first private, programmable, dollar-denominated stablecoins on the Aleo network. It is fully backed 1:1 by USDC held in Circle xReserve, a secure infrastructure provided by Circle. Unlike tradition...</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span><span class="badge entity">Stablecoin</span>
+          <span>score 48.93</span>
+          <span>@/u/BitMartExchange</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC|Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 02:52</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWVnamNyeTY3bVpZTXFjbFBtOGszWmVMZ09ydTdCeFQ4bmRESTdCaGs3V1lxbEdIYmxsNnFOVHNxdEhvbFBNX1ZHTlpKWDVRSmxBbXBvMGlUTG13Z09pRm90S0VNTkNMR1ZtemdyQnVPQ3Bad3BIU2VBNmN3TnRpTXdnSGxDbVplc0sydG1YUUU3NFVlTnJNWUp3djN5REZITHVaVm5nbw?oc=5" target="_blank" rel="noopener">Tether’s $127.5M Drift bailout prompts USDC to USDT switch, stability questioned - Crypto Briefing</a></h3>
+        <p class="snippet">Tether’s $127.5M Drift bailout prompts USDC to USDT switch, stability questioned Crypto Briefing</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 47.55</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 00:14</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPX1pLeWVJdGZEb3prY0ZxWFVuRy02VS13cFk3b2ZUUk9GNDExU0RmQUlrQTJSZC1QMTRlRjlhdXpEMHlxX0FPbVIxYUt2VTJqdDRKTDN6UUwza1cxdkVXX1dDNWFIeWR1WmFCN0d1Q1FFT0JyekxWVjVhZWVadE04ME9DNzEyc1hDS1A4MGtDWlY3d3dNalE?oc=5" target="_blank" rel="noopener">USDT supply hits fresh $188b ATH as Tether tightens grip on stablecoins - crypto.news</a></h3>
+        <p class="snippet">USDT supply hits fresh $188b ATH as Tether tightens grip on stablecoins crypto.news</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span><span class="badge entity">Stablecoin</span>
+          <span>score 45.9</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 09:59</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MMnZoejR5ZjAycUlxa3FRZGFQOTRTSGhmTEVVdGlSY3REY0NCWU5nTU5ZNUNYbFFLalZaOERQWDEzNEVZWFl5VUZKMjRLQU84YmQ2MWRwcEJCVG5VVUE?oc=5" target="_blank" rel="noopener">Best USDT Casinos USA (2026) – Top Tether Casino Sites - MovieMaker Magazine</a></h3>
+        <p class="snippet">Best USDT Casinos USA (2026) – Top Tether Casino Sites MovieMaker Magazine</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 44.49</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Tether|USDT|Stablecoin" data-sentiment="risk" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 04:00</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/RWATimes/comments/1sryxdg/peter_thielbacked_unicorn_ramp_rolls_out_0/" target="_blank" rel="noopener">Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product ...</a></h3>
+        <p class="snippet">![]( https://www.tbstat.com/wp/uploads/2024/04/20240429_Tether_News_3-1200x675.jpg ) The fintech provider has rolled out support for Ethereum, Solana and Plasma-issued USDT tokens across its entire product suite. Details: - Published: 21/04/2026 18:49 (UTC) -...</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span><span class="badge entity">Stablecoin</span>
+          <span>score 44.1</span>
+          <span>@/u/rwatimes</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 21:02</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE9YaDdsQ3RHZ0tKR0ltSmhoR05RQ3BkbndLWXA5SUFwckRmZ1ZiMXk2cDliaTFyWF8xRVNjelBqTVEzRmQ2blZSS0otYnd0TnlWcTZLaGp2UnBnMl9PR05xY2RQbnlFcFVUWUZnVUNHUUFPdw?oc=5" target="_blank" rel="noopener">Tether Mints $1B USDT, Cements 58% Stablecoin Market Grip - Yellow.com</a></h3>
+        <p class="snippet">Tether Mints $1B USDT, Cements 58% Stablecoin Market Grip Yellow.com</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span><span class="badge entity">Stablecoin</span>
+          <span>score 43.91</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Tether|USDT" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 05:29</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPSTVmM25scmpHLVFJUk5SZU1aLXJDTDV4ZnlPT2JWamVCb3Y5WW9wdnE3emNPbkwwdno3RjN3eWkwWlM0alNCSEQ5ZGFHWUkxZXJ4blhrMVpzV05Rem5WaEZDblNFYV9KMm0yeDJFZGlzNFVGeEM0Qm91R2Y3b0ViWWd1SGRUZ2VMMVpac0l0bHFYNVQ4ckE?oc=5" target="_blank" rel="noopener">Ramp Integrates Tether USDT With Feeless USD Onramps and Offramps - FinanceFeeds</a></h3>
+        <p class="snippet">Ramp Integrates Tether USDT With Feeless USD Onramps and Offramps FinanceFeeds</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 43.56</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Tether|USDT" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 23:15</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPUW5xLUVVMlRna21mMVhreGxHZ2hEbUQ4OXZaRUU0WDFPOFZidnBYTk82WnBJNEFLWDl4T3JwTG1FZllGblNYRTJhRlBVWHE1TVUydFU2UzY2Y05LNXNPM2h5eWFxazNJeW1wX0ptanMzemxHUzVsTWhkUXZaT2tpSkRJYW5nN3NraW5iS01reDV1UXE3?oc=5" target="_blank" rel="noopener">Tether Drops $1B USDT on Ethereum – Liquidity Surge Incoming? - Live Bitcoin News</a></h3>
+        <p class="snippet">Tether Drops $1B USDT on Ethereum – Liquidity Surge Incoming? Live Bitcoin News</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 42.79</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Tether|USDT" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 22:03</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzlZMTNEMGIxeEY0S3FFVVdtRjFVSE45aUluUm01UW16SE5WV3Nva1d4MnJweUU0VmJGbzRJcER5U2xLOUh2dzBRMTktQzByNmg4TEFscVBuUTFlRHdQTTdpNEZqaHBhX013LVJuZ01mTmVTSEJYLVU1VFdIZEZFT1dZNnk0R3cxNkt1eDRzcmVLeHZpa2RvVlJxNlBuS3FUTzBodDRzSmtwZnhJ?oc=5" target="_blank" rel="noopener">Tether Liquidity Surge – $2 Billion in USDT Minted on Ethereum in Just 48 Hours - BlockchainReporter</a></h3>
+        <p class="snippet">Tether Liquidity Surge – $2 Billion in USDT Minted on Ethereum in Just 48 Hours BlockchainReporter</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 42.04</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Circle|USDC|Stablecoin" data-sentiment="risk" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-21 23:47</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/CryptoCurrency/comments/1srrm8i/the_ceo_of_the_company_that_issues_usdc_just_said/" target="_blank" rel="noopener">The CEO of the company that issues USDC just said China will probably launch a yuan stablecoin within five years.</a></h3>
+        <p class="snippet">Circle’s Jeremy Allaire gave an interview this week where he described a yuan-backed stablecoin as a “tremendous opportunity” and said currency competition is now basically a technology competition. Whichever country can make their money the most frictionless...</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span><span class="badge entity">Stablecoin</span>
+          <span>score 42.0</span>
+          <span>@/u/Repulsive_Counter_79</span>
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 06:35</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVllwMHdiMHNwODFldk4xOTYzdTcxM3FXOFI5eWtCOWpqRzBWNUUzRklIcmQ2a214Wmsxb1dCVlBxNkZ5aDNKYmxCSTVPcFlob1NGV1V4a2VSbXI0M0lhdWF6WTN5S2NLdjhHRHR1ZU9ESFN6Nlg4SWIwZjRNU3o2LVpIZjI0eEZlNWg3dkFCcHJ4MUloTE1RNnFfNmdfSFpIQU1la2N5RUI?oc=5" target="_blank" rel="noopener">12 European Banks Plan MiCA-Compliant Euro Stablecoin, Target 2026 Launch - Live Bitcoin News</a></h3>
+        <p class="snippet">12 European Banks Plan MiCA-Compliant Euro Stablecoin, Target 2026 Launch Live Bitcoin News</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 41.75</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Tether|USDT" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 20:01</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE9uVVA0b1g3cGUtVm9QQ2xlNXZ4bjlGME5RM2U2cm5WcXNTOTFHeHBqckg1UFhoYU1Na1hNc0habV9nRlpOT01oVg?oc=5" target="_blank" rel="noopener">Tether Issues $1 Billion USDT on Ethereum - MEXC</a></h3>
+        <p class="snippet">Tether Issues $1 Billion USDT on Ethereum MEXC</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 40.76</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 03:11</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxNYWNhcDRubnNJRWtEay0tZG5zYXhabl9LWTlTemlXN2NBa01XcHgzVXB1aVNvZUNGMUEtUUctNDNoNzdDdV9VVUxFR1hrZExuTEstbnJQdnJybXRhSkdzbmNBX19yUjQwMDgwLW04QjQtbXdiZThPWE92alNQVUgwV2IxdjItZ0xOQjZpZldrVXpReDFtVXRXc0x4QUF5WUlnQ0VlVTB3VVlEYnN5WlptMWYtUlN2MTdPazlIS1pkTVRaQjdzUExHY3VFMWh2Zw?oc=5" target="_blank" rel="noopener">Nium partners with Coinbase to enable USDC stablecoin payments across its platform - FX News Group</a></h3>
+        <p class="snippet">Nium partners with Coinbase to enable USDC stablecoin payments across its platform FX News Group</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">Stablecoin</span>
+          <span>score 40.25</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC|Tether" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 02:57</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPTEF5UlZ0RTFJMHVWWTllYzB3NkxyTUExdC04Uk5sSDhMWm94bnRnZk9ERG9PX3YxS1FUYlZGcFRWY0E1SzlWNl84cGtRdWVTeFRfTlNMOTlTRllHYTlQdW5WR1RzQXNYVGMySWUxVDBITHN4aElGVEdnRGpRWkUtVDVMN05Sdw?oc=5" target="_blank" rel="noopener">Tether: Asserts Dominance Over USDC Amid Hacks - blockchain.news</a></h3>
+        <p class="snippet">Tether: Asserts Dominance Over USDC Amid Hacks blockchain.news</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">Tether</span>
+          <span>score 40.1</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Circle|Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 23:54</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYYjAzbzVoc0xKYmpOd0MzTXpGZ1NyclpodG1vSFVwM0F6X3RLWmQ1a1dsY3oyWDJnRTlGZ0VMZzFxMk9aTUd4VzBtLXRoU09VT2tsdzJ3SG0?oc=5" target="_blank" rel="noopener">Circle tops crypto stocks with 30% gain as stablecoin growth outpaces Coinbase slump - Cryptonews.net</a></h3>
+        <p class="snippet">Circle tops crypto stocks with 30% gain as stablecoin growth outpaces Coinbase slump Cryptonews.net</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">Stablecoin</span>
+          <span>score 40.07</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 01:30</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWhMRnlLYWZNYVlnSGFiUktwVGZldGZZVlVZSWpZMWxxa05Pcm90TUN1Slp2cU44b3BLZ2N5dFVuVExWQmlGN2JUZmtwWVNZV08xeW5kc1RJSFVpaEZ5aHR3WXh0YzBOZXVvb3U5cFlWTHBDekRsLTZDRTFmcXp2YllQRmU2dlNQNDdFNlBXMm1QYUkydnoyeUdxblhQaUZGSDZUWF84dFrSAa4BQVVfeXFMT0F2SGpON2JxeEZic25SSlM4WlFyZ3NnRTE2dEdLUkJsR0xwUGszNy0zU0xibDR2ZTBXUmlCWjc4blpYNGpfN0RNY0piajVRblAwUnpiTTQySUY4eW5BY1o0czBEb2Q3RHBoVjlNMWJFU2JuQ2pKVXdQbTd3R2JDZzZnT1VBMkxBV0l1a3VETHJvVjNlZ2RhaGtoZF9ZTmMzNEhNeHQyLUtTczNKaHVB?oc=5" target="_blank" rel="noopener">Tron News: Tether USDT Supply Hits ATH as TRX Eyes $0.35 Retest - The Coin Republic</a></h3>
+        <p class="snippet">Tron News: Tether USDT Supply Hits ATH as TRX Eyes $0.35 Retest The Coin Republic</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 39.19</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="USDT|Stablecoin" data-sentiment="risk" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 01:03</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/SideHustlePaglu/comments/1srttm6/buying_usdt_between_50499_amount_payment_method/" target="_blank" rel="noopener">buying USDT between 50-499 amount, payment method: cash deposit machine( sbi,icici , and others)</a></h3>
+        <p class="snippet">been in crypto for more than 3 yrs, I have stablecoin (USDT) market maker business. As here many people earn crypto and have issues with withdrawal like of 30% tax, bank freeze, and as most exchanges r FIU registered , they have many problems to withdraw diff...</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span><span class="badge entity">Stablecoin</span>
+          <span>score 39.13</span>
+          <span>@/u/Loud-Ad2201</span>
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Robinhood" data-sentiment="risk" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>CoinDesk</span>
+          <span>2026-04-22 03:49</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://www.coindesk.com/markets/2026/04/21/prediction-markets-are-the-new-secret-weapon-for-coinbase-and-robinhood-growth" target="_blank" rel="noopener">Prediction markets are the new secret weapon for Coinbase and Robinhood growth</a></h3>
+        <p class="snippet">Cantor Fitzgerald analysts said the market is treating recent trading slumps as old news, shifting focus instead toward prediction markets and new product launches to drive the next leg of growth for Coinbase and Robinhood.</p>
+        <div class="meta">
+          <span class="badge entity">Robinhood</span>
+          <span>score 38.54</span>
+          <span>@Helene Braun</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 00:24</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XTHQ1U2h3d1BENWhnLXBwdzN6Nk5jZmdYaVg1UmpQaDIyWkczUFFMS1ZENkZsYW9BUnFNSFVGb1NNeHIyVnJpa1I1X01XUzVJaUNqOHI2dFluRjQ?oc=5" target="_blank" rel="noopener">Pornhub drops USDT for USDC - Protos | Informed crypto news</a></h3>
+        <p class="snippet">Pornhub drops USDT for USDC Protos | Informed crypto news</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">USDT</span>
+          <span>score 38.5</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="USDC|Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 21:05</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelhuMXIzRV8wbXhzX1pSNGg3Y2NTbFhfVThRcTcwME5DOWVRRlVLME1ISlkzazkxdEl3N3hWaG1kVDlnYm5sbkFXTUVVbzFBUlc3YWNKZHRqUWN3QjdxLUZsUm1LWlFVZ3h5bEtwYlZUajJhNGI1cmtHbV9YNE9ESmJvdDJqT0V6T2VTdDRFVFBXS1BWb05FNTluMXhYWXBmSERYRVMxeEZMN3NzYXp4VWZPWE9hR3F1Um40V0lISE9UTFVyM3M4Sl9iVDFPRENBM2FNMVpVVTR4eENLNWI5TVBEMS1QNWNEdUFON0tfeWdSSW95SXdKbQ?oc=5" target="_blank" rel="noopener">Nium Announced Partnership With Coinbase To Enable Usdc Stablecoin Payments Across Its Platform - TradingView</a></h3>
+        <p class="snippet">Nium Announced Partnership With Coinbase To Enable Usdc Stablecoin Payments Across Its Platform TradingView</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">Stablecoin</span>
+          <span>score 38.31</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 01:00</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFBlLWM2YnM5Q1ZZdFg3QU5CRHIwUVZ3MVhpNDNLNlZJZjdtZ3ZYNFRFY3lEbEVoT0pfN3hfMHBpLVJVWWhzYm5Fczg2bG5Wd01xM2ZENHppNTVXMm5mUnhkdjBINjFhMW0telJaenhjWjYtT0Z5dnUxb2hMRkVna29IbHQ3UnMyUnNueHhQanJaNWhQclhHbW9IQ0UtMXpNd0ZGenBfNm9RdlpWc2t5MWhKaTFfak5FZWVzeVpR?oc=5" target="_blank" rel="noopener">TRON Integrates LI.FI Protocol, Unlocking Cross-Chain Access to Global Stablecoin Liquidity - Cryptopolitan</a></h3>
+        <p class="snippet">TRON Integrates LI.FI Protocol, Unlocking Cross-Chain Access to Global Stablecoin Liquidity Cryptopolitan</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 38.25</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 23:03</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNejhGV2d3UEl1RXRMemY0VU1WdmtFbHV4ZC1oWHB4UnNrZXhCMmhPZTNkTG1WT2NHbTJaZzVBVUMwZkZGSkMybTNwTnozRmw5a2NZRU9kLXRWRGZ5X0xHcnd6NDJvTkt3bVp1bHZLdUE2cHFuZVBpX0ZoX0ZFTk5wYXZKOHR2NWRycGNtNVVwSkRpWTRFN3hTb1dOQkJqOW9mX2ZRaGxGdw?oc=5" target="_blank" rel="noopener">USDT Supply On Tron Hits Record $86.7 Billion As Stablecoin Demand Surges - BlockchainReporter</a></h3>
+        <p class="snippet">USDT Supply On Tron Hits Record $86.7 Billion As Stablecoin Demand Surges BlockchainReporter</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span><span class="badge entity">Stablecoin</span>
+          <span>score 37.67</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Circle" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 00:37</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWJ4RmUwdHdKUnY3NzRYUHBjUkdrbmk4Y004N05vakdkZHpTRTNRcXJ4dDdvQmJ5YUhjc1lXMWV1UTVDOUFNelFURmRjanRGTFRMZmRFb2piQ1FYZVdRX2sxSkItNWJ3STNBQmtqNVJ4bF82WlpVTF9HQ3dCZURMTDh0STNWcVdxbE10N25XT2kwOXNjTlZhTFM3MUlUZi1mbVVLWEJESHpac25fVEN0Z1FLemFBTzZyTVhvZXlRb1VyeXRXZVczc0Z3dWg2QQ?oc=5" target="_blank" rel="noopener">CRCL Stock Tests $100 Support Level After Freedom Capital Issues Cautious ‘Hold’ Rating - Stocktwits</a></h3>
+        <p class="snippet">CRCL Stock Tests $100 Support Level After Freedom Capital Issues Cautious ‘Hold’ Rating Stocktwits</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span>
+          <span>score 36.14</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="USDC|USDT" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 12:23</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZzJSc0ROS0Y3djRCUjNzZ3M3RU5BQUhiaDB2VkZPb0JycXp5WGxNTGJYRlNmUXJqN0hQbW02dy1pZ2hlOFQ5cGZuY01aM2k1aGtUcE41aHZWWDk5bnNVNFZhVjhsQzJTSFRhUFM0MkMyaDRTbEZIZ211dWd5UEJsMnBrbFVYb1Vo?oc=5" target="_blank" rel="noopener">BIS Warns USDT &amp; USDC Expansion Risks Asian Banking Sector: What Does It Mean for Crypto Investors? - KuCoin</a></h3>
+        <p class="snippet">BIS Warns USDT &amp; USDC Expansion Risks Asian Banking Sector: What Does It Mean for Crypto Investors? KuCoin</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">USDT</span>
+          <span>score 36.0</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>Cointelegraph</span>
+          <span>2026-04-21 16:01</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://cointelegraph.com/news/european-banks-tap-fireblocks-for-mica-compliant-euro-stablecoin?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">European banks tap Fireblocks for MiCA-compliant euro stablecoin</a></h3>
+        <p class="snippet">A 12-bank European consortium led by Qivalis is partnering with Fireblocks to develop a regulated euro stablecoin under MiCA, targeting launch in the second half of 2026.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 35.81</span>
+          <span>@Cointelegraph by Christina Comben</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 19:50</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1NTkd5VU1Jb3FaSVV3TWFYVFdieG9xQ3JlZU1tOUFIbURVOHE1SlN5NkdTNFI2dU5ERmUwOEdyNEJxcVdKNXFDUzJLUUxVVXlubHU2UFQ5VThrblJUZGNra0d4ZEh4cFp2dnFtbVA4VmVpaHJKbFd6a0ZxMA?oc=5" target="_blank" rel="noopener">Tether Minted 1 Billion USDT: On-chain Trading Grinding Back - Cryptonews</a></h3>
+        <p class="snippet">Tether Minted 1 Billion USDT: On-chain Trading Grinding Back Cryptonews</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 35.65</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="USDC|USDT|Stablecoin" data-sentiment="positive" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-21 19:02</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/phinvest/comments/1srkcm7/coinsph_pioneers_stablecoin_payment_utility_in/" target="_blank" rel="noopener">Coins.ph Pioneers Stablecoin Payment Utility in the Philippines with First-of-its-Kind QRPh Integration</a></h3>
+        <p class="snippet">Philippines’ leading crypto-native digital wallet and a pioneer in blockchain-backed financial services, announced the rollout of its game-changing QRPh Stablecoin Payment functionality. This landmark feature, available starting today, enables the platform’s...</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">USDT</span><span class="badge entity">Stablecoin</span>
+          <span>score 35.62</span>
+          <span>@/u/ILETOJUL</span>
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Robinhood" data-sentiment="risk" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>CoinDesk</span>
+          <span>2026-04-22 01:27</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://www.coindesk.com/markets/2026/04/21/kalshi-takes-on-coinbase-robinhood-with-new-plan-to-offer-crypto-perpetual-futures-the-information" target="_blank" rel="noopener">Kalshi takes on Coinbase, Robinhood with new plan to offer crypto perpetual futures: The Information</a></h3>
+        <p class="snippet">Prediction market platform Kalshi is moving onto Coinbase’s turf by launching crypto perpetual futures, aiming to capture the massive demand for digital asset derivatives within a regulated U.S. framework.</p>
+        <div class="meta">
+          <span class="badge entity">Robinhood</span>
+          <span>score 35.46</span>
+          <span>@Helene Braun</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 19:05</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFB0b3VXVDRIRjZNWUpnclBEVEdDOUR4aUYxd2dNTXBOVmMtSjVkU1RJdklTUWk1T0lxekU0UXpYd282c2VMQzUyWjFMMnRKbGZvSTJfdVZ4ZE1tMzhYQTA4MXhnenJmdE9oT0pWZVRkWXE?oc=5" target="_blank" rel="noopener">Tether Mints 2B USDT on Ethereum - blockchain.news</a></h3>
+        <p class="snippet">Tether Mints 2B USDT on Ethereum blockchain.news</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 35.19</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Circle|USDC|Stablecoin" data-sentiment="positive" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-21 17:32</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/Coinbase/comments/1sriowr/money2020_europe_just_dropped_their_stablecoin/" target="_blank" rel="noopener">Money20/20 Europe just dropped their stablecoin panel lineup and it&#x27;s about what you&#x27;d expect</a></h3>
+        <p class="snippet">Money20/20 Europe just dropped their June agenda and I counted exactly 6 stablecoin sessions out of 147 total. That&#x27;s 4% of the program. Down from 5.2% last year in Amsterdam according to my own notes, and yes I&#x27;ve been tracking this since 2022 because appare...</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span><span class="badge entity">Stablecoin</span>
+          <span>score 34.87</span>
+          <span>@/u/BatSad3439</span>
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="USDC|Stablecoin" data-sentiment="positive" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>Cointelegraph</span>
+          <span>2026-04-22 01:16</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://cointelegraph.com/news/nium-taps-coinbase-to-bring-usdc-into-global-payments-cutting-prefunding-costs?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Nium taps Coinbase to add USDC into global payments network</a></h3>
+        <p class="snippet">Nium integrates Coinbase’s infrastructure to enable USDC-based cross-border payments, allowing businesses to settle in fiat or stablecoins without relying on prefunded accounts.</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">Stablecoin</span>
+          <span>score 34.37</span>
+          <span>@Cointelegraph by Nate Kostar</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 05:42</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNWThCeWhzNWtRU2tIT1I4eW1fZXBoSmdsSy1ZSURrMWJ1dHhCYkZZaGhwOG5WWG1MZkFpenA2aHJhN2c5ZHpSUEx2NFU0UlZ3TEFtaWF3NVEtMEswOVlWZzh4QmwzS2VfQmVDSDNaaFVGdjRiUHNrOXc5WDBzUkdncFJ5NzlQbjNXc2Q1SWJhQ0E?oc=5" target="_blank" rel="noopener">Nium Brings USDC Settlements to 190 Countries - CoinMarketCap</a></h3>
+        <p class="snippet">Nium Brings USDC Settlements to 190 Countries CoinMarketCap</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 34.32</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 17:36</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTEFsaWFBY2lKRnZxQ1htck1MSWNpU2R0anhDeG0zZ245eGc0VkIxdjV0QXZRZHBSU0w3am5Wc0FrT3ZmMzJNU1ZwQmItSmxsNlBrNEpwdG93b2czT0UzOXBPMm1QRVFkalBKWVp4Y21uNmYxMERIUFA2QXRVMlJIeWNKXzhTZ1h3SjhWZmpCQmRQbTZxYUFhZE5yZ1FBNi1BbTFUY1hDSEc?oc=5" target="_blank" rel="noopener">Tether Treasury Mints 1 Billion USDT, Impact on Southeast Asian Markets - Intellectia AI</a></h3>
+        <p class="snippet">Tether Treasury Mints 1 Billion USDT, Impact on Southeast Asian Markets Intellectia AI</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 34.26</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 05:14</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2x0N1A0S2l4MGZBYVFkSHF1eTlGME9WaEx6eHpaZ2lld053d0ZJZzkwRHNoUWU0eUs5VUE0MEVFeUQtcXoyXzZBaDlGbjlkdWwwdy1Va1p6UGoya2lYX1YxTmJFbmF4RXBSeFItZGZaZ0dTTEt6R0VmTXQ3M2pNOGFEN28zNGNQSXRNa3lVQlFCNzBwcXVMaUhPaFNwaWZ4OHkwT1RnVQ?oc=5" target="_blank" rel="noopener">Peter Thiel-backed Ramp Adds Zero-fee USDT and USD Swaps Across Its Suite Today - CoinCentral</a></h3>
+        <p class="snippet">Peter Thiel-backed Ramp Adds Zero-fee USDT and USD Swaps Across Its Suite Today CoinCentral</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 34.02</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 05:12</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWVzZnE1MjU0YXBxbDU1VU9oUHJYa1h0ZW5NX0d2Vm9WTE1HcFcyUzhOU1FUMC1RZmhraGVlUXNMT2h3NHdYU1hYMmxxVHJoMHNSV1RmWXhTMEdyYWpnZXIxQS1hbVRCcEV0ZmRLR2FlbU9pNThRUGRfY0M5aTFhVlhoVURnc1pFRFlGOWdmdjQ5YVFNSWpnQkFfU3RlS2lIWEdr?oc=5" target="_blank" rel="noopener">Hormuz Bitcoin, USDT Tolls Face Crypto Scam Threat As Hackers Clone Iran’s System - CoinGape</a></h3>
+        <p class="snippet">Hormuz Bitcoin, USDT Tolls Face Crypto Scam Threat As Hackers Clone Iran’s System CoinGape</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 34.01</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="USDT" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 20:39</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aRnNtcmp3TnFqRzlFMTdlY01zdmtRM2t4T0kwbDh4Z0Z1RmdaMTNZSU0wT052QTdsVzY4cXVhVHNpUk9qUG85eGoyOFRTUjJxNWN5NWFTTUNlZw?oc=5" target="_blank" rel="noopener">Security Company Warns! “Beware of Bitcoin (BTC) and USDT Demand in the Strait of Hormuz!” - Cryptonews.net</a></h3>
+        <p class="snippet">Security Company Warns! “Beware of Bitcoin (BTC) and USDT Demand in the Strait of Hormuz!” Cryptonews.net</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 33.66</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC|USDT" data-sentiment="neutral" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 05:35</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/giftcardexchange/comments/1ss1lnm/h_crypto_usdtusdc_w_70_amazon_gc_can_steam/" target="_blank" rel="noopener">[H] Crypto (USDT/USDC) [W] 70% Amazon GC CAN, Steam</a></h3>
+        <p class="snippet">Low reps go first due to nature of crypto and this is my ancient account. Reps over 100 with good account age I can go first. USDT / USDC. Looking specifically for Canadian Amazon gift cards and Steam cards. submitted by /u/Tartooth to r/giftcardexchange [lin...</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">USDT</span>
+          <span>score 33.4</span>
+          <span>@/u/Tartooth</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 03:52</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBySVhmZGhGQUVEcjRyajl5ejdSOVFkY21YT2RQSkpHUkVoSklaa1cxZGkzOVRhelZZeVV6bVkybENXZUREQkF1dTdLeDRIbUkwN0FMY1Fyelp1YmNla2NfbHgwdnNmcjV5a01MSmt3b1AyQ2N3Y0dOWnRlMEx0UTQ?oc=5" target="_blank" rel="noopener">Coinbase Partners With Nium on Global USDC Payouts - Blockonomi</a></h3>
+        <p class="snippet">Coinbase Partners With Nium on Global USDC Payouts Blockonomi</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 33.18</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 00:45</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxObUNjeXozdmFobGJ0QzBacjh1Sm45M0xMbzc5NC1JN3RpYTF2dW9HRDBRdUc1UmxEWkh3dEQ1QW5HU3VQc2s3ejhUZFB5M0lzeVBUSG1tTGs1andBbmcxQlB2V1YzQXdJSUpia2xWZFFFX0lydm1FZWZab0I5bjRIUjE2aVhfem1JblJJaHRpTGtOeEZIN0pPSXRMeW44WUZuN3c?oc=5" target="_blank" rel="noopener">Coins.ph Launches First Stablecoin QRPH Payments Across Philippines - Live Bitcoin News</a></h3>
+        <p class="snippet">Coins.ph Launches First Stablecoin QRPH Payments Across Philippines Live Bitcoin News</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 33.1</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 03:30</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNbWctT0F6cHY0N0ljQmQzZVNyUG1YV1FXcTFpcFh0OWhEbE95VTdiM2FaZUxhUjBkLTdCRHZlSlBfblQyYWJSV0szS2p2WUViakVGUFdMakp4cjdmVHFvWF94TExHSkplOGdvNlQ5RWVSRUdMeE5EdGNWSjhrX1M1Yl9rMFUtTzU2QXdVN3VCeGNmdlJSX0xqM0dqTjFCTkNhbHc?oc=5" target="_blank" rel="noopener">Coinbase and Nium Bring USDC Cross-Border Payments to 190+ Countries - Live Bitcoin News</a></h3>
+        <p class="snippet">Coinbase and Nium Bring USDC Cross-Border Payments to 190+ Countries Live Bitcoin News</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 32.95</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 16:01</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDJOWmdGN1l3bDFUV0ZwekN5OGlxYUFSOFlNaVhiSUZuMjFMMkVXSFVuNURSSXVkY0t6TXVINEJCWkRQN0prOHBZaS1KMDdod2dFdEV3NHQ0eHQtMmtRdnhKZDBPajlpdEV2WlUwOV9YOWFrZ0x0aDV2NVVHMVFUN0FicUxHTW5XTDdnbmhWQmNwelkzenF6aVd3dHl0cl91cnItX3dCLW04RHF1S1lHR21lZHM0aTJD?oc=5" target="_blank" rel="noopener">BurjX Expands Stablecoin Infrastructure Under ADGM Regulation - PR Newswire</a></h3>
+        <p class="snippet">BurjX Expands Stablecoin Infrastructure Under ADGM Regulation PR Newswire</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 32.64</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 02:50</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOUoxSmoxZjhoaUxyX2Z5QzNvNm5ZSVkzcTAtUmkzMVJFNTJkTkFlSlc5dkJ3Qm9RVlg5VHdxbndVQnZiX19KT29pWWtXbG56ZzBFYUhFWW1jdjgtM3JoenlocnJfNFktV2lvUkRwSHhwdXE1UlVIZmVDODR6d0FqSmZMcElGOUhOdktzMVlicmp2dElFWUtyMFZLb3Bxcmd3SXJnWUh0R2xsTTNrZ2JnRjVDWUVwY19Dekg3OXM4VFJOWjdSdzNjVWdjcFREY1Fnb2lN?oc=5" target="_blank" rel="noopener">Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product suite - The Block</a></h3>
+        <p class="snippet">Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product suite The Block</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 32.53</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>CoinDesk</span>
+          <span>2026-04-22 06:45</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.coindesk.com/news-analysis/2026/04/21/crypto-s-great-hope-in-senate-s-clarity-act-still-has-a-path-to-survive-tight-calendar" target="_blank" rel="noopener">Crypto&#x27;s great hope in Senate&#x27;s Clarity Act still has a path to survive tight calendar</a></h3>
+        <p class="snippet">A sideshow stablecoin yield debate has dragged the market structure bill through months of delay, even as the Senate&#x27;s available floor time diminishes for 2026.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 32.18</span>
+          <span>@Jesse Hamilton</span>
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 22:00</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUVaM1RLS1YyYUtGOVphNHZLM2N5R00yaUg5TGRjY2t1LUZ6b3lTRF9EVkZReE9iVEFWV254a0RCa0FNUDQ3ZkJ4REJZdURQMlZwMzlYRnV1MHpmb2pVd2xCYXBic0ljcTh2WFJyOF9vMVhJN3BGWVozZ0lCUmNnWXpVSnE3WXc1UWh3UGpueUVmeU11UUNmUlVyMA?oc=5" target="_blank" rel="noopener">Nium Integrates Coinbase To Expand Stablecoin Payments Infrastructure - FinanceFeeds</a></h3>
+        <p class="snippet">Nium Integrates Coinbase To Expand Stablecoin Payments Infrastructure FinanceFeeds</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 31.39</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 01:23</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/solana/comments/1sruflw/tryramp_a_financial_operations_platform_now/" target="_blank" rel="noopener">Tryramp, A Financial Operations Platform, Now Supports USDT On Solana</a></h3>
+        <p class="snippet">Source: https://x.com/solana/status/2046631589606723861 BREAKING: @tryramp now supports USDT on Solana. https://preview.redd.it/jemkjhk5vkwg1.png?width=680&amp;format=png&amp;auto=webp&amp;s=e0f7022ff6b5559a79645b1e92a40470d9501bc4 Source: https://x.com/0xDaedalus/status...</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 31.3</span>
+          <span>@/u/ansi09</span>
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 16:51</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnhIUzlUMHE5YUx6UW02QUo1SmF4dXYzTHNSY2xOUl9wZUZNd2I3aklhdm5mMWtibFlxMW9tVV9yVWVXZ1NjNEtvVm41WHh6Y3RqYkxYdmRvTm9sZU1ISklXcVEwQ2hVc2RnOThnSlhFenFELUFwcXp0TkF5amo3OWlQdl9SeXhINEVjS3V3OHpKeDQ?oc=5" target="_blank" rel="noopener">European banks pick Fireblocks for regulated euro stablecoin project - crypto.news</a></h3>
+        <p class="snippet">European banks pick Fireblocks for regulated euro stablecoin project crypto.news</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 31.28</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 02:12</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/cardano/comments/1srvw13/anzens_partners_with_credit_bank_to_bring_usda/" target="_blank" rel="noopener">Anzens Partners with Credit Bank to Bring USDA into a licensed commercial bank&#x27;s cross-border settlement services.</a></h3>
+        <p class="snippet">https://preview.redd.it/6pqmod964lwg1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=8deac4eeebe5bad7c28d9744685c4338f2866410 New in Kenya: Anzens, Credit Bank, and Yeshara Tokens are aligning to bring USDA, a regulated, dollar-backed stablecoin, into a licensed comme...</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 31.21</span>
+          <span>@/u/Freeme62410</span>
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 02:00</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/RWATimes/comments/1srvia2/uk_tables_stablecoin_carveout_from_crypto_regime/" target="_blank" rel="noopener">UK tables stablecoin carveout from crypto regime ahead of payments reform</a></h3>
+        <p class="snippet">![]( https://ledgerinsights.com/wp-content/uploads/2025/11/pound-digital-currency.2.jpg ) The UK Economic Secretary to the Treasury, Lucy Rigby, has announced a package of fintech measures including several that cover tokenization. As reported Details: - Publ...</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 31.1</span>
+          <span>@/u/rwatimes</span>
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 21:32</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5BNjBpb1JvNUpZR20zNzZjSkhWOTZ2TU9uTVp3WktkUkZ6WHE3NHpqRkhDMTVycmJ0ckdHaUdQTW95Y00xUWI0bGpJSVhBRHpmN3lKTmNrR0xqbU4teXlXNi1EbDFwRFp5RllRVzF5YnhJVWdDTUFVM3U1UDctQQ?oc=5" target="_blank" rel="noopener">European Banks Announce Launch of Euro Stablecoin - ForkLog</a></h3>
+        <p class="snippet">European Banks Announce Launch of Euro Stablecoin ForkLog</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 31.09</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 00:27</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE96UzlVOFVYMzZNcXJPUTc5b0d5MUZHZXJJcFFfSVJzM3hDaGFkUGFWejNaeWhxN0tHNFdtV3N2U2Ric05QM1FaT2RzdUVHWTJWclZWRk8zVmlncTNWLUVGQ0FNNTViQjhZek44bmxB?oc=5" target="_blank" rel="noopener">N3XT Debuts Tokenized Dollar As Stablecoin Race Intensifies - Yellow.com</a></h3>
+        <p class="snippet">N3XT Debuts Tokenized Dollar As Stablecoin Race Intensifies Yellow.com</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 31.04</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-22 00:10</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE0yVFlmd01rQmN4S0p2RDM3TFBZc2cxM3EzVjMzMWllaWRrTUNEVXg4QnBocGFDSmFlVEtQVU9XWkU4RzhmcEV0Vk54UHZpR2gxTEJEM2tLTkxqQnFjcWhtd0NsakhlSG1leWdZ?oc=5" target="_blank" rel="noopener">Tether Printer — Indicator by ralis24 - TradingView</a></h3>
+        <p class="snippet">Tether Printer — Indicator by ralis24 TradingView</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span>
+          <span>score 30.86</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="USDC|Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 09:00</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiqAJBVV95cUxPZUpDdU5WSU91QXFMb1UxUG1PUUR0TWRISGJRd0pkdVkteU1nS2NPbk9velQ4V2NEQzBwY3Q3QUdUS0VSM0NHNWpPOEZ0ZTlJbUd5dE9sYmZsOUZEcGwzLVRRUkQ1eXV6S1pUeUV4M2ZPTUxEY1FlTks2RXdiV01TbW9QdHlnTU5rcWpqTEJpOExBdTlkSWxLZG91OENNaW44emtQU2hEY1Q5QjBPcGs5dmpWenV6YzFyUURSN3gtdG5CSzVZYmdCT1FmZXJxX0VJUDN5bUYxTlVCM1ZRQ1RQZ3pmYWRpRllIbGd2RUFZamJvdFNrZXhuNEdHbGtqUDVvWFhGa1RuMXQ4OWcxNHVfbGV3c0pwWEl6TDUzUFFQZ1lXZV83Q2xsWA?oc=5" target="_blank" rel="noopener">RedotPay Integrates SUI and USDC-Sui to Enable Seamless Stablecoin-based Payments and Global Payouts - The Killeen Daily Herald</a></h3>
+        <p class="snippet">RedotPay Integrates SUI and USDC-Sui to Enable Seamless Stablecoin-based Payments and Global Payouts The Killeen Daily Herald</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">Stablecoin</span>
+          <span>score 30.75</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 20:44</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ1pVM28yM0FMQmZyOWdUQVo5ZVdlV2dRdXl3OE9PR0xTakU1eWRQdGJ5QUR0RVlITDFFeG1xLWd6YmkzMDFRci05QU1jcmFuZ0VqNV9sVm1yRUthbE9tZVd3NVRYd0JlalJrUkZycjNxM2ZRYmZIbVlPQy1OMlFvaExhVTBYYVNmUEhiTnBXMGhrQQ?oc=5" target="_blank" rel="noopener">UK Treasury to integrate stablecoins into payments framework - Crypto Briefing</a></h3>
+        <p class="snippet">UK Treasury to integrate stablecoins into payments framework Crypto Briefing</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 30.59</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 23:43</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1NJZ201OTFyNDVCaFUzSjg5X014QTVMc19qYV9lMVE1UzB2RzZqQ1ZRTjM4NGd1SnFtRzFuN1lMWk91TVUxbVU2bmM5QzFZVXFBRVJsb3dQS3hBRnVuMURQV0lhVUx0T09ZSEE0WnoySENsS3JXRU9aRG40RGNrMG81TDJmVi0yVDV6a0lSQlRKcGViZTBxRmg3eUQtYVEtejFCcTkzR0JzUW0ySFV6TQ?oc=5" target="_blank" rel="noopener">UK to overhaul payments rule to push stablecoins into mainstream finance - Invezz</a></h3>
+        <p class="snippet">UK to overhaul payments rule to push stablecoins into mainstream finance Invezz</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 30.58</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="USDT" data-sentiment="positive" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 08:42</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/BitMartExchange/comments/1ss65da/invite_friends_and_profit_from_information/" target="_blank" rel="noopener">Invite friends and profit from information together.</a></h3>
+        <p class="snippet">​ 👥 More invites → higher rewards (up to 200 USDT) 📊 Streak predictions → extra 20 USDT Better to earn together. 👉 https://www.bitmart.com/predict submitted by /u/BitMartExchange to r/BitMartExchange [link] [comments]</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 30.46</span>
+          <span>@/u/BitMartExchange</span>
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 20:15</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1ZXSkh0NWVuYkplMWFxZ05YUmVia0NubkpVUmJuNkkyNThVRHFqdFh1YlEyWFFiVzZJc0N3MGJOMFZGNXg5Tjdyc2RENndfWmQteXN3aWxOQnQ1STFOcGdVVk5Eb1cyNGFLVDVyQXBHQXZfdWI1dmV1cEF5bDBBQ0FpTlg1OEpXM25LTVV1Y1dRWGNQbnl5aWFJSUlzanZyeVlrdkRvdGc2T0wxdkVvUm1qQUdab25LV2tNV1A5STJodw?oc=5" target="_blank" rel="noopener">UK sets out plan to integrate payments rules covering stablecoins and tokenized deposits - The Block</a></h3>
+        <p class="snippet">UK sets out plan to integrate payments rules covering stablecoins and tokenized deposits The Block</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 30.28</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 23:06</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1d2Rmh2cDVWak1fai1hUTFGTS1LdDg5UnNncmhLemVkNlh5c3NIdVN6M01pTDZ5S3ZEMUMtX3NLR0YwRHBqWllUSm1XanhRYlpMV25YUDdybVdPM3NVN3lTWFp0b2U3UHNaMVNvaXlEN21rbDVpMDNCdzYya0Ribm5MU1VRN1FqX0E?oc=5" target="_blank" rel="noopener">USDT Now Live on Solana, Plasma, and Ethereum With 1:1 USD Onramps and Offramps: Privy and Ramp - thedefiant.io</a></h3>
+        <p class="snippet">USDT Now Live on Solana, Plasma, and Ethereum With 1:1 USD Onramps and Offramps: Privy and Ramp thedefiant.io</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 30.19</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 23:00</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnVnMFBLWWR6V2xPTS05aHZwbGNXWGhrMHJ4R2wzUjVOMEx2Y082cXJRa3I2bjd0R2dzcVloU3VtZjYyeFhyMEstLWcxM3lIQV9CWm5WQkJhemVQd3c1WV9abHVSQm5QU013M1k0enMzZ0FVblZHY3JoYm1MV3FHUzkyYkFOeFhtQXhuTW4zWWNIOGtabWh5R1RNc1ZxZjBjWFp5MHBwQUxkZ3BGTndFa2pKSTlKTEQxR1U2U19ubHhRRzlNMTBiSTFR?oc=5" target="_blank" rel="noopener">Adrian Wall of DSA Advances Stablecoin Policy Discussion at Blockchain and Fintech Conference at Harvard - Bitcoin News</a></h3>
+        <p class="snippet">Adrian Wall of DSA Advances Stablecoin Policy Discussion at Blockchain and Fintech Conference at Harvard Bitcoin News</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 30.13</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 22:58</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Dc0VyV0M0R1lNcV9aTGxYZmlDUkZ2SGhMMWxtRm1JU1ZER0pabXVoRTVNYjlENFhvb21XcXZZZ0dzRG9Jb1VycQ?oc=5" target="_blank" rel="noopener">USDT Supply on Tron Hits Record $86.7B - MEXC</a></h3>
+        <p class="snippet">USDT Supply on Tron Hits Record $86.7B MEXC</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 30.11</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 22:44</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOMXpQajZaalNabjBTQVBIa0JLcm53dHFpdG8tM1BacmhESzlOTHJ4UTJDTTBKYkpfNWNCYm50SWJsMy1vWEs2X0toTDRFdHdHVXcxWGNjN1BZS19MT2NULVN2QkotWHhHMWhKV3ByY2xUX0NVMms0S3dnb0piT0RMVVJaSVNJN0U?oc=5" target="_blank" rel="noopener">UK Moves to Regulate Stablecoins and Tokenized Deposits - CoinCentral</a></h3>
+        <p class="snippet">UK Moves to Regulate Stablecoins and Tokenized Deposits CoinCentral</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 29.96</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 22:06</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOUE2YXVkelJ5YjdkRmdjSWF5T0NnVXN3eGNubExPaUd2cXFlZ3V5bHMzeHpCTGNyTXpDUUV6MWFNTTN3S0huQWEza3B3WnZpdDJmRWQ0a1lud0Vyd2d6WkJVa25vaUdKdjVSUi0xckpRUnU2V0tCeENqOUpnRE1MZnRMcnRqa3M4SHFobVFRLXkxZlRjZTFNaHdhUFNSWUpRTmsyT2tZOEpzNlZ1QUl3a0tob3laZXBtakNjSTdOR2dKMldBcmUwZA?oc=5" target="_blank" rel="noopener">UK plans payments rule changes for stablecoins, tokenized deposits - TradingView</a></h3>
+        <p class="snippet">UK plans payments rule changes for stablecoins, tokenized deposits TradingView</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 29.57</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>Cointelegraph</span>
+          <span>2026-04-22 04:00</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://cointelegraph.com/news/doordash-stablecoin-payments-tempo?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">DoorDash to offer stablecoin payments to users via Tempo blockchain</a></h3>
+        <p class="snippet">Tempo announced the integration of ”stablecoin-powered payment infrastructure” with DoorDash, Stripe, Paradigm, Coastal Bank and ARQ.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 29.51</span>
+          <span>@Cointelegraph by Turner Wright</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 22:00</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVRkRHFxdWxFQ1htaGtva001YVB5YkRxaUh4eUN3RWZVMmdOLVFVaVdwMFZzU2tzUE1TLXFLTXJ3WUN5d0hoSnRKSFFzaFJoc1lReUZBYXBPTGpmRVZvTU9jdEdiS1hSU1NCVHMxTzE1ZkRCTFlQWE00WlVoay1tQk0zQk13c3ZiZVdQczNXZDRaUm9nT0piWVJEZkdwejBLZGc?oc=5" target="_blank" rel="noopener">Nium and Coinbase partner on global stablecoin settlement - Finextra Research</a></h3>
+        <p class="snippet">Nium and Coinbase partner on global stablecoin settlement Finextra Research</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 29.5</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 21:41</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0lPLUd4SUdDMGlXN0tpcGdIMk15UFdnMk93c2FkUFpCYXU1VzdMZnlqSUNEc3Q1aGRzS1lIbDg0ellxbkF2MVhJS0FkMWZfWm5sU2JYVTNMQXhRZ1ItYkVXOTdXclRQMlJNZndNSl9zMV9tUVRTcGRLNFBSTDZrYkxsTF80Q3ZHeDAteS1TNEtjQ3JDamJLV3ZqVmpXbjFUTXZ2Ry02dXBSY3pXS0FXTXVQUdIBuAFBVV95cUxNTEJ0SGpHUEdhYTlKNEtvcTlaT2ZQc2RfNGd5T1NURjcxVXdGY2djaVdjdzFNNTlJZmVKdlFUZzZaZmhzdkxXTG00NWRZTGtfc0o3QVZEUkZZV2FpdEtZOHhsWnNxWkxSU0xPWkZhd1NBYXY1YXVwcWJWX1dGZmRsZS1YTWRxVVVXRDdpWGYzM0FWZFhlX1RvR2JDTzRMQ21UZDdzWDNqdmtPeEdXeFNTcG1FSTVrTGJz?oc=5" target="_blank" rel="noopener">CLARITY Act: Tillis Pushes Markup to May Amid Stablecoin Yield Dispute - The Coin Republic</a></h3>
+        <p class="snippet">CLARITY Act: Tillis Pushes Markup to May Amid Stablecoin Yield Dispute The Coin Republic</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 29.3</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 21:02</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0gweDFHVDdNTGNDZzg2YUo5dWF1cEtDczFlZTNYZFNIRmJlTzd4ZlBQRjZOZWlGVzZPVTRqaExsaFFWU0F3VFVmbng5ZDduZVV3SnJJMkMtZkxLdThNWk1DNXRITXdsMVkwYWRwb1gzZFYzNjdaVDhNUHp3RnI0Umw3VUVLb3k1V3BPeWlZLXVRZjRhTVVXSmJEUUhWR1dVdFhiYzJ2dlFUSVlJUXFBcjRB0gG6AUFVX3lxTFAxcUFjTFpXbnpZYTRBWWt5Qzl3eE43RXhyeFdFeDlCd3Q3UUhwa1pRLWU0RG1PclE2V3lUU011azM3RVAyaDc0M01SSnBUMWZXVFk2Rzh6eHU5amtwaDZ0OXdhamVtX1hWT0t1cmtqYzd4c3I1MTR4NE0zcW80U1dmV19tZnJreXBQWVA2SExHRE55My14VzlaUXp1RzhWekpDS25kQWJFOWN5Ni1fSllEeVlUOHBuZ21DQQ?oc=5" target="_blank" rel="noopener">Bank of Korea&#x27;s New Governor Prioritizes CBDCs Over Stablecoins in First Policy Address - Decrypt</a></h3>
+        <p class="snippet">Bank of Korea&#x27;s New Governor Prioritizes CBDCs Over Stablecoins in First Policy Address Decrypt</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 28.9</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 21:00</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxOejlmWnFCTkpLTnhrQkZVRjMxV3VmeGttM0NKa1FrekF0OTV6ei1BQm16ZDJHVVBSeFEweG91RnA0Z0ZQS0tFWTgwTDZCOFBwbGRtYk5XSjBNMjlPM1BZTU5mUVI1THVmdUc2N3lXVG5ZQVFEenNTUEFwLTBzLThmbW5mUXM3Mi0wTEFWLWxSaENZRzBueWtCVEk0VmFQam8yb2RxMFA3VndyNmVIT2NCNHZMWDhwWmVfeS13RFhZVnV3X2VDYzh1bi1rQUk?oc=5" target="_blank" rel="noopener">Nium and Coinbase Partner to Power Global Stablecoin Payments and Settlement - PR Newswire</a></h3>
+        <p class="snippet">Nium and Coinbase Partner to Power Global Stablecoin Payments and Settlement PR Newswire</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 28.88</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 20:37</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjJSMXNvX2VDbEpYcVdkQmtGNnBQbHJheDZaa1N4b09vQ000blFDVVVWMUNBWkxFek9lbWJNdFl4VlJ2aEV5LTFnZ2U3SnY3ZDRUSk9nN3gtbGpnRXBrRWJMSmxtdm4yV3JRYzE2QmZmOHF4ZVF0cGJ2Q1lJWVdWRDhJLXRnNHBnS3FnUGI2eC1iOGlLV3hSNUtvdEhwc0RxNVF3SGR30gGuAUFVX3lxTE1LVmI3WHhPdS1ScUtsWE94ZE92Q0hKblhCb01qZEh1LTVaZDM4UkZIRUJURzJqcHhxcWtONi1MbGp1TnhUVmowdjhNdFhnal96NU5HanBNZVNWekNib2xkeElLekx3aUVOQW16a2xsaG1BNW51VFg2Q2dNRFZQb1lNT0hFNUplZ0xPZ3RYd2RwelF5N2cxUXY5RWNET05OUlNYbzQ0LUV2ODVydWNIZw?oc=5" target="_blank" rel="noopener">Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report - Decrypt</a></h3>
+        <p class="snippet">Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report Decrypt</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 28.64</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 20:14</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWZyN3cyNDBwZ3FLVzhtV2N3bTJBa3BZeVUza25iTUhnUEFJYkJwalpnM09HcGNONXczeFZnUUlyd0dhU0pMWTk5Y3pkSkJiOHJhX3JhVHpWdlNLNnpieXlWQV90RGFmRmpHZUxrbzJkb0g2NTd2UHlDNl9BakMyRFMyamI5eUYwTFdqZFRmMUJXUUpfX3RlV3pnUTFIQTVmdzlIanRUQ3kyTmlyZzMyQzI5YmllS09IRlE?oc=5" target="_blank" rel="noopener">KAIO Raises $8M From Tether, Systemic Ventures to Tokenize Institutional Funds - CoinGape</a></h3>
+        <p class="snippet">KAIO Raises $8M From Tether, Systemic Ventures to Tokenize Institutional Funds CoinGape</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span>
+          <span>score 28.4</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Circle" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 19:34</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtdFQyNEl3Tk4zZWtreVZTRFVndTFwNDRQV3JSNjRodTJqRm5zTTNEN3hPdnIwTUFQeWNOVm1CWVVKblY0aVdDTw?oc=5" target="_blank" rel="noopener">Circle Stock Price Forecast After New CLARITY Act Update - MEXC</a></h3>
+        <p class="snippet">Circle Stock Price Forecast After New CLARITY Act Update MEXC</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span>
+          <span>score 27.99</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Robinhood" data-sentiment="neutral" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 06:35</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/tokens/comments/1ss35d6/kalshi_takes_on_coinbase_coin_robinhood_hood_with/" target="_blank" rel="noopener">Kalshi takes on Coinbase (COIN), Robinhood (HOOD) with new plan to offer crypto perpetual futures</a></h3>
+        <p class="snippet">submitted by /u/up-boated to r/tokens [link] [comments]</p>
+        <div class="meta">
+          <span class="badge entity">Robinhood</span>
+          <span>score 27.9</span>
+          <span>@/u/up-boated</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Circle" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 18:56</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1BYYm5KZ0RPS3EwVkkwd25iTC1JMGFJV25JZV82Y0FNUHlFcW9zZEFmT2J5Nm1pa3oydmZuRjdZSFZPOEltSWpHWDBLNkpyYjJvMy04VjlpbkhDcFUyRnBoOHdxNGQxa0VIT2JoQktWcF9vWUdMWTJCS1JYem5MMExZWHI0TkVHOUQwbkljaVo4OFRZSnR6N0Z0dHJTeVBRTEpB?oc=5" target="_blank" rel="noopener">Compass Point Just Downgraded Circle (CRCL); So Why Is It Still Among the Best Ethereum Stocks to Buy? - Yahoo Finance</a></h3>
+        <p class="snippet">Compass Point Just Downgraded Circle (CRCL); So Why Is It Still Among the Best Ethereum Stocks to Buy? Yahoo Finance</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span>
+          <span>score 27.58</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 05:51</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/BASE/comments/1ss20sk/why_are_we_still_closing_crypto_deals_on_telegram/" target="_blank" rel="noopener">Why are we still closing crypto deals on Telegram?</a></h3>
+        <p class="snippet">Every crypto deal I&#x27;ve done in the last 2 years followed the same broken flow: Negotiate on Telegram or WhatsApp Agree on terms in chat Copy-paste a wallet address (and pray it&#x27;s not malware-swapped) Switch to my wallet Send the tx Screenshot the hash, paste...</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 27.53</span>
+          <span>@/u/rvwvb</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 18:37</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHlJSmZhX3pxRjVnclhfQjVCQXBTRW1fNVpZdEwzaV9hV0cwc1NfSDEwMG5tUVBJcmNrcGNFbENGLTR0dmVwclhldWl5Q1NsU0k2dndBUHNWR2s2RkdQdHRJMUNiVTRfczR5NUZXbTI3VHlKcG1RM2JaeEo0NUt6WFNiOHVxaEM0N3NLTnAtcmJxX1dGZ0lV?oc=5" target="_blank" rel="noopener">CLARITY Act Faces Delay as Banks Push Lawmakers on Stablecoin Rules - CoinCentral</a></h3>
+        <p class="snippet">CLARITY Act Faces Delay as Banks Push Lawmakers on Stablecoin Rules CoinCentral</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 27.39</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Circle|USDC" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 03:36</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4VFNpakJlWlppalFIX3R2OW1Ha1VtdWk2N3JiV1lXOXVwbUJQdHNwX2JxTkJYZ3kyTmZlR3NOdGdGZmNNNVFvbF9Cc3daZkFhR3E3VV91MDBic29vYUHSAWNBVV95cUxPUjNRMV9tclNCTHRxYTJiZXdmcUg1dDlzZlc4WHdLcm5FZVhOVFIxUXdDYkVpVVVRdTBKUmhsNUZybUZxbzlubmk0R2JZRk5lb21FdjdlVWYwRVhIZnZwOUpkc0E?oc=5" target="_blank" rel="noopener">Circle Launches Solution to Simplify Cross-Chain USDC Transfers - Bitget</a></h3>
+        <p class="snippet">Circle Launches Solution to Simplify Cross-Chain USDC Transfers Bitget</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span>
+          <span>score 27.38</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>CoinDesk</span>
+          <span>2026-04-21 22:18</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain" target="_blank" rel="noopener">DoorDash is bringing stablecoin payments to masses with Stripe-backed blockchain</a></h3>
+        <p class="snippet">The delivery service is working with the Stripe-led blockchain firm Tempo to bring stablecoin payouts to its global marketplace, replacing fragmented regional rails.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 27.32</span>
+          <span>@Krisztian Sandor</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 18:04</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXh6QmM2R0hVMkhpTGFiYk92Tl95aTJOUlVOOXNYS3VNbkNScFRTZVl1SW1ENllldzFUV0p5UmNnZ2hDLTctNzlTcHBkVkg2blFRZGFjdDJqa1pROG9ETnlGUWxLZGx5eXZUcmRMTWxVaDEyeTQ0S01zZVEzbERsUjBYNFdsZw?oc=5" target="_blank" rel="noopener">Stables and Mansa to bridge Asia’s 60% global stablecoin flow as banks sit out - CryptoRank</a></h3>
+        <p class="snippet">Stables and Mansa to bridge Asia’s 60% global stablecoin flow as banks sit out CryptoRank</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 27.05</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-22 01:45</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/RWATimes/comments/1srv1yw/uk_to_tighten_payments_rules_for_stablecoins/" target="_blank" rel="noopener">UK to Tighten Payments Rules for Stablecoins, Tokenized Deposits</a></h3>
+        <p class="snippet">![]( https://academy-public.coinmarketcap.com/srd-uploads/4d98262b95ab42a5895a73e93b6be156.jpeg ) The United Kingdom is revisiting its payments rulebook to support the adoption of new fintech and payment technologies, including stablecoins and tokenization. I...</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 26.98</span>
+          <span>@/u/rwatimes</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 17:51</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTFBpdWIwdUE3VlMteGN3RjIzT0Z3TjNuYWJVMUdFU1g1SXVqN1piZGpKMkNkOWpxd0RxcWFqZlQ0dU9ELWNzUHhZdFdPbEJ5bHREYkRNRmY0SmlaYndqeUZKSjNxcWdBa2FwWHNFRWdVUXZsNEVUR2kzZzh3?oc=5" target="_blank" rel="noopener">The global battle over stablecoins heats up - TheBanker.com</a></h3>
+        <p class="snippet">The global battle over stablecoins heats up TheBanker.com</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 26.91</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 17:45</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQTU1RldIWWVWNTQ4SEpWOXc5bVVlRDdVeTVvUFlZYU9obHRxZG53UWs1NV9yVkZJRGkwTmF2Y1dnRDNkMmdyLXFWUnVteXFINWJrSURhVmNZNFptTVpsQ3hQaDgtNGdjWGc?oc=5" target="_blank" rel="noopener">Nium Taps Coinbase to Expand USDC Payouts Across Global Network - Fintech Singapore</a></h3>
+        <p class="snippet">Nium Taps Coinbase to Expand USDC Payouts Across Global Network Fintech Singapore</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 26.85</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 17:42</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5fLTJVcV95bmRBTlBUNWI0MnpDNDdLckNTLURjbWd6MUJBLXQ2NG5QbEE4RmFqY01mdUF4ZU92ZG4xRFNEMGZDU3U3TEtrOTI5OC1XUnNRQmQ5MDVJZmFPeWhEWTl6WGMxQXNDamlQWWE1dw?oc=5" target="_blank" rel="noopener">Twelve Major Banks Back Qivalis Euro Stablecoin, Tapping Fireblocks For Infrastructure - Yellow.com</a></h3>
+        <p class="snippet">Twelve Major Banks Back Qivalis Euro Stablecoin, Tapping Fireblocks For Infrastructure Yellow.com</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 26.81</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT|Stablecoin" data-sentiment="neutral" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-21 15:36</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/Tronix/comments/1srgrdt/new_usdt_supply_record_on_tron_coincides_with_trx/" target="_blank" rel="noopener">New USDT Supply Record on Tron Coincides with TRX Yearly Hig</a></h3>
+        <p class="snippet">On April 19, TRX nearly hit $0.34 in trading, marking its fifth straight yearly high in just the past ten days. Tron&#x27;s steady market cap climb came right as USDT supply hit a new record. By April 19, the total amount of dollar tokens on the blockchain had rea...</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span><span class="badge entity">Stablecoin</span>
+          <span>score 26.4</span>
+          <span>@/u/tornavec</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 16:43</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGJaNXFkamtXdktsQVlwQmM0ZHctbjhkaVJ5THd5N0VYRTU0emFYWHpQNk5sTV9BcmtWaTUxOVg3dDFBMUZIbU9Scmp5aGxqUWlDemdySHB1RW15bEpCOVBOWVE1VEVtMkNsTU81RmE4YW9HazY1MWx0bmpNTldIX0NtSkJnUlI3NjRwQUZNSmJrTkhQU3lwajNuRnJqOVFvY0c3Sg?oc=5" target="_blank" rel="noopener">Hong Kong awards first stablecoin licenses to HSBC and Standard Chartered - Elliptic</a></h3>
+        <p class="snippet">Hong Kong awards first stablecoin licenses to HSBC and Standard Chartered Elliptic</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 26.2</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-21 23:54</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/CryptoFlowAnalytics/comments/1srrtqy/cryptorank_the_largest_stablecoins_by_market/" target="_blank" rel="noopener">Cryptorank: the largest stablecoins by market capitalization launched this year</a></h3>
+        <p class="snippet">submitted by /u/PulseofCrypto to r/CryptoFlowAnalytics [link] [comments]</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 26.06</span>
+          <span>@/u/PulseofCrypto</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 16:00</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVlNNzdJLVJWMzgzb2dZbHFHS3RnU3RyNi0yX2Q4U3VhUzBtYkZVX2ZoNENYcGFTMjJhZmRmdGxnTWpTVlE0RVlzSVozc3k5UTRXVnJCODdSS1RCWFBwbjVZRUZadnVuei1KYlV6a3FpNHlXZHVzbFF5SkE4RGpHMTRiUi1Xa0JNOERHMThNYmp2TGl0R21KbGo3LWNjZGJsYktXTzctemw0OTVSUjlF?oc=5" target="_blank" rel="noopener">A dozen banks want a euro stablecoin. Fireblocks is making it happen - CoinDesk</a></h3>
+        <p class="snippet">A dozen banks want a euro stablecoin. Fireblocks is making it happen CoinDesk</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 25.76</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 15:37</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXJGbUFvdnlsV1ZMZy1kUFh6OWZ0aUNlcldDdDd6d0phTXctREw0THB5RTBfbGtpUmhZTXpsV1I1bzBfSU5qVFBlUlVvc1ltaXNHb2JPREdVckVySnNrNjF1ZnBQS3JoblRWN09reFZmbUlUc1VabWQya3N0X1UzYg?oc=5" target="_blank" rel="noopener">Fake Hormuz clearance offers in Bitcoin and Tether target stranded shipowners - Cryptopolitan</a></h3>
+        <p class="snippet">Fake Hormuz clearance offers in Bitcoin and Tether target stranded shipowners Cryptopolitan</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span>
+          <span>score 25.51</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 15:03</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnpnVFV6V1lrSzl3WjBMSGthQnkwczZQTmpzU1Y0dFJjRExVY0ZhNnlXT0ZjY3JfcE1BY1NMQzJMVTJmZ2xSb3F3eHFMZ2t2dGZOSS1zdjd3Vk5pbEg3Q3FWMXYxcUx6S1ZaWHpBMzhVZ3VRSlQtbXhYTkg5V3NoOUV0cGtKZk4yM01QcEhpcw?oc=5" target="_blank" rel="noopener">Tether becomes major Antalpha holder with nearly 2 million shares - crypto.news</a></h3>
+        <p class="snippet">Tether becomes major Antalpha holder with nearly 2 million shares crypto.news</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span>
+          <span>score 25.16</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>CoinDesk</span>
+          <span>2026-04-21 18:31</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.coindesk.com/business/2026/04/21/crypto-scammers-offer-safe-passage-through-hormuz-at-least-one-ship-may-have-been-conned" target="_blank" rel="noopener">Crypto scammers offer ‘safe passage’ through Hormuz. At least one ship may have been conned.</a></h3>
+        <p class="snippet">Marisks, a maritime risk company, alerted ships stranded by the Hormuz blockade to scammers posing as Iranian authorities asking for bitcoin or USDT.</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 25.14</span>
+          <span>@Olivier Acuna</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>CoinDesk</span>
+          <span>2026-04-21 18:08</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.coindesk.com/policy/2026/04/21/bank-of-korea-s-new-governor-signals-cbdc-and-bank-token-push-skips-stablecoins-in-key-address" target="_blank" rel="noopener">Bank of Korea’s new governor signals CBDC and bank token push, skips stablecoins in key address</a></h3>
+        <p class="snippet">The BOK will increase scrutiny of crypto markets and non-bank finance, and will also modernize currency markets for 24-hour foreign exchange trading, he said.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 24.93</span>
+          <span>@Francisco Rodrigues</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 14:21</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE9YVkNWeVlpbWhxZ01WTVVzYzljZHYxbmlycS02NU00a0Mzakk2WVU2QTVHN1UxSGhDeXlCSWEtVGpJTW9pWklna0Y3T21nZUNCV296RmZiamhKWUx2TTJramlvZlJNOEkwVk04ZGZkNlQwLVZpN1BjSlp3?oc=5" target="_blank" rel="noopener">Philippines’ stablecoin ambitions face regulatory hurdles - TheBanker.com</a></h3>
+        <p class="snippet">Philippines’ stablecoin ambitions face regulatory hurdles TheBanker.com</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 24.72</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>Decrypt</span>
+          <span>2026-04-21 23:54</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://decrypt.co/365028/doordash-pay-delivery-workers-tablecoins-stripe-tempo-blockchain" target="_blank" rel="noopener">DoorDash to Pay Delivery Workers in Stablecoins via Stripe&#x27;s Tempo Blockchain</a></h3>
+        <p class="snippet">Delivery firm DoorDash will use Stripe&#x27;s payments-focused blockchain, Tempo, to pay its Dashers in stablecoins in more than 40 countries.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 24.56</span>
+          <span>@Logan Hitchcock</span>
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="USDT" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 10:09</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZMMXo0eDFIV1d5TUVaY1F4a0w5T2lEWDFjbndHU2pNZnlOZ1BMdG5feGQ0dm56czZSaWd0eEo5cHhiZ0FaY2ZQTlVoOTh5VVk4dzRvdmp6OWhOWkFFcWcyOE95VGpXQ3lXQVltT0dQeU1JLTJGN1FkR3FIekJrUllLU00tYmVFS2R1Qzh0X0hwSFB1Nkt5ZUk4cGdTTVhqSm1yTDJ3Rmp6LWhyZFc0OHY5Znh5Y2R6VDdOTDRwaWN2WG1VeDc4?oc=5" target="_blank" rel="noopener">TRON Powers $2T in USDT Transfers in Q1; CoinDesk and Messari Research Highlight AI, Institutional Growth - Bitcoin News</a></h3>
+        <p class="snippet">TRON Powers $2T in USDT Transfers in Q1; CoinDesk and Messari Research Highlight AI, Institutional Growth Bitcoin News</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 23.97</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT|Stablecoin" data-sentiment="neutral" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-21 10:00</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/cryptopoker1/comments/1sra667/crypto_poker_is_a_revolutionary_blockchain/" target="_blank" rel="noopener">Crypto Poker is a revolutionary blockchain technology-based platform that uses USDT</a></h3>
+        <p class="snippet">Crypto Poker is a revolutionary blockchain technology-based platform that uses USDT stablecoin as currency. There are plenty of players to play poker online using cryptocurrencies &amp; crypto poker online. www.cryptopoker.ws submitted by /u/cryptopoker1 to r/cry...</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span><span class="badge entity">Stablecoin</span>
+          <span>score 23.6</span>
+          <span>@/u/cryptopoker1</span>
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-21 18:52</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/CryptoCurrency/comments/1srk526/elon_musk_helped_write_the_law_governing_his_own/" target="_blank" rel="noopener">Elon Musk helped write the law governing his own payment app, dismantled the regulator that would police it, and is now launching a stablecoin. Senator Warren has some questions.</a></h3>
+        <p class="snippet">Elon Musk helped write the law governing his own payment app, dismantled the regulator that would police it, and is now launching a stablecoin. Senator Warren has some questions. So X Money is apparently launching this month and Elizabeth Warren sent a letter...</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 23.54</span>
+          <span>@/u/Repulsive_Counter_79</span>
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>The Defiant</span>
+          <span>2026-04-22 00:02</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://thedefiant.io/news/infrastructure/doordash-tempo-stablecoin-payment-infra" target="_blank" rel="noopener">DoorDash Teams Up with Tempo on Stablecoin Payments for Its Global Marktplace</a></h3>
+        <p class="snippet">Tempo also announced it&#x27;s launching a Stablecoin Advisory.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 23.51</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>Cointelegraph</span>
+          <span>2026-04-21 17:53</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://cointelegraph.com/news/fraudsters-pose-iranian-authorities-crypto-stranded-ships-hormuz?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Scammers demand crypto from stranded ships in Strait of Hormuz: Report</a></h3>
+        <p class="snippet">Shipping companies with vessels stranded near the Strait of Hormuz are being targeted by scammers posing as Iranian authorities, demanding Bitcoin or USDt for safe passage.</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 22.63</span>
+          <span>@Cointelegraph by Amin Haqshanas</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>Cointelegraph</span>
+          <span>2026-04-21 16:52</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://cointelegraph.com/news/new-bank-of-korea-governor-backs-cbdcs-deposit-tokens-first-address?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener">Bank of Korea governor backs CBDCs, deposit tokens in first address</a></h3>
+        <p class="snippet">New Bank of Korea Governor Hyun-Song Shin supported CBDCs and deposit tokens in his first address, while stablecoins were notably absent from his remarks.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 22.09</span>
+          <span>@Cointelegraph by Amin Haqshanas</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 09:49</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDRBYmNUUl9wemFDWGI3Q2lQaUVkSDF4YXBwUTZHNmhwMEJjc0dtWEZHdGpudENYWW96cmpYbkI0ZGlxUzh5eWdRVG5LY3BMMWxTcmV3cEFjNHA2Mkd1ZDlpT1VseE96b2tyS1dzbFdpTUtsMjcwZmNDbm1Fdm16N3VnZTRZLTl4VlVYSUpZcW9sTi1CM09kLUVyUzVNTmFvaENPSFNjTWE?oc=5" target="_blank" rel="noopener">BIS Official Flags $320 Billion Stablecoin Market as Financial Stability Concern - Bitcoin News</a></h3>
+        <p class="snippet">BIS Official Flags $320 Billion Stablecoin Market as Financial Stability Concern Bitcoin News</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 21.89</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-21 15:01</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/Crypto_Taxes_UK/comments/1srg65m/coinbase_just_launched_cryptobacked_loans_in_the/" target="_blank" rel="noopener">Coinbase just launched crypto-backed loans in the UK… here’s what you actually need to know</a></h3>
+        <p class="snippet">So Coinbase has rolled out crypto-backed loans for UK users — meaning you can borrow cash without selling your crypto. Sounds great on the surface… but let’s break it down properly (especially from a UK tax angle). What is it? You lock up your crypto as colla...</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 21.61</span>
+          <span>@/u/Mundane-Tailor-7828</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-04-21 16:50</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/theTRONreport/comments/1srhz85/tron_daily_report_20260421_trx_is_pacing_the_cage/" target="_blank" rel="noopener">TRON Daily Report – 2026-04-21: TRX Is Pacing The Cage At $0.329 While TRON’s $87.24B Stablecoin Monster Waits For The Next Rip</a></h3>
+        <p class="snippet">https://preview.redd.it/ks9cl9wybiwg1.png?width=1536&amp;format=png&amp;auto=webp&amp;s=e04b58fb7eaba46d2f6c84efe27234465fe05ff3 TRX Price &amp; Market Action TRX Price (Live): about $0.3291–$0.3293 across live market pages. CoinMarketCap showed $0.329114 , while Coinbase’s...</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 21.02</span>
+          <span>@/u/GoryGrey</span>
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-20 23:26</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaW90dTEwMFFSazlWQXFPbEFJUHJoMU9aQWF2VzVyS3ZlOWRxLU45V3hmVy1QTy1Sc0lNUVpIVnJ5TFdaMXdoQUpoQ2dSMW04UFJsU2pPWV81dXFWWXZxSnNhVHlHblJkeGp0SnJyMDR3a19xVDRtYkZUaGR0aVg1amVTQ0RaNGRUdFIxTzNudTQzXzJRTUdMWDhreFRmbjVrLUV2YW9Hc2VjNE0?oc=5" target="_blank" rel="noopener">BIS warns US dollar stablecoins pose financial stability risks, urges regulation - Crypto Briefing</a></h3>
+        <p class="snippet">BIS warns US dollar stablecoins pose financial stability risks, urges regulation Crypto Briefing</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 20.41</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 05:24</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE9pZDViMVBWaUtJdnFVLWR5SVN2RWxNWGFINjNiVXp3Q0JDOW9mQzVrTWh4MDYwS0xQQkZGX1dtNjhmNE5wNTZuVFRWUWd4VzlERmI1bDg3clJ2UFlnQnNPejR4VmRJakl4ZnpIenFMY2VpMkJyQjZ1djJ3?oc=5" target="_blank" rel="noopener">BIS says global split in stablecoin rules will fuel arbitrage and fragment cross-border markets - Cryptopolitan</a></h3>
+        <p class="snippet">BIS says global split in stablecoin rules will fuel arbitrage and fragment cross-border markets Cryptopolitan</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 19.13</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 04:15</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGZuTnh3YjRodk9tcmxtS25mc1Q2OEloazJyYTdKOTdsV0paZGhGMDYtYVdCbmdFQjliVFpzUDItS1k2MVlpTUg2dUZYV1dRSjl6RGVNSkFnVE44Rk1KSTZibjlWcVNyQThvanBDTl9KSWpyaWZMZ25wNWVneTNpOUZ5Ui1NeURaZmc3ODd5T3dqVXZGLWVaWE1vcmFya0lzeklwWjJxMEpTSlRvai1pWTV0cjJVWVN3U0lHWi1hX1VzVmFEaE1pNUJ1ZUpBcmQ4MGNzNA?oc=5" target="_blank" rel="noopener">Tether backs UAE tokenization firm KAIO in $8M funding round to bring Emirati funds onchain - CoinDesk</a></h3>
+        <p class="snippet">Tether backs UAE tokenization firm KAIO in $8M funding round to bring Emirati funds onchain CoinDesk</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span>
+          <span>score 18.41</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 04:14</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4MDJ6TGtGSmVZLUR4bzBMUW4ybFdacGxfSU1md2xvUG9PZU1TTFRqMy1RNGtBTlpZOFdhd3B6c2VIV09LLTF3OE43YlptTXJtcjhWa1gwbWI?oc=5" target="_blank" rel="noopener">Tether takes 8.2% stake in Bitcoin mining finance platform Antalpha - Cryptonews.net</a></h3>
+        <p class="snippet">Tether takes 8.2% stake in Bitcoin mining finance platform Antalpha Cryptonews.net</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span>
+          <span>score 18.4</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 03:10</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNRl9LRlphN2ZBTVlSOTBYSF9Rb2I3eVY5VnZZXzRmVEVvdzFEN3M3bUxzcm1BY0Z3bnRpNFJzdTFJaHRNdGptdnpDeTY0S3doYWZCdDZSd1BoWkl0TDRhLU1tNnVCUHM0NkU5VzMxNTJQNVc3NHE2YkU5RVBWV2tmNEM0R0xabkd3NmhsLTJqZDI4aXQzM3hNelo5MA?oc=5" target="_blank" rel="noopener">USDT’s Rise in Lebanon Is Accelerating an Unseen Dollar Drain - Middle East Transparent</a></h3>
+        <p class="snippet">USDT’s Rise in Lebanon Is Accelerating an Unseen Dollar Drain Middle East Transparent</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 17.73</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 02:15</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SVDI4MFRjN21NZ1FUSm9NLUZtcjZrMmJEbERoYVhmTzRNR1kzYWtOeVV3NVFIZG1WVXN3WjIyNnRzckQzTGFVSTVCSkhkU2YtWDJ2Y1lqU3lwQjJlanV3TA?oc=5" target="_blank" rel="noopener">Tether Takes 8.2% Stake in Bitmain-Linked Antalpha - Bitbo</a></h3>
+        <p class="snippet">Tether Takes 8.2% Stake in Bitmain-Linked Antalpha Bitbo</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span>
+          <span>score 17.16</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 00:38</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN3I3bHpCUDJhMDdQLTA1Y2lKMl9ockVjZk11MVJzcFQtRnFOa1VfZ2lkSmVBTW9UOGNHMFc5OHBKZVo4T2lEU2V6UFNoa1YybUV5bjBpVS1kS05waUQxYjV5M2gybnQ0dHBSZFJCN3QzcjhLU1NwNmplSDRkSlI0ZkducXhiQXZMSlp2eEF3Ukk0ZUVlSG1YNEQ0ZTQzMTZ6Y0hkV1hENjlrY2cxcFZXdFhSZUdibkxLNkxHRHNrQmpydmhZZjVDODF4eWRFRHNNQzY4?oc=5" target="_blank" rel="noopener">Coinbase says USDT deposits on Arbitrum, Polygon networks are temporarily unavailable - marketscreener.com</a></h3>
+        <p class="snippet">Coinbase says USDT deposits on Arbitrum, Polygon networks are temporarily unavailable marketscreener.com</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 16.15</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-21 00:11</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjVDWndRSG96dDVDY3Y3T05fX0UtSzU5NkFjaWUzbUFQbnpxMGhHbkk3aE9ESHNnLVNlTElzcXZETS1mNnJZNWZ0Tl96bzZDNDZ5S25TcXY1VzVLQUV4WGJKSHJ4WHBZNGJ2WkxZWlM3RDMtRXFnNVZHNElYN2U2dkltRVNGS0JWWXJVZVJiU3RiMHNhcWw4d0drM0pTeXN5RVZZRQ?oc=5" target="_blank" rel="noopener">BIS Urges Global Cooperation for Stablecoin Rules to Avoid “Severe” Fragmentation - The Full FX</a></h3>
+        <p class="snippet">BIS Urges Global Cooperation for Stablecoin Rules to Avoid “Severe” Fragmentation The Full FX</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 15.87</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-04-20 23:42</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQQW1PeWNfeDB3Tlo0MFNaX2dFaTRtV3FBWXhUVUFaWWFycXJYVmZMSVozQXVDR1ZzeUVoVnVYcDNVUVNxTU9CRW1FcnpuazVranIxR1dmR3FfZ2M1UzU1WFhpdkxoU3JVWnI3MVFzclk0Y3AwYUc3YnZfemlmTTVfZ2NKSTJVRXg1endaX2lGdUlmLTdSX1ctNE1jWFU1UTc3d1owcA?oc=5" target="_blank" rel="noopener">Tether discloses nearly 2 million-share stake in Bitmain-linked Antalpha - The Block</a></h3>
+        <p class="snippet">Tether discloses nearly 2 million-share stake in Bitmain-linked Antalpha The Block</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span>
+          <span>score 15.57</span>
+          
+        </div>
+      </article>
+    </div>
+    </section>
+
+    <section>
+      <h2>来源状态</h2>
+      <div class="panel">
+        <table>
+          <thead><tr><th style="width: 20%">来源</th><th style="width: 14%">状态</th><th style="width: 12%">抓取</th><th style="width: 12%">保留</th><th>备注</th></tr></thead>
+          <tbody>
+        <tr>
+          <td>Google News</td>
+          <td><span class="status ok">正常</span></td>
+          <td>838</td>
+          <td>77</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Bluesky</td>
+          <td><span class="status warn">跳过/受限</span></td>
+          <td>0</td>
+          <td>0</td>
+          <td>Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search</td>
+        </tr>
+        
+
+        <tr>
+          <td>Hacker News</td>
+          <td><span class="status ok">正常</span></td>
+          <td>0</td>
+          <td>0</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Reddit RSS</td>
+          <td><span class="status ok">正常</span></td>
+          <td>100</td>
+          <td>20</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Mastodon</td>
+          <td><span class="status ok">正常</span></td>
+          <td>0</td>
+          <td>0</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>YouTube Search</td>
+          <td><span class="status warn">跳过/受限</span></td>
+          <td>0</td>
+          <td>0</td>
+          <td>YOUTUBE_API_KEY not configured</td>
+        </tr>
+        
+
+        <tr>
+          <td>CoinDesk</td>
+          <td><span class="status ok">正常</span></td>
+          <td>25</td>
+          <td>6</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Cointelegraph</td>
+          <td><span class="status ok">正常</span></td>
+          <td>30</td>
+          <td>5</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Decrypt</td>
+          <td><span class="status ok">正常</span></td>
+          <td>58</td>
+          <td>1</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>The Defiant</td>
+          <td><span class="status ok">正常</span></td>
+          <td>100</td>
+          <td>1</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Unchained</td>
+          <td><span class="status ok">正常</span></td>
+          <td>10</td>
+          <td>0</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Bankless</td>
+          <td><span class="status warn">跳过/受限</span></td>
+          <td>0</td>
+          <td>0</td>
+          <td>Public RSS URL is not stable; keep disabled unless a working public feed is confirmed.</td>
+        </tr>
+        </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>Generated by free public sources. Direct X/Twitter API monitoring is intentionally excluded unless free official access is configured.</footer>
+
+  <script>
+    const entityFilter = document.getElementById('entityFilter');
+    const sentimentFilter = document.getElementById('sentimentFilter');
+    const platformFilter = document.getElementById('platformFilter');
+    const cards = Array.from(document.querySelectorAll('.item[data-entities]'));
+    function applyFilters() {
+      const entity = entityFilter.value;
+      const sentiment = sentimentFilter.value;
+      const platform = platformFilter.value;
+      cards.forEach(card => {
+        const hasEntity = !entity || card.dataset.entities.split('|').includes(entity);
+        const hasSentiment = !sentiment || card.dataset.sentiment === sentiment;
+        const hasPlatform = !platform || card.dataset.platform === platform;
+        card.style.display = hasEntity && hasSentiment && hasPlatform ? '' : 'none';
+      });
+    }
+    [entityFilter, sentimentFilter, platformFilter].forEach(el => el.addEventListener('change', applyFilters));
+  </script>
+</body>
+</html>

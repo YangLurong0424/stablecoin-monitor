@@ -1,0 +1,149 @@
+{
+  "report": {
+    "title": "稳定币海外舆情日报",
+    "timezone": "Asia/Shanghai",
+    "lookback_hours": 36,
+    "max_items": 120
+  },
+  "entities": {
+    "Circle": ["circle", "circle internet", "circle ipo", "circle reserve", "crcl"],
+    "USDC": ["usdc", "usd coin"],
+    "Tether": ["tether", "tetrher"],
+    "USDT": ["usdt"],
+    "Stablecoin": ["stablecoin", "stablecoins", "stable coin", "stablecoins bill"],
+    "Robinhood": ["robinhood", "hood", "robinhood crypto"]
+  },
+  "risk_terms": [
+    "depeg",
+    "de-pegging",
+    "reserve",
+    "reserves",
+    "attestation",
+    "audit",
+    "lawsuit",
+    "sue",
+    "sec",
+    "cftc",
+    "doj",
+    "sanction",
+    "sanctions",
+    "fraud",
+    "investigation",
+    "regulation",
+    "regulated",
+    "legislation",
+    "mica",
+    "genius act",
+    "bankruptcy",
+    "freeze",
+    "blacklist",
+    "redeem",
+    "redemption",
+    "liquidity"
+  ],
+  "positive_terms": [
+    "launch",
+    "partnership",
+    "integrate",
+    "integration",
+    "growth",
+    "adoption",
+    "approval",
+    "licensed",
+    "profit",
+    "revenue",
+    "expands",
+    "upgrade"
+  ],
+  "queries": [
+    "Circle USDC",
+    "Circle stablecoin",
+    "USDC stablecoin",
+    "Tether USDT",
+    "USDT stablecoin",
+    "stablecoin regulation",
+    "Robinhood stablecoin",
+    "Robinhood crypto USDC",
+    "Tetrher USDT"
+  ],
+  "sources": [
+    {
+      "name": "Google News",
+      "type": "google_news_rss",
+      "enabled": true,
+      "weight": 1.25
+    },
+    {
+      "name": "Bluesky",
+      "type": "bluesky_search",
+      "enabled": true,
+      "weight": 1.2
+    },
+    {
+      "name": "Hacker News",
+      "type": "hackernews_algolia",
+      "enabled": true,
+      "weight": 0.9
+    },
+    {
+      "name": "Reddit RSS",
+      "type": "reddit_rss",
+      "enabled": true,
+      "weight": 1.0
+    },
+    {
+      "name": "Mastodon",
+      "type": "mastodon_search",
+      "enabled": true,
+      "instances": ["mastodon.social", "mstdn.social"],
+      "weight": 0.75
+    },
+    {
+      "name": "YouTube Search",
+      "type": "youtube_search",
+      "enabled": true,
+      "requires_env": "YOUTUBE_API_KEY",
+      "weight": 1.0
+    }
+  ],
+  "feeds": [
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "weight": 1.15
+    },
+    {
+      "name": "Cointelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "weight": 1.05
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "weight": 1.0
+    },
+    {
+      "name": "The Defiant",
+      "url": "https://thedefiant.io/api/feed",
+      "weight": 0.9
+    },
+    {
+      "name": "Unchained",
+      "url": "https://unchainedcrypto.com/feed/",
+      "weight": 0.9
+    },
+    {
+      "name": "Bankless",
+      "url": "https://www.bankless.com/rss",
+      "enabled": false,
+      "note": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed.",
+      "weight": 0.85
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
