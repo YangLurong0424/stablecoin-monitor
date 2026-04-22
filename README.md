@@ -45,7 +45,9 @@ https://YangLurong0424.github.io/<repo-name>/
 
 ## Chinese Translation
 
-The page displays an inline **中文要点** line for each item. It is generated locally from the original title/snippet with a stablecoin and regulation glossary, so it does not depend on a paid translation API or an external translation page.
+The page displays an inline **中文要点** line for each item, usually 50-100 Chinese characters. It is generated locally from the original title/snippet with topic detection and a stablecoin/regulation glossary, so it does not depend on a paid translation API or an external translation page.
+
+English titles keep the original source wording. Hover over a title to see a Chinese title hint.
 
 ## GitHub Pages Setup
 

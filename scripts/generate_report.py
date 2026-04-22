@@ -1113,80 +1113,180 @@ def platform_options(items: list[dict[str, Any]]) -> str:
     return "".join(f'<option value="{html_escape(name)}">{html_escape(name)}</option>' for name in names)
 
 
-TRANSLATION_GLOSSARY = [
-    (r"\bstablecoins?\b", "稳定币"),
-    (r"\bstable coin(s)?\b", "稳定币"),
-    (r"\bCircle\b", "Circle"),
-    (r"\bUSDC\b", "USDC"),
-    (r"\bTether\b", "Tether"),
-    (r"\bUSDT\b", "USDT"),
-    (r"\bRobinhood\b", "Robinhood"),
-    (r"\bcrypto\b", "加密货币"),
-    (r"\bbitcoin\b", "比特币"),
-    (r"\bethereum\b", "以太坊"),
-    (r"\bmarket cap\b", "市值"),
-    (r"\bdominance\b", "主导地位"),
-    (r"\breserves?\b", "储备"),
-    (r"\breserve attestation\b", "储备证明"),
-    (r"\baudit(s|ed|ing)?\b", "审计"),
-    (r"\battestation(s)?\b", "证明报告"),
-    (r"\bregulation(s)?\b", "监管"),
-    (r"\bregulated\b", "受监管"),
-    (r"\blegislation\b", "立法"),
-    (r"\bbill\b", "法案"),
-    (r"\bSEC\b", "美国 SEC"),
-    (r"\bCFTC\b", "美国 CFTC"),
-    (r"\bDOJ\b", "美国 DOJ"),
-    (r"\bMiCA\b", "欧盟 MiCA"),
-    (r"\bsanction(s|ed)?\b", "制裁"),
-    (r"\blawsuit(s)?\b", "诉讼"),
-    (r"\binvestigation(s)?\b", "调查"),
-    (r"\bdepeg(ging)?\b", "脱锚"),
-    (r"\bredeem(s|ed|ing)?\b", "赎回"),
-    (r"\bredemption(s)?\b", "赎回"),
-    (r"\bliquidity\b", "流动性"),
-    (r"\bfreeze(s|d|ing)?\b", "冻结"),
-    (r"\bblacklist(s|ed|ing)?\b", "黑名单"),
-    (r"\bhack(s|ed|ing)?\b", "黑客攻击"),
-    (r"\bfraud\b", "欺诈"),
-    (r"\bbankruptcy\b", "破产"),
-    (r"\blaunch(es|ed|ing)?\b", "推出"),
-    (r"\bpartnership(s)?\b", "合作"),
-    (r"\bintegrat(e|es|ed|ion|ions)\b", "集成"),
-    (r"\badoption\b", "采用"),
-    (r"\bgrowth\b", "增长"),
-    (r"\brevenue\b", "收入"),
-    (r"\bprofit(s)?\b", "利润"),
-    (r"\bapproval\b", "批准"),
-    (r"\blicensed\b", "获牌照"),
-    (r"\bexchange(s)?\b", "交易所"),
-    (r"\bwallet(s)?\b", "钱包"),
-    (r"\bDeFi\b", "DeFi"),
-    (r"\busers?\b", "用户"),
-    (r"\breport(s|ed)?\b", "报道"),
-    (r"\bsays?\b", "表示"),
-    (r"\bamid\b", "在……背景下"),
-    (r"\bover\b", "关于"),
-    (r"\bafter\b", "之后"),
-    (r"\bbefore\b", "之前"),
+TITLE_GLOSSARY = [
+    (r"\bStablecoin(s)?\b", "稳定币"),
+    (r"\bStable coin(s)?\b", "稳定币"),
+    (r"\bCrypto\b", "加密货币"),
+    (r"\bBitcoin\b", "比特币"),
+    (r"\bEthereum\b", "以太坊"),
+    (r"\bMarket Cap\b", "市值"),
+    (r"\bDominance\b", "主导地位"),
+    (r"\bReserve(s)?\b", "储备"),
+    (r"\bRegulation(s)?\b", "监管"),
+    (r"\bRegulated\b", "受监管"),
+    (r"\bLegislation\b", "立法"),
+    (r"\bBill\b", "法案"),
+    (r"\bLawsuit(s)?\b", "诉讼"),
+    (r"\bInvestigation(s)?\b", "调查"),
+    (r"\bDepeg(ging)?\b", "脱锚"),
+    (r"\bRedeem(s|ed|ing)?\b", "赎回"),
+    (r"\bRedemption(s)?\b", "赎回"),
+    (r"\bLiquidity\b", "流动性"),
+    (r"\bSanction(s|ed)?\b", "制裁"),
+    (r"\bFreeze(s|d|ing)?\b", "冻结"),
+    (r"\bHack(s|ed|ing)?\b", "黑客攻击"),
+    (r"\bFraud\b", "欺诈"),
+    (r"\bLaunch(es|ed|ing)?\b", "推出"),
+    (r"\bPartnership(s)?\b", "合作"),
+    (r"\bIntegrat(e|es|ed|ion|ions)\b", "接入"),
+    (r"\bAdoption\b", "采用"),
+    (r"\bGrowth\b", "增长"),
+    (r"\bRevenue\b", "收入"),
+    (r"\bProfit(s)?\b", "利润"),
+    (r"\bApproval\b", "获批"),
+    (r"\bLicensed\b", "获牌照"),
+    (r"\bExchange(s)?\b", "交易平台"),
+    (r"\bWallet(s)?\b", "钱包"),
+    (r"\bPayment(s)?\b", "支付"),
+    (r"\bSettlement(s)?\b", "结算"),
+    (r"\bSupply\b", "供应量"),
+    (r"\bMint(s|ed|ing)?\b", "增发"),
+    (r"\bWarn(s|ed|ing)?\b", "警告"),
+    (r"\bPlan(s|ned|ning)?\b", "计划"),
+    (r"\bRules?\b", "规则"),
+    (r"\bPolicy\b", "政策"),
+    (r"\bBank(s)?\b", "银行"),
+    (r"\bChina\b", "中国"),
+    (r"\bUK\b", "英国"),
+    (r"\bHong Kong\b", "香港"),
+    (r"\bEuropean\b", "欧洲"),
 ]
 
 
-def inline_chinese_summary(item: dict[str, Any]) -> str:
-    text = clean_text(f"{item.get('title', '')}. {item.get('snippet', '')}", limit=240)
-    if not text:
-        return "暂无摘要。"
+def source_clean_title(title: str) -> str:
+    value = clean_text(title, limit=220)
+    value = re.sub(r"^News Explorer\s*[—:-]\s*", "", value, flags=re.I)
+    value = re.sub(r"\s+-\s+[A-Z][A-Za-z0-9 .,&|/]+$", "", value)
+    value = re.sub(r"\s+\|\s+[A-Z][A-Za-z0-9 .,&|/]+$", "", value)
+    value = re.sub(r"\s+", " ", value).strip(" -|")
+    return value
 
-    translated = text
-    for pattern, replacement in TRANSLATION_GLOSSARY:
+
+def chinese_title(item: dict[str, Any]) -> str:
+    title = source_clean_title(item.get("title", ""))
+    translated = title
+    for pattern, replacement in TITLE_GLOSSARY:
         translated = re.sub(pattern, replacement, translated, flags=re.I)
     translated = re.sub(r"\s+", " ", translated).strip()
+    if len(translated) > 90:
+        translated = translated[:88].rstrip() + "…"
+    return translated or "中文标题暂缺"
 
-    entities = "、".join(item.get("entities", [])) or "相关主题"
-    sentiment_label = {"risk": "风险/监管信号", "positive": "积极进展", "neutral": "中性动态"}.get(
-        item.get("sentiment", "neutral"), "中性动态"
-    )
-    return f"{sentiment_label}：涉及 {entities}。{translated}"
+
+def detect_event_phrase(text: str, entities: list[str]) -> str:
+    lower = text.lower()
+    if "pornhub" in lower and re.search(r"\b(dump|drop|abandon|switch)\w*\b", lower) and "usdt" in lower and "usdc" in lower:
+        return "有报道称 Pornhub 正从 USDT 转向 USDC 支付"
+    if "tether" in lower and re.search(r"\b(mint|issue)\w*\b", lower) and "usdt" in lower:
+        return "Tether 增发 USDT，链上供应继续扩大"
+    if "usdt" in lower and re.search(r"\b(supply|record|ath|all-time high)\b", lower):
+        return "USDT 供应量创出新高，稳定币需求仍在上升"
+    if "bis" in lower and ("risk" in lower or "warn" in lower):
+        return "BIS 提醒稳定币扩张可能带来金融稳定风险"
+    if "circle" in lower and "osl" in lower:
+        return "OSL 与 Circle 宣布合作，拓展 USDC 应用场景"
+    if "circle" in lower and "partnership" in lower:
+        return "Circle 相关合作继续推进，USDC 应用边界扩大"
+    if "coinbase" in lower and "nium" in lower and "usdc" in lower:
+        return "Nium 与 Coinbase 合作推进 USDC 跨境支付结算"
+    if "euro" in lower and "stablecoin" in lower and ("bank" in lower or "fireblocks" in lower):
+        return "欧洲银行体系推进欧元稳定币项目"
+    if "uk" in lower and "stablecoin" in lower and re.search(r"\b(rule|payment|regulat|tokenized)\w*\b", lower):
+        return "英国计划调整支付规则，纳入稳定币和代币化存款"
+    if "mics" in lower or "mica" in lower:
+        return "欧盟 MiCA 框架下的稳定币合规项目继续推进"
+    if "hong kong" in lower and "stablecoin" in lower:
+        return "香港稳定币牌照和合规进展受到市场关注"
+    if "robinhood" in lower and re.search(r"\b(prediction|futures|crypto|market)\w*\b", lower):
+        return "Robinhood 相关讨论集中在预测市场和加密产品扩张"
+    if "door dash" in lower or "doordash" in lower:
+        return "DoorDash 探索稳定币支付和跨境结算场景"
+    if re.search(r"\b(scam|fraud|hack|fake)\w*\b", lower):
+        return "市场出现诈骗或安全风险相关讨论"
+    if re.search(r"\b(reserve|attestation|audit|redeem|redemption|depeg)\w*\b", lower):
+        return "市场关注稳定币储备透明度和赎回稳定性"
+    if re.search(r"\b(payment|settlement|payout|onramp|offramp|card|wallet)\w*\b", lower):
+        return "稳定币支付、结算和钱包接入场景继续扩展"
+    if re.search(r"\b(regulat|legislation|bill|rules?|policy|clarity|sec|cftc)\w*\b", lower):
+        return "稳定币监管和立法进展成为讨论重点"
+    if re.search(r"\b(partner|partnership|integrat|launch)\w*\b", lower):
+        return "稳定币相关合作或产品发布继续推进"
+    if "Circle" in entities or "USDC" in entities:
+        return "USDC 生态和 Circle 业务动态受到关注"
+    if "Tether" in entities or "USDT" in entities:
+        return "USDT 供应和 Tether 市场地位受到关注"
+    if "Robinhood" in entities:
+        return "Robinhood 加密业务和产品扩张受到关注"
+    return "稳定币相关海外讨论出现新动态"
+
+
+def detect_focus(text: str, entities: list[str], sentiment: str) -> str:
+    lower = text.lower()
+    if re.search(r"\b(mint|supply|treasury|issue[sd]?)\b", lower):
+        return "供应、流动性和市场份额"
+    if re.search(r"\b(regulation|regulated|legislation|bill|rules?|policy|mica|clarity|sec|cftc|bis)\b", lower):
+        return "合规、立法和跨境影响"
+    if re.search(r"\b(partner|partnership|integrat|payment|settlement|payout|wallet|card|onramp|offramp)\b", lower):
+        return "支付结算和应用落地"
+    if re.search(r"\b(depeg|reserve|attestation|audit|redeem|liquidity|bankruptcy)\b", lower):
+        return "储备、赎回和稳定性"
+    if re.search(r"\b(hack|fraud|scam|sanction|freeze|blacklist|investigation|lawsuit)\b", lower):
+        return "安全、合规和市场冲击"
+    if "Robinhood" in entities:
+        return "交易业务和产品扩张"
+    if "Circle" in entities or "USDC" in entities:
+        return "USDC 生态和机构采用"
+    if "Tether" in entities or "USDT" in entities:
+        return "USDT 供应和链上资金流"
+    return "市场叙事和后续进展"
+
+
+def summary_lead(sentiment: str) -> str:
+    return {
+        "risk": "风险/监管信号",
+        "positive": "积极进展",
+        "neutral": "市场动态",
+    }.get(sentiment, "市场动态")
+
+
+def compact_summary(text: str, *, minimum: int = 50, maximum: int = 100) -> str:
+    text = re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"。。+", "。", text)
+    if len(text) > maximum:
+        candidate = text[:maximum]
+        stop = max(candidate.rfind("。"), candidate.rfind("；"), candidate.rfind("，"))
+        if stop >= minimum:
+            text = candidate[: stop + 1]
+        else:
+            text = candidate[: maximum - 1].rstrip("，。；、") + "。"
+    if len(text) < minimum:
+        addition = "后续需结合原文链接继续核验。"
+        if len(text) + len(addition) <= maximum:
+            text = text.rstrip("。") + "，" + addition
+    return text
+
+
+def inline_chinese_summary(item: dict[str, Any]) -> str:
+    entities = item.get("entities", [])
+    entity_text = "、".join(entities) or "相关主题"
+    sentiment = item.get("sentiment", "neutral")
+    text = f"{item.get('title', '')} {item.get('snippet', '')}"
+    focus = detect_focus(text, entities, sentiment)
+    event = detect_event_phrase(text, entities)
+    lead = summary_lead(sentiment)
+
+    summary = f"{lead}：{event}，涉及 {entity_text}。后续关注{focus}。"
+    return compact_summary(summary)
 
 
 def render_item_card(item: dict[str, Any], tz: ZoneInfo) -> str:
@@ -1199,6 +1299,7 @@ def render_item_card(item: dict[str, Any], tz: ZoneInfo) -> str:
     if len(snippet) > 260:
         snippet = snippet[:259].rstrip() + "..."
     zh_summary = inline_chinese_summary(item)
+    title_zh = detect_event_phrase(f"{item.get('title', '')} {item.get('snippet', '')}", entities)
     return f"""
       <article class="item {html_escape(sentiment)}" data-entities="{html_escape(entity_data)}" data-sentiment="{html_escape(sentiment)}" data-platform="{html_escape(item["platform"])}">
         <div class="meta">
@@ -1207,7 +1308,7 @@ def render_item_card(item: dict[str, Any], tz: ZoneInfo) -> str:
           <span>{html_escape(published)}</span>
           <span class="badge sentiment-{html_escape(sentiment)}">{html_escape(sentiment_label)}</span>
         </div>
-        <h3><a href="{html_escape(item["url"])}" target="_blank" rel="noopener">{html_escape(item["title"])}</a></h3>
+        <h3><a href="{html_escape(item["url"])}" target="_blank" rel="noopener" title="中文标题：{html_escape(title_zh)}">{html_escape(item["title"])}</a></h3>
         <p class="zh-summary"><strong>中文要点：</strong>{html_escape(zh_summary)}</p>
         <p class="snippet">{html_escape(snippet)}</p>
         <div class="meta">
