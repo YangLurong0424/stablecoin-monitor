@@ -942,6 +942,18 @@ def render_html(payload: dict[str, Any], config: dict[str, Any]) -> str:
       font-size: 14px;
       flex: 1;
     }}
+    .zh-summary {{
+      margin: 0;
+      padding: 9px 10px;
+      border-radius: 6px;
+      background: #fbfcfe;
+      border: 1px solid var(--border);
+      color: #253243;
+      font-size: 14px;
+    }}
+    .zh-summary strong {{
+      color: var(--purple);
+    }}
     .badge {{
       display: inline-flex;
       align-items: center;
@@ -1010,8 +1022,6 @@ def render_html(payload: dict[str, Any], config: dict[str, Any]) -> str:
       <div class="actions">
         <a class="button" href="{archive_path}" target="_blank" rel="noopener">latest.json</a>
         <a class="button" href="archive/{html_escape(payload["date"])}.json" target="_blank" rel="noopener">archive.json</a>
-        <button class="button primary" id="copyShareLink" type="button">复制分享链接</button>
-        <button class="button primary" id="translatePage" type="button">中文翻译</button>
       </div>
     </div>
   </header>
@@ -1075,8 +1085,6 @@ def render_html(payload: dict[str, Any], config: dict[str, Any]) -> str:
     const entityFilter = document.getElementById('entityFilter');
     const sentimentFilter = document.getElementById('sentimentFilter');
     const platformFilter = document.getElementById('platformFilter');
-    const copyShareLink = document.getElementById('copyShareLink');
-    const translatePage = document.getElementById('translatePage');
     const cards = Array.from(document.querySelectorAll('.item[data-entities]'));
     function applyFilters() {{
       const entity = entityFilter.value;
@@ -1090,28 +1098,6 @@ def render_html(payload: dict[str, Any], config: dict[str, Any]) -> str:
       }});
     }}
     [entityFilter, sentimentFilter, platformFilter].forEach(el => el.addEventListener('change', applyFilters));
-    copyShareLink.addEventListener('click', async () => {{
-      if (location.protocol === 'file:') {{
-        alert('当前是本地 file 页面，别人无法通过这个地址访问。请先发布到 GitHub Pages，公开链接形如 https://YangLurong0424.github.io/<repo-name>/');
-        return;
-      }}
-      try {{
-        await navigator.clipboard.writeText(location.href);
-        const oldText = copyShareLink.textContent;
-        copyShareLink.textContent = '已复制';
-        setTimeout(() => copyShareLink.textContent = oldText, 1400);
-      }} catch (error) {{
-        prompt('复制这个公开链接：', location.href);
-      }}
-    }});
-    translatePage.addEventListener('click', () => {{
-      if (location.protocol === 'file:') {{
-        alert('本地 file 页面无法被在线翻译服务读取。发布到 GitHub Pages 后，再点这个按钮即可打开中文翻译版。');
-        return;
-      }}
-      const url = 'https://translate.google.com/translate?sl=auto&tl=zh-CN&u=' + encodeURIComponent(location.href);
-      window.open(url, '_blank', 'noopener');
-    }});
   </script>
 </body>
 </html>
@@ -1127,6 +1113,82 @@ def platform_options(items: list[dict[str, Any]]) -> str:
     return "".join(f'<option value="{html_escape(name)}">{html_escape(name)}</option>' for name in names)
 
 
+TRANSLATION_GLOSSARY = [
+    (r"\bstablecoins?\b", "稳定币"),
+    (r"\bstable coin(s)?\b", "稳定币"),
+    (r"\bCircle\b", "Circle"),
+    (r"\bUSDC\b", "USDC"),
+    (r"\bTether\b", "Tether"),
+    (r"\bUSDT\b", "USDT"),
+    (r"\bRobinhood\b", "Robinhood"),
+    (r"\bcrypto\b", "加密货币"),
+    (r"\bbitcoin\b", "比特币"),
+    (r"\bethereum\b", "以太坊"),
+    (r"\bmarket cap\b", "市值"),
+    (r"\bdominance\b", "主导地位"),
+    (r"\breserves?\b", "储备"),
+    (r"\breserve attestation\b", "储备证明"),
+    (r"\baudit(s|ed|ing)?\b", "审计"),
+    (r"\battestation(s)?\b", "证明报告"),
+    (r"\bregulation(s)?\b", "监管"),
+    (r"\bregulated\b", "受监管"),
+    (r"\blegislation\b", "立法"),
+    (r"\bbill\b", "法案"),
+    (r"\bSEC\b", "美国 SEC"),
+    (r"\bCFTC\b", "美国 CFTC"),
+    (r"\bDOJ\b", "美国 DOJ"),
+    (r"\bMiCA\b", "欧盟 MiCA"),
+    (r"\bsanction(s|ed)?\b", "制裁"),
+    (r"\blawsuit(s)?\b", "诉讼"),
+    (r"\binvestigation(s)?\b", "调查"),
+    (r"\bdepeg(ging)?\b", "脱锚"),
+    (r"\bredeem(s|ed|ing)?\b", "赎回"),
+    (r"\bredemption(s)?\b", "赎回"),
+    (r"\bliquidity\b", "流动性"),
+    (r"\bfreeze(s|d|ing)?\b", "冻结"),
+    (r"\bblacklist(s|ed|ing)?\b", "黑名单"),
+    (r"\bhack(s|ed|ing)?\b", "黑客攻击"),
+    (r"\bfraud\b", "欺诈"),
+    (r"\bbankruptcy\b", "破产"),
+    (r"\blaunch(es|ed|ing)?\b", "推出"),
+    (r"\bpartnership(s)?\b", "合作"),
+    (r"\bintegrat(e|es|ed|ion|ions)\b", "集成"),
+    (r"\badoption\b", "采用"),
+    (r"\bgrowth\b", "增长"),
+    (r"\brevenue\b", "收入"),
+    (r"\bprofit(s)?\b", "利润"),
+    (r"\bapproval\b", "批准"),
+    (r"\blicensed\b", "获牌照"),
+    (r"\bexchange(s)?\b", "交易所"),
+    (r"\bwallet(s)?\b", "钱包"),
+    (r"\bDeFi\b", "DeFi"),
+    (r"\busers?\b", "用户"),
+    (r"\breport(s|ed)?\b", "报道"),
+    (r"\bsays?\b", "表示"),
+    (r"\bamid\b", "在……背景下"),
+    (r"\bover\b", "关于"),
+    (r"\bafter\b", "之后"),
+    (r"\bbefore\b", "之前"),
+]
+
+
+def inline_chinese_summary(item: dict[str, Any]) -> str:
+    text = clean_text(f"{item.get('title', '')}. {item.get('snippet', '')}", limit=240)
+    if not text:
+        return "暂无摘要。"
+
+    translated = text
+    for pattern, replacement in TRANSLATION_GLOSSARY:
+        translated = re.sub(pattern, replacement, translated, flags=re.I)
+    translated = re.sub(r"\s+", " ", translated).strip()
+
+    entities = "、".join(item.get("entities", [])) or "相关主题"
+    sentiment_label = {"risk": "风险/监管信号", "positive": "积极进展", "neutral": "中性动态"}.get(
+        item.get("sentiment", "neutral"), "中性动态"
+    )
+    return f"{sentiment_label}：涉及 {entities}。{translated}"
+
+
 def render_item_card(item: dict[str, Any], tz: ZoneInfo) -> str:
     sentiment = item["sentiment"]
     sentiment_label = {"risk": "风险/监管", "positive": "积极进展", "neutral": "中性"}.get(sentiment, sentiment)
@@ -1136,6 +1198,7 @@ def render_item_card(item: dict[str, Any], tz: ZoneInfo) -> str:
     snippet = item.get("snippet") or ""
     if len(snippet) > 260:
         snippet = snippet[:259].rstrip() + "..."
+    zh_summary = inline_chinese_summary(item)
     return f"""
       <article class="item {html_escape(sentiment)}" data-entities="{html_escape(entity_data)}" data-sentiment="{html_escape(sentiment)}" data-platform="{html_escape(item["platform"])}">
         <div class="meta">
@@ -1145,6 +1208,7 @@ def render_item_card(item: dict[str, Any], tz: ZoneInfo) -> str:
           <span class="badge sentiment-{html_escape(sentiment)}">{html_escape(sentiment_label)}</span>
         </div>
         <h3><a href="{html_escape(item["url"])}" target="_blank" rel="noopener">{html_escape(item["title"])}</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>{html_escape(zh_summary)}</p>
         <p class="snippet">{html_escape(snippet)}</p>
         <div class="meta">
           {render_badges(entities)}

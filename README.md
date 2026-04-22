@@ -43,11 +43,9 @@ The local `file:///D:/Codex/skill/docs/index.html` preview only works on this co
 https://YangLurong0424.github.io/<repo-name>/
 ```
 
-The page includes a **复制分享链接** button. It copies the current public URL once the site is hosted.
-
 ## Chinese Translation
 
-The page includes a **中文翻译** button. On a public GitHub Pages URL, it opens the current report through Google Translate. On a local `file:///` preview, it shows a reminder because online translation services cannot read local files.
+The page displays an inline **中文要点** line for each item. It is generated locally from the original title/snippet with a stablecoin and regulation glossary, so it does not depend on a paid translation API or an external translation page.
 
 ## GitHub Pages Setup
 

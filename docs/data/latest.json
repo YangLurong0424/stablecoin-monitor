@@ -1,6 +1,6 @@
 {
   "date": "2026-04-22",
-  "generated_at": "2026-04-22T03:35:13.316334+00:00",
+  "generated_at": "2026-04-22T03:43:50.490917+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
@@ -21,7 +21,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 63.21
+      "score": 63.11
     },
     {
       "title": "Tether Asserts Stablecoin Dominance Over Circle's USDC Amid Major Crypto Hacks - Decrypt",
@@ -40,7 +40,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 54.36
+      "score": 54.26
     },
     {
       "title": "💳 BitMartCard now supports direct exchange of #USDCx @AleoHQ @Aleo_Asia.",
@@ -58,7 +58,7 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 48.53
+      "score": 48.45
     },
     {
       "title": "Tether’s $127.5M Drift bailout prompts USDC to USDT switch, stability questioned - Crypto Briefing",
@@ -76,7 +76,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 47.05
+      "score": 46.95
     },
     {
       "title": "USDT supply hits fresh $188b ATH as Tether tightens grip on stablecoins - crypto.news",
@@ -94,7 +94,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 45.41
+      "score": 45.31
     },
     {
       "title": "Best USDT Casinos USA (2026) – Top Tether Casino Sites - MovieMaker Magazine",
@@ -111,7 +111,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 43.99
+      "score": 43.89
     },
     {
       "title": "Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product ...",
@@ -129,7 +129,7 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 43.7
+      "score": 43.62
     },
     {
       "title": "Tether Mints $1B USDT, Cements 58% Stablecoin Market Grip - Yellow.com",
@@ -147,7 +147,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 43.41
+      "score": 43.31
     },
     {
       "title": "Ramp Integrates Tether USDT With Feeless USD Onramps and Offramps - FinanceFeeds",
@@ -164,7 +164,7 @@
         "USDT"
       ],
       "sentiment": "positive",
-      "score": 43.06
+      "score": 42.96
     },
     {
       "title": "Tether Drops $1B USDT on Ethereum – Liquidity Surge Incoming? - Live Bitcoin News",
@@ -181,7 +181,7 @@
         "USDT"
       ],
       "sentiment": "risk",
-      "score": 42.29
+      "score": 42.19
     },
     {
       "title": "The CEO of the company that issues USDC just said China will probably launch a yuan stablecoin within five years.",
@@ -199,7 +199,7 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 41.6
+      "score": 41.52
     },
     {
       "title": "Tether Liquidity Surge – $2 Billion in USDT Minted on Ethereum in Just 48 Hours - BlockchainReporter",
@@ -216,7 +216,23 @@
         "USDT"
       ],
       "sentiment": "risk",
-      "score": 41.54
+      "score": 41.44
+    },
+    {
+      "title": "12 European Banks Plan MiCA-Compliant Euro Stablecoin, Target 2026 Launch - Live Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVllwMHdiMHNwODFldk4xOTYzdTcxM3FXOFI5eWtCOWpqRzBWNUUzRklIcmQ2a214Wmsxb1dCVlBxNkZ5aDNKYmxCSTVPcFlob1NGV1V4a2VSbXI0M0lhdWF6WTN5S2NLdjhHRHR1ZU9ESFN6Nlg4SWIwZjRNU3o2LVpIZjI0eEZlNWg3dkFCcHJ4MUloTE1RNnFfNmdfSFpIQU1la2N5RUI?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-04-21T22:35:48+00:00",
+      "snippet": "12 European Banks Plan MiCA-Compliant Euro Stablecoin, Target 2026 Launch Live Bitcoin News",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 41.15
     },
     {
       "title": "Tether Issues $1 Billion USDT on Ethereum - MEXC",
@@ -233,7 +249,7 @@
         "USDT"
       ],
       "sentiment": "risk",
-      "score": 40.27
+      "score": 40.17
     },
     {
       "title": "Nium partners with Coinbase to enable USDC stablecoin payments across its platform - FX News Group",
@@ -250,7 +266,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 39.75
+      "score": 39.65
     },
     {
       "title": "Tether: Asserts Dominance Over USDC Amid Hacks - blockchain.news",
@@ -267,7 +283,7 @@
         "Tether"
       ],
       "sentiment": "neutral",
-      "score": 39.6
+      "score": 39.5
     },
     {
       "title": "Circle tops crypto stocks with 30% gain as stablecoin growth outpaces Coinbase slump - Cryptonews.net",
@@ -284,7 +300,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 39.57
+      "score": 39.47
     },
     {
       "title": "buying USDT between 50-499 amount, payment method: cash deposit machine( sbi,icici , and others)",
@@ -301,7 +317,7 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 38.73
+      "score": 38.65
     },
     {
       "title": "Tron News: Tether USDT Supply Hits ATH as TRX Eyes $0.35 Retest - The Coin Republic",
@@ -318,7 +334,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 38.69
+      "score": 38.59
     },
     {
       "title": "Prediction markets are the new secret weapon for Coinbase and Robinhood growth",
@@ -334,7 +350,7 @@
         "Robinhood"
       ],
       "sentiment": "risk",
-      "score": 38.09
+      "score": 37.99
     },
     {
       "title": "Pornhub drops USDT for USDC - Protos | Informed crypto news",
@@ -351,7 +367,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 38.0
+      "score": 37.9
     },
     {
       "title": "Nium Announced Partnership With Coinbase To Enable Usdc Stablecoin Payments Across Its Platform - TradingView",
@@ -368,7 +384,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 37.81
+      "score": 37.71
     },
     {
       "title": "TRON Integrates LI.FI Protocol, Unlocking Cross-Chain Access to Global Stablecoin Liquidity - Cryptopolitan",
@@ -384,7 +400,7 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 37.75
+      "score": 37.65
     },
     {
       "title": "USDT Supply On Tron Hits Record $86.7 Billion As Stablecoin Demand Surges - BlockchainReporter",
@@ -401,7 +417,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 37.17
+      "score": 37.07
     },
     {
       "title": "Hormuz Bitcoin, USDT Tolls Face Crypto Scam Threat As Hackers Clone Iran’s System - CoinGape",
@@ -417,7 +433,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 36.82
+      "score": 36.72
     },
     {
       "title": "CRCL Stock Tests $100 Support Level After Freedom Capital Issues Cautious ‘Hold’ Rating - Stocktwits",
@@ -433,7 +449,7 @@
         "Circle"
       ],
       "sentiment": "risk",
-      "score": 35.64
+      "score": 35.54
     },
     {
       "title": "BIS Warns USDT & USDC Expansion Risks Asian Banking Sector: What Does It Mean for Crypto Investors? - KuCoin",
@@ -450,7 +466,7 @@
         "USDT"
       ],
       "sentiment": "risk",
-      "score": 35.5
+      "score": 35.4
     },
     {
       "title": "European banks tap Fireblocks for MiCA-compliant euro stablecoin",
@@ -466,7 +482,7 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 35.4
+      "score": 35.31
     },
     {
       "title": "Coins.ph Pioneers Stablecoin Payment Utility in the Philippines with First-of-its-Kind QRPh Integration",
@@ -484,7 +500,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 35.23
+      "score": 35.15
     },
     {
       "title": "Tether Minted 1 Billion USDT: On-chain Trading Grinding Back - Cryptonews",
@@ -501,7 +517,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 35.15
+      "score": 35.05
     },
     {
       "title": "Kalshi takes on Coinbase, Robinhood with new plan to offer crypto perpetual futures: The Information",
@@ -517,23 +533,7 @@
         "Robinhood"
       ],
       "sentiment": "risk",
-      "score": 35.0
-    },
-    {
-      "title": "UK Stablecoin Regulation: Bold New Framework Unifies Digital Payments for 2025 - MEXC",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LbXJ1VlRDTmtKRThoT2pIOWo0OGdxNE9jaDRBbGVETE5lWUFOazYwTU5BZFplLW5HMTR2SjFqZGRyaTdacHZtWA?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-04-21T15:06:43+00:00",
-      "snippet": "UK Stablecoin Regulation: Bold New Framework Unifies Digital Payments for 2025 MEXC",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 34.7
+      "score": 34.91
     },
     {
       "title": "Tether Mints 2B USDT on Ethereum - blockchain.news",
@@ -550,7 +550,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 34.69
+      "score": 34.59
     },
     {
       "title": "Money20/20 Europe just dropped their stablecoin panel lineup and it's about what you'd expect",
@@ -568,7 +568,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 34.47
+      "score": 34.39
     },
     {
       "title": "Nium taps Coinbase to add USDC into global payments network",
@@ -585,7 +585,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 33.95
+      "score": 33.87
     },
     {
       "title": "Nium Brings USDC Settlements to 190 Countries - CoinMarketCap",
@@ -601,7 +601,7 @@
         "USDC"
       ],
       "sentiment": "neutral",
-      "score": 33.82
+      "score": 33.72
     },
     {
       "title": "Tether Treasury Mints 1 Billion USDT, Impact on Southeast Asian Markets - Intellectia AI",
@@ -618,7 +618,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 33.76
+      "score": 33.66
     },
     {
       "title": "Peter Thiel-backed Ramp Adds Zero-fee USDT and USD Swaps Across Its Suite Today - CoinCentral",
@@ -634,7 +634,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 33.53
+      "score": 33.43
     },
     {
       "title": "Security Company Warns! “Beware of Bitcoin (BTC) and USDT Demand in the Strait of Hormuz!” - Cryptonews.net",
@@ -650,7 +650,7 @@
         "USDT"
       ],
       "sentiment": "risk",
-      "score": 33.17
+      "score": 33.07
     },
     {
       "title": "Coinbase Partners With Nium on Global USDC Payouts - Blockonomi",
@@ -666,7 +666,7 @@
         "USDC"
       ],
       "sentiment": "neutral",
-      "score": 32.68
+      "score": 32.58
     },
     {
       "title": "Coins.ph Launches First Stablecoin QRPH Payments Across Philippines - Live Bitcoin News",
@@ -682,7 +682,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 32.6
+      "score": 32.5
     },
     {
       "title": "Coinbase and Nium Bring USDC Cross-Border Payments to 190+ Countries - Live Bitcoin News",
@@ -698,7 +698,7 @@
         "USDC"
       ],
       "sentiment": "neutral",
-      "score": 32.45
+      "score": 32.35
     },
     {
       "title": "BurjX Expands Stablecoin Infrastructure Under ADGM Regulation - PR Newswire",
@@ -714,7 +714,7 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 32.14
+      "score": 32.04
     },
     {
       "title": "Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product suite - The Block",
@@ -730,7 +730,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 32.03
+      "score": 31.93
     },
     {
       "title": "Crypto's great hope in Senate's Clarity Act still has a path to survive tight calendar",
@@ -746,7 +746,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 31.72
+      "score": 31.63
     },
     {
       "title": "Tryramp, A Financial Operations Platform, Now Supports USDT On Solana",
@@ -763,7 +763,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 30.9
+      "score": 30.82
     },
     {
       "title": "Nium Integrates Coinbase To Expand Stablecoin Payments Infrastructure - FinanceFeeds",
@@ -779,7 +779,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 30.89
+      "score": 30.79
     },
     {
       "title": "Anzens Partners with Credit Bank to Bring USDA into a licensed commercial bank's cross-border settlement services.",
@@ -795,7 +795,23 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 30.81
+      "score": 30.73
+    },
+    {
+      "title": "European banks pick Fireblocks for regulated euro stablecoin project - crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnhIUzlUMHE5YUx6UW02QUo1SmF4dXYzTHNSY2xOUl9wZUZNd2I3aklhdm5mMWtibFlxMW9tVV9yVWVXZ1NjNEtvVm41WHh6Y3RqYkxYdmRvTm9sZU1ISklXcVEwQ2hVc2RnOThnSlhFenFELUFwcXp0TkF5amo3OWlQdl9SeXhINEVjS3V3OHpKeDQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-04-21T08:51:06+00:00",
+      "snippet": "European banks pick Fireblocks for regulated euro stablecoin project crypto.news",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 30.68
     },
     {
       "title": "UK tables stablecoin carveout from crypto regime ahead of payments reform",
@@ -811,7 +827,7 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 30.7
+      "score": 30.62
     },
     {
       "title": "European Banks Announce Launch of Euro Stablecoin - ForkLog",
@@ -827,7 +843,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 30.6
+      "score": 30.5
     },
     {
       "title": "N3XT Debuts Tokenized Dollar As Stablecoin Race Intensifies - Yellow.com",
@@ -843,7 +859,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 30.54
+      "score": 30.44
     },
     {
       "title": "Tether Printer — Indicator by ralis24 - TradingView",
@@ -859,7 +875,7 @@
         "Tether"
       ],
       "sentiment": "neutral",
-      "score": 30.36
+      "score": 30.26
     },
     {
       "title": "RedotPay Integrates SUI and USDC-Sui to Enable Seamless Stablecoin-based Payments and Global Payouts - GlobeNewswire",
@@ -876,7 +892,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 30.25
+      "score": 30.15
     },
     {
       "title": "UK Treasury to integrate stablecoins into payments framework - Crypto Briefing",
@@ -892,7 +908,23 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 30.09
+      "score": 29.99
+    },
+    {
+      "title": "UK to overhaul payments rule to push stablecoins into mainstream finance - Invezz",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1NJZ201OTFyNDVCaFUzSjg5X014QTVMc19qYV9lMVE1UzB2RzZqQ1ZRTjM4NGd1SnFtRzFuN1lMWk91TVUxbVU2bmM5QzFZVXFBRVJsb3dQS3hBRnVuMURQV0lhVUx0T09ZSEE0WnoySENsS3JXRU9aRG40RGNrMG81TDJmVi0yVDV6a0lSQlRKcGViZTBxRmg3eUQtYVEtejFCcTkzR0JzUW0ySFV6TQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-04-21T15:43:54+00:00",
+      "snippet": "UK to overhaul payments rule to push stablecoins into mainstream finance Invezz",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.98
     },
     {
       "title": "Invite friends and profit from information together.",
@@ -908,7 +940,7 @@
         "USDT"
       ],
       "sentiment": "positive",
-      "score": 30.06
+      "score": 29.98
     },
     {
       "title": "UK sets out plan to integrate payments rules covering stablecoins and tokenized deposits - The Block",
@@ -924,7 +956,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 29.79
+      "score": 29.69
     },
     {
       "title": "USDT Now Live on Solana, Plasma, and Ethereum With 1:1 USD Onramps and Offramps: Privy and Ramp - thedefiant.io",
@@ -940,7 +972,23 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 29.69
+      "score": 29.59
+    },
+    {
+      "title": "Adrian Wall of DSA Advances Stablecoin Policy Discussion at Blockchain and Fintech Conference at Harvard - Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnVnMFBLWWR6V2xPTS05aHZwbGNXWGhrMHJ4R2wzUjVOMEx2Y082cXJRa3I2bjd0R2dzcVloU3VtZjYyeFhyMEstLWcxM3lIQV9CWm5WQkJhemVQd3c1WV9abHVSQm5QU013M1k0enMzZ0FVblZHY3JoYm1MV3FHUzkyYkFOeFhtQXhuTW4zWWNIOGtabWh5R1RNc1ZxZjBjWFp5MHBwQUxkZ3BGTndFa2pKSTlKTEQxR1U2U19ubHhRRzlNMTBiSTFR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-04-21T15:00:33+00:00",
+      "snippet": "Adrian Wall of DSA Advances Stablecoin Policy Discussion at Blockchain and Fintech Conference at Harvard Bitcoin News",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.53
     },
     {
       "title": "USDT Supply on Tron Hits Record $86.7B - MEXC",
@@ -956,7 +1004,23 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 29.61
+      "score": 29.51
+    },
+    {
+      "title": "UK Moves to Regulate Stablecoins and Tokenized Deposits - CoinCentral",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMXpQajZaalNabjBTQVBIa0JLcm53dHFpdG8tM1BacmhESzlOTHJ4UTJDTTBKYkpfNWNCYm50SWJsMy1vWEs2X0toTDRFdHdHVXcxWGNjN1BZS19MT2NULVN2QkotWHhHMWhKV3ByY2xUX0NVMms0S3dnb0piT0RMVVJaSVNJN0U?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-04-21T14:44:09+00:00",
+      "snippet": "UK Moves to Regulate Stablecoins and Tokenized Deposits CoinCentral",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.36
     },
     {
       "title": "DoorDash to offer stablecoin payments to users via Tempo blockchain",
@@ -972,7 +1036,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 29.09
+      "score": 29.01
     },
     {
       "title": "UK plans payments rule changes for stablecoins, tokenized deposits - TradingView",
@@ -988,7 +1052,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 29.07
+      "score": 28.97
     },
     {
       "title": "Nium and Coinbase partner on global stablecoin settlement - Finextra Research",
@@ -1004,7 +1068,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 29.0
+      "score": 28.9
     },
     {
       "title": "CLARITY Act: Tillis Pushes Markup to May Amid Stablecoin Yield Dispute - The Coin Republic",
@@ -1020,7 +1084,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 28.8
+      "score": 28.7
     },
     {
       "title": "Bank of Korea's New Governor Prioritizes CBDCs Over Stablecoins in First Policy Address - Decrypt",
@@ -1036,7 +1100,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 28.4
+      "score": 28.3
     },
     {
       "title": "Nium and Coinbase Partner to Power Global Stablecoin Payments and Settlement - PR Newswire",
@@ -1052,7 +1116,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 28.38
+      "score": 28.28
     },
     {
       "title": "Iran Scammers Demand Bitcoin, USDT for Transit Through Strait of Hormuz: Report - Decrypt",
@@ -1068,7 +1132,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 28.15
+      "score": 28.05
     },
     {
       "title": "KAIO Raises $8M From Tether, Systemic Ventures to Tokenize Institutional Funds - CoinGape",
@@ -1084,7 +1148,7 @@
         "Tether"
       ],
       "sentiment": "neutral",
-      "score": 27.9
+      "score": 27.8
     },
     {
       "title": "Kalshi takes on Coinbase (COIN), Robinhood (HOOD) with new plan to offer crypto perpetual futures",
@@ -1100,7 +1164,7 @@
         "Robinhood"
       ],
       "sentiment": "neutral",
-      "score": 27.5
+      "score": 27.42
     },
     {
       "title": "Circle Stock Price Forecast After New CLARITY Act Update - MEXC",
@@ -1116,7 +1180,7 @@
         "Circle"
       ],
       "sentiment": "neutral",
-      "score": 27.49
+      "score": 27.39
     },
     {
       "title": "Compass Point Just Downgraded Circle (CRCL); So Why Is It Still Among the Best Ethereum Stocks to Buy? - Yahoo Finance",
@@ -1132,7 +1196,7 @@
         "Circle"
       ],
       "sentiment": "neutral",
-      "score": 27.09
+      "score": 26.99
     },
     {
       "title": "Circle Launches Solution to Simplify Cross-Chain USDC Transfers - Bitget",
@@ -1149,7 +1213,7 @@
         "USDC"
       ],
       "sentiment": "positive",
-      "score": 26.88
+      "score": 26.78
     },
     {
       "title": "DoorDash is bringing stablecoin payments to masses with Stripe-backed blockchain",
@@ -1165,7 +1229,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 26.86
+      "score": 26.77
     },
     {
       "title": "UK to Tighten Payments Rules for Stablecoins, Tokenized Deposits",
@@ -1181,7 +1245,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 26.58
+      "score": 26.5
     },
     {
       "title": "Stables and Mansa to bridge Asia’s 60% global stablecoin flow as banks sit out - CryptoRank",
@@ -1197,7 +1261,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 26.55
+      "score": 26.45
     },
     {
       "title": "The global battle over stablecoins heats up - TheBanker.com",
@@ -1213,7 +1277,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 26.41
+      "score": 26.31
     },
     {
       "title": "Nium Taps Coinbase to Expand USDC Payouts Across Global Network - Fintech Singapore",
@@ -1229,7 +1293,23 @@
         "USDC"
       ],
       "sentiment": "neutral",
-      "score": 26.35
+      "score": 26.25
+    },
+    {
+      "title": "Twelve Major Banks Back Qivalis Euro Stablecoin, Tapping Fireblocks For Infrastructure - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fLTJVcV95bmRBTlBUNWI0MnpDNDdLckNTLURjbWd6MUJBLXQ2NG5QbEE4RmFqY01mdUF4ZU92ZG4xRFNEMGZDU3U3TEtrOTI5OC1XUnNRQmQ5MDVJZmFPeWhEWTl6WGMxQXNDamlQWWE1dw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-04-21T09:42:03+00:00",
+      "snippet": "Twelve Major Banks Back Qivalis Euro Stablecoin, Tapping Fireblocks For Infrastructure Yellow.com",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.22
     },
     {
       "title": "New USDT Supply Record on Tron Coincides with TRX Yearly Hig",
@@ -1246,7 +1326,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 26.0
+      "score": 25.92
     },
     {
       "title": "Hong Kong awards first stablecoin licenses to HSBC and Standard Chartered - Elliptic",
@@ -1262,7 +1342,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 25.7
+      "score": 25.6
     },
     {
       "title": "Cryptorank: the largest stablecoins by market capitalization launched this year",
@@ -1278,7 +1358,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 25.66
+      "score": 25.58
     },
     {
       "title": "A dozen banks want a euro stablecoin. Fireblocks is making it happen - CoinDesk",
@@ -1294,7 +1374,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 25.26
+      "score": 25.16
     },
     {
       "title": "Fake Hormuz clearance offers in Bitcoin and Tether target stranded shipowners - Cryptopolitan",
@@ -1310,7 +1390,7 @@
         "Tether"
       ],
       "sentiment": "neutral",
-      "score": 25.01
+      "score": 24.91
     },
     {
       "title": "Crypto scammers offer ‘safe passage’ through Hormuz. At least one ship may have been conned.",
@@ -1326,7 +1406,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 24.68
+      "score": 24.59
     },
     {
       "title": "Bank of Korea’s new governor signals CBDC and bank token push, skips stablecoins in key address",
@@ -1342,7 +1422,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 24.47
+      "score": 24.38
     },
     {
       "title": "Philippines’ stablecoin ambitions face regulatory hurdles - TheBanker.com",
@@ -1358,7 +1438,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 24.22
+      "score": 24.12
     },
     {
       "title": "DoorDash to Pay Delivery Workers in Stablecoins via Stripe's Tempo Blockchain",
@@ -1374,7 +1454,23 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 24.16
+      "score": 24.08
+    },
+    {
+      "title": "TRON Powers $2T in USDT Transfers in Q1; CoinDesk and Messari Research Highlight AI, Institutional Growth - Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZMMXo0eDFIV1d5TUVaY1F4a0w5T2lEWDFjbndHU2pNZnlOZ1BMdG5feGQ0dm56czZSaWd0eEo5cHhiZ0FaY2ZQTlVoOTh5VVk4dzRvdmp6OWhOWkFFcWcyOE95VGpXQ3lXQVltT0dQeU1JLTJGN1FkR3FIekJrUllLU00tYmVFS2R1Qzh0X0hwSFB1Nkt5ZUk4cGdTTVhqSm1yTDJ3Rmp6LWhyZFc0OHY5Znh5Y2R6VDdOTDRwaWN2WG1VeDc4?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-04-21T02:09:26+00:00",
+      "snippet": "TRON Powers $2T in USDT Transfers in Q1; CoinDesk and Messari Research Highlight AI, Institutional Growth Bitcoin News",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 23.38
     },
     {
       "title": "DoorDash Teams Up with Tempo on Stablecoin Payments for Its Global Marktplace",
@@ -1390,7 +1486,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 23.15
+      "score": 23.08
     },
     {
       "title": "Elon Musk helped write the law governing his own payment app, dismantled the regulator that would police it, and is now launching a stablecoin. Senator Warren has some questions.",
@@ -1406,7 +1502,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 23.14
+      "score": 23.06
     },
     {
       "title": "Scammers demand crypto from stranded ships in Strait of Hormuz: Report",
@@ -1422,7 +1518,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 22.21
+      "score": 22.12
     },
     {
       "title": "Bank of Korea governor backs CBDCs, deposit tokens in first address",
@@ -1438,23 +1534,23 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 21.67
+      "score": 21.59
     },
     {
-      "title": "TRON Powers $2T in USDT Transfers in Q1; CoinDesk and Messari Research Highlight AI, Institutional Growth - TMX Newsfile",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMlMzeEZLdWpxYWlvZk5RWTFtaWlwcDlCSUV6eFF3ZUc1bmZvcy1WN3B3akV3bnNORWFodGRhQU9kTTZicUxHaW5vVVpFRGxNWTJLSnhDcnkwMGJOMG44dFlSWmtGcFNJY2phYk1fTF91RVl0RXF3UkMwUUY2eU5zajVrNmFWZUNnWkFLVjMta1ZLTlhHVnpTdWh5M2dweTZKTk9iWUZ5NmlFaTRKYTBhTFJveXhGOU1od1Q0YzFDTmlZOTRHVVFsaTFMaWJfbXN2MmhzdWl5OFRCOWFpanZ3?oc=5",
+      "title": "BIS Official Flags $320 Billion Stablecoin Market as Financial Stability Concern - Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDRBYmNUUl9wemFDWGI3Q2lQaUVkSDF4YXBwUTZHNmhwMEJjc0dtWEZHdGpudENYWW96cmpYbkI0ZGlxUzh5eWdRVG5LY3BMMWxTcmV3cEFjNHA2Mkd1ZDlpT1VseE96b2tyS1dzbFdpTUtsMjcwZmNDbm1Fdm16N3VnZTRZLTl4VlVYSUpZcW9sTi1CM09kLUVyUzVNTmFvaENPSFNjTWE?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-04-20T22:34:00+00:00",
-      "snippet": "TRON Powers $2T in USDT Transfers in Q1; CoinDesk and Messari Research Highlight AI, Institutional Growth TMX Newsfile",
+      "published": "2026-04-21T01:49:26+00:00",
+      "snippet": "BIS Official Flags $320 Billion Stablecoin Market as Financial Stability Concern Bitcoin News",
       "author": "",
-      "query": "Tether USDT",
+      "query": "stablecoin regulation",
       "engagement": 0,
       "entities": [
-        "USDT"
+        "Stablecoin"
       ],
-      "sentiment": "positive",
-      "score": 21.23
+      "sentiment": "neutral",
+      "score": 21.29
     },
     {
       "title": "Coinbase just launched crypto-backed loans in the UK… here’s what you actually need to know",
@@ -1470,7 +1566,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 21.22
+      "score": 21.14
     },
     {
       "title": "TRON Daily Report – 2026-04-21: TRX Is Pacing The Cage At $0.329 While TRON’s $87.24B Stablecoin Monster Waits For The Next Rip",
@@ -1486,7 +1582,23 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 20.62
+      "score": 20.54
+    },
+    {
+      "title": "BIS says global split in stablecoin rules will fuel arbitrage and fragment cross-border markets - Cryptopolitan",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pZDViMVBWaUtJdnFVLWR5SVN2RWxNWGFINjNiVXp3Q0JDOW9mQzVrTWh4MDYwS0xQQkZGX1dtNjhmNE5wNTZuVFRWUWd4VzlERmI1bDg3clJ2UFlnQnNPejR4VmRJakl4ZnpIenFMY2VpMkJyQjZ1djJ3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-04-20T21:24:00+00:00",
+      "snippet": "BIS says global split in stablecoin rules will fuel arbitrage and fragment cross-border markets Cryptopolitan",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 18.53
     },
     {
       "title": "Tether backs UAE tokenization firm KAIO in $8M funding round to bring Emirati funds onchain - CoinDesk",
@@ -1502,7 +1614,7 @@
         "Tether"
       ],
       "sentiment": "neutral",
-      "score": 17.91
+      "score": 17.81
     },
     {
       "title": "Tether takes 8.2% stake in Bitcoin mining finance platform Antalpha - Cryptonews.net",
@@ -1518,7 +1630,7 @@
         "Tether"
       ],
       "sentiment": "neutral",
-      "score": 17.91
+      "score": 17.81
     },
     {
       "title": "USDT’s Rise in Lebanon Is Accelerating an Unseen Dollar Drain - Middle East Transparent",
@@ -1534,7 +1646,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 17.23
+      "score": 17.13
     },
     {
       "title": "Tether Takes 8.2% Stake in Bitmain-Linked Antalpha - Bitbo",
@@ -1550,7 +1662,7 @@
         "Tether"
       ],
       "sentiment": "neutral",
-      "score": 16.66
+      "score": 16.56
     },
     {
       "title": "Coinbase says USDT deposits on Arbitrum, Polygon networks are temporarily unavailable - marketscreener.com",
@@ -1566,7 +1678,7 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 15.65
+      "score": 15.55
     },
     {
       "title": "BIS Urges Global Cooperation for Stablecoin Rules to Avoid “Severe” Fragmentation - The Full FX",
@@ -1582,40 +1694,24 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 15.37
-    },
-    {
-      "title": "Tether discloses nearly 2 million-share stake in Bitmain-linked Antalpha - The Block",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQW1PeWNfeDB3Tlo0MFNaX2dFaTRtV3FBWXhUVUFaWWFycXJYVmZMSVozQXVDR1ZzeUVoVnVYcDNVUVNxTU9CRW1FcnpuazVranIxR1dmR3FfZ2M1UzU1WFhpdkxoU3JVWnI3MVFzclk0Y3AwYUc3YnZfemlmTTVfZ2NKSTJVRXg1endaX2lGdUlmLTdSX1ctNE1jWFU1UTc3d1owcA?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-04-20T15:42:43+00:00",
-      "snippet": "Tether discloses nearly 2 million-share stake in Bitmain-linked Antalpha The Block",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether"
-      ],
-      "sentiment": "neutral",
-      "score": 15.07
+      "score": 15.27
     }
   ],
   "summary": {
     "entity_counts": {
       "Circle": 10,
       "USDC": 19,
-      "Tether": 24,
+      "Tether": 23,
       "USDT": 34,
-      "Stablecoin": 52,
+      "Stablecoin": 59,
       "Robinhood": 3
     },
     "platform_counts": {
-      "News RSS": 67,
+      "News RSS": 73,
       "Reddit": 17,
       "RSS Feed": 13
     },
-    "risk_count": 18,
+    "risk_count": 19,
     "top_risks": [
       {
         "title": "💳 BitMartCard now supports direct exchange of #USDCx @AleoHQ @Aleo_Asia.",
@@ -1633,7 +1729,7 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 48.53
+        "score": 48.45
       },
       {
         "title": "Peter Thiel-backed unicorn Ramp rolls out $0 conversions between USDT and dollars across product ...",
@@ -1651,7 +1747,7 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 43.7
+        "score": 43.62
       },
       {
         "title": "Tether Drops $1B USDT on Ethereum – Liquidity Surge Incoming? - Live Bitcoin News",
@@ -1668,7 +1764,7 @@
           "USDT"
         ],
         "sentiment": "risk",
-        "score": 42.29
+        "score": 42.19
       },
       {
         "title": "The CEO of the company that issues USDC just said China will probably launch a yuan stablecoin within five years.",
@@ -1686,7 +1782,7 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 41.6
+        "score": 41.52
       },
       {
         "title": "Tether Liquidity Surge – $2 Billion in USDT Minted on Ethereum in Just 48 Hours - BlockchainReporter",
@@ -1703,7 +1799,23 @@
           "USDT"
         ],
         "sentiment": "risk",
-        "score": 41.54
+        "score": 41.44
+      },
+      {
+        "title": "12 European Banks Plan MiCA-Compliant Euro Stablecoin, Target 2026 Launch - Live Bitcoin News",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVllwMHdiMHNwODFldk4xOTYzdTcxM3FXOFI5eWtCOWpqRzBWNUUzRklIcmQ2a214Wmsxb1dCVlBxNkZ5aDNKYmxCSTVPcFlob1NGV1V4a2VSbXI0M0lhdWF6WTN5S2NLdjhHRHR1ZU9ESFN6Nlg4SWIwZjRNU3o2LVpIZjI0eEZlNWg3dkFCcHJ4MUloTE1RNnFfNmdfSFpIQU1la2N5RUI?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-04-21T22:35:48+00:00",
+        "snippet": "12 European Banks Plan MiCA-Compliant Euro Stablecoin, Target 2026 Launch Live Bitcoin News",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 41.15
       },
       {
         "title": "Tether Issues $1 Billion USDT on Ethereum - MEXC",
@@ -1720,7 +1832,7 @@
           "USDT"
         ],
         "sentiment": "risk",
-        "score": 40.27
+        "score": 40.17
       },
       {
         "title": "buying USDT between 50-499 amount, payment method: cash deposit machine( sbi,icici , and others)",
@@ -1737,7 +1849,7 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 38.73
+        "score": 38.65
       },
       {
         "title": "Prediction markets are the new secret weapon for Coinbase and Robinhood growth",
@@ -1753,7 +1865,7 @@
           "Robinhood"
         ],
         "sentiment": "risk",
-        "score": 38.09
+        "score": 37.99
       },
       {
         "title": "TRON Integrates LI.FI Protocol, Unlocking Cross-Chain Access to Global Stablecoin Liquidity - Cryptopolitan",
@@ -1769,7 +1881,7 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 37.75
+        "score": 37.65
       },
       {
         "title": "CRCL Stock Tests $100 Support Level After Freedom Capital Issues Cautious ‘Hold’ Rating - Stocktwits",
@@ -1785,7 +1897,7 @@
           "Circle"
         ],
         "sentiment": "risk",
-        "score": 35.64
+        "score": 35.54
       },
       {
         "title": "BIS Warns USDT & USDC Expansion Risks Asian Banking Sector: What Does It Mean for Crypto Investors? - KuCoin",
@@ -1802,29 +1914,13 @@
           "USDT"
         ],
         "sentiment": "risk",
-        "score": 35.5
-      },
-      {
-        "title": "European banks tap Fireblocks for MiCA-compliant euro stablecoin",
-        "url": "https://cointelegraph.com/news/european-banks-tap-fireblocks-for-mica-compliant-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph",
-        "platform": "RSS Feed",
-        "published": "2026-04-21T08:01:03+00:00",
-        "snippet": "A 12-bank European consortium led by Qivalis is partnering with Fireblocks to develop a regulated euro stablecoin under MiCA, targeting launch in the second half of 2026.",
-        "author": "Cointelegraph by Christina Comben",
-        "query": "",
-        "engagement": 0,
-        "entities": [
-          "Stablecoin"
-        ],
-        "sentiment": "risk",
         "score": 35.4
       }
     ],
     "narratives": [
       {
         "entity": "Stablecoin",
-        "count": 52,
+        "count": 59,
         "headline": "News Explorer — Pornhub Is Dumping Tether's USDT Stablecoin for Circle's USDC: Report - Decrypt",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXhNbFpTNDVTQjQwWkFhZ2gwRFlUak9VZDRFQmNiQ3RFdjV0Sml4NTVlTnhqbGJydGwtY1lHbEVxa3BrMXN2bTRjLXZmWl80Z0VCdS1fUGhYUVNpbW52ZVRmNW9ubEZxQTNSMnBJeUEtd01YSFYxRGVGSXpXVnNfeThXYTQ4a2tuNGFGeGJLbTVaZDFneWRQMzVfXzJlZldjSEk2MzIwSzJ4TG5tWTdydUM0NVVLWlNaMkZkYg?oc=5"
       },
@@ -1836,7 +1932,7 @@
       },
       {
         "entity": "Tether",
-        "count": 24,
+        "count": 23,
         "headline": "News Explorer — Pornhub Is Dumping Tether's USDT Stablecoin for Circle's USDC: Report - Decrypt",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXhNbFpTNDVTQjQwWkFhZ2gwRFlUak9VZDRFQmNiQ3RFdjV0Sml4NTVlTnhqbGJydGwtY1lHbEVxa3BrMXN2bTRjLXZmWl80Z0VCdS1fUGhYUVNpbW52ZVRmNW9ubEZxQTNSMnBJeUEtd01YSFYxRGVGSXpXVnNfeThXYTQ4a2tuNGFGeGJLbTVaZDFneWRQMzVfXzJlZldjSEk2MzIwSzJ4TG5tWTdydUM0NVVLWlNaMkZkYg?oc=5"
       },
@@ -1864,8 +1960,8 @@
     {
       "name": "Google News",
       "ok": true,
-      "fetched": 843,
-      "kept": 67,
+      "fetched": 837,
+      "kept": 73,
       "message": ""
     },
     {
