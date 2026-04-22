@@ -1,5 +1,6 @@
 name: Update Stablecoin Monitor
 
+# Builds the public daily dashboard and publishes the docs directory to Pages.
 on:
   schedule:
     # GitHub cron uses UTC. 00:00 UTC is 08:00 Beijing time.
