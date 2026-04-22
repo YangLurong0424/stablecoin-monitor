@@ -759,7 +759,14 @@ def render_html(payload: dict[str, Any], config: dict[str, Any]) -> str:
       background: var(--surface);
       color: var(--text);
       font-size: 14px;
+      font-family: inherit;
       box-shadow: var(--shadow);
+      cursor: pointer;
+    }}
+    .button.primary {{
+      border-color: #b7cee5;
+      background: var(--blue-soft);
+      color: var(--blue);
     }}
     main {{ padding: 24px 0 40px; }}
     section {{
@@ -1003,6 +1010,8 @@ def render_html(payload: dict[str, Any], config: dict[str, Any]) -> str:
       <div class="actions">
         <a class="button" href="{archive_path}" target="_blank" rel="noopener">latest.json</a>
         <a class="button" href="archive/{html_escape(payload["date"])}.json" target="_blank" rel="noopener">archive.json</a>
+        <button class="button primary" id="copyShareLink" type="button">复制分享链接</button>
+        <button class="button primary" id="translatePage" type="button">中文翻译</button>
       </div>
     </div>
   </header>
@@ -1066,6 +1075,8 @@ def render_html(payload: dict[str, Any], config: dict[str, Any]) -> str:
     const entityFilter = document.getElementById('entityFilter');
     const sentimentFilter = document.getElementById('sentimentFilter');
     const platformFilter = document.getElementById('platformFilter');
+    const copyShareLink = document.getElementById('copyShareLink');
+    const translatePage = document.getElementById('translatePage');
     const cards = Array.from(document.querySelectorAll('.item[data-entities]'));
     function applyFilters() {{
       const entity = entityFilter.value;
@@ -1079,6 +1090,28 @@ def render_html(payload: dict[str, Any], config: dict[str, Any]) -> str:
       }});
     }}
     [entityFilter, sentimentFilter, platformFilter].forEach(el => el.addEventListener('change', applyFilters));
+    copyShareLink.addEventListener('click', async () => {{
+      if (location.protocol === 'file:') {{
+        alert('当前是本地 file 页面，别人无法通过这个地址访问。请先发布到 GitHub Pages，公开链接形如 https://YangLurong0424.github.io/<repo-name>/');
+        return;
+      }}
+      try {{
+        await navigator.clipboard.writeText(location.href);
+        const oldText = copyShareLink.textContent;
+        copyShareLink.textContent = '已复制';
+        setTimeout(() => copyShareLink.textContent = oldText, 1400);
+      }} catch (error) {{
+        prompt('复制这个公开链接：', location.href);
+      }}
+    }});
+    translatePage.addEventListener('click', () => {{
+      if (location.protocol === 'file:') {{
+        alert('本地 file 页面无法被在线翻译服务读取。发布到 GitHub Pages 后，再点这个按钮即可打开中文翻译版。');
+        return;
+      }}
+      const url = 'https://translate.google.com/translate?sl=auto&tl=zh-CN&u=' + encodeURIComponent(location.href);
+      window.open(url, '_blank', 'noopener');
+    }});
   </script>
 </body>
 </html>
