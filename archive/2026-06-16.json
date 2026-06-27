@@ -1,0 +1,950 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T05:09:15.904878+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "Monero Activity Surge Triggers Major USDT Freeze by Tether, as HyperEVM Powers Record $4.4B USDC Transfer Between Circle and Coinbase - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGJOVWVJajlDTFhqMVlKZWpPTU4zN1FoaUJoQWtTbWpWUV9fRWNDOVRhbXBFQUw2VGZaTmlVU3E1SmVaRWNMMWlUMHlhc3E2Z0lGZmpXMEtxWXFiWE03cnZvTV9jZ3pIdllvMHVXdC03d2Fsc0JwNm1iM2xOUHpzeHdQU1hVQ3JQZkNEMFBaUUwtcTZNazBDM1oyMENLOUs2TEhYbDd3aHVVbk01QzFaWEcwczF2dHkyNU9UNkFINTRsWFh1dFhPYzI0V2kxWUxGVmt3TEZfcUl2SExWZHBrTUxQc0lORWdhSlFkaA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T13:50:27+00:00",
+      "snippet": "Monero Activity Surge Triggers Major USDT Freeze by Tether, as HyperEVM Powers Record $4.4B USDC Transfer Between Circle and Coinbase Tekedia",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 55.42
+    },
+    {
+      "title": "USDC vs USDT: What’s the Difference and Which Stablecoin Is Better? - WEEX",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2RGYTdiUElDXzdzUzZWa0l4WHFUd3BFQ1VUa2xGQ2ZwalNwOXN1THFFM1FwMTE5a0oyUXN2bW41X2hzYy1FMFprbHplS1hjZGM2SW1icGRIbWREaHZsTEMzMDdrVVJUYWdJYmgxVWV0ZlFZbkxXTUhhSVlsNWNaSHp1UVpkSk1QRnl4dzNqUkU3QUJDYjF6SFdkeTJ5d3diNXd4S05tOFNoZ0Y0b1ROZjdBZmhRS25IXzNVZlEtQmk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T13:08:07+00:00",
+      "snippet": "USDC vs USDT: What’s the Difference and Which Stablecoin Is Better? WEEX",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 42.48
+    },
+    {
+      "title": "Did Tether just freeze $72M in USDT with no link to a hack in Monero money laundering sting? - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1JMbE1oR2tSa2Z1Tnk2RDJxMEt6UWstUk1ldUN3NEp4NFdFcUZBOTBDOGlvc24wV3ZZTXdPbTFENzY4Nm5rY25neXNCMUQ5alhiRzNqU0RvMjF3Z3RlWkU5dDRrSThvYjY3TjRzRVJ2R18zazNGTW1RN1lQdTFSSVJIZVhSTjZPWFpHd0lkZXNEWnJKSC1LSFBkSUlqN3NGQTFvaFlKVDhKQWJVU1Jn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T11:45:24+00:00",
+      "snippet": "Did Tether just freeze $72M in USDT with no link to a hack in Monero money laundering sting? CryptoSlate",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 39.12
+    },
+    {
+      "title": "Stablecoin Value Distribution: From Issuers to Real-World Integration - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnBWUXZCSXNnY0NOYXI3Tjl0aF9LMXBZajJmd1gzbkJ1eDc0ajQzRE55bkdQamVJVC0zb3BrRlhWdEdlOHNiOWI0N0gxaElKNWlIZmtqbW5aQ0RrSEo3Qm9ocEVlSk0xNTFtbG1WV2M1cWlPSDFsMjVYUExfdTRja2NhWWs5SnNXUXphbHZON3R4YjlzWUFzLUhhelNTejgwTkwxOA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T16:50:59+00:00",
+      "snippet": "Stablecoin Value Distribution: From Issuers to Real-World Integration KuCoin",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 36.68
+    },
+    {
+      "title": "Three Mechanisms, One Policy: Monetary Sovereignty in Cross-Border Stablecoin Regulation - Sites@Duke Express",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMjA4ZWZ0SG5qYlUzZFZsY1BmUmpOVjRRQXJkWEx3OEhVdF9jYzQtOENRZm5DZUVYZW9zZVZOc0R0ZjZlcjFjM0JNMGxBZzR3UktqTTYwNEMzcVZYZVBPMUpXOWNsQ0hkN1hXb0NiS1lLV0ZmYzM3YUR6QUw5YjI3RTZXQk4ya3FXcHlMU21rVmw2ME5WVlo1SWxfeXdnOUktUVRHeWhrS2VIRlVtVTJMUFRUNzgxVTVLTnE2V2xQU2hIX3pFdkFGREN5YnF5dV9p?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T19:36:49+00:00",
+      "snippet": "Three Mechanisms, One Policy: Monetary Sovereignty in Cross-Border Stablecoin Regulation Sites@Duke Express",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 36.53
+    },
+    {
+      "title": "Upbit lists SPX6900 with KRW, BTC, and USDT pairs, expanding trading options for South Korean and global traders. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLXBiOHZ3MjVLcjBNVF9EODU4LVFrcE9hZDZGQWVzaDBLTjJ6NFRjTXBIdFE0cFVEcTI1UmNTdkxXSXlXdmR2WXl2azBnMEkwN2FTajFrbHpvSFdsZzNrVmhvVFBlcno1ZFBUeXE1SnZmU2cwVUlzRlJsYmU2b3IzTXE0UldrLWtrTDRXVkF3MWlFR1U?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-16T03:10:10+00:00",
+      "snippet": "Upbit lists SPX6900 with KRW, BTC, and USDT pairs, expanding trading options for South Korean and global traders. Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 36.25
+    },
+    {
+      "title": "Banking Circle: Navigating the Hybrid World of Fiat and Stablecoins - Fintech Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX1VOWUpSbHN6WnBlVVFBOC1Ibzl5ZE9lbG5KTHRORlBvY19ITnFkZ3hJa2hMSm9RUUVlQ2tROWZCcUhWMGNxMDFzSUVTZW9HXzdkSWw5SWRDUjdHYVJwM3drSkVuVUozcVJhcFFVS0VIUVRzNDQyM1I1QlFkTTc4dU9qdjdDNUdGLTFMeHZ6OTNnc1FCY05Hbk5ETTlTMjVOUkFJQVJaY3UyUG85YWo5TmhfWFQzUmNQZHpUTWN1VHFQeHFFQy1WbzlLUzNVTDVuc1BTZGhiM3R3eW9u?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T14:44:46+00:00",
+      "snippet": "Banking Circle: Navigating the Hybrid World of Fiat and Stablecoins Fintech Finance",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 35.99
+    },
+    {
+      "title": "NYDFS previews proposed stablecoin rules aligning with GENIUS Act - JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX21ucmlocjVsTzFfa2lFcmZTVG9kal8xMzdOcTlLQzVldDRDZDd3QkpVYWhyYkNTSkJuQnVmYU02NE1ST0JUblItcGIzNmpHaG9KMXFOSjBYMWpuS21OallONnpndThrczFFazBVLV9uaF81MEI2WFU2YlpzU0JQaGNjUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T18:24:40+00:00",
+      "snippet": "NYDFS previews proposed stablecoin rules aligning with GENIUS Act JD Supra",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 35.78
+    },
+    {
+      "title": "Tether's $187 Billion USDT Briefly Overtakes Ether - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUxQazU5cjVETG1rbm9QV3czT0EwR3Z4WERrTXc1U3ZpaUs5cGxyRzNOQjNFc1A5dGd5NlNDSzdlTlB2VU9ad3NjejNSSS1KWmVQTmRjNjJXZ1FDalZ4UHEzUEhEbnlIQ2hXZGZCQ1dYMXVSUkNSRjBUbjQwMnlZeFVJb2RFRlVxNVdjWlAtQWtNOFFUVXp1cks1VldMYjRhbTB1TEZHRVFDRW5QVGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T13:51:02+00:00",
+      "snippet": "Tether's $187 Billion USDT Briefly Overtakes Ether TradingView",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 35.43
+    },
+    {
+      "title": "MassPay and Coinbase Ink Strategic Stablecoin Partnership - Finovate",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0VJeV9tR2FtaG15T0FQcU10NzhkVnFVNUVFT1NUOXhZQTZWam14R0dNaHRrVEw0UjlqZmFmSFJSUTlkcDdrbGhuOHZ3UFZtVjQyLUJHWUt0bXM2UDNXeFZ6TW5IbmJobEVobUlfVWRCaXZFR3B3LU9vSUEtODNMei0xNkJoUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T22:47:28+00:00",
+      "snippet": "MassPay and Coinbase Ink Strategic Stablecoin Partnership Finovate",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 35.39
+    },
+    {
+      "title": "What Is USDC? A Beginner’s Guide to the USD Coin Stablecoin in 2026 - WEEX",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjVDRzZvdVRIaEFrem1xVzJEWGhjYXF4bWRKRTcwbjljVDNVYVA3Rl8xRTA3TnRqZWtpd2FkNXJidUNzb3NRZ3RRT2hSaXBieGRMQzlKRzgtQkxPa0JKVXhtM3ltUl9UZVF3cmEyTHZYM0RzT2FaRmlPVXEtc1VwM2dmNG91NGRWVy01czRQVXRsN1BVd2Z2eXktNDdTYmtpOHdlejEyUDVtQWJfa2tnVjUzSDRWcnREcUpUMEpPaWhVUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T13:08:08+00:00",
+      "snippet": "What Is USDC? A Beginner’s Guide to the USD Coin Stablecoin in 2026 WEEX",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.98
+    },
+    {
+      "title": "Ripple's RLUSD on Top 9 Stablecoin List: New Milestone Reached - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94THNzM3A2aGtWaUtiNUZLUURjT1drQ2xWQkJpdkJnYzBlVll5MFNFSjVpa1hPVGhkemVJWlV0NlcyOU0wVURWVzAzaTdDSTlqMTVEUkpZT2tYZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T21:41:16+00:00",
+      "snippet": "Ripple's RLUSD on Top 9 Stablecoin List: New Milestone Reached Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 32.82
+    },
+    {
+      "title": "Notabene Flow vs other payment authorization and dispute resolution providers",
+      "url": "https://www.reddit.com/r/TrustedReviewNetwork/comments/1u6gdpx/notabene_flow_vs_other_payment_authorization_and/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-15T13:18:09+00:00",
+      "snippet": "When evaluating payment authorization and dispute resolution providers for stablecoin B2B payments, the market is suddenly crowded. Circle Payments Network (CPN), Stripe Crypto after its Bridge acquisition, BVNK, Sphere, Conduit, and others all promise faster, cheaper cross-border settlements. The problem is that most of these solutions are closed networks tied to a single stablecoin issuer or require you to stitch together separate compliance, invoicing, and payment rails. Notabene Flow, launc...",
+      "author": "/u/shaillanea",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 32.07
+    },
+    {
+      "title": "MassPay Integrates Coinbase Stablecoin Infrastructure - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LU0JjbW1sdjdOQy05VXFTVFdxclgtRVo5U3Z5ZlVveXVTUFljS21hNW90NndBN2hrZFhhdzhEanItYWtMenprc0RBYjl5WVY3WUZraERUWDM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T16:46:43+00:00",
+      "snippet": "MassPay Integrates Coinbase Stablecoin Infrastructure Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 31.63
+    },
+    {
+      "title": "Paradigm Leads $9 Million Round in Latin American Stablecoin App El Dorado - thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUhBTlJIUHdzWlE5MnZwTjRmeWVoOEhtWk9sZW5vNjBYeGVzYlgwWV9sVlhtV1hFMDhMMkFvMWIyaEprNjFwck1FTDdickR0blpfcFV4X3NmdEVhQ2ZjUzhKWGhoai02U2F6YS1walNsMlVLeG8xeGtlSllmYlVhQW50V1N4ZVJEZzR2WnBiTXpyR1U3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T17:37:30+00:00",
+      "snippet": "Paradigm Leads $9 Million Round in Latin American Stablecoin App El Dorado thedefiant.io",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.29
+    },
+    {
+      "title": "UK bankers see stablecoins as ‘important’ to growth strategy - thebanker.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1leFR6OF80bVBoUl9LSEFmTHlkQkExaWEySEhxRVlReTROeTBzQkM1LTU1M2JyQUFObE1ub3dETE5TU0V0djBXbFhmNGRJZXF5akU0ZTVJeWU4ZXhxTWRiWHJLNEFZM3B5X1NZV0NVLXlEU0lwbDdwUmtR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T12:56:42+00:00",
+      "snippet": "UK bankers see stablecoins as ‘important’ to growth strategy thebanker.com",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 29.24
+    },
+    {
+      "title": "UK detains SMYRTOS tanker linked to Russia's shadow fleet, exposing stablecoin salary payments to crew - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMS0djVjFRbHdqUHZuT2hXWnd2ZlBoZExEbUJxaURfMEV1SmV1VExoZHc3d0VNTVdKSzRFMTdjZXRsWlFOZXlEVEZyYzFKdzVhM2YzMWJfVi1zdldmYzU4YmRYRTR0RVVDSXJKY2k1cW1TanRkQlBjNQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T15:09:01+00:00",
+      "snippet": "UK detains SMYRTOS tanker linked to Russia's shadow fleet, exposing stablecoin salary payments to crew Crypto Briefing",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.74
+    },
+    {
+      "title": "NC bill would regulate crypto banking, stablecoins - Carolina Journal",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVmhqZXNlNVRiZ3FIdmtPXzMwQnh5WTd6V2d6M0VxWUp3MnhkZE1JTjBFTkx4a3VlWm5VNERmVTNEcXlUR0xvSjhtZXQ5bG1UVnNHWElpUDZGamVfTk1BazUwREdhckQ0TVpHU1hNV0ZSd3Y1b01VOGdpdmNPUWlBZFh3ZUxISTR5UFE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T14:09:05+00:00",
+      "snippet": "NC bill would regulate crypto banking, stablecoins Carolina Journal",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.11
+    },
+    {
+      "title": "The Shadow Banking Risks Inside Stablecoin Ecosystems - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMk1TcWhmUFFHSWs4UU5MQ09IdTdxWTA2a3ZpQmU4M21wOXZLUDlSN0hCdnhkaWpCMzBncV80bG1lTkRkZlVsd0RCbGFvekU4cFRzZ1hwN1dqUW5weE43OVVMV08tWDgyWWlGUEpmMVRZa2Q5VXcxZ0ZGTnVBX3pQdEdVdDY?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T13:56:36+00:00",
+      "snippet": "The Shadow Banking Risks Inside Stablecoin Ecosystems Tekedia",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.98
+    },
+    {
+      "title": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
+      "url": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-06-15T22:10:00+00:00",
+      "snippet": "A spokesperson for the Democratic National Committee decried the move as “an opportunity to use the power of the presidency to make [Trump] and his family even richer.”",
+      "author": "Cointelegraph by Turner Wright",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.82
+    },
+    {
+      "title": "Notabene Flow red flags for payment authorization and dispute resolution",
+      "url": "https://www.reddit.com/r/ProductDiscoveryForum/comments/1u6gdmm/notabene_flow_red_flags_for_payment_authorization/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-15T13:18:03+00:00",
+      "snippet": "I’ve been evaluating Notabene Flow as a potential solution for stablecoin B2B payments, specifically around payment authorization and dispute resolution. The product launched in late 2025 as an open stablecoin B2B payment orchestration platform built on top of Notabene’s existing Travel Rule compliance network, which already processes over $1 trillion in compliant transactions across 2,000+ regulated VASPs. The core promise is compelling: a Stripe-level layer for invoicing, billing, and dispute...",
+      "author": "/u/Saparesee",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 27.57
+    },
+    {
+      "title": "If You Can’t Buy CRCL Stocks, What Are the Trading Alternatives? - WEEX",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQmJVTTEySE5WRTFZOVUzbEgyZDJqRFVKN2pGUVhwamFVUVUyMWtDQ0czWERVUjc0Yll3QzZWcmxXb2dlcjA4Vk8zTmMzOE11UkhqdnE0b1Izb2RtWHNRTEFPYjhzQ0cwXzBmWVZEcWpubTBPdm9KVmpEXzh1TmFEblMzMUJBb3NBbDM1eGt3b0FaYkNoX3E5UGxZMlU0d0EwTk9xMVV5Yk44cUtwX3FhSUxDQzc0THVhWWk1cQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T13:14:11+00:00",
+      "snippet": "If You Can’t Buy CRCL Stocks, What Are the Trading Alternatives? WEEX",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 27.54
+    },
+    {
+      "title": "Nine Months After Crypto Market’s Peak, Stablecoins Are Running the Show - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcTdpc1k5d1BIZ0thOEp4Skw2UDJPWlJuS1IydzdUbWZBZTc3NGhQMnR3a0xZNEZQc2lNbWFwUDEyVnVWRXpfY2x3UmxHUllhRF9XSU9hMUlTN2x5Q2FlRG0yZGlvZjFXWlNtVWt1dlota0JRVW9LaHBTUlBOT1hVcHk2WjY0UQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T12:56:13+00:00",
+      "snippet": "Nine Months After Crypto Market’s Peak, Stablecoins Are Running the Show CryptoRank",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.36
+    },
+    {
+      "title": "Trump-linked stablecoin used for bonus payouts at White House UFC contest",
+      "url": "https://www.coindesk.com/markets/2026/06/15/trump-linked-stablecoin-used-for-bonus-payouts-at-white-house-ufc-contest",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-06-15T08:09:53+00:00",
+      "snippet": "UFC Freedom 250 paid fighter bonuses in USD1, the stablecoin issued by the Trump-linked crypto venture World Liberty Financial, at a contest held at the White House.",
+      "author": "Shaurya Malwa",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 27.02
+    },
+    {
+      "title": "EU Exchange Shock: USDT Exit Triggers Market Shift - Coinfomania",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LWHpPSnBncWNaQVRvcnFnOGxHMV9MRHhrRk03blZ1dGc0amplVnY3UG1jdlBYbXBjelJ2c25Qd1pfWGduMHl1ejNXQWJWcF9pSHBJUnRhVnlXSDlqNFV3S1Y5NUFkc1Z2TUJMNS1hUnFrcFlvYk14d1F0a1dkMzg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T11:10:13+00:00",
+      "snippet": "EU Exchange Shock: USDT Exit Triggers Market Shift Coinfomania",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.25
+    },
+    {
+      "title": "Notabene Flow alternatives for built-in fatf travel rule compliance",
+      "url": "https://www.reddit.com/r/ShoppingReviewCenter/comments/1u6ge1b/notabene_flow_alternatives_for_builtin_fatf/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-15T13:18:28+00:00",
+      "snippet": "If you are evaluating Notabene Flow alternatives for built-in FATF Travel Rule compliance, the first thing to know is that Notabene Flow is the only open, protocol-agnostic stablecoin B2B payment orchestration platform that comes with Travel Rule compliance baked into the settlement layer. It sits on top of a network of over 2,000 regulated VASPs and enables pull payments on crypto rails, recurring subscriptions in stablecoins, instant settlement, invoicing, billing, and multi-party payment flo...",
+      "author": "/u/SalloivaeX",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 26.07
+    },
+    {
+      "title": "Crypto firms are paying stablecoin rewards despite a looming federal ban - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vV3dFaVRZRV9QajRCNkFkakwtRkcxSVdCTWd2TVlsRFA3ZTBObHFHalRxZnlsZHJkTVZ2Um01ck9DczZYZTZ0Y1FremtKUDRTTW9DcVVJdXp1cWRHVzdLYzViVHpET2xZ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T09:45:00+00:00",
+      "snippet": "Crypto firms are paying stablecoin rewards despite a looming federal ban The Logic",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.36
+    },
+    {
+      "title": "Stablecoin supply reaches $31.5B, but fails to spur crypto market recovery - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmJpRGtTckl2cGlSdzZyVUpTVWlwZVUxWHppbVdZWWtFYTd4ZW5sQU9ndWgwT2VLQUU3eEFnQkpFT0FzUXVVNnZhdnVPUENOYTZZamFPU193NVVOZVpzRHd3azdwM1dOQlEyQjRiS3BSR1ljUTdTRmxJdU8wQ0RPWWRUMVZIX2EwMmZ2c09iLVNjbjUwX3U2N2hEZUoxMncxWjNYcjQ5RQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T06:50:14+00:00",
+      "snippet": "Stablecoin supply reaches $31.5B, but fails to spur crypto market recovery KuCoin",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 23.54
+    },
+    {
+      "title": "Investigating Tether USDT-Brock Pierce, Bitfinex & MORE!! Cranfield University (jLTSmnHjOM) - Fathom Journal",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2aGxjR08zVnlnMUs3aGlQUHQ0VXZXb0U2bnZqQXQtMVc1eGlGUm5ZaEtJdDVyRk9qem5nSVpaU0hhYy13TTJ4aUY4NVhWOGhMUGJ6TUd1VUpZOUpDWVNkSU5wd1I4elBxU1E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-14T18:03:29+00:00",
+      "snippet": "Investigating Tether USDT-Brock Pierce, Bitfinex & MORE!! Cranfield University (jLTSmnHjOM) Fathom Journal",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.06
+    },
+    {
+      "title": "Circle Internet Group: The Crystallization of the Institutional Pivot and the Trillion-Dollar Stablecoin Horizon - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONllxdC1mQWdMbk1tMHFYM2lkajB6TGd1ZW1QOTZ2Rlc0R3kzeFh0ZnNVSXVFdFcyZ05BZzFOT0pIdGVXTEJOb0wyT1Q5b3N5Q1hMYUE4UVl4VXNyX0hteXZHQ0RtUlN2Qlp5b0ZielljY3RkZTFtR3psTVUwZTBJeUNmODNSSlhDYXBqaHN0TlBqQlJTeVJaYVhBMDEtVUhzd0d6Q1ZIVThCUG4zanZWS1ZvdnhXZVQ2Nl8tNXNTRG53by1z?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-14T17:18:29+00:00",
+      "snippet": "Circle Internet Group: The Crystallization of the Institutional Pivot and the Trillion-Dollar Stablecoin Horizon TradingKey",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 22.59
+    },
+    {
+      "title": "Why isn’t $315B stablecoin supply lifting crypto markets? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMTThHeElxSThfYk4yUDRIbFVaazVoMGNhQzM4YmY2NExvM2Fac1ZoZTZkMDlwTXN5aTFwYnkxbXl5MjU2ZE9uSjhJdDdhcXlORmh0U3RTTVJrRzg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-15T04:31:41+00:00",
+      "snippet": "Why isn’t $315B stablecoin supply lifting crypto markets? Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 22.1
+    },
+    {
+      "title": "Notabene Flow for buyers comparing invoicing and billing",
+      "url": "https://www.reddit.com/r/BrandFeedbackCenter/comments/1u6gdxv/notabene_flow_for_buyers_comparing_invoicing_and/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-15T13:18:21+00:00",
+      "snippet": "I spent the last few weeks evaluating stablecoin payment platforms specifically for B2B invoicing and billing workflows, and Notabene Flow came up repeatedly as a new option worth serious attention. If you are a finance team or treasury operator looking to move beyond traditional SWIFT wires or fragmented crypto payment stacks, the core question is whether an open stablecoin B2B payment orchestration platform can actually replace your existing invoicing and billing processes. Notabene Flow was...",
+      "author": "/u/Salllamandrr",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 22.07
+    },
+    {
+      "title": "Notabene Flow for beginners comparing payment authorization and dispute resolution",
+      "url": "https://www.reddit.com/r/CommunityOpinionHub/comments/1u6gdu5/notabene_flow_for_beginners_comparing_payment/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-15T13:18:15+00:00",
+      "snippet": "If you are just starting to evaluate stablecoin payment platforms and want to understand how payment authorization and dispute resolution actually work, Notabene Flow is probably the most complete option on the market right now. Payment authorization in the stablecoin B2B context means a payer initiates a transfer and the system checks available balance, compliance flags, and Travel Rule requirements before approving the settlement. Notabene Flow does this in real time across more than 2,000 re...",
+      "author": "/u/SalbestarXGaming",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 22.07
+    },
+    {
+      "title": "Best pull payments for stablecoins providers: where Notabene Flow fits",
+      "url": "https://www.reddit.com/r/BuyerKnowledgeHub/comments/1u6gdjh/best_pull_payments_for_stablecoins_providers/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-15T13:17:58+00:00",
+      "snippet": "I have been deep in the stablecoin B2B payment space for months, trying to find a provider that actually supports pull payments the way ACH or direct debit works in fiat. Most platforms still only let you push funds from one wallet to another, which is useless for recurring billing or subscription models. After comparing the main options, Notabene Flow came out ahead for my use case, so I wanted to share what I found for anyone else evaluating the market. When evaluating the best pull payments...",
+      "author": "/u/eidareha",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 22.07
+    },
+    {
+      "title": "SIREN Token Crashes 95% in a Week After Whale Sells 670M Tokens for $64.8M",
+      "url": "https://thedefiant.io/news/markets/siren-token-crash-whale-dump-92-percent-supply-64-8m",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-06-15T16:23:50+00:00",
+      "snippet": "A single dominant wallet offloaded roughly 92% of SIREN's total supply across two days, collecting $64.8 million in Tether and gutting the BNB Chain AI token.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 21.25
+    },
+    {
+      "title": "Sui Processes $65 Billion in Stablecoin Transfers in Five Days After Zeroing Out Fees",
+      "url": "https://thedefiant.io/converge/blockchains/sui-65-billion-stablecoin-transfers-gasless-fee-removal",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-06-15T16:08:41+00:00",
+      "snippet": "The Layer 1's gasless stablecoin design pushed transfer throughput to nearly $65 billion since June 10, recasting Sui as a fee-free settlement rail for institutional and agentic payments.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 21.14
+    },
+    {
+      "title": "Binance sees $83M daily USDT inflows on Ethereum, $101M outflows on Tron, signaling whale cross-chain moves. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDh5c0N2WG9VR3FwODJOX2dMSDBoMXYwbXE2NTV5ck1FcHR6MHByQ09fWHZxNlZJZEtMN2x4YklBZFNEbFc2U2J4UkxBWl9Tb1BfQWhNeFhLTjdsakhVSlRITWRkMVRvQjRETGdWV01uMWFfTEg4VkMyYlpodl9RMnJjeGNfNS1DYzBJT2QzeVNpbGFf?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-14T23:37:32+00:00",
+      "snippet": "Binance sees $83M daily USDT inflows on Ethereum, $101M outflows on Tron, signaling whale cross-chain moves. Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 19.04
+    },
+    {
+      "title": "Circle Internet Group Grew Revenue From $85 Million to $2.7 Billion in Four Years, But the Rate Cycle Has the Stock Down 74% - TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdElFdmh4eXpWNmFzY0QxbjBpU3Y5VlZIa09VV2xnYTRxYTJwN1I3S2RtdHZBVG00UjlscnR6RTJkMEh4Q2FSMVhSbXpjdk9zb1FnVnFSNnd2T2lUa29iZXZmbnR2WTNqemxmOUFGcHJiV3loTGFDdFhoU3o2SGFfY0tDVDNLR3dMWXpFWm85TFg5dk50R08ya2dlaU43Q0JXVFFuU0pLRVd4V1FfWXpndjI2MWtTZU5aQVVSVDFWV01MWGtiU1ZaTDAyUkpyWng3UVJ2SnBJdmtBcUF0Y240?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-14T17:57:01+00:00",
+      "snippet": "Circle Internet Group Grew Revenue From $85 Million to $2.7 Billion in Four Years, But the Rate Cycle Has the Stock Down 74% TIKR.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "positive",
+      "score": 17.36
+    },
+    {
+      "title": "CPI | Banking Groups Pitch Anti-Money Laundering Rules for Stablecoins - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUE4X0l0YS0wQm56cG9lZUVfQnYtT1FGMjRjY3AwdjBJSEhqVjFkSl93WFJIalF3NWpuemJQVjFfVjFIMkNjNXpBTmNJdF8tMjdJVXp2NzNPN04tOXA3eTl5bnBGT2M3OWhHbzhhMUNSTjFMTUw1OVlsWFc5NHo3RVdjVFc5a01TakVwRlExVVh2aWdKLUE5T1E3Y0VyOWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-14T17:53:54+00:00",
+      "snippet": "CPI | Banking Groups Pitch Anti-Money Laundering Rules for Stablecoins PYMNTS.com",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 15.46
+    },
+    {
+      "title": "World Liberty Financial Pays UFC Freedom 250 Fighters in USD1 at White House",
+      "url": "https://thedefiant.io/news/cefi/world-liberty-financial-usd1-ufc-freedom-250-white-house",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-06-14T21:14:07+00:00",
+      "snippet": "Trump-backed World Liberty Financial funded a $250,000 Performance of the Night bonus pool at UFC Freedom 250, distributing the awards in its USD1 stablecoin on the White House South Lawn.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 12.63
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 6,
+      "USDC": 3,
+      "Tether": 5,
+      "USDT": 8,
+      "Stablecoin": 30,
+      "Robinhood": 0
+    },
+    "platform_counts": {
+      "News RSS": 29,
+      "Reddit": 6,
+      "RSS Feed": 5
+    },
+    "risk_count": 9,
+    "top_risks": [
+      {
+        "title": "Monero Activity Surge Triggers Major USDT Freeze by Tether, as HyperEVM Powers Record $4.4B USDC Transfer Between Circle and Coinbase - Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGJOVWVJajlDTFhqMVlKZWpPTU4zN1FoaUJoQWtTbWpWUV9fRWNDOVRhbXBFQUw2VGZaTmlVU3E1SmVaRWNMMWlUMHlhc3E2Z0lGZmpXMEtxWXFiWE03cnZvTV9jZ3pIdllvMHVXdC03d2Fsc0JwNm1iM2xOUHpzeHdQU1hVQ3JQZkNEMFBaUUwtcTZNazBDM1oyMENLOUs2TEhYbDd3aHVVbk01QzFaWEcwczF2dHkyNU9UNkFINTRsWFh1dFhPYzI0V2kxWUxGVmt3TEZfcUl2SExWZHBrTUxQc0lORWdhSlFkaA?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-06-15T13:50:27+00:00",
+        "snippet": "Monero Activity Surge Triggers Major USDT Freeze by Tether, as HyperEVM Powers Record $4.4B USDC Transfer Between Circle and Coinbase Tekedia",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Tether",
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 55.42
+      },
+      {
+        "title": "Did Tether just freeze $72M in USDT with no link to a hack in Monero money laundering sting? - CryptoSlate",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1JMbE1oR2tSa2Z1Tnk2RDJxMEt6UWstUk1ldUN3NEp4NFdFcUZBOTBDOGlvc24wV3ZZTXdPbTFENzY4Nm5rY25neXNCMUQ5alhiRzNqU0RvMjF3Z3RlWkU5dDRrSThvYjY3TjRzRVJ2R18zazNGTW1RN1lQdTFSSVJIZVhSTjZPWFpHd0lkZXNEWnJKSC1LSFBkSUlqN3NGQTFvaFlKVDhKQWJVU1Jn?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-06-15T11:45:24+00:00",
+        "snippet": "Did Tether just freeze $72M in USDT with no link to a hack in Monero money laundering sting? CryptoSlate",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 39.12
+      },
+      {
+        "title": "Stablecoin Value Distribution: From Issuers to Real-World Integration - KuCoin",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnBWUXZCSXNnY0NOYXI3Tjl0aF9LMXBZajJmd1gzbkJ1eDc0ajQzRE55bkdQamVJVC0zb3BrRlhWdEdlOHNiOWI0N0gxaElKNWlIZmtqbW5aQ0RrSEo3Qm9ocEVlSk0xNTFtbG1WV2M1cWlPSDFsMjVYUExfdTRja2NhWWs5SnNXUXphbHZON3R4YjlzWUFzLUhhelNTejgwTkwxOA?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-06-15T16:50:59+00:00",
+        "snippet": "Stablecoin Value Distribution: From Issuers to Real-World Integration KuCoin",
+        "author": "",
+        "query": "USDC stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 36.68
+      },
+      {
+        "title": "Three Mechanisms, One Policy: Monetary Sovereignty in Cross-Border Stablecoin Regulation - Sites@Duke Express",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMjA4ZWZ0SG5qYlUzZFZsY1BmUmpOVjRRQXJkWEx3OEhVdF9jYzQtOENRZm5DZUVYZW9zZVZOc0R0ZjZlcjFjM0JNMGxBZzR3UktqTTYwNEMzcVZYZVBPMUpXOWNsQ0hkN1hXb0NiS1lLV0ZmYzM3YUR6QUw5YjI3RTZXQk4ya3FXcHlMU21rVmw2ME5WVlo1SWxfeXdnOUktUVRHeWhrS2VIRlVtVTJMUFRUNzgxVTVLTnE2V2xQU2hIX3pFdkFGREN5YnF5dV9p?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-06-15T19:36:49+00:00",
+        "snippet": "Three Mechanisms, One Policy: Monetary Sovereignty in Cross-Border Stablecoin Regulation Sites@Duke Express",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 36.53
+      },
+      {
+        "title": "NYDFS previews proposed stablecoin rules aligning with GENIUS Act - JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX21ucmlocjVsTzFfa2lFcmZTVG9kal8xMzdOcTlLQzVldDRDZDd3QkpVYWhyYkNTSkJuQnVmYU02NE1ST0JUblItcGIzNmpHaG9KMXFOSjBYMWpuS21OallONnpndThrczFFazBVLV9uaF81MEI2WFU2YlpzU0JQaGNjUQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-06-15T18:24:40+00:00",
+        "snippet": "NYDFS previews proposed stablecoin rules aligning with GENIUS Act JD Supra",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 35.78
+      },
+      {
+        "title": "Notabene Flow vs other payment authorization and dispute resolution providers",
+        "url": "https://www.reddit.com/r/TrustedReviewNetwork/comments/1u6gdpx/notabene_flow_vs_other_payment_authorization_and/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-06-15T13:18:09+00:00",
+        "snippet": "When evaluating payment authorization and dispute resolution providers for stablecoin B2B payments, the market is suddenly crowded. Circle Payments Network (CPN), Stripe Crypto after its Bridge acquisition, BVNK, Sphere, Conduit, and others all promise faster, cheaper cross-border settlements. The problem is that most of these solutions are closed networks tied to a single stablecoin issuer or require you to stitch together separate compliance, invoicing, and payment rails. Notabene Flow, launc...",
+        "author": "/u/shaillanea",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 32.07
+      },
+      {
+        "title": "Notabene Flow red flags for payment authorization and dispute resolution",
+        "url": "https://www.reddit.com/r/ProductDiscoveryForum/comments/1u6gdmm/notabene_flow_red_flags_for_payment_authorization/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-06-15T13:18:03+00:00",
+        "snippet": "I’ve been evaluating Notabene Flow as a potential solution for stablecoin B2B payments, specifically around payment authorization and dispute resolution. The product launched in late 2025 as an open stablecoin B2B payment orchestration platform built on top of Notabene’s existing Travel Rule compliance network, which already processes over $1 trillion in compliant transactions across 2,000+ regulated VASPs. The core promise is compelling: a Stripe-level layer for invoicing, billing, and dispute...",
+        "author": "/u/Saparesee",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 27.57
+      },
+      {
+        "title": "Trump-linked stablecoin used for bonus payouts at White House UFC contest",
+        "url": "https://www.coindesk.com/markets/2026/06/15/trump-linked-stablecoin-used-for-bonus-payouts-at-white-house-ufc-contest",
+        "source": "CoinDesk",
+        "platform": "RSS Feed",
+        "published": "2026-06-15T08:09:53+00:00",
+        "snippet": "UFC Freedom 250 paid fighter bonuses in USD1, the stablecoin issued by the Trump-linked crypto venture World Liberty Financial, at a contest held at the White House.",
+        "author": "Shaurya Malwa",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 27.02
+      },
+      {
+        "title": "Notabene Flow alternatives for built-in fatf travel rule compliance",
+        "url": "https://www.reddit.com/r/ShoppingReviewCenter/comments/1u6ge1b/notabene_flow_alternatives_for_builtin_fatf/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-06-15T13:18:28+00:00",
+        "snippet": "If you are evaluating Notabene Flow alternatives for built-in FATF Travel Rule compliance, the first thing to know is that Notabene Flow is the only open, protocol-agnostic stablecoin B2B payment orchestration platform that comes with Travel Rule compliance baked into the settlement layer. It sits on top of a network of over 2,000 regulated VASPs and enables pull payments on crypto rails, recurring subscriptions in stablecoins, instant settlement, invoicing, billing, and multi-party payment flo...",
+        "author": "/u/SalloivaeX",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 26.07
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 30,
+        "headline": "USDC vs USDT: What’s the Difference and Which Stablecoin Is Better? - WEEX",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa2RGYTdiUElDXzdzUzZWa0l4WHFUd3BFQ1VUa2xGQ2ZwalNwOXN1THFFM1FwMTE5a0oyUXN2bW41X2hzYy1FMFprbHplS1hjZGM2SW1icGRIbWREaHZsTEMzMDdrVVJUYWdJYmgxVWV0ZlFZbkxXTUhhSVlsNWNaSHp1UVpkSk1QRnl4dzNqUkU3QUJDYjF6SFdkeTJ5d3diNXd4S05tOFNoZ0Y0b1ROZjdBZmhRS25IXzNVZlEtQmk?oc=5"
+      },
+      {
+        "entity": "USDT",
+        "count": 8,
+        "headline": "Monero Activity Surge Triggers Major USDT Freeze by Tether, as HyperEVM Powers Record $4.4B USDC Transfer Between Circle and Coinbase - Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGJOVWVJajlDTFhqMVlKZWpPTU4zN1FoaUJoQWtTbWpWUV9fRWNDOVRhbXBFQUw2VGZaTmlVU3E1SmVaRWNMMWlUMHlhc3E2Z0lGZmpXMEtxWXFiWE03cnZvTV9jZ3pIdllvMHVXdC03d2Fsc0JwNm1iM2xOUHpzeHdQU1hVQ3JQZkNEMFBaUUwtcTZNazBDM1oyMENLOUs2TEhYbDd3aHVVbk01QzFaWEcwczF2dHkyNU9UNkFINTRsWFh1dFhPYzI0V2kxWUxGVmt3TEZfcUl2SExWZHBrTUxQc0lORWdhSlFkaA?oc=5"
+      },
+      {
+        "entity": "Circle",
+        "count": 6,
+        "headline": "Monero Activity Surge Triggers Major USDT Freeze by Tether, as HyperEVM Powers Record $4.4B USDC Transfer Between Circle and Coinbase - Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGJOVWVJajlDTFhqMVlKZWpPTU4zN1FoaUJoQWtTbWpWUV9fRWNDOVRhbXBFQUw2VGZaTmlVU3E1SmVaRWNMMWlUMHlhc3E2Z0lGZmpXMEtxWXFiWE03cnZvTV9jZ3pIdllvMHVXdC03d2Fsc0JwNm1iM2xOUHpzeHdQU1hVQ3JQZkNEMFBaUUwtcTZNazBDM1oyMENLOUs2TEhYbDd3aHVVbk01QzFaWEcwczF2dHkyNU9UNkFINTRsWFh1dFhPYzI0V2kxWUxGVmt3TEZfcUl2SExWZHBrTUxQc0lORWdhSlFkaA?oc=5"
+      },
+      {
+        "entity": "Tether",
+        "count": 5,
+        "headline": "Monero Activity Surge Triggers Major USDT Freeze by Tether, as HyperEVM Powers Record $4.4B USDC Transfer Between Circle and Coinbase - Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGJOVWVJajlDTFhqMVlKZWpPTU4zN1FoaUJoQWtTbWpWUV9fRWNDOVRhbXBFQUw2VGZaTmlVU3E1SmVaRWNMMWlUMHlhc3E2Z0lGZmpXMEtxWXFiWE03cnZvTV9jZ3pIdllvMHVXdC03d2Fsc0JwNm1iM2xOUHpzeHdQU1hVQ3JQZkNEMFBaUUwtcTZNazBDM1oyMENLOUs2TEhYbDd3aHVVbk01QzFaWEcwczF2dHkyNU9UNkFINTRsWFh1dFhPYzI0V2kxWUxGVmt3TEZfcUl2SExWZHBrTUxQc0lORWdhSlFkaA?oc=5"
+      },
+      {
+        "entity": "USDC",
+        "count": 3,
+        "headline": "Monero Activity Surge Triggers Major USDT Freeze by Tether, as HyperEVM Powers Record $4.4B USDC Transfer Between Circle and Coinbase - Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVGJOVWVJajlDTFhqMVlKZWpPTU4zN1FoaUJoQWtTbWpWUV9fRWNDOVRhbXBFQUw2VGZaTmlVU3E1SmVaRWNMMWlUMHlhc3E2Z0lGZmpXMEtxWXFiWE03cnZvTV9jZ3pIdllvMHVXdC03d2Fsc0JwNm1iM2xOUHpzeHdQU1hVQ3JQZkNEMFBaUUwtcTZNazBDM1oyMENLOUs2TEhYbDd3aHVVbk01QzFaWEcwczF2dHkyNU9UNkFINTRsWFh1dFhPYzI0V2kxWUxGVmt3TEZfcUl2SExWZHBrTUxQc0lORWdhSlFkaA?oc=5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 826,
+      "kept": 29,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 9,
+      "kept": 6,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 35,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 3,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "The read operation timed out"
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
