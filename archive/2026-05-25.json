@@ -1,0 +1,620 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T04:24:17.261639+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "Trump Order Puts Circle Valuation And USDC Federal Reserve Access In Focus - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDlUNEdTMHpZSFowU3d0aG1Ra2JqYjhYc2thYk03MHFCb0s3OWZoRzZWVzlBdi1tRGZTbUNtdmlsS19tTzRwaHlxV19VMEY0cU55TFNPSktEQnV0QXJIYjJWem9McmF4VHJhY0FoUXJsQkl2Wnp2a2Fya1FSVTRBcWNyd2dpMlktSHlLRTZTQ0FqVXlPb3V0OEFpSkVUSHc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T18:11:22+00:00",
+      "snippet": "Trump Order Puts Circle Valuation And USDC Federal Reserve Access In Focus Yahoo Finance",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 43.61
+    },
+    {
+      "title": "Kyrgyzstan Gold-Backed Stablecoin Enters Hong Kong’s Regulated Crypto Market - Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRkRuNUVQTlgwN3hXTTRYa2xnSzJUR0FtdHF0SjBhdGVXSVpsYVQ4X3JIOXozTHl5eXpUUkd3NERhZW1pRUR2N3JDSDZmX2NhQkJzYkZudDhYVVFzeF83cXpsWk4tRW1WN09SUHEwZjNsX2J5Mm5CTmtHamVfbUw0Nm4zb1U5c3JK?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T22:44:33+00:00",
+      "snippet": "Kyrgyzstan Gold-Backed Stablecoin Enters Hong Kong’s Regulated Crypto Market Crowdfund Insider",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.96
+    },
+    {
+      "title": "Sui Launches Gasless Stablecoin Transfers for USDC and FDUSD - Castle Crypto",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1puRk1SdlJWV050c2Q2bVFsYXpXTUVRSXVhZ3Bpa25mVHJ6SWJGSXVQTVMtOWRoMGk2SXdIUFNsbEZ3UjFPOUlkTGpKMEVUbjVNMDF2ZUs3OWNSOHh3b19oNXVQTFpjblJ0VHVXcTNwNTJLWEg0dHlySU1QTTlzdWpQS09HLV9FTXh2VWV4OUg4cERs?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T15:01:06+00:00",
+      "snippet": "Sui Launches Gasless Stablecoin Transfers for USDC and FDUSD Castle Crypto",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 38.5
+    },
+    {
+      "title": "Tether’s $141 billion Treasury pile reveals the stablecoin risk now embedded in US debt - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2U3ZTMEFvdl9hdGhOZVN1T2lfSHc5eXU0OC1mZGx6Q0tvY3FYck14WjVSM01mM2F4UkJHZzI2RUtLNVU5dnpsSTM5Q254azFaMWNEOVhZaUxoWFE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T15:39:18+00:00",
+      "snippet": "Tether’s $141 billion Treasury pile reveals the stablecoin risk now embedded in US debt Cryptonews.net",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 37.03
+    },
+    {
+      "title": "Stablecoin supply tops $300 billion but growth stalls; only USDT expands - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOWZTQnRWUnJHQlczNnppU2J1c2FsTDV0WXhHU2wtMnNPbTdNX3ZTV05HM1ktTkVDYzlSN2lQUnZ0Mm1UclJDMlcwUHNMV1hQNUF1VFlFOUU2S2VoeURrRkdGUENydHkzUlR4R0tIYzUzSHJ0QXQ5ZHR3dFFTUXNqRUZhUnN3S3JCLU9MSmdrVnk3d3R6Q2I1MnFLZ0NHLWFzYm91cFdiRGVOVkFTWThNczdxeEd3Zw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T06:29:22+00:00",
+      "snippet": "Stablecoin supply tops $300 billion but growth stalls; only USDT expands 디지털투데이",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 35.05
+    },
+    {
+      "title": "StablR Stablecoins Exploited, EURR and USDR Depeg After Minting Key Compromise - thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUlzSUpEV0c2MldKZWVuZmZOTVBndmRmSnduY1pnSkR4MnRBREtUVWhPby1QZkVhcW4xU2pZYU5QRGZzSG4zeUVWM0VzTTBfeTdSdkM3eExYRVVBY2RXZ1NKam5jeGRSSm1hZFhtRFNpRW9IT1YwNEloakF3VWVOcWNLYWwycEEtdXpscUhBTGRVY00wLTJRQ0x0SzVLVTRvQ3pEMDl3aUZERDhlRXJZ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T13:26:52+00:00",
+      "snippet": "StablR Stablecoins Exploited, EURR and USDR Depeg After Minting Key Compromise thedefiant.io",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 33.15
+    },
+    {
+      "title": "Plasma blockchain becomes second largest USDT0 stablecoin hub with $27B inflows since Sept 2025 launch - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlBwWEIxZ1o4Y1FsV1dsVS0xRERLYXpzOHJLbkIzdjlMZUtXSmUtbkc0RGxUZHg3T1MxSWN2dGJZbW5jM0FMcTdOVUhnWnZBTTBhQ0k2aVRKdG1SYl9tMnhQb2d0WDB0RHZUVUU5Q25aWEFMSEZ4Vm1KaGlTUVk2ODlSRjBvTE1aZl95bS1hVHVqRlgzOE8zMGF6YmFKUEE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T08:18:17+00:00",
+      "snippet": "Plasma blockchain becomes second largest USDT0 stablecoin hub with $27B inflows since Sept 2025 launch Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 31.81
+    },
+    {
+      "title": "Circle Agent Stack Launch Puts USDC At Center Of Agentic Economy - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTk4WW4ybm1PZFQ3aTVwZjlJcUdZOW9uWmhFZU1pdW5UaDkwZ0VxLXkyVTNvQXhINWY4elVVV3lFUjAzekotdDBIcFhQNHJDdVN0eUt5bHl0WUI2MkxUemRjRHVLamdoVURxSmlrS3JXSzBNSG1RNGpXdGxjVkZoVjQ1OF9GMTNMLVJLZjR2TmJrUkRKWGVVOG5tVFE4dk5xTkt4RE9UNHNNWHVOTF91NkVVZWhhYjVnSWxJUVZHZWNDNnhjb2NFbTZGdzhKZ1RYZmNTQtIB2gFBVV95cUxObnNRTEM5QXZQaDFRUUVJbG9fb1h3T1hndy12cXFEcVhURFBYQWtwVXloU3lIcGJmWENNd002dlcyZ3Jydm4xWXBma0RDM0F2bTdtZ282eXVsdlhIUTdsSXF3cFFxMmo5RHpia0xVcG1RQnNyeUYtMmNtTTExZllJNnBuZFZLaXBQNGZpenZDM2ExTG9PdU1BanpMRGZMeW94MDZHTlI4X0lvZXB0QVVLN1FkQWtCbHdxTzlZeS1nTW1hWS1KdkxWV2wyQUdoZlRiaDdPeENfelJBUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T03:56:15+00:00",
+      "snippet": "Circle Agent Stack Launch Puts USDC At Center Of Agentic Economy simplywall.st",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 31.58
+    },
+    {
+      "title": "FDIC Board Advances Proposed Bank Secrecy Act Rule for Stablecoin Issuers - Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWl9wX2VIc3pxSWkzWGJ2WVliNEZfaEozT05XTzBFU296MGdqaWlHOG5Hc0ZRODFMTXA2WEVrVEhMVG1maVZ3czdHY2x6VlRwUVBzOV84SnZodmllZVN1MlMtMTRxWkhkS3g5QmF6VDNJTGtacUxlbXNBaDhVbU5TTjZFTDlMQUptOFFJUVc3T0puel9fd01vaEF5Tl9yNU80?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T02:35:39+00:00",
+      "snippet": "FDIC Board Advances Proposed Bank Secrecy Act Rule for Stablecoin Issuers Bitcoin News",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 31.36
+    },
+    {
+      "title": "How Investors May Respond To Shift4 Payments (FOUR) Adding USDT Stablecoin Acceptance Through Lydian Partnership - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeC1BcnQ1WkFqTC0yUTR1XzJ5WlBoS1JjR0s3c3BvNk9VLWVIYTIyMHpWZWxseHJOR3hqTU10SVg3Z25QeHNabkZ4QzMyaDZkdDcwczdVVnpVMDFHVnlmSUVScDlRR1FpY3R4RmdkVU9BcGlFdGN6TjFrOUJjLS1mTUlMeklmRU5DUmVaanB3dGR0ZVpBc1FnT1hTSWE2WTJGYVY2VFU3QlNDcnRvQTU2LWlOSDVRVVZRcER2TnV3eGlfbE5qeVFLWFhCNkdxSV81REtvZDFLQnh2bWFCZzE00gHkAUFVX3lxTE83OHBBV1kxcGJsWl9CektJcms1dHhiSFZiZ0Z4VHhJSm0wb2lxeVAzVW5ldkN4V1FSLWUwTEtoRGowSk9ma0pGeFVNb0xET21EendrYlZWOVgtZEZLajlUXzRMUWFiZnJfa3ZQRE1UVmExUEtPQ19neHV1cVNNZXNvaDFoZVFHQ2FWM0g2ZnRtc3ZoaW50bUowYWNOSWZBS1g0Yy1sSElnVXZBbGFTSnlNOHY2SFpUWC1DR0lETXN2RjZsaFN4Unhnb1JORVluVE1pbGduZFJSUGd0NnVnZTRxVkZPRg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T02:32:09+00:00",
+      "snippet": "How Investors May Respond To Shift4 Payments (FOUR) Adding USDT Stablecoin Acceptance Through Lydian Partnership simplywall.st",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 30.7
+    },
+    {
+      "title": "Japan FSA Finalizes New Stablecoin and Crypto Intermediary Rules - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNE5DYklycjFBcEZOYTFyVU96NFIxaUxvWk91MjNzalNSZ1I4d2tMUlNqM29jdWtDeFkteU9zeHFoSWxpVXQ2TkgtOWNSd3lfdjNBbFp6bjFSUkxZcHdMTXBPc2ZfOEpTbC1XVVNlb1h6eDhxd0F4c2VWVjVVclh3bDVsWTdwWTdjWWxZbUFHVlZLZVRGUlBHbm1XcjdQQzA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T17:27:51+00:00",
+      "snippet": "Japan FSA Finalizes New Stablecoin and Crypto Intermediary Rules KuCoin",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.66
+    },
+    {
+      "title": "EURR Stablecoin Plummets After Hack Incident - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZW9BZnU0RXQ3VEZiN3Zjb0J1Rmh0bmVyLTluMzBJMlRybjZaaFBQVW5OOHdpd01wazBrSzRZTnFWNC1WUEgzbFJVdEhYVmVVWTZPQWVtRVZHTVdRekdySHNiV2h6LU94Wl9Wd3NHNjlaT19MX2NFc3VacXQteFVRS1M3YUxtQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T17:17:08+00:00",
+      "snippet": "EURR Stablecoin Plummets After Hack Incident Intellectia AI",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.55
+    },
+    {
+      "title": "Stablecoin Supply Climbs To $323B As Tether Keeps Expanding - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WWTl5VEYzZzFNVzZuN2hCTnN2aXdHX0hDcV9XeE1MRjdJSURFaHJzWVlIV3JrU2pNVWVTaGRiRHBnd0h0a1RDWWtwYld0OG5xZ1ZXN1NOZWtISGJpVDlTaFUwRDJ2bXl5eTBKSXpvd3I?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T04:37:39+00:00",
+      "snippet": "Stablecoin Supply Climbs To $323B As Tether Keeps Expanding Yellow.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.13
+    },
+    {
+      "title": "StablR stablecoins lose peg after $2.8M exploit via compromised private key on Ethereum. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0ZnZVpHeUlBbmVDa0d5QW9LaVkxVEs5NXlpU3pvbEZrVFptU3poZ1Nlb2k1U0tDNTlZbHZucW9QeGZwRG5VLWM4OFpzalhpd2NhNl9BSVBCTldvbGgwOVZnY1dJVFFEVHRRV2sydGZHcFVnVWlTUWxkVndFaGVjZ0tWXzVMVnR2VEpJSmVBTWQzU2xsREI1R0tFNHYxUXFEY1Vr?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T14:13:18+00:00",
+      "snippet": "StablR stablecoins lose peg after $2.8M exploit via compromised private key on Ethereum. Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.63
+    },
+    {
+      "title": "StablR Euro and US dollar stablecoins depeg after $2.8M exploit",
+      "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-05-24T05:45:00+00:00",
+      "snippet": "Stablecoin issuer StablR says it has been compromised, with Blockaid suspecting the cause is a private key compromise of an owner of a multisig wallet used for minting tokens.",
+      "author": "Cointelegraph by Martin Young",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 28.0
+    },
+    {
+      "title": "McKinsey Reports: For Every $1,000 In USDC, Banks Lose $850 In Funding - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOWxwVTVhYk0yeENRMVk1OVhVMmZvR0kwMGl5dVF4VjdqLXZsZURtRExiTzQ1UjVHRmljd2g1VHgxNk4yOUVrV1YyU21fRXdLVEcySmdwNFNuN2Z5WkpLVFRFVGVBMlNQeDhlX2tOQm1vUmlyVTZuOUdwNXdZcWEtM09iTzdlZkNFNV9sTjhyemgwanVjd25peUR1VVU0T3lzdkMtN0tudkhZVl91YVc2SFpJRy1WS2oyeUQ5MUZ5eUdLV29u?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T11:56:00+00:00",
+      "snippet": "McKinsey Reports: For Every $1,000 In USDC, Banks Lose $850 In Funding Stocktwits",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 27.2
+    },
+    {
+      "title": "Crypto rails are becoming the default payment layer for AI agents, report says",
+      "url": "https://www.coindesk.com/business/2026/05/21/crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-05-24T13:00:00+00:00",
+      "snippet": "A new report from Keyrock says stablecoins on blockchain rails are becoming the go-to payment layer for AI agents as traditional card rails struggle to handle micropayments.",
+      "author": "Krisztian Sandor",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.64
+    },
+    {
+      "title": "AI Agent Drafts SpaceX IPO Memo For Just Over A Dollar, Circle CEO Wants You To Notice The Currency - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOF9adHYwLXJXbXNvZGlEUkhncjZsOEFZQkZYenBPOW9oVThMN3JmOS0wOV9iR0c1VTlEd2ZfWlYwR2NLMk4wdE5HOXN3SVpoV3VieDQ1SGZ3RzlyQ2RWaktzZ0NHTEVmOHpJT0htNTZGcmJRU1NXUnktMTZubmlhbFlFSFc1QVhIdXZDTjJ2b0pPUTRxR2NCOTV3cw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T08:35:50+00:00",
+      "snippet": "AI Agent Drafts SpaceX IPO Memo For Just Over A Dollar, Circle CEO Wants You To Notice The Currency Stocktwits",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 25.12
+    },
+    {
+      "title": "ECB Pushes Back on Euro Stablecoin Proposals, Citing Bank Lending Risks - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OTjg2cExaczZpS0lXcEJUeXRRUkU3cmxGWlgwa2N3RDJMdTRmVXFoT2t5eVktSUYxSER0Y1lUSXZ5OERWYUp6dnF1bVNZUG1KT2djb0QxMWdvNVQ1bGVuYmxoZVpMNWd1TlBXMm9FcHZjeFVJS2c?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-24T08:00:00+00:00",
+      "snippet": "ECB Pushes Back on Euro Stablecoin Proposals, Citing Bank Lending Risks BeInCrypto",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.74
+    },
+    {
+      "title": "Top 5 Stablecoins Capture Nearly 90% of Sector as Market Contracts This Week - Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaEN4dVA4NjQwRzd1WDRVS2dMTlVJVW5NbEVBOUczN0E0MjZ5NlFIN1NJbFZtUDNGWVVUM3hfajd5QmRyR0R3R1BIVld0SHo2OEZYUlpHV3NKa1JVYlZKaUtndVhmMW00Wm8wb0Z5S0luTDNKT0NfR0pfNUswYjB5UDAydGE4eGxHb0NmNUlxYm1vbkhMeFFpS3R4QUlKM1N6NDVR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-23T18:51:33+00:00",
+      "snippet": "Top 5 Stablecoins Capture Nearly 90% of Sector as Market Contracts This Week Bitcoin News",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 21.53
+    },
+    {
+      "title": "European Central Bank rejects proposal to ease euro stablecoin rules - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZQ0VpeFdjdGdoTFV1VGRJTm5sSmMyTGZ4eHlZQWJrTHYzOEU3RUhJX2VEMHdsVGdhZ1VLbGpuRk5vSEpkNTUzSGpGTUtsZlAtMTZTb1FrRU1ET2IwcVNOcU1SdG4tMnY5bjM3R1AwQnZLVWNSelE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-23T20:56:28+00:00",
+      "snippet": "European Central Bank rejects proposal to ease euro stablecoin rules Crypto Briefing",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 17.83
+    },
+    {
+      "title": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters - The Block",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2puaDAtZlUtRGNVaUtJbHhTM2ZMUzlpeEkyS083NkJ4VzU4Z01jRUt0bFFEazM5REY2QzNXMDlnMHhHUzlMZ1BQQjFfOVc5c3FHTWtIX1NUVXpkYW0zWWJ2T2RBOEZhanRVOGsyRWI0bFVwaGhqcDJjRmlicTFSb0k0eTBpWEk3NlZQVm4zQ3lyOUwyaUZjNzdaNlcwejNVTkQxQkhhRS1fRDAtbDd2bF9qb2JyU0ZLSXpIVF8xQk1WQ2xiZlE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-23T20:21:18+00:00",
+      "snippet": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters The Block",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 17.46
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 3,
+      "USDC": 4,
+      "Tether": 2,
+      "USDT": 2,
+      "Stablecoin": 18,
+      "Robinhood": 0
+    },
+    "platform_counts": {
+      "News RSS": 20,
+      "RSS Feed": 2
+    },
+    "risk_count": 7,
+    "top_risks": [
+      {
+        "title": "Trump Order Puts Circle Valuation And USDC Federal Reserve Access In Focus - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDlUNEdTMHpZSFowU3d0aG1Ra2JqYjhYc2thYk03MHFCb0s3OWZoRzZWVzlBdi1tRGZTbUNtdmlsS19tTzRwaHlxV19VMEY0cU55TFNPSktEQnV0QXJIYjJWem9McmF4VHJhY0FoUXJsQkl2Wnp2a2Fya1FSVTRBcWNyd2dpMlktSHlLRTZTQ0FqVXlPb3V0OEFpSkVUSHc?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-24T18:11:22+00:00",
+        "snippet": "Trump Order Puts Circle Valuation And USDC Federal Reserve Access In Focus Yahoo Finance",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC"
+        ],
+        "sentiment": "risk",
+        "score": 43.61
+      },
+      {
+        "title": "Kyrgyzstan Gold-Backed Stablecoin Enters Hong Kong’s Regulated Crypto Market - Crowdfund Insider",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRkRuNUVQTlgwN3hXTTRYa2xnSzJUR0FtdHF0SjBhdGVXSVpsYVQ4X3JIOXozTHl5eXpUUkd3NERhZW1pRUR2N3JDSDZmX2NhQkJzYkZudDhYVVFzeF83cXpsWk4tRW1WN09SUHEwZjNsX2J5Mm5CTmtHamVfbUw0Nm4zb1U5c3JK?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-24T22:44:33+00:00",
+        "snippet": "Kyrgyzstan Gold-Backed Stablecoin Enters Hong Kong’s Regulated Crypto Market Crowdfund Insider",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 38.96
+      },
+      {
+        "title": "StablR Stablecoins Exploited, EURR and USDR Depeg After Minting Key Compromise - thedefiant.io",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdUlzSUpEV0c2MldKZWVuZmZOTVBndmRmSnduY1pnSkR4MnRBREtUVWhPby1QZkVhcW4xU2pZYU5QRGZzSG4zeUVWM0VzTTBfeTdSdkM3eExYRVVBY2RXZ1NKam5jeGRSSm1hZFhtRFNpRW9IT1YwNEloakF3VWVOcWNLYWwycEEtdXpscUhBTGRVY00wLTJRQ0x0SzVLVTRvQ3pEMDl3aUZERDhlRXJZ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-24T13:26:52+00:00",
+        "snippet": "StablR Stablecoins Exploited, EURR and USDR Depeg After Minting Key Compromise thedefiant.io",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 33.15
+      },
+      {
+        "title": "Plasma blockchain becomes second largest USDT0 stablecoin hub with $27B inflows since Sept 2025 launch - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlBwWEIxZ1o4Y1FsV1dsVS0xRERLYXpzOHJLbkIzdjlMZUtXSmUtbkc0RGxUZHg3T1MxSWN2dGJZbW5jM0FMcTdOVUhnWnZBTTBhQ0k2aVRKdG1SYl9tMnhQb2d0WDB0RHZUVUU5Q25aWEFMSEZ4Vm1KaGlTUVk2ODlSRjBvTE1aZl95bS1hVHVqRlgzOE8zMGF6YmFKUEE?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-24T08:18:17+00:00",
+        "snippet": "Plasma blockchain becomes second largest USDT0 stablecoin hub with $27B inflows since Sept 2025 launch Pluang",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 31.81
+      },
+      {
+        "title": "FDIC Board Advances Proposed Bank Secrecy Act Rule for Stablecoin Issuers - Bitcoin News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWl9wX2VIc3pxSWkzWGJ2WVliNEZfaEozT05XTzBFU296MGdqaWlHOG5Hc0ZRODFMTXA2WEVrVEhMVG1maVZ3czdHY2x6VlRwUVBzOV84SnZodmllZVN1MlMtMTRxWkhkS3g5QmF6VDNJTGtacUxlbXNBaDhVbU5TTjZFTDlMQUptOFFJUVc3T0puel9fd01vaEF5Tl9yNU80?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-24T02:35:39+00:00",
+        "snippet": "FDIC Board Advances Proposed Bank Secrecy Act Rule for Stablecoin Issuers Bitcoin News",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 31.36
+      },
+      {
+        "title": "StablR Euro and US dollar stablecoins depeg after $2.8M exploit",
+        "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "platform": "RSS Feed",
+        "published": "2026-05-24T05:45:00+00:00",
+        "snippet": "Stablecoin issuer StablR says it has been compromised, with Blockaid suspecting the cause is a private key compromise of an owner of a multisig wallet used for minting tokens.",
+        "author": "Cointelegraph by Martin Young",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 28.0
+      },
+      {
+        "title": "Top 5 Stablecoins Capture Nearly 90% of Sector as Market Contracts This Week - Bitcoin News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaEN4dVA4NjQwRzd1WDRVS2dMTlVJVW5NbEVBOUczN0E0MjZ5NlFIN1NJbFZtUDNGWVVUM3hfajd5QmRyR0R3R1BIVld0SHo2OEZYUlpHV3NKa1JVYlZKaUtndVhmMW00Wm8wb0Z5S0luTDNKT0NfR0pfNUswYjB5UDAydGE4eGxHb0NmNUlxYm1vbkhMeFFpS3R4QUlKM1N6NDVR?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-23T18:51:33+00:00",
+        "snippet": "Top 5 Stablecoins Capture Nearly 90% of Sector as Market Contracts This Week Bitcoin News",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 21.53
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 18,
+        "headline": "Kyrgyzstan Gold-Backed Stablecoin Enters Hong Kong’s Regulated Crypto Market - Crowdfund Insider",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRkRuNUVQTlgwN3hXTTRYa2xnSzJUR0FtdHF0SjBhdGVXSVpsYVQ4X3JIOXozTHl5eXpUUkd3NERhZW1pRUR2N3JDSDZmX2NhQkJzYkZudDhYVVFzeF83cXpsWk4tRW1WN09SUHEwZjNsX2J5Mm5CTmtHamVfbUw0Nm4zb1U5c3JK?oc=5"
+      },
+      {
+        "entity": "USDC",
+        "count": 4,
+        "headline": "Trump Order Puts Circle Valuation And USDC Federal Reserve Access In Focus - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDlUNEdTMHpZSFowU3d0aG1Ra2JqYjhYc2thYk03MHFCb0s3OWZoRzZWVzlBdi1tRGZTbUNtdmlsS19tTzRwaHlxV19VMEY0cU55TFNPSktEQnV0QXJIYjJWem9McmF4VHJhY0FoUXJsQkl2Wnp2a2Fya1FSVTRBcWNyd2dpMlktSHlLRTZTQ0FqVXlPb3V0OEFpSkVUSHc?oc=5"
+      },
+      {
+        "entity": "Circle",
+        "count": 3,
+        "headline": "Trump Order Puts Circle Valuation And USDC Federal Reserve Access In Focus - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDlUNEdTMHpZSFowU3d0aG1Ra2JqYjhYc2thYk03MHFCb0s3OWZoRzZWVzlBdi1tRGZTbUNtdmlsS19tTzRwaHlxV19VMEY0cU55TFNPSktEQnV0QXJIYjJWem9McmF4VHJhY0FoUXJsQkl2Wnp2a2Fya1FSVTRBcWNyd2dpMlktSHlLRTZTQ0FqVXlPb3V0OEFpSkVUSHc?oc=5"
+      },
+      {
+        "entity": "Tether",
+        "count": 2,
+        "headline": "Tether’s $141 billion Treasury pile reveals the stablecoin risk now embedded in US debt - Cryptonews.net",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2U3ZTMEFvdl9hdGhOZVN1T2lfSHc5eXU0OC1mZGx6Q0tvY3FYck14WjVSM01mM2F4UkJHZzI2RUtLNVU5dnpsSTM5Q254azFaMWNEOVhZaUxoWFE?oc=5"
+      },
+      {
+        "entity": "USDT",
+        "count": 2,
+        "headline": "Stablecoin supply tops $300 billion but growth stalls; only USDT expands - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOWZTQnRWUnJHQlczNnppU2J1c2FsTDV0WXhHU2wtMnNPbTdNX3ZTV05HM1ktTkVDYzlSN2lQUnZ0Mm1UclJDMlcwUHNMV1hQNUF1VFlFOUU2S2VoeURrRkdGUENydHkzUlR4R0tIYzUzSHJ0QXQ5ZHR3dFFTUXNqRUZhUnN3S3JCLU9MSmdrVnk3d3R6Q2I1MnFLZ0NHLWFzYm91cFdiRGVOVkFTWThNczdxeEd3Zw?oc=5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 847,
+      "kept": 20,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Blocked"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 39,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
