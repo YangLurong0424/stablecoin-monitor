@@ -1,0 +1,272 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T04:03:06.846111+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "Circle vs Open USD: Its partners just built a replacement",
+      "url": "https://www.reddit.com/r/RWATimes/comments/1ungqrf/circle_vs_open_usd_its_partners_just_built_a/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-07-04T18:45:09+00:00",
+      "snippet": "![]( https://media.crypto.news/2026/06/Circlenew.webp ) 140 firms including Visa, Coinbase, BlackRock launched Open USD and CRCL fell 17%. How the consortium attacks Circle's reserve-income model. Details: - Published: 04/07/2026 16:40 (UTC) - 📊 Characteristics Score: Asset Type: stable_coin Sentiment: -0.7 Entropy: 0.85 Relevance: 0.9 Staleness: 0.3 Uncertainty: 0.7 Level-1 Focus: institutional-adoption, infrastructure-providers, integration-with-defi Level-2 Focus: asset-manager-initiatives,...",
+      "author": "/u/rwatimes",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "risk",
+      "score": 33.84
+    },
+    {
+      "title": "Reddit, Credo, Seagate, Simon, Circle: Insider Shock Moves - TipRanks",
+      "url": "https://www.reddit.com/r/u_unclejackma/comments/1unq4zf/reddit_credo_seagate_simon_circle_insider_shock/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-07-05T02:05:11+00:00",
+      "snippet": "Thread: Insider Shock Moves by Reddit, Credo, Seagate, Simon, and Circle Hey everyone, I came across a set of noteworthy moves and headlines that touch on leadership shifts, strategic pivots, and potential market signals across a mix of tech and fintech players. Here’s a consolidated thread to spark discussion and gather diverse perspectives. Summary of the key names and potential implications Reddit – Ongoing evolution of social platforms and community governance can influence advertising mode...",
+      "author": "/u/unclejackma",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 29.0
+    },
+    {
+      "title": "Crypto Biz: Bitcoin maximalism meets the realities of capital markets",
+      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-07-03T16:03:41+00:00",
+      "snippet": "Strategy authorizes Bitcoin sales, Open USD takes on USDT and USDC, Fidelity defends Bitcoin security and crypto ramps up political spending for 2026.",
+      "author": "Cointelegraph by Sam Bourgi",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 23.09
+    },
+    {
+      "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
+      "url": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-07-04T11:25:34+00:00",
+      "snippet": "Revolut notified some customers it will delist USDT after Aug. 31, with remaining holdings automatically converted into users’ base currency.",
+      "author": "Cointelegraph by Helen Partz",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 22.76
+    },
+    {
+      "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
+      "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-07-03T19:18:59+00:00",
+      "snippet": "A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ruble-backed token's volumes have fallen sharply this year.",
+      "author": "Olivier Acuna",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 20.26
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 2,
+      "USDC": 1,
+      "Tether": 0,
+      "USDT": 2,
+      "Stablecoin": 1,
+      "Robinhood": 0
+    },
+    "platform_counts": {
+      "RSS Feed": 3,
+      "Reddit": 2
+    },
+    "risk_count": 3,
+    "top_risks": [
+      {
+        "title": "Circle vs Open USD: Its partners just built a replacement",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1ungqrf/circle_vs_open_usd_its_partners_just_built_a/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-07-04T18:45:09+00:00",
+        "snippet": "![]( https://media.crypto.news/2026/06/Circlenew.webp ) 140 firms including Visa, Coinbase, BlackRock launched Open USD and CRCL fell 17%. How the consortium attacks Circle's reserve-income model. Details: - Published: 04/07/2026 16:40 (UTC) - 📊 Characteristics Score: Asset Type: stable_coin Sentiment: -0.7 Entropy: 0.85 Relevance: 0.9 Staleness: 0.3 Uncertainty: 0.7 Level-1 Focus: institutional-adoption, infrastructure-providers, integration-with-defi Level-2 Focus: asset-manager-initiatives,...",
+        "author": "/u/rwatimes",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle"
+        ],
+        "sentiment": "risk",
+        "score": 33.84
+      },
+      {
+        "title": "Crypto Biz: Bitcoin maximalism meets the realities of capital markets",
+        "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "platform": "RSS Feed",
+        "published": "2026-07-03T16:03:41+00:00",
+        "snippet": "Strategy authorizes Bitcoin sales, Open USD takes on USDT and USDC, Fidelity defends Bitcoin security and crypto ramps up political spending for 2026.",
+        "author": "Cointelegraph by Sam Bourgi",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "USDC",
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 23.09
+      },
+      {
+        "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
+        "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
+        "source": "CoinDesk",
+        "platform": "RSS Feed",
+        "published": "2026-07-03T19:18:59+00:00",
+        "snippet": "A7A5 claims crypto data providers understate its trading activity, while blockchain analytics firms say the ruble-backed token's volumes have fallen sharply this year.",
+        "author": "Olivier Acuna",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 20.26
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Circle",
+        "count": 2,
+        "headline": "Circle vs Open USD: Its partners just built a replacement",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1ungqrf/circle_vs_open_usd_its_partners_just_built_a/"
+      },
+      {
+        "entity": "USDT",
+        "count": 2,
+        "headline": "Crypto Biz: Bitcoin maximalism meets the realities of capital markets",
+        "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      },
+      {
+        "entity": "USDC",
+        "count": 1,
+        "headline": "Crypto Biz: Bitcoin maximalism meets the realities of capital markets",
+        "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      },
+      {
+        "entity": "Stablecoin",
+        "count": 1,
+        "headline": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
+        "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 7,
+      "kept": 2,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 2,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 37,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
