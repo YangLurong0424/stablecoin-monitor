@@ -1,0 +1,2109 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T02:27:12.968764+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "Miden to launch privacy-focused USDC-backed stablecoin using Circle’s xReserve - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMElQTU15LU4wNG9td2ZtSzQzZFNnR3BSSVY0cHI0UVFIRGhFRHRCcV8wLU5vNHh6SUthRXl0cVpqYlJ2anZQN3pMNmNnMkNHMWpnNGZaZDYydHVXbFZDUlBaV2F6UnA4bk9YcjI0RThtNy1xSWlyNTZRZ1BpSTRUd09yWVJNX0NFdXFWc0x0QVNoVE9GaU9tcHpuMU1QRXFkTWNj?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T15:00:00+00:00",
+      "snippet": "Miden to launch privacy-focused USDC-backed stablecoin using Circle’s xReserve CoinDesk",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 52.21
+    },
+    {
+      "title": "Tether Mints $1B USDT, Cements 58% Stablecoin Market Grip - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmZFMWZZUFBfZVVKckZ1bmhPZVJUVXRmOGhyckx2NFlISldqSVNCVUJFeENBeUVGMmRRWTVxbGxFMVpGbDg3Y2RMd3NGcmZXaWYwbkJiaU44X2hRMkpvUkJreWZ1SEROVkpqSUdDYmFIS2hXY3pIZVZtNWtaOWpFNFo2ZlBVdw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T22:57:04+00:00",
+      "snippet": "Tether Mints $1B USDT, Cements 58% Stablecoin Market Grip Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 50.31
+    },
+    {
+      "title": "Visa Brings Circle's USDC Stablecoin Settlement to U.S. After $3.5B Pilot - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcTIxRGNFNGRQcmxWYWlfc3ZuaEo0cFJicmRxdDQ1NldWTUVFQUZXQ3hMOVE5Y0lsSzhBOENKRjA0QUItOHBUSDU2dnE4QkZyQ09XTmdJWTdLZkFudnB6bG02cEhJZHZMc1B1YkRkR1NwSDdCdjB2MTVqZ3ZENFRwZzhZNTNaWlc0UGlIRlE2aXoyWkNPaDdEV1pTbmZvcS1PdEdSeVJkbDlYdHBP?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T22:36:43+00:00",
+      "snippet": "Visa Brings Circle's USDC Stablecoin Settlement to U.S. After $3.5B Pilot Yellow.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 50.09
+    },
+    {
+      "title": "Robinhood and Revolut to Challenge Tether's Stablecoin Dominance as EU Regulations Loom - Bloomberg Report - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQmhHY3YzMXBGWjVEZ3R6NWpjX2luclk4NDA2NnFSMjdoek43cFVOQnRPRFc3cWxIYkRvQzVObU84V1B6dHlxYlhzZzU5U0lvektlcC04SHNMb1hCVTdkbE1ZUHV3YnhVME4wcGw3X2poVFFYeHBrLVZiWkVpWEQxdXFrNFN0c1FKOFlJLXNwUmI4MVNxRE56Z1YyQ0F1ZVlpNTdaZFVsbWZpSmhkeW1uRnhNc05vUElySVhlaW9FeHVvRFhod2hCbFpCVThjTWkwUmc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T09:35:53+00:00",
+      "snippet": "Robinhood and Revolut to Challenge Tether's Stablecoin Dominance as EU Regulations Loom - Bloomberg Report Yellow.com",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin",
+        "Robinhood"
+      ],
+      "sentiment": "risk",
+      "score": 46.96
+    },
+    {
+      "title": "Stablecoin Supply Hits $315B As USDC Overtakes USDT's Growth - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40Wm9FYTRGVHZfRnR2NkRfQXhicWQ5a05USDNfN24zSDdEakFSbC1abWs5ODZvUWVkajZySXN3bUZremdjNlZaNDZjZ0ZzVzZkWlV3ZkZlT212X3Bfa001cmNpbG8yOVBKLUJ2LWlzc3Y2RDl5Y0R3UnkzLWI?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T10:59:15+00:00",
+      "snippet": "Stablecoin Supply Hits $315B As USDC Overtakes USDT's Growth Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 44.7
+    },
+    {
+      "title": "Tether’s USDT Supply Shrinks by $4B in 60 Days as Crypto Demand Cools - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43LXJrSEM2dzZ4clh1R2dIYzQxYmp4aTNKZ3IybE9PenZUNUVDUllLeWxTMWN1dDBGdGdGSjhSa2U0S3ZSbmVMbUhsMGVUaG1SNXR2RE92R1E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T20:15:04+00:00",
+      "snippet": "Tether’s USDT Supply Shrinks by $4B in 60 Days as Crypto Demand Cools Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 41.12
+    },
+    {
+      "title": "Coins.ph Taps Tempo for USDT and USDC Stablecoin Transfers - Fintech News Philippines",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVzh5eHl2b044eV9vdVFiekJjOWhvN2RIal84ZGUwU1dvSHo3OHlFOFpTUnl3NXp3SlRhRkV0NEFaZ0dORnpvU21DN2tWNldGRkQwR3EtdTRkeFlfcW5ISnc2MDBIb1hHdXFIMmNNTk5EbEd6VnRvSTdHTGNJNllpaWNLa2RGRmczQTgxVXgwOA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T06:47:40+00:00",
+      "snippet": "Coins.ph Taps Tempo for USDT and USDC Stablecoin Transfers Fintech News Philippines",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 40.21
+    },
+    {
+      "title": "Circle Partners With Aleo To Launch Privacy-Focused Stablecoin USDCx - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemtkS0dVSHl6MTdneUxWalNwRWlYVGNkR25uNS1wSm50Tmc2TkZ4dERNazNkN3ZOYVhEUmloc2N1MERoeTZRMGY1czFhUTJNcWhXVmt2OTc5TU5kMGJ0MWlYOWdNRmxoMndpd0g0WmM2OExuWGRyaWpJZm5rYzBUZ3kyM3FITnRLaTQxYVFGY1J0eC14RHRSYXo3MnN0QW9ETlIySEdYUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T15:37:16+00:00",
+      "snippet": "Circle Partners With Aleo To Launch Privacy-Focused Stablecoin USDCx Yellow.com",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 40.1
+    },
+    {
+      "title": "Anchorpoint Launches HKDAP, Hong Kong’s First Regulated HKD Stablecoin - genfinity.io",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmZWY3Y1UFpGZFRPVUtoQnlSdFpzbmNLUFdrVUtMb1I1VGNrYUxsUUg4ZUswdExBVV9uOWJtcFlwMzVZVEJ0WWVOVjlNZmtibXpueVotdzl3VVRReE1ueEJDNkJadWs3VlJpZ0hWb1g3SFduNEMzVnAyUXNtOTZCVWpWWHlqdVI1R1l3QVppVVVOYjFlMEE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T19:03:11+00:00",
+      "snippet": "Anchorpoint Launches HKDAP, Hong Kong’s First Regulated HKD Stablecoin genfinity.io",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 39.75
+    },
+    {
+      "title": "TD Cowen raises Circle Internet stock price target on stablecoin growth - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMFpzRXRHbk9Ma2lra1NwejFjZDItWEx0blFEUE5sYUFIS2ZZUV9EcUxUdVVLb0ZvckNiOGExR2x2WG95TWhUYzlyaVUySTFWSTFXZkRRNExkVFo5Zmo0a1U2MVYtekRqeGpPYVgtTU5JTmdDV0ZKVVAzSEVvRGxkT2F2bVl6enRRZTZ2V1ZRZWJrbm5ldHJTa0VMQ3RrbVNwNDJrNk1JZF9wVDNSVlVqNzVYdl9rRTBkUVgteVZKYXA2c3hESXRsSUhHZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T14:37:02+00:00",
+      "snippet": "TD Cowen raises Circle Internet stock price target on stablecoin growth Investing.com",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 39.47
+    },
+    {
+      "title": "Tether’s USDT supply drops $4B in 60 days, sign... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGZlcW1qOUZCWGFhT2JQN283TVc1YmZ2ZUgtSU9jMV9ZeXdYTVRSeENjeVVoTGZ5YUlVcUk3d25oSy1PWUI3YU83dURrQW9mYmU1bW9BYWdYcTlHSzRLZFNJUXMyWGhoa2dlZXRlM3dNeE9LdlhZRXl6TEZXMkdBX04waU9EUGFjT1U1cHlNVFcwd1V0ZFR6SVFHSndHNXlGbnRqTHR6UG1yV1h1dHhn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T16:08:35+00:00",
+      "snippet": "Tether’s USDT supply drops $4B in 60 days, sign... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 38.55
+    },
+    {
+      "title": "Kraken Won't Delist USDT Despite Potential EU Stablecoin Ban - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFPRkJSTVlFQTYtUW4zcDRnRHdMWEtqOFd5S3JLWUIzWlVfY2dmUkk2dGJickpOWjlMX1hJaDh6alhUV3g2TnpMYW1zdVUtRHJhMVk3Y3NVOE1YMmI4NFBLZFdiQVE4ZnBkZmNjeHVTV05GLWdGcERUQzdheUdxRlUxNWhUYkpKRGxUcFRtNWdQY3FOS0R2YzEwOEkxa2taY3Y1N016YWo?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T15:29:02+00:00",
+      "snippet": "Kraken Won't Delist USDT Despite Potential EU Stablecoin Ban Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 38.14
+    },
+    {
+      "title": "Japan Blockchain Consortium Forms Tax Subcommittee to Tackle Crypto, Stablecoin, and DeFi Issues - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lcTh0ZmNoSWgyMi1FS3N3VGpDc2ZSVV9wSzBvakd2cWVkY3B5cGNYbGJ0TXczVnRRd3R2anNxWXFaVjF1VGtXVzNyRTNxTmlLVERFMlp3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T18:44:53+00:00",
+      "snippet": "Japan Blockchain Consortium Forms Tax Subcommittee to Tackle Crypto, Stablecoin, and DeFi Issues Cryptonews.net",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 37.68
+    },
+    {
+      "title": "USDC Outpaced Tether By $750B In February Transfers As Stablecoin Volume Set An All-Time High - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUg1VnZyMV9MaHZWM3k1TEFFSkh2clZTOFQ4OUxSWENpYUFfY09tdVdMMWJVa0FrZ1EwWUhkelZ3WVVodTJ4Q2VjNGxZX3RLSm4yYTJjdFpTRjgweEtBWVNDVTRBRU5NLW1za0xZbFBxUndHckhDVldhVEZEbWpNZUkzOXlEemU3SktaVlB0VXpzdllyeUpSWHJibmlhTFEwN0dZZE5IdUZzaV84Y3pKdkVkaEZKbXVhSFgzZU9la2tNMlFPS2toeXdvWGtsdTdZNXc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T01:56:20+00:00",
+      "snippet": "USDC Outpaced Tether By $750B In February Transfers As Stablecoin Volume Set An All-Time High Yellow.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 37.17
+    },
+    {
+      "title": "Stablecoins and Crypto Payments Digest - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRy1CQ05ENHUyclVKZjdLeklna29XVnhLVm5qaTNyLVoxUTF5emxwZTB3YVVsZE5qQk9CR2M5Q3VGWG1VcE1PamJYNE1GNUtuQ2lnV3VTWERaY0Vsdk1pYmhoR2tuUWlaYWpmTm1NaHpfbGxzd1NmOTktQjBWa2tFM1Nacw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-13T00:11:15+00:00",
+      "snippet": "Stablecoins and Crypto Payments Digest CryptoRank",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 36.08
+    },
+    {
+      "title": "Tether (USDT) Surges With Massive Inflows, Closing In On Historic $120 Billion Market Cap Milestone - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZDM5QWM1ZUtwT2Y4N3Z4NzdzQ3dvaUFkSE9RclZfMUhzWVZDSC13Vm94REYwdFN4YlplZF85b0hiZHY4SWRuTkwyeldQZXluVVk1Njg3WFJGYWhfU0h4d3ktYmJGcHBGMVE4OVlCUWxnNk10UFExX0s4MVZqOVY1ZU9FbkJWY1d4OFAxRHlVZ3dRa2VZN3JMeXphWnctcl9SMW1Fb3NtejE3RE5ucGtzQUpvUGxzXzU5aG5oYnlrRmxLUTNxSFZiY1BUWE5wcThsVlE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T11:25:42+00:00",
+      "snippet": "Tether (USDT) Surges With Massive Inflows, Closing In On Historic $120 Billion Market Cap Milestone Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 35.6
+    },
+    {
+      "title": "Tether Warns of Market Disruption as EU Exchanges Begin USDT Removals - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0RrVWVKMjQ2TENYVU02akFLbWt1Y1ZhdS15YVIyVFVIYmJjbElWakQ1NGlNa1lnemd3ajhySWp2V1IxbTVtUk1yRmNlZUh6VklCdWdxQW0xMV9UMENFRG9VVVRHVE5QazUzUEo0TjV3MmpRVTZfdGthQ3o3UkhmNzRNWE4weWpaUnkyRVhlTEZseE1lMmtBbEVsVzdBNDFwVXFZWDln?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T11:07:21+00:00",
+      "snippet": "Tether Warns of Market Disruption as EU Exchanges Begin USDT Removals Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 35.41
+    },
+    {
+      "title": "Ethena’s USDe grabs 43% of Robinhood Chain stablecoins as capital parks - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDdMc19FSnNkaXp4TUtHcU4wUnZoMWdFQkw1UVlrdnpsTjNDUWxsTE5ubHFlaFFOdlpEcjd4a3ZiNnNPdE5XaGFWN0VTVkJFWkQ4M0dHT1ZUVnVnWUhlcmRXalNqcmI0ZlU0NUkxVWhGN0VncDdCQV9iVE90cFdvcHJfblA3bnFBOERZTHNEeFZoVWlSelFYWE9SZVlTeVVFSmFwMmFGMVpKSUU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T10:16:39+00:00",
+      "snippet": "Ethena’s USDe grabs 43% of Robinhood Chain stablecoins as capital parks CryptoRank",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin",
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 34.89
+    },
+    {
+      "title": "Anchorpoint names HashKey as distributor for Hong Kong dollar stablecoin HKDAP - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SWllPTElWczQwX0FMVVIzaGlJWHNrcmJUOXJpbF9Ua05vekZvNjNWajZYVHlNaDlhaHpDRlJjdjhLSi1OXzVCTlJiQ2oxV0hiMDVrRWZ5SQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T22:14:23+00:00",
+      "snippet": "Anchorpoint names HashKey as distributor for Hong Kong dollar stablecoin HKDAP Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.86
+    },
+    {
+      "title": "Morph launches enterprise stablecoin payment platform with non-custodial design - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1bTdDaDg0dk5vZDBFZ2o1ZE9KMk1IYlBvbUpteTU5ZGt5R0NxZlBzTWJRT3BoRUFxc2tndkJ1NUtxYWp2cktOQ3U2dlpIWUlYamdKVkxvcw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T18:44:41+00:00",
+      "snippet": "Morph launches enterprise stablecoin payment platform with non-custodial design Cryptonews.net",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 34.55
+    },
+    {
+      "title": "Coinbase Business Expands with AI Agent Payments and USDT Support - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnY2JwR1pOdXVNeEhzZ005TVVrcnRTNUlSWUVVU1VmbVpFYUZSeUh5Y0k0b296TTNuVVVFQmZuc1BIZFBibHdQMjNybUZqaEdGX2RMQndwOA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T18:44:33+00:00",
+      "snippet": "Coinbase Business Expands with AI Agent Payments and USDT Support Cryptonews.net",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 34.55
+    },
+    {
+      "title": "Russia picks Bitcoin, Ethereum and USDT for public trading as retail faces $58,000 cap - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSVB3N1NzM3AzTC1wamY1SWU3Ry10OExORF9zcGtSRDIzNFA2VDJrMmxWazYxaDhtRW52MGxzUUlvZHZqYWpXeFdPZ2dKalA3TlZaSWVneXNLSzZyX0d4OGZOUFhETGVjNWlZckR5M0c3amR6NjV4b3FEYVNfbE5wakhKNk9kbVptLTF6LW1hdDA2a3QzcVRuSEFqbWhyR2NJUnVYYXkwQjJHSGcxZk94bmN4RDhGTjA2S3M2Zzln?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T21:28:12+00:00",
+      "snippet": "Russia picks Bitcoin, Ethereum and USDT for public trading as retail faces $58,000 cap CryptoRank",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 34.38
+    },
+    {
+      "title": "Bitcoin, Ether and USDT: Russia’s Central Bank Narrows Retail Crypto Trading to Three Assets - eGamers.io",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQUl4V1UzdVNCWDFzQ0dNRDdFVXZzRGNJWlFLaDM5ZUtKZ2IxYU1KYTVvMlNyeDlmWG1FcXpmOUt0X3c5SDBmaEV1SlZyQURoSGVoeFM4VXEzRTNnUFZvamFNNmhaUDZrbjZyTGZUNjJiSDl3N1VvOEFQTGhaelg2bnZwLTJNQ0drUlU1ZElMVlpEVE9TYW9TbGF0QUlVTW81VmNWNS04a1lTSUhpUGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T21:01:21+00:00",
+      "snippet": "Bitcoin, Ether and USDT: Russia’s Central Bank Narrows Retail Crypto Trading to Three Assets eGamers.io",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 34.1
+    },
+    {
+      "title": "Banks Challenge OCC’s Weekly Stablecoin Reporting Burden - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX0xZbklkLVc2Uy1YM3ZEWUtOUjFLR0RGMVg5SmpPbHIwUzNRM1M5YlZQX3d5OWFDTm9Zc185OFJOVXg3UTV6RVRyTnJTN1VlYkswa3NEc1BPcGgtZ0hoMDhua1Q4Y0V3QjNNXzNWTEx0Vy1DamdLUmgwdlB3eWp4SkVnNU4zZ1MyUml6bVJUOGVYZkxQaHJxT0llSEN3VTQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T20:56:57+00:00",
+      "snippet": "Banks Challenge OCC’s Weekly Stablecoin Reporting Burden PYMNTS.com",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.06
+    },
+    {
+      "title": "Circle Launches Arc Blockchain, Attracts Major Financial Backers - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTRyelVzSmRkV01RRVViQ3dYUkhDeHFaal9EUXZTT1FTeGNJTjZvcjltNUl4RlhXMXhQd3Q3VDRwdjhXc3llTFFyakE4ejFkZ3AtcGVGMHdrZ2h4UTlVNjhnMTRrdlk3UDVHbndDb0x2NEJkUUh4enNTUmVRR3NTR1JYSXg5TURZdl8zTWppVHUzSUF6b0NNRkFlTG1NZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T17:05:31+00:00",
+      "snippet": "Circle Launches Arc Blockchain, Attracts Major Financial Backers Intellectia AI",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "positive",
+      "score": 33.52
+    },
+    {
+      "title": "Circle Shares Could Rise 60% More on Stablecoin Growth, Bernstein Says - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT3JsZjRIbG43bmpZdmlLaEd1TG1aRURLaFpsSG5RTG14bks5NlZZTGt5aGpNaUlIaDA1Zkp0OEdtZWRSYnZWNjM1T216a2FPZl9qZ0ktci00WFlBcVhyMnctS1NZWGhkYmZYUnIwNy1Cc2NqQzZIOFhSaW5wanVCMTNWNmRLbmt0bEJxSVJ5Zi01VUM3eUN5ajZLYWJfM214VDd4b1ZqaGNFVi13U0lzVVdIbXJraFI0?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T05:00:29+00:00",
+      "snippet": "Circle Shares Could Rise 60% More on Stablecoin Growth, Bernstein Says CoinMarketCap",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 33.47
+    },
+    {
+      "title": "Russia limits retail crypto trading to Bitcoin, Ether, and Tether with annual purchase caps. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1VuM2RnVnZ1TXB3bWctako1Q09LRDdVaEFpOFMzU3ZZMmpuSHlEcDlOSl9JaE1MeGNhbUdHRVg2VnhwYXFGTGZscHlKeGJjbFVMTUphRGt4MVk0bTZLNTFjUTdoOXg1cGotZTJneWJlQUJyOEZTYkNlTEdyQjZ3b2F4d3NYM1JaTk1SNXRB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T19:44:17+00:00",
+      "snippet": "Russia limits retail crypto trading to Bitcoin, Ether, and Tether with annual purchase caps. Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 33.3
+    },
+    {
+      "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
+      "url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-08-12T13:13:49+00:00",
+      "snippet": "HashKey Exchange and OSL Group are now authorized distributors, enabling institutional and professional investors to mint and redeem HKDAP tokens.",
+      "author": "Francisco Rodrigues",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 33.22
+    },
+    {
+      "title": "Anchorpoint’s HKDAP kicks off Hong Kong stablecoin launch under new rules - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56OTZDempKRFR2YkdwaTVLb3JLRWI5QlVud3VGbjh3YUgzaHBCanBCaU1wSUo2ZkFYOUx0QUZzTjZiV1lpc3VlUnRibXdWV09DTUh3eDNzaThZaVFOak4yZ2h3ZE9Vb0VFTkN0bVhOMVRmTWZU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T16:35:50+00:00",
+      "snippet": "Anchorpoint’s HKDAP kicks off Hong Kong stablecoin launch under new rules The Cryptonomist",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 33.21
+    },
+    {
+      "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
+      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-12T13:31:54+00:00",
+      "snippet": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
+      "author": "Cointelegraph by Helen Partz",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 33.11
+    },
+    {
+      "title": "Miden to Launch Privacy Stablecoin 'USDCx' Later This Month - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjMzNyVTdXQW5YUG85Wl92azNCQ216QWZkeXo4cl9SdmV4bUVwdjhMSUVVVjdvaFlhWDZGSnFwUzUxVnlNQ0tJRF9BZDhVVzFwaG1HSGdwZmpvSFRfZWdueEF6UUUzTDZMMjNncUJHaVFvRHJJcWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T16:25:00+00:00",
+      "snippet": "Miden to Launch Privacy Stablecoin 'USDCx' Later This Month finance.biggo.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 33.1
+    },
+    {
+      "title": "Russian Limits Retail Crypto to Bitcoin, Ether and Tether - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNEVnRzI2dFJPd2NSSGRKRG14bm5sODJ6VFhyWm1QYmhVbWUwaWQ2UkxhTUNwSFpnU0ZUTHVhLVd6bmpLS0lCMlZvRzVIcG5pckNXd08xZUN6UEp2QnBYN0k0ZWtYbVBlRi03WXRQRktQSnkzQ09NX3k4T3daYVZFMHI1MWMweHkzZjFBOTVkTE84Y1p3RUhhMW9FVkVzN04xNGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T19:20:04+00:00",
+      "snippet": "Russian Limits Retail Crypto to Bitcoin, Ether and Tether PYMNTS.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 33.05
+    },
+    {
+      "title": "REPORT: Ethereum saw over $7B in USDT outflows in Q1 2026, w - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vejFpSkR6SVVpbmNVdGJwOWRlbjZITEppRXZhVjF0X3dlVGt6c0VBZEItcjAxWUNlQndzN0xhQmZTdEhRQmJCc3RqYmFreTFlNTZEUWNFUHJKQVFYT09iczJRMWw4VkdRQU5EWjR5TlJ2UQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T19:09:51+00:00",
+      "snippet": "REPORT: Ethereum saw over $7B in USDT outflows in Q1 2026, w KuCoin",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 32.94
+    },
+    {
+      "title": "TRON Powered $2.1T in Q2 USDT Transfers; Messari and Nansen Report Record Activity and Institutional Adoption - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOUE0cHVNdDNJOTNoSGx0T2k3RHVXbC1tRzBUZWg0em5BaG95TmZvaFRhZkNSSDZHVTFQem1lMmxlNE5kUWg4cmZaNERVRVpvZ0tDeUcxQTJQc2lOc25HekxtdmlnMFlDNEJHcG5uQ20tVlZBT0x6d1o5VlBJSWw0TDAwQUJEMFgwQWVQQ1FJZWpUVmxGaGpzYUdpQWNpdXMtbXVjZ1lWUC1RQkctZEo5SDRSeF9xa1E4TG1yRGlfenpZSDBUT1QxTm5zNkVfakZGSXFuMVZWbXAwUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T16:04:11+00:00",
+      "snippet": "TRON Powered $2.1T in Q2 USDT Transfers; Messari and Nansen Report Record Activity and Institutional Adoption Benzinga",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 32.88
+    },
+    {
+      "title": "Miden Plans to Launch Privacy-Focused Stablecoin USDCx - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xOVUzNGhXdFlPcXlxekhnVFozUmN6czBsS05YWU5TOWlTc28xOW9jXzJyUFNrSjdSV3lmZEdQV1d6UkZ4WFJWRElXVzdZZnBwTG5Ubw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T15:57:08+00:00",
+      "snippet": "Miden Plans to Launch Privacy-Focused Stablecoin USDCx bloomingbit",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 32.81
+    },
+    {
+      "title": "Miden to Launch USDCx With Circle’s xReserve Infrastructure",
+      "url": "https://www.reddit.com/r/RWATimes/comments/1vmpb7l/miden_to_launch_usdcx_with_circles_xreserve/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-12T20:15:13+00:00",
+      "snippet": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/rwatimes to r/RWATimes [link] [comments]",
+      "author": "/u/rwatimes",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "risk",
+      "score": 32.4
+    },
+    {
+      "title": "Opinion | There Are Two Sides to Every Stablecoin Rule - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmo1T1paTTg3OURrcUFrYmh0QU5GVTlSdVZJekx0bDhHMkJuQUZWM0k2blFrSWwxdDJ3Q2NGbEpqeWVyRS0xUmVaUGlWSnNfUnVYdGZXb0FwNzVCbzAzUlpGU2JHN045Q2ZIeFJVN3Y0aGgyY1FMQ1J4Q1ptS19MZF93bmdoc3Zh?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T18:11:00+00:00",
+      "snippet": "Opinion | There Are Two Sides to Every Stablecoin Rule WSJ",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 32.33
+    },
+    {
+      "title": "Circle Lines Up Major Financial Institutions For Its New Arc Blockchain. Here's Why Circle Stock is Now a Buy. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlhkTDZrRTJiY0dfdUNlZTdsQ01zbHFRUUdoMnhBLUdVemNtVGtTeWdnYkl5NzlKa2RwTXhCREZLaFkxTFVEZlBJekxzQ1BiWWhfNXpUbVRxUDJDczh1UVJSbWZhcjJoaXRHVmxiN29WZlZHako4ZmNsMnBlMjh6MzNESlpUWE1BZ2VmMVdGSzFsNEdYNnlvdA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T17:25:00+00:00",
+      "snippet": "Circle Lines Up Major Financial Institutions For Its New Arc Blockchain. Here's Why Circle Stock is Now a Buy. The Motley Fool",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 31.85
+    },
+    {
+      "title": "Why Tether Turned Its Back On Europe's MiCA Stablecoin Rulebook - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGJuTndZSVZ4YjBLTWlzZV9ORUJMNVNTajdkVEVPczRPQURUUWhUbzkzN1FIaFZnV3BLYnY4QlNhU19HZjFsd0xDdHh5YWZtakRqYmV0RjVQcFFCcWZpNGwwLWZrU0ZWX29BblV4czR5cU83MENRdGRtai1sUDBGRmgybGdVVzA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T21:23:46+00:00",
+      "snippet": "Why Tether Turned Its Back On Europe's MiCA Stablecoin Rulebook Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 31.83
+    },
+    {
+      "title": "Robinhood Chain Hits Record 11.6M Daily Transactions as TVL Climbs 32% - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ3JRbjJUZ1NNSy1sRGU2NHo0V0xiSVZpcF9waXJ2YVh5ZjB3UFM3T2RLY2pFejVZeDhvQ1ZCenJvMDdiT0QtSXNfNm9iNG0zODRyTjNpVUhyVFBRUURGSTNmSEZnRkpFdVg2WDJRSnUzTFdjY2ZXc05hYWhqMUhNaC0wb05GSy1vNzJULW5CUllpTzhNc1p5R2ZpTlkyclc3eGI1VjNnWXBjX2FYaFNOdE1TNEhzNVlJ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T17:08:11+00:00",
+      "snippet": "Robinhood Chain Hits Record 11.6M Daily Transactions as TVL Climbs 32% CoinMarketCap",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 31.67
+    },
+    {
+      "title": "EU weighs MiCA changes in 2027 amid US stablecoin push - CoinGeek",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVdzS200NDBmTndFZll4MVd5QUM2TkRzMmhfeWVnNzNsaU9uMkxCNTdQSW94b290NVZGdHB4N0ZBeTVyTzlwM25oOFhBWGZVZ3lqc05uZFRnUGVkY09teHprbTJzaUhmTFJJOUtmRkd3MGF4RWhxV1RlcVpmblVfMEp3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T09:00:00+00:00",
+      "snippet": "EU weighs MiCA changes in 2027 amid US stablecoin push CoinGeek",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 31.59
+    },
+    {
+      "title": "ZachXBT Calls Circle USDC Wallet Freeze 'Most Incompetent' Ever - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnZEt1aTQtamp3bk84eGxuQ0JieXpfU0VFZ2FqWlU3X21kQWFpNUJJNnUyX1FtLXh5b1FhVmQwNTRIenNQS3h0NlBNcnc0cHEyMzJtRmVVLXZOakJ2VFlVbXhOZ1lveGlCT0pHM2FyNjJWUkdQVS1XQklMOGJ1dw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T20:44:24+00:00",
+      "snippet": "ZachXBT Calls Circle USDC Wallet Freeze 'Most Incompetent' Ever Yellow.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 31.42
+    },
+    {
+      "title": "Tether Announces USA₮ Launch As U.S.-Regulated Stablecoin Alternative - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWQ2Z2Z6UnZ0UTEwWlRlTmZFODZVakdDaGd4UnR4clNmMG56UlRVb21mUUhSbzYwZ0NieE53M01TWFRJSVkyR2lVbmZDNlZudTl0bHpxMkZpNXR0aWVCNEZ2bG1Ya3h3R25iN19MMGl3S2hmMVljbkx2NWhKSzRiYTNlSDgyaWxVeDNGUW5XZmRVd05SVWVNTHVkamdJdEZlektsbTAtcm1fY0FpS2xhaTNR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T16:58:17+00:00",
+      "snippet": "Tether Announces USA₮ Launch As U.S.-Regulated Stablecoin Alternative Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 30.94
+    },
+    {
+      "title": "Ethereum faces fee drops and stablecoin outflows amid scaling success and revenue concerns - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnlPZ1ZqWXdKV01OcEpSRkFGcDJHQmh6RHR6ajJubU1HWVNma1k5SHFZV0hPQzYtbHlxRG9MaWI5UWlUXzNsRi1CXzJzODVEZlF1TkhKdllpU1dodXR0VHAwWFlxUllxaXExcEV3bUVJV1Qzc1VjQnE3VVdEWFIzQUZ1bTRkVi1HWkM0X09Eck92VTI4WnQ2bHRldmdoY0h3Wnk1b0drSTVBUmQ5NTQ5RA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T12:25:52+00:00",
+      "snippet": "Ethereum faces fee drops and stablecoin outflows amid scaling success and revenue concerns Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 30.61
+    },
+    {
+      "title": "BC Card Pilot Proves USDC Can Pay Korean Merchants Directly, Refunds Included - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVm5jOU5Fc2tqMEpCUTB1Nzc5SVJUQ3ZnbGFoMzUwTjRCZlJXbEVRU0F0RW1HWlFnM3J1anh3OGVqcjhKSjZnOUJNMWpSd3dDWlBSMUJiTnVydlRzTDF3S0hOdE55WmRjWWdVNXZYbjkyeXJ4Mm5FTEhabEJDYngtLWVodm41MGttajhObHdNNEhHZ0N1WksxQXpGcElwcVBOTWhMUElxaEI3VnBUZ0dHS294NURSaDNPckwzQzl1MTE4bFN4ejRSc1p0SQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T15:02:25+00:00",
+      "snippet": "BC Card Pilot Proves USDC Can Pay Korean Merchants Directly, Refunds Included Tech Times",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 30.36
+    },
+    {
+      "title": "Cashi launches public beta for stablecoin spending app and Visa card - Electronic Payments International",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTM3ajQzR21VMXFvamlHbEh3MEdLVXR5cnkyaV9fWW93N1ZlSk10VjBQOEIyZENwT0JsZHkxRGpqVmhjN0ZZYy1BQnEtemlKbFNnWC1HMFJwXzdGWWpFNm05bWxWUWVOWUs1ZDYwMlhUblV3cGVSZE0wUjVZeTU1WGhxdVFjV1RCcUcya2tVeUhnbWhjcE4tc3pSRmswTVNuZmc2UmR5RHFkSFBxN3FLNUFfNVlwalZEc1JXbVdKVQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T11:58:10+00:00",
+      "snippet": "Cashi launches public beta for stablecoin spending app and Visa card Electronic Payments International",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 30.32
+    },
+    {
+      "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
+      "url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-12T16:07:59+00:00",
+      "snippet": "HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong Kong’s regulated stablecoin market takes shape.",
+      "author": "Cointelegraph by Sam Bourgi",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 30.28
+    },
+    {
+      "title": "Africa’s largest crypto market opens central bank sandbox to stablecoins and virtual-asset firms - Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR0U0cm5scXNWaXNUU1JxR0xQSEZxY21CYnZ6TnFubjVkdzVZQWlLNlRxM0FaZm1Qa3hRODdfLU9PelUzdU50eVVXelpFbTN0eGZhQ1JwcnFrcWlXU3hMZWZ3cXhvMjhVMEpZOWhfbk1ZSmZvbkIyZjNHbVNRRmZ4LUNqYlF0Y1IzcXNUVDAyZ1pKaXdnMG1zUld5eTJuX2pqOWpkbmM3SS1UV2hVSE1rWTVkWklXYTV2NEl1OXdHc2xJQlRndGN3cndHUENSNTVwNEdlSWlGMA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T14:24:57+00:00",
+      "snippet": "Africa’s largest crypto market opens central bank sandbox to stablecoins and virtual-asset firms Business Insider Africa",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.97
+    },
+    {
+      "title": "Russia Launches Regulated Crypto Exchange With Bitcoin (BTC), Ethereum (ETH) and Tether (USDT) - Blockonomi",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlV3aFlRNnRoRHd5c3piM2FjZGd6dkZ0LTl3d0ZzemRFQWg3ZFlkN0xjOE9peEJUREtCdDlqR2VieXpGa0FDUTZwWl91ZXYwUXltQURTWWFScUJxZGV0TjdGSXVSUTVuYUlOMkxrdXhlbzQ1cjBRU1Blcmk1cWg5anRveFdwd3Z2N1hPVmdrbkkzQVhEUmdLNlB5R0haMGFmM2RlRVV6REwtUkNHam9aNg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T14:50:54+00:00",
+      "snippet": "Russia Launches Regulated Crypto Exchange With Bitcoin (BTC), Ethereum (ETH) and Tether (USDT) Blockonomi",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 29.62
+    },
+    {
+      "title": "Stablecoins can transform the Global South by reimagining digital finance, trade, and development - Brookings",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONi1DZEh3TUp5ZHNTMUMwekhiemozYXFxQUdDWWdSSmNkanpuYlNhUkdwLXVseG9oSEVXNi1rRHFkUEZ0ajFaNXl2RWJCQV9hV2dBck92d0xqVWg5d2xXSHBGS05mbWpybm5vS0dkOFNRQjdIa2FyTFJKbHoyZzJoVWJ4WEpFWEVBZGFkQjRwcDdMcWlqLXVtcVRHdTFUcWxxQlctaXRRSUtvNTFvbFNITEx4azlBMXdFbDN4ektkbC10SXBKaDEyRS1DMA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T13:40:29+00:00",
+      "snippet": "Stablecoins can transform the Global South by reimagining digital finance, trade, and development Brookings",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.51
+    },
+    {
+      "title": "USDC Surpasses USDT In Transaction Volume For First Time Since 2019 - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVHJBX1RxWFRNd2ZDRy1GYW1uREswYmw5amlOcXFYb2NpeEFULTI0NEd1WG9EUjQ0NWtQaWZ4cWFkY214TG92QlNtdlYtRlR4VVkweXR1NW1wdDhmeTNILVl5U1loaGJ3TlRsNUtEajRXTkhrdi1US2k1WFlMZzdnT3lnZmNUUVRWdlo5TTVhczNaMDFFSVpiSTc1amRpVlM4Nmc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T00:58:44+00:00",
+      "snippet": "USDC Surpasses USDT In Transaction Volume For First Time Since 2019 Yellow.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 29.07
+    },
+    {
+      "title": "Meta Begins Paying Creators In USDC Via Stripe And Circle - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM3M2RDRoNmlTYjhWdlRsZ1hPRG5DYVZ4ZFVxcm1uMi1tYnB4OFJ6eUpYenB0dUNJejY0ZHlBYW9VMDRuYUZiSFhmRThEdEtTLVcza3gzZEJyVW1LQW1YVHJzZ2Nyb3Y5TDJEb3dpRVFaV184dkhsR2ktR3NqY2JxZnJPZmlZSzllTGhTYjRMV3V4a2l1Tnc5NWlfVi1WUGs?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T00:40:49+00:00",
+      "snippet": "Meta Begins Paying Creators In USDC Via Stripe And Circle Yellow.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 28.89
+    },
+    {
+      "title": "Bitwise cuts 14% of staff while still expecting growth",
+      "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-12T18:01:15+00:00",
+      "snippet": "Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a variety of reasons, including shifting to AI and market forces.",
+      "author": "Cointelegraph by Turner Wright",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "positive",
+      "score": 28.64
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to USD (United States Dollar) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxN3Z2dm05dm9oTTRXOXZlUEpNOF9YeVRXV0lxT0ZQUU5TUjdFRjB6Nnl6Y01USl90Wm84Zy1PZkFMOVprUk5ueldadEEyYmVwbWNFbVN0Q2Y?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T00:00:00+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to USD (United States Dollar) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.46
+    },
+    {
+      "title": "Circle’s cirBTC Is Live on Ethereum but Has Only 40 BTC Outstanding",
+      "url": "https://thedefiant.io/news/tokens/circle-s-cirbtc-is-live-on-ethereum-but-has-only-40-btc-outstanding",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-08-12T21:18:10+00:00",
+      "snippet": "Circle National Trust custodies the backing, while published Bitcoin addresses and Chainlink Proof of Reserve provide onchain visibility; Arc support remains forthcoming.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "risk",
+      "score": 28.28
+    },
+    {
+      "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96cHg4T2VWTk9DamZMYjU5SXBGenBxck4xVnh1bWFreWNwRXVaUkFIU0d4bkZoTXpXQThoenlydmYteUEyN0c5cm5TSTlGT2NlM2hNUWpRcnI?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T11:33:48+00:00",
+      "snippet": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT Cryptonews.net",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.19
+    },
+    {
+      "title": "USDT market cap drops $4B, signaling possible Bitcoin selling exhaustion and nearing bottom. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEYwNHFFeHNmUXNKbW8tQU5qUmkwMEJIM2NERDBJaEtqc01TbTJ4MUgtMnNxX1FvTkxrcDgwSzhzb0tFMEY3M3QzU1BHbHJSTG0xS3ZUTExJMUxMaFBoR3owZ0N0T0pPTndxRzlxVGczd2FMRXdNSEFyY0hlV2hoWXZ2TVdlU04ybkNlV3J1SXI?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T11:27:39+00:00",
+      "snippet": "USDT market cap drops $4B, signaling possible Bitcoin selling exhaustion and nearing bottom. Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.12
+    },
+    {
+      "title": "How to Bridge USDC to the XDC Network: Safe Routes for Deposits and Transfers - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOW5mamFYRGdIdi11cjJ3YmRMMlozV2pzN1VrSHF5Vm40SThGV1duM1JFLWk4YTdsRm8yMUJDRENvWkRkOFJfRFljY013aF9sVGx2dktUc2JGbEo1aGQ0T3RrVlNBV1hVX21LOUpKWjJsRG1LOGUwZUNLQWhyLUR4N0h4bjdMeDIweHdYMFhNb2pOWElXeTlENThENEhwbFpobDk0ZWFIYw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T11:16:44+00:00",
+      "snippet": "How to Bridge USDC to the XDC Network: Safe Routes for Deposits and Transfers KuCoin",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 28.01
+    },
+    {
+      "title": "Tether Slashes Equity Raise From $20B To $5B After Investor Pushback - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWJaUEVqV2dManF1a0c0V2Y2ZWxzSGZsY2ZXbkFNYmtaRTkzRXV4UlU1VXRvNUVuQXNHZjJlQW1SY1dFZm9hcm5iUWs0R0t5MXdGZDhuQUE1RUFqdW4zdGlIemtEbmJkLUc2YWl6amQxaXBzLUFLbzFwbHBIMW40T3lVWW1MR0RIM0NxNDJtVFJpQ0RrYl8ydGJVbFBWOWd0R3Q3MmVNb0poeUhBQUxZMm9jWXJEM2ln?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T11:10:02+00:00",
+      "snippet": "Tether Slashes Equity Raise From $20B To $5B After Investor Pushback Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 27.94
+    },
+    {
+      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
+      "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-08-12T15:00:00+00:00",
+      "snippet": "USDCx will let users transact without publicly exposing balances, counterparties or transaction histories, while allowing selective disclosure for compliance.",
+      "author": "Will Canny",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.91
+    },
+    {
+      "title": "Bitcoin near a bottom? The strange signal sent by USDT - Cointribune",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQzRNM25DSE1BeVhrd0NqUVE1djJNSWV3YXNDcFhTUFpiOEV5dDJhb3lOT2w3TGw1eXdfZVFCS1FPY1RpTGhXUzB1V25kRF9rQ2ZkSzJZdm1LX0NhQ2JPRlJyXzBFc0FnMmJGZ3IzdFF3MGE1S0l0dzJxWWFtUnhoTDRwM01BREpGd25nYnowVGQydGp2ZmNSS1RrX21qRmxj?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T11:05:00+00:00",
+      "snippet": "Bitcoin near a bottom? The strange signal sent by USDT Cointribune",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 27.89
+    },
+    {
+      "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-08-12T14:51:12+00:00",
+      "snippet": "In this week's Crypto Long & Short, LMAX Group's Jenna Wright argues that markets break down not from too little capital but from capital stuck in the wrong place, trapped by settlement cycles while risk reprices by the minute. She makes the case that stablecoins and tokenization are quietly becoming the plumbing that lets money move as fast as the risk it supports.",
+      "author": "Jenna Wright",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.83
+    },
+    {
+      "title": "Bank of England Lab Tests Digital Pound And Stablecoins In SME Trade Finance - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6dXllMHVfSEgzU0lNbTlFaDAtM2RVQkNhN0VnbnlHenBLZGI1ZFo0N1M3cUNaQVdPS29WMTVUQ0daWnNUekdjZ1JhcXFJLUI1NnI3cER4S0ZHS2Z3WjlvcUZkWm8?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T10:42:18+00:00",
+      "snippet": "Bank of England Lab Tests Digital Pound And Stablecoins In SME Trade Finance Yellow.com",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.65
+    },
+    {
+      "title": "Morph Grows Its Stablecoin Ecosystem with New Payments Tool - blockhead.co",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX19oYzFnSE5kRER1OWZqc3JQNWEya0pZSmtkNTFFMHRqVnplSHpFb0piNjM1ZVZBRGZWejJIbjZELU8tTElSNG1sQ25JSkdValBVRTZObDRkVU1YSEN4U1NWdWdBaTRkbVpqUWg0cEthdUNabUx2MEJxRDZXYnNHWEZoM1RuQVc3NDJPaWQwMVZUUnFZT182elBKZ3c?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T10:33:54+00:00",
+      "snippet": "Morph Grows Its Stablecoin Ecosystem with New Payments Tool blockhead.co",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.56
+    },
+    {
+      "title": "Circle, Nomura Plan Stablecoin FX Settlement for Japan by 2027 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNemZzWGg0ekF3TnpLTl8waWZiZVJiNWhhZUFWQ1hVcW5yckw2bkM2NDdkQzM0dlJyQ09iVklPNVl1R2lOX0RrMXVKNnU5cjIwSkRWdmxCTUlMZFZxSi15RzhiWWwyTjlBMFdrc3FzLTdNREJOcENycHo0bEFXUmI0aHg2b3FKZ2VOT1ZVRTI2LTRBR2lHTWVIWGlJdWQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T22:33:50+00:00",
+      "snippet": "Circle, Nomura Plan Stablecoin FX Settlement for Japan by 2027 CoinMarketCap",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.56
+    },
+    {
+      "title": "Circle CEO Sees Yuan Stablecoin Arriving Within 5 Years - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYi1zLXhQWDM3MUxmV01wSTJKZ0t1OVpQRm00QWNpdWVXOExBNnVaR3ZBYklrUnhLSjJWWktRMXd0UWZCbE5URThsZWhMS2hUZDVIMWRhYkkwbldDY3MtbnFjYkRZQ0NFWl9oVTUwNG1sRXlmNVVkWjZ1ckdWSFE3ZWtB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T22:07:54+00:00",
+      "snippet": "Circle CEO Sees Yuan Stablecoin Arriving Within 5 Years Yellow.com",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.29
+    },
+    {
+      "title": "CRCL（Circle）行情觀察：財報後走勢企穩，Arc 主網即將成為關鍵催化",
+      "url": "https://www.reddit.com/r/US_HK_Stocks/comments/1vm8i8a/crclcircle行情觀察財報後走勢企穩arc_主網即將成為關鍵催化/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-12T08:45:23+00:00",
+      "snippet": "CRCL（Circle Internet Group Inc）昨日股價錄得超 6% 漲幅。 自第二季度財報發布後，市場觀察到個股走勢逐步趨於穩定。從財報資訊來看：Circle 平台託管的 USDC 規模有所增長，儲備收入留存率持續改善；CPN 跨境支付年化交易規模達 230 億美元，RLDC 業務利潤率提升至 41%。 Arc 網路也迎來多家重量級機構參與，包括贝莱德（BlackRock）、DTCC、Visa 等機構成為網路驗證方。市場的共識觀點正在發生轉變：市場不再簡單將 Circle 定位為依靠美債利息獲利的穩定幣發行商，開始關注其長期潛力，有望發展成機構支付網絡與代幣化資產基礎設施平台。 短期市場最關注的催化事件：Arc 主網預定於 9 月 16 日上線。後續投資者將重點跟蹤三大觀察維度： 1：有多少機構資產部署至 Arc 網路； 2：Arc 網路交易生態能否帶動 USDC 需求持續增長； 3：剔除 Arc 一次性收入後，RLDC 板塊利潤率能否維持改善趨勢。 整體市場看法：當前股價走勢處於階段整理後的觀察窗口，Arc 主網落地消息，將是影響後續市場情緒的重要事件。 免責聲明：...",
+      "author": "/u/Jack_kt1",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 27.15
+    },
+    {
+      "title": "Russia crypto purchase cap restricts retail investors to Bitcoin, Ethereum, USDT - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hbDVmQ19tYlpGMDNIaEpDSXJjbndpNlRkaHEyYmZocTRMNTlISXE1MTBkU1FpVHhLc2ZDbTd2cUh6clkwSG1BdlQ2c3NBVDdXWGU3cUdJZGlESnBoanl6Ym1DVV9aUzlYZlc2VTctcDdBU0E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T09:47:43+00:00",
+      "snippet": "Russia crypto purchase cap restricts retail investors to Bitcoin, Ethereum, USDT The Cryptonomist",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 27.08
+    },
+    {
+      "title": "Circle CEO Says Iran \"Highly Unlikely\" To Use USDC For Hormuz Strait Crypto Tolls - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkQ5VV9lNFRFNHN1VkNFaXRqamdyTkZwMy0zb003RFdzTmhtU2dvZldmZjJlLTVtTHJySWJhZkN5MldYejhFaVBPVlJxXzFhb3BDS0diV0F4c2VMR0YydUVrY01RaUw3RURONmRrM1JSYzZwWkdTNFV0cWtXaXVtcw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T21:42:56+00:00",
+      "snippet": "Circle CEO Says Iran \"Highly Unlikely\" To Use USDC For Hormuz Strait Crypto Tolls Yellow.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 27.03
+    },
+    {
+      "title": "TRX Price Breaks Out as TRON’s $2.1T USDT Activity Signals Stronger Network Demand - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmgtc3JybHBuSjEteVRNMjlYeW80VXkyRk01dEF5Q1hkeGI4Y18zUDVCSXF1TW5yT0drUnNMZmtXblRkOVhGa2czM1p3aWxLck9YZ1JUYnhxQkx5ODlrWEZYWlkzYlItMU84Rnd0U1gxZ2NLXzdPaXBQa3Z2blpEX21ObTZtX1MySl9Ycl9BYlJFQmk2Nms3VkVYMXR0RGpFcVUzMWNCVDM1VE5ibnE4Wm40RWtGbjNzVUE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T09:34:20+00:00",
+      "snippet": "TRX Price Breaks Out as TRON’s $2.1T USDT Activity Signals Stronger Network Demand CryptoRank",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.94
+    },
+    {
+      "title": "OpenUSD Launch Hits Circle Shares but USDC Network Holds, Says Talos - The Fintech Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTTlialN5aVRPQ0JNVU94ZjFXTXdGZFRPc0M1UjEzeTJZMEZBSGJacGwtT01DZzRsaUx2VE1NWUtlQjVZUWxWb1p0TkdVakV4bWMySVBhODU4aDFpWUIzZlE2QzlxMVhFbzN4Mkd0eFFyQ1JEMzdUWTNJQXJFUy1SQzVSaHo1RGJZQVFTNFNfRXNpRVRyUHRVZ1Y0dVM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T18:00:01+00:00",
+      "snippet": "OpenUSD Launch Hits Circle Shares but USDC Network Holds, Says Talos The Fintech Times",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 26.59
+    },
+    {
+      "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
+      "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-12T16:50:25+00:00",
+      "snippet": "The Digital Pound Lab is testing a cross-border trade finance flow combining stablecoin payments with simulated digital pound settlement.",
+      "author": "Cointelegraph by Nate Kostar",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.45
+    },
+    {
+      "title": "Visa (V) Broadens Stablecoin Settlement Capabilities - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNlBBNjB1VDBmRVNfa3QxZHNYX3gybDFvQjR6SllSeTJRUzFkczFHVmh2Q19CZDFaYjJQR2M3SVllRlFNdTNCTlhWZ2NBb3JjSjhsWDN4dHFsOHRsYjhtSTRRVkZzRTFDcEozR3ZGcUktLUN6OGVRbXMyYXhHN0RaOW1Rb2M2ZW80VDRiZ1d0S29tcE1fUzZJRUVlanNVZTJ3TTAwRA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T08:10:59+00:00",
+      "snippet": "Visa (V) Broadens Stablecoin Settlement Capabilities finance.yahoo.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.08
+    },
+    {
+      "title": "Russia Limits Retail Crypto Purchases to $3,645 a Year, With BTC, ETH and USDT Making the Cut - FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmRNd0VmdG1lYlBnODlzUzR3MmtVZlhFbHZtSko3SU9Ud0MtNXZ6ZkhCRVFLTXBmX2xtR1R2TllZZUNLNnBzdEFneFkwU09ab2NTZnd5V1NGSTEzVmJiM1FOYmVJVDlHX1lxVjJEQ0hBNFVENVNtaG9RWFhIeWZpSXV0MzllNWwyTnRjc2dURmcxOFhpaTFtMy1jd2p2eUdtZmFOZkk1bklOS0FMaGctd2ZBWWhzZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T06:52:44+00:00",
+      "snippet": "Russia Limits Retail Crypto Purchases to $3,645 a Year, With BTC, ETH and USDT Making the Cut FinanceFeeds",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 25.26
+    },
+    {
+      "title": "The Bid That Went Backwards: Inside Tether’s $40 Billion Monthly Bill Roll - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGxkLS1HTDcwNGg2RUJ3WWc0b2xiWVBWanpGbUV0U3M0Tm5nYktJUHFjSXNBM2c0aS1JS0tvVE9WQWc4dVFLRURPZS1BVl83cWYtVllRVTZ0WDhpR1EwZjljZTdWVGtNanFWRVVYVTdlMXVTQzV6WXpFS1huYVNhRXhUM1p6TzR1R0dHaVVtZzFwRU84cFpOTFNqZ25mT05KdTV6Zzh4QWwwT2t1cVhDS2NBT3VMTVE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T06:52:13+00:00",
+      "snippet": "The Bid That Went Backwards: Inside Tether’s $40 Billion Monthly Bill Roll Investing.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 25.26
+    },
+    {
+      "title": "Pump.fun's Share Of Launchpad Fees Fell To 27% In July. Four Weeks Later It's Back Above Half",
+      "url": "https://thedefiant.io/news/defi/pump-fun-launchpad-fee-share-falls-robinhood-chain-pons-noxa",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-08-12T19:31:54+00:00",
+      "snippet": "Two launchpads on Robinhood Chain cut pump.fun's share of launchpad fees from 80% to 27% in two weeks. Pump.fun's fees are up 30% over 30 days anyway, because the category grew 77% around it. Memecoin prices did not participate.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "positive",
+      "score": 25.23
+    },
+    {
+      "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
+      "url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-08-12T10:17:05+00:00",
+      "snippet": "The BOE-led Digital Pound Lab will test trade-finance interoperability, in which exporters receive stablecoins while importers settle in a potential digital pound.",
+      "author": "Olivier Acuna",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.2
+    },
+    {
+      "title": "Circle Posts $770M Q4 Revenue And 412% EBITDA Surge As USDC Circulation Tops $75B - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdWNWT2lPcVV0Mm43bHAtVWg2YldsWHV4bUxfQi1POUJySjNIWEluc2wwUnlWZ3NVNkhDeW5LUVY3VTEwWTdxUEE5NUVZbkxtM2RrNExXUGF3WDlWMGVibkhCQndIV0hIV2U2ZmRKU3pVaW9tZDdDNVNHbTdtY2RaT1FHZm1PVjhTY3k2a1lkS3NmQng4Rm1sWkJnQUh6VFVGRWVSdTRSX0gwbHBncU44NUdLNEh0b011UUZzbkJKZWxIanM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T15:46:07+00:00",
+      "snippet": "Circle Posts $770M Q4 Revenue And 412% EBITDA Surge As USDC Circulation Tops $75B Yellow.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 25.19
+    },
+    {
+      "title": "Stablecoin card spending hits $1B in July, led by Jupiter's USDC Visa card. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0JJSXlXVlpmYVBZbVdsTnhxWFFPUnlEZnNsQWtTOEM2VnJ3eGcweFJfR3ZtU2hjSzUtcTBGYUVyMWQyUjVsdVNEOXh4T08tWlVnYlZtbzhsSU04My03YnhURC1zcDM2QnR0RDkwUC1hTUFHam1IbW52Uk9qYURPNDFnX1RyN3cyWjVteVlJcndZVmVEOHRHX2gxMUZXeHZL?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T18:11:38+00:00",
+      "snippet": "Stablecoin card spending hits $1B in July, led by Jupiter's USDC Visa card. Pluang",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.83
+    },
+    {
+      "title": "Crypto: Russia changes course and bets on Bitcoin, Ethereum, and USDT - Cointribune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX3E5S0lZR0ZXclBCZFJUZlI1N1hLd3U5YlE1Z21hMTRMN2NlRFV4MW5kOXFKanhxZmdtTE5aRFFTMWZHRG0xcG9HZ1RoRnNfdGJ2aWJCdnVnQTRQSlJsOFZlYk9haVpSTlM4VHZYRURlTVU2UW1OalhKYzBfUlFlUXdibnA5OTRYMkYwN1FoQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T06:05:00+00:00",
+      "snippet": "Crypto: Russia changes course and bets on Bitcoin, Ethereum, and USDT Cointribune",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 24.76
+    },
+    {
+      "title": "BC Card, Coinbase Complete Stablecoin Payment Pilot — QR Payments Without Currency Exchange Move Closer to Reality - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aOWRWRXZ6WGtPMXU1LTZBd0FzTTh6aEpsM244dTV3SmY1Q1RuVFg5Zk1Mcnd6RnNtN05SdlhxdTR6ZlcwLUYtU05iQ0Z0TjV6MW9rdTVVN2tmNkx5bm1NNS1TOV9KNTdPenJ0aU1sZVdlakVuc0E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T05:56:00+00:00",
+      "snippet": "BC Card, Coinbase Complete Stablecoin Payment Pilot — QR Payments Without Currency Exchange Move Closer to Reality finance.biggo.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.67
+    },
+    {
+      "title": "Zerohash enables banks and brokerages to access Robinhood Chain and USDG stablecoin easily. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaGNXUmI3emVEeUdoWVl3alBGUDlGU29PbzJfNWdTVEg4MzhzNl9Ba2hEb1AxNDRCeWlsMnh6NHVNSnVaa0hhQldtekRBNXgxdjg3anFsMkZ1VklVLUxfSV9PbTdtWjgyZ3R1YlFfT05OMGYzYWMwck51QWNWeWltUjE0cUxYcUU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T17:45:24+00:00",
+      "snippet": "Zerohash enables banks and brokerages to access Robinhood Chain and USDG stablecoin easily. Pluang",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin",
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 24.56
+    },
+    {
+      "title": "TRON hosts $88B in USDT, leads stablecoin trans... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcndEaWozTlVCY0VVdDNMeEY3SU5ydndGNjZ3dHpITjZBSDJDV3k4c2NpVlV5MFlTX2JNVWstTkd5bzlpTjQ5VG9lcmM2YkQ3QzRTY01rR3Q1dzFtcVVoWEowZndQZTBmYkJacUJrUGdfU1h3aUotWFlLeTA1eDlVSzk2blYxaTlxOFNJalE5VnBOYXhFOExhZ193?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T17:35:24+00:00",
+      "snippet": "TRON hosts $88B in USDT, leads stablecoin trans... Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.46
+    },
+    {
+      "title": "ARP Digital secures Dubai VARA broker-dealer license",
+      "url": "https://cointelegraph.com/news/arp-digital-secures-dubai-vara-broker-dealer-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-11T17:53:51+00:00",
+      "snippet": "The license allows ARP Digital to offer regulated digital asset and stablecoin conversions into UAE dirhams as it expands its Gulf presence beyond Bahrain.",
+      "author": "Cointelegraph by Nate Kostar",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 24.38
+    },
+    {
+      "title": "$4B leaves USDT — Are crypto investors leaving the market? - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVE9URWI2eERmRWpMNXZYM29YQ1J3aWlBV014LUdPWTFocDNYWGhBZ2N6dVN6T3gyamhqelRSVUV4V3AxdTJGWG1tVGFoYktWdU5HWlhHanp5ekpuNWI1VndUalVxNzNkOXBLWldnMEZzUWtyaXN3N0M5ZU5GeUw2TFk0NA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T05:00:54+00:00",
+      "snippet": "$4B leaves USDT — Are crypto investors leaving the market? AMBCrypto",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 24.1
+    },
+    {
+      "title": "Cashi launches stablecoin Visa card in public beta - CFOtech Asia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWl2dzQ5blpMREQ3XzhvbHJjemtNQlhoN2pocUhpQ1hSSWtYQXRIVmhjdW1xRGpNUDdHYVNiX2xlWE5jajh3aVJCYUpSNFVCei1PNmZHUnl2ZW1kRXMtVFBSMDAtMUh4SXRncE5fWm5XZHN4ejNBQ3pILTVoNjJlQjdqdw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T01:40:00+00:00",
+      "snippet": "Cashi launches stablecoin Visa card in public beta CFOtech Asia",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 23.88
+    },
+    {
+      "title": "Cryptocurrencies on Russian Exchanges: Bank of Russia Includes Bitcoin, Ethereum, and USDT in Its First List - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2x2ZlllUzhUOHBWbGowQW5VQmg1TVluMks2VXg3ZDJ0bGJpRWcydG1NUDVyaTZIbFNvYWZPTVA1aUhZVERIMWozNmdzNXU4UUQtSEVycmlScXNlaFByWFlBVU56V2xHaWR2Y2dVQXgxajRvMDQwQ2hGdW9NM1ZBSXBYUEpTVUhYQzhpclZkZmdwSmNTZTkyOG1vbEtzQTRhZUxnNjRyOS1tdTJvbUdBOEZsbW5HZjhpWU1IWGV1dno2YkpXRnkzN0hTUHQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T04:35:21+00:00",
+      "snippet": "Cryptocurrencies on Russian Exchanges: Bank of Russia Includes Bitcoin, Ethereum, and USDT in Its First List KuCoin",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.83
+    },
+    {
+      "title": "Tether is Killing Its Gold Stablecoin Experiment in 37 Days. Should Investors Worry? - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hZ3FLODBhNHg3cS12cnpjSEtvUWtWdEpBZWY2MG5rcDJpMFA2SGFmaVBvYkZLUVVWWXN4SzBHMElpY1lCTXVEQlVpSXE0WHVrdHdNZ3A1Nk16YWVpTnJfdHhlV3MtQndTaU84dVY0bndiell3b0hEZ2RR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T16:26:00+00:00",
+      "snippet": "Tether is Killing Its Gold Stablecoin Experiment in 37 Days. Should Investors Worry? BeInCrypto",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 23.73
+    },
+    {
+      "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
+      "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-08-11T17:26:54+00:00",
+      "snippet": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar—everything else, including XRP, stays off-limits for retail.",
+      "author": "Jose Antonio Lanz",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 23.49
+    },
+    {
+      "title": "Tether's USDT Flips Ethereum For First Time In 8 Years, Then Slips Back - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RQzJNeDhWa0FWekhrRGt6MXpNbGpXSEVRS3VQU1lhaDBkbFNsRUtwN1kxd0xiWDNrb2poVHB3WC0xaTN6b1FzR20zTHBlY3JYd1N5SE90SE04UW9UNXBrWWZzT0Q5cnVKQlFaTFRoemhCUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T15:37:20+00:00",
+      "snippet": "Tether's USDT Flips Ethereum For First Time In 8 Years, Then Slips Back Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.23
+    },
+    {
+      "title": "The Central Bank proposes to allow the circulation of Bitcoin, Ethereum and Tether USDT on Russian exchanges - AKM.RU",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjVSLWVOVDFGcFpwc2J5TWhRMnFhQk13RmpWc3JXeVBDNFN5VWZBZzRVeTJOVGJXVWY0TWlrM244c2RWRVA3RVlvaFkxbXdvM1pvM0Q5cmhxeHIzS0pJZlVQN01VVURicmlkcnlPZzR2QVpRVHEycnBLMnVvcDh6Y0VMeXNzVkJfZ0cwTnJFbjRmcnZwSVdxMmVmeE9rZzBvclBod0VwbUNDREVKRXpfaFlEekxkRW5Fa1kxcFRLQ20yUkxJV0IzRA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T14:33:10+00:00",
+      "snippet": "The Central Bank proposes to allow the circulation of Bitcoin, Ethereum and Tether USDT on Russian exchanges AKM.RU",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 22.56
+    },
+    {
+      "title": "USDT Market Cap Shrinks $3B After Two Largest Burns In History - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVRxaFVwbi1RbEJ2ai14bWlLa2hMZW5sTjkyNnBpcGdieWpzbHduc3lONHIzcU8zVnYwYVRDTVUya2NKSU43SG9ObkJQQnhqY05XLTlLdDVvWHZiUGQ5My1VRzdYX0RPNDlieVNFTjR5cTF0UjdSTDRBWi12b2lRNFVhUzJQeVJ3emt0dWc2YzM5alU3ekdPZzk3cS0zYkVwWWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T01:31:10+00:00",
+      "snippet": "USDT Market Cap Shrinks $3B After Two Largest Burns In History Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 21.91
+    },
+    {
+      "title": "World's biggest private gold holder Tether gives users weeks to exit vault - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTBzOXJ0SkVLY2tlMldjZEwzWnlpdHhSbkI3ckZGcFd3MWlLSWJ4dmpNN1ZvVE5FNkptSktJQmRWTE9LX3JETnk1ZHMwLVUyMjJHVk9tTnJtY2J3OS1mWGE0QWRJOVh2T3lGUHJRT1U1Wk5mdWNMZFJpRkVhUmIwVnNjM285dHdwc3lrX283eDU4MDY0cl9NSEhzRnBqM0xPMC1FQlE4UXZkTDBCRy1oNVBUMA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T01:20:52+00:00",
+      "snippet": "World's biggest private gold holder Tether gives users weeks to exit vault investingLive",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 21.8
+    },
+    {
+      "title": "Robinhood Chain Sets Record 11.6 Million Daily Transactions as TVL Surges 32% - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14T3JYSzBRZWplWll3UEFTRjdEN21Gc1hVMXloNjhfdFR1NFRkeXk5cnlCdUMyUlNCWmRaT1ZKclpGWm5qTENFWmMxUTlMVlNmQUtTZg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-12T00:28:34+00:00",
+      "snippet": "Robinhood Chain Sets Record 11.6 Million Daily Transactions as TVL Surges 32% bloomingbit",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 21.26
+    },
+    {
+      "title": "Bank of Russia approves Bitcoin, Ethereum and Tether for public trading - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVklGc29xYzV2Wk42RGlRejQtZE14QWZyMmpIUnpXY0RCaW9HbUdoRTJmSzByLUE0WENHTFg4RTNlWklBbmpiQW8wQmoyV2JNd2F0d2pLUnVVSGptT3lzZWFBa2tuM1ktWnRXYm94Z3RxZGpIZGtXU3ZsTmp2SGJwdkc1elM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T23:14:42+00:00",
+      "snippet": "Bank of Russia approves Bitcoin, Ethereum and Tether for public trading CryptoRank",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 20.49
+    },
+    {
+      "title": "Circle Internet Is Still Down 10% in 2026. What Will It Take to Get CRCL Stock Back Up to $100? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON25tOUcxbzhoS1RhV294SGw1NlNnS1dfMWZfTVdvQS1qRTd1TTlpNmhqZlpMR0FGYnJBRXRTOFhia0lDajh1VDlta18xMEdLNmRZb3lSTmlNcTlnaU9ES1FqZ2tUZnNuSWxjaThBbkRmYnlKa2ZzcDBFb3Q5bGlOZHFRcGFZbEVoQ0pMLWhSWHNSNklGOE8wRTJ0MXk2RFBRUFJOR3Z3NFZ4UGw2T1BCd2hnMW1ibUt6WERTRWo0U1BZdHZTNk9ucS1sakZhLTZ6?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T19:25:16+00:00",
+      "snippet": "Circle Internet Is Still Down 10% in 2026. What Will It Take to Get CRCL Stock Back Up to $100? 24/7 Wall St.",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 18.1
+    },
+    {
+      "title": "Circle Internet Is Still Down 10% in 2026. What Will It Take to Get CRCL Stock Back Up to $100? - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcms3OTF3c01qWFM0NUdNdnBYMEQwNXowRmVhUFdWaUxsS1VkNkpDekxlR0w4T3lHczhENC1LSWVLQWJleG5ScjRqbk9mYjMzSVZRSS1NUTE5X29zSVJVTlNJTEN3aWVQQ1cwb0NHU2RQRmNEN2xqNUdMYW5qQ2s3b0w3R2xNRVJoeFMxdEk0V0FmbDBEOU9xVTVR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T19:25:16+00:00",
+      "snippet": "Circle Internet Is Still Down 10% in 2026. What Will It Take to Get CRCL Stock Back Up to $100? finance.yahoo.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 18.1
+    },
+    {
+      "title": "Russia’s New Crypto Rules: Bitcoin, Ethereum and USDT - caspianpost.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGp4ZjVSM1A5c2FhZjgyVVRwQzEzRERFNjJWbVpRLU1NMkRCTnc2SjFjZERLa1lyVDQyOEtBNHhmR1kzVmJ1SGJ5ZUYzXzZrSUJ3b2tXSHRsamhGS3IyNGtYRDgtRlNMRHFfbHpIOGIwb3NDQWZ1TGthUElMRURlemNBc1hobGtRN2IxNjd3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T18:50:45+00:00",
+      "snippet": "Russia’s New Crypto Rules: Bitcoin, Ethereum and USDT caspianpost.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 17.74
+    },
+    {
+      "title": "Circle Internet Group Stock Jumps Tuesday. Analysts Are Still Split on the Stock. - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUnlJTE0ycV9jby0zQmtoUktLejBMWWFjbnFBSGh1WnVVbGp6QW12Z0VuUGZoTnp0bERsQjF3Q2RxOEpiVVlSd2VaVmZVWU5aNk9uZmVvem9MRUNhRGhmd0xsV1NjUjVwZ3BvanJLXzB2eGZYWnczcXJST0JWcG1UaktvOHhraEF4d1M4ekt3bExYdE8wZGlLTjNibEw1MnowaEtydUdIeHNVYlZIaWY0T0pBYVNBR0lTZ3djb2RqUDA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T18:27:39+00:00",
+      "snippet": "Circle Internet Group Stock Jumps Tuesday. Analysts Are Still Split on the Stock. 24/7 Wall St.",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 17.5
+    },
+    {
+      "title": "Decta Taps USDC for Back-End Treasury Settlement, Bypassing Traditional Bank Rails - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SVkc1SjkwT2s5c1dzX3NrVk5vSlo4ZEhyVWZqcnJxcUthQktwU09Ua1lteGN3N3k2UGR4ZUttbTRGOXY3ZEVBLVFnX3EtdUpnQ3NQaXlkMGN3dUdFWEx0Z1FKWFpVUGdfWjBkYnNVWl82Q0lpMWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T18:21:19+00:00",
+      "snippet": "Decta Taps USDC for Back-End Treasury Settlement, Bypassing Traditional Bank Rails finance.biggo.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 17.43
+    },
+    {
+      "title": "Russia’s Central Bank approves Bitcoin, Ethereum, and USDT for exchange trading — with limits for retail investors - Meduza",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZFJubzZ6cWp3SkxvcUpLZllaMkFQWVI5RkZTWkdfMkotZjR3TFMtQ1ljMzloVTUzY0RZeGZEQVA0SmJxbm53M283cTZXZElvZVl6M0hDYWszSU9jeUswTVh6elZEWF9QbGdmNGpWdkE3aW1EUXFsQVNqenVPQTQ4OEcxY3RjZ01zQjRLYmdoZ19saTZ5TGNRMjZHdGFWMm1BNDJSVUhFY3ZKNkctNVBQQnVLaEJiYTFWUk13Ui1NcXJtbGdTWTZMMGJJRFhidUNTblBZWW5Mbm1CT2NwVGZWUNIB5gFBVV95cUxQSHZ5amh6ZEI2bVJPRUdFc3FpQnN4dzB6Vm5XOVo1cE9lZVhWZVE1c1dMWl9pRUFZdlJfaUpDQUVEMHhCWjBGdTBWQTJfVUowU09OVHJTWWhFMnBIOC1MQWx5YUdRRldTVFBqSmliTFRELVZYRWdRWG5DY2swc05xNFhBd2g2ZzM5U0lTWmUySk5UZGdyWHUwcFVkdEtQZFA2WDJCamZWQjc1V0I1Q0JYcm1uUGlOTzBsTnJualdtZHpKUjNDVkJGM0xyOUoxNWxxMHFpdjNobnl3Zy1LcTMwQThIV2Z4QQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T18:04:00+00:00",
+      "snippet": "Russia’s Central Bank approves Bitcoin, Ethereum, and USDT for exchange trading — with limits for retail investors Meduza",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 17.25
+    },
+    {
+      "title": "Zerohash Connects Financial Institutions to Robinhood Chain - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdzJaWUxXRlJ4bGs3TkxlSGhmVXBrV0tpTjhRMXMzMFBMSWh3UG5aTW00bUJxU1MyMUd6NDZfYml4NVVrN20xUi00NDhrU3ctSXpQNUtZbUwzVEdGY0w2dmczekN0d3lwMnlMMFZycmZSekxGMUMzWWRPZ3Ezb2dOamFmZDg4QjdsMkdsTVpYNm5kVDRmbjQweko5OXVLTkMt?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T17:37:41+00:00",
+      "snippet": "Zerohash Connects Financial Institutions to Robinhood Chain PYMNTS.com",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 16.98
+    },
+    {
+      "title": "How to Accept Stablecoin Payments as a Business - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdmQ0RWdpZ3FrOEdWdVhvdmFXX1dBOGp2OWZjUVRkN053aHFTVk1zdzA0V25EeWhkcUxnUjNva19ocXZ6WU0taWVDWmNDZlZ6enN4QmZCUklpX3J2bE5SNE04dW9HOUh5aVZIdlhiY0huMWtuNmt6V25kNkVDUVdjVWI5QjgxaENJQ1M2WldQWdIBjwFBVV95cUxOdmQ0RWdpZ3FrOEdWdVhvdmFXX1dBOGp2OWZjUVRkN053aHFTVk1zdzA0V25EeWhkcUxnUjNva19ocXZ6WU0taWVDWmNDZlZ6enN4QmZCUklpX3J2bE5SNE04dW9HOUh5aVZIdlhiY0huMWtuNmt6V25kNkVDUVdjVWI5QjgxaENJQ1M2WldQWQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T17:33:53+00:00",
+      "snippet": "How to Accept Stablecoin Payments as a Business Coinpedia",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 16.94
+    },
+    {
+      "title": "Stablecoin Card Issuer Rain Buys Merchant Wallet Startup Ansa",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/rain-acquires-ansa-stored-value-merchant-wallets",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-08-11T19:10:48+00:00",
+      "snippet": "Ansa builds branded prepaid wallets that hold dollar balances for merchants, with no stablecoin leg. Founder Sophia Goldberg joins Rain as head of payments, and terms were not disclosed.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 16.52
+    },
+    {
+      "title": "TRON Cleared $2.1 Trillion In USDT, But Its DeFi Pool Shrank 1.9% - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yY3FWczRTRi1hdnhJbWxxMHVvX0VObnFobkdtaGdlYURxN0hDTTN1RDRrbjJ3MmJIUDhqdkJqSlk2MjFhUUpyd2FjaWI0SlJrYUE4WVc1YWgzZnoxWmxNU09HTFk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T15:11:13+00:00",
+      "snippet": "TRON Cleared $2.1 Trillion In USDT, But Its DeFi Pool Shrank 1.9% Yellow.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 15.45
+    },
+    {
+      "title": "Russia to Allow Bitcoin, Ether, Tether Trading on Official Exchanges - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRjNsdDdnYUtoNUV5NTV1OEpfZE5QMzl6eFgzQ2U5Wlk4QVVtSlVXQTRYTnk3cVhhaXFQTHZ6TVgySERVTVAtR2xfTGR5NlN3aEZvcmpkZjhxWDZiXzlSemRoaktpVFJTd0Yyc1lwVjZJZ1ZNcXY3WWxzaEc3cUFQQU9jamI3Qy03alRtak1hWVV1Y3NwN2lYUHJISExVYm8?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-11T14:57:00+00:00",
+      "snippet": "Russia to Allow Bitcoin, Ether, Tether Trading on Official Exchanges finance.yahoo.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 15.31
+    },
+    {
+      "title": "Ousted Pudgy Penguins Co-Founder Sells Out 44,444-Piece NFT Mint on Robinhood Chain",
+      "url": "https://thedefiant.io/news/nfts-and-web3/ousted-pudgy-penguins-co-founder-sells-out-44-444-piece-nft-mint-on-robinhood-chain",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-08-11T14:57:03+00:00",
+      "snippet": "An onchain tally of the mint events by analyst 0xlaplaced puts the take at $1,282,852 — well above the $755,000 figures that circulated during the sale — while the Spritehood contract's source code remains unverified.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 11.02
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 20,
+      "USDC": 16,
+      "Tether": 22,
+      "USDT": 33,
+      "Stablecoin": 50,
+      "Robinhood": 9
+    },
+    "platform_counts": {
+      "News RSS": 91,
+      "RSS Feed": 14,
+      "Reddit": 2
+    },
+    "risk_count": 17,
+    "top_risks": [
+      {
+        "title": "Miden to launch privacy-focused USDC-backed stablecoin using Circle’s xReserve - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMElQTU15LU4wNG9td2ZtSzQzZFNnR3BSSVY0cHI0UVFIRGhFRHRCcV8wLU5vNHh6SUthRXl0cVpqYlJ2anZQN3pMNmNnMkNHMWpnNGZaZDYydHVXbFZDUlBaV2F6UnA4bk9YcjI0RThtNy1xSWlyNTZRZ1BpSTRUd09yWVJNX0NFdXFWc0x0QVNoVE9GaU9tcHpuMU1QRXFkTWNj?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-12T15:00:00+00:00",
+        "snippet": "Miden to launch privacy-focused USDC-backed stablecoin using Circle’s xReserve CoinDesk",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 52.21
+      },
+      {
+        "title": "Robinhood and Revolut to Challenge Tether's Stablecoin Dominance as EU Regulations Loom - Bloomberg Report - Yellow.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQmhHY3YzMXBGWjVEZ3R6NWpjX2luclk4NDA2NnFSMjdoek43cFVOQnRPRFc3cWxIYkRvQzVObU84V1B6dHlxYlhzZzU5U0lvektlcC04SHNMb1hCVTdkbE1ZUHV3YnhVME4wcGw3X2poVFFYeHBrLVZiWkVpWEQxdXFrNFN0c1FKOFlJLXNwUmI4MVNxRE56Z1YyQ0F1ZVlpNTdaZFVsbWZpSmhkeW1uRnhNc05vUElySVhlaW9FeHVvRFhod2hCbFpCVThjTWkwUmc?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-12T09:35:53+00:00",
+        "snippet": "Robinhood and Revolut to Challenge Tether's Stablecoin Dominance as EU Regulations Loom - Bloomberg Report Yellow.com",
+        "author": "",
+        "query": "Robinhood stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "Stablecoin",
+          "Robinhood"
+        ],
+        "sentiment": "risk",
+        "score": 46.96
+      },
+      {
+        "title": "Anchorpoint Launches HKDAP, Hong Kong’s First Regulated HKD Stablecoin - genfinity.io",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmZWY3Y1UFpGZFRPVUtoQnlSdFpzbmNLUFdrVUtMb1I1VGNrYUxsUUg4ZUswdExBVV9uOWJtcFlwMzVZVEJ0WWVOVjlNZmtibXpueVotdzl3VVRReE1ueEJDNkJadWs3VlJpZ0hWb1g3SFduNEMzVnAyUXNtOTZCVWpWWHlqdVI1R1l3QVppVVVOYjFlMEE?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-12T19:03:11+00:00",
+        "snippet": "Anchorpoint Launches HKDAP, Hong Kong’s First Regulated HKD Stablecoin genfinity.io",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 39.75
+      },
+      {
+        "title": "Japan Blockchain Consortium Forms Tax Subcommittee to Tackle Crypto, Stablecoin, and DeFi Issues - Cryptonews.net",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lcTh0ZmNoSWgyMi1FS3N3VGpDc2ZSVV9wSzBvakd2cWVkY3B5cGNYbGJ0TXczVnRRd3R2anNxWXFaVjF1VGtXVzNyRTNxTmlLVERFMlp3?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-12T18:44:53+00:00",
+        "snippet": "Japan Blockchain Consortium Forms Tax Subcommittee to Tackle Crypto, Stablecoin, and DeFi Issues Cryptonews.net",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 37.68
+      },
+      {
+        "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
+        "url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
+        "source": "CoinDesk",
+        "platform": "RSS Feed",
+        "published": "2026-08-12T13:13:49+00:00",
+        "snippet": "HashKey Exchange and OSL Group are now authorized distributors, enabling institutional and professional investors to mint and redeem HKDAP tokens.",
+        "author": "Francisco Rodrigues",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 33.22
+      },
+      {
+        "title": "Slovenia joins EU’s MiCA stablecoin register with first issuer",
+        "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "platform": "RSS Feed",
+        "published": "2026-08-12T13:31:54+00:00",
+        "snippet": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
+        "author": "Cointelegraph by Helen Partz",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 33.11
+      },
+      {
+        "title": "Miden to Launch USDCx With Circle’s xReserve Infrastructure",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1vmpb7l/miden_to_launch_usdcx_with_circles_xreserve/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-08-12T20:15:13+00:00",
+        "snippet": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/rwatimes to r/RWATimes [link] [comments]",
+        "author": "/u/rwatimes",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle"
+        ],
+        "sentiment": "risk",
+        "score": 32.4
+      },
+      {
+        "title": "Why Tether Turned Its Back On Europe's MiCA Stablecoin Rulebook - Yellow.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGJuTndZSVZ4YjBLTWlzZV9ORUJMNVNTajdkVEVPczRPQURUUWhUbzkzN1FIaFZnV3BLYnY4QlNhU19HZjFsd0xDdHh5YWZtakRqYmV0RjVQcFFCcWZpNGwwLWZrU0ZWX29BblV4czR5cU83MENRdGRtai1sUDBGRmgybGdVVzA?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-11T21:23:46+00:00",
+        "snippet": "Why Tether Turned Its Back On Europe's MiCA Stablecoin Rulebook Yellow.com",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 31.83
+      },
+      {
+        "title": "EU weighs MiCA changes in 2027 amid US stablecoin push - CoinGeek",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVdzS200NDBmTndFZll4MVd5QUM2TkRzMmhfeWVnNzNsaU9uMkxCNTdQSW94b290NVZGdHB4N0ZBeTVyTzlwM25oOFhBWGZVZ3lqc05uZFRnUGVkY09teHprbTJzaUhmTFJJOUtmRkd3MGF4RWhxV1RlcVpmblVfMEp3?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-12T09:00:00+00:00",
+        "snippet": "EU weighs MiCA changes in 2027 amid US stablecoin push CoinGeek",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 31.59
+      },
+      {
+        "title": "ZachXBT Calls Circle USDC Wallet Freeze 'Most Incompetent' Ever - Yellow.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnZEt1aTQtamp3bk84eGxuQ0JieXpfU0VFZ2FqWlU3X21kQWFpNUJJNnUyX1FtLXh5b1FhVmQwNTRIenNQS3h0NlBNcnc0cHEyMzJtRmVVLXZOakJ2VFlVbXhOZ1lveGlCT0pHM2FyNjJWUkdQVS1XQklMOGJ1dw?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-11T20:44:24+00:00",
+        "snippet": "ZachXBT Calls Circle USDC Wallet Freeze 'Most Incompetent' Ever Yellow.com",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC"
+        ],
+        "sentiment": "risk",
+        "score": 31.42
+      },
+      {
+        "title": "Tether Announces USA₮ Launch As U.S.-Regulated Stablecoin Alternative - Yellow.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNWQ2Z2Z6UnZ0UTEwWlRlTmZFODZVakdDaGd4UnR4clNmMG56UlRVb21mUUhSbzYwZ0NieE53M01TWFRJSVkyR2lVbmZDNlZudTl0bHpxMkZpNXR0aWVCNEZ2bG1Ya3h3R25iN19MMGl3S2hmMVljbkx2NWhKSzRiYTNlSDgyaWxVeDNGUW5XZmRVd05SVWVNTHVkamdJdEZlektsbTAtcm1fY0FpS2xhaTNR?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-11T16:58:17+00:00",
+        "snippet": "Tether Announces USA₮ Launch As U.S.-Regulated Stablecoin Alternative Yellow.com",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 30.94
+      },
+      {
+        "title": "HashKey begins beta distribution of Hong Kong-regulated HKDAP stablecoin",
+        "url": "https://cointelegraph.com/news/hashkey-begins-beta-distribution-of-hong-kong-regulated-hkdap-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "platform": "RSS Feed",
+        "published": "2026-08-12T16:07:59+00:00",
+        "snippet": "HashKey has become an authorized distributor for Anchorpoint’s HKDAP, expanding institutional access as Hong Kong’s regulated stablecoin market takes shape.",
+        "author": "Cointelegraph by Sam Bourgi",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 30.28
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 50,
+        "headline": "Miden to launch privacy-focused USDC-backed stablecoin using Circle’s xReserve - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMElQTU15LU4wNG9td2ZtSzQzZFNnR3BSSVY0cHI0UVFIRGhFRHRCcV8wLU5vNHh6SUthRXl0cVpqYlJ2anZQN3pMNmNnMkNHMWpnNGZaZDYydHVXbFZDUlBaV2F6UnA4bk9YcjI0RThtNy1xSWlyNTZRZ1BpSTRUd09yWVJNX0NFdXFWc0x0QVNoVE9GaU9tcHpuMU1QRXFkTWNj?oc=5"
+      },
+      {
+        "entity": "USDT",
+        "count": 33,
+        "headline": "Tether Mints $1B USDT, Cements 58% Stablecoin Market Grip - Yellow.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmZFMWZZUFBfZVVKckZ1bmhPZVJUVXRmOGhyckx2NFlISldqSVNCVUJFeENBeUVGMmRRWTVxbGxFMVpGbDg3Y2RMd3NGcmZXaWYwbkJiaU44X2hRMkpvUkJreWZ1SEROVkpqSUdDYmFIS2hXY3pIZVZtNWtaOWpFNFo2ZlBVdw?oc=5"
+      },
+      {
+        "entity": "Tether",
+        "count": 22,
+        "headline": "Tether Mints $1B USDT, Cements 58% Stablecoin Market Grip - Yellow.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYmZFMWZZUFBfZVVKckZ1bmhPZVJUVXRmOGhyckx2NFlISldqSVNCVUJFeENBeUVGMmRRWTVxbGxFMVpGbDg3Y2RMd3NGcmZXaWYwbkJiaU44X2hRMkpvUkJreWZ1SEROVkpqSUdDYmFIS2hXY3pIZVZtNWtaOWpFNFo2ZlBVdw?oc=5"
+      },
+      {
+        "entity": "Circle",
+        "count": 20,
+        "headline": "Miden to launch privacy-focused USDC-backed stablecoin using Circle’s xReserve - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMElQTU15LU4wNG9td2ZtSzQzZFNnR3BSSVY0cHI0UVFIRGhFRHRCcV8wLU5vNHh6SUthRXl0cVpqYlJ2anZQN3pMNmNnMkNHMWpnNGZaZDYydHVXbFZDUlBaV2F6UnA4bk9YcjI0RThtNy1xSWlyNTZRZ1BpSTRUd09yWVJNX0NFdXFWc0x0QVNoVE9GaU9tcHpuMU1QRXFkTWNj?oc=5"
+      },
+      {
+        "entity": "USDC",
+        "count": 16,
+        "headline": "Miden to launch privacy-focused USDC-backed stablecoin using Circle’s xReserve - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMElQTU15LU4wNG9td2ZtSzQzZFNnR3BSSVY0cHI0UVFIRGhFRHRCcV8wLU5vNHh6SUthRXl0cVpqYlJ2anZQN3pMNmNnMkNHMWpnNGZaZDYydHVXbFZDUlBaV2F6UnA4bk9YcjI0RThtNy1xSWlyNTZRZ1BpSTRUd09yWVJNX0NFdXFWc0x0QVNoVE9GaU9tcHpuMU1QRXFkTWNj?oc=5"
+      },
+      {
+        "entity": "Robinhood",
+        "count": 9,
+        "headline": "Robinhood and Revolut to Challenge Tether's Stablecoin Dominance as EU Regulations Loom - Bloomberg Report - Yellow.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQmhHY3YzMXBGWjVEZ3R6NWpjX2luclk4NDA2NnFSMjdoek43cFVOQnRPRFc3cWxIYkRvQzVObU84V1B6dHlxYlhzZzU5U0lvektlcC04SHNMb1hCVTdkbE1ZUHV3YnhVME4wcGw3X2poVFFYeHBrLVZiWkVpWEQxdXFrNFN0c1FKOFlJLXNwUmI4MVNxRE56Z1YyQ0F1ZVlpNTdaZFVsbWZpSmhkeW1uRnhNc05vUElySVhlaW9FeHVvRFhod2hCbFpCVThjTWkwUmc?oc=5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 834,
+      "kept": 91,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 5,
+      "kept": 2,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 4,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 5,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 58,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 4,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
