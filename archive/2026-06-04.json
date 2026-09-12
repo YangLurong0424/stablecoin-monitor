@@ -1,0 +1,2323 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T04:46:56.357525+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "Stripe, Visa, Mastercard, Coinbase form alliance to issue new stablecoin, check Tether and Circle - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOGlCV09obkY4S3dUV08wQXkzTGR3b0NyX3I3WUFhOW5VQnFaZmZCdEVzSTlKRGdZQmlJSktja3VFT2swWlBMQVF6a1Rzemp6UzA3ZU4wakV6RlRkenlWS0JTUHpfdzI2NWl3QThJRS15V2RLZ0ZuTGhOMmRIS3NtR1gwMDNjeVBlRFpYaTQtNUd4UERMdUJ3anRXWUwxRjNhUHhIZkFGN2t1STFtU1BVUkNnbTdOckRHc09XUy1RZklIWkQwQ0U2S2NOU2w2UVU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T21:31:22+00:00",
+      "snippet": "Stripe, Visa, Mastercard, Coinbase form alliance to issue new stablecoin, check Tether and Circle 디지털투데이",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 52.96
+    },
+    {
+      "title": "StablR multisig minting-key compromise: MiCA covers reserves but not custody architecture",
+      "url": "https://www.reddit.com/r/u_VicMenMTO/comments/1tvs03q/stablr_multisig_mintingkey_compromise_mica_covers/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T15:01:40+00:00",
+      "snippet": "Spent the morning reading the CoinDesk reporting (26 May 2026) on the StablR incident and I think the architectural read here is more interesting than the headline number. StablR is a Malta MFSA-licensed EMI, a MiCA-authorised EMT issuer, Tether- and Kraken-backed. Mainstream regulated stablecoin. On 24 May 2026 an attacker compromised a single private key, added their own address as owner of the minting multisig, removed the two legitimate signers, and minted roughly $13.5M in unbacked USDR +...",
+      "author": "/u/VicMenMTO",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 50.62
+    },
+    {
+      "title": "💵 Stablecoin Supply Hits Record $322 Billion, Rulemaking Starts This Week",
+      "url": "https://www.reddit.com/r/kava_platform/comments/1tvtjp5/stablecoin_supply_hits_record_322_billion/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T15:54:25+00:00",
+      "snippet": "Stablecoin supply closed May at a record $322 billion. BlackRock's global head of market development put it simply: stablecoins are \"a bridge between traditional finance and digital liquidity.\" This week, the GENIUS Act comment periods begin to close, the point at which federal stablecoin regulation shifts from statute to the operating rules issuers must build. What gets settled now determines who can issue, what reserves they hold, and whether yield survives. The Senate floor opens on June 3 f...",
+      "author": "/u/cameron_kavalabs",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 47.56
+    },
+    {
+      "title": "Mastercard Expands Stablecoin Settlement via Circle's USDC, Ripple's RLUSD and Beyond - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa2Nwc2ZUMmJLdzd1Rk1fLXdtYWxLaGVOdFd5R29FM09tVEpXYkdFZmpNV0xnOGpEVXNVaHkzSnFMaFBET1QycXkxWWJRd252SGRveVY4Z0U0TVVtVngxYy0xNmZOcTRMTVVrSkM0ZDMwY1RyOVNKOXBENTdnVWRyLXVOTW9EbzRteEFQdEhncEdsZ19f?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T17:23:31+00:00",
+      "snippet": "Mastercard Expands Stablecoin Settlement via Circle's USDC, Ripple's RLUSD and Beyond Yahoo Finance",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 47.25
+    },
+    {
+      "title": "Tether launches gold-backed stablecoin Visa card with Fasset, offers 6% cashback in XAUT - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WYnkydXhUZnVUMHFEVFM4QnlNR1NBb0xPd3FzRHJtdzhfNVpNREY4T0dwSF9DRG9Da0lmaTctTjBxVmUwelZMZ09MMC1CX1VLLUZ2dFpNSGdORF9Mck5fQnZLWXlvcnlpdS1ESjZpbHo?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-04T02:44:49+00:00",
+      "snippet": "Tether launches gold-backed stablecoin Visa card with Fasset, offers 6% cashback in XAUT Crypto Briefing",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 45.6
+    },
+    {
+      "title": "Federal Reserve tells Congress it wants technology-neutral rules for tokenized securities and stablecoins - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qcXlDbHQxNmxZTkk2ME1veHlMY1Y1d3VVWDdQNExaLW9yWVVBQjE0M3JFdmpUU3RTQWx2Y2hsSmJ2T2pOTTQ1UVdhQWZkeWhMSVlQOEJSemJoTzMtSE9yR19IbmhjNVZFanZnUDlpOEozS0JfZmhyTXlWTEx0MFk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-04T00:44:49+00:00",
+      "snippet": "Federal Reserve tells Congress it wants technology-neutral rules for tokenized securities and stablecoins Crypto Briefing",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 44.97
+    },
+    {
+      "title": "Mastercard Expands Stablecoin Settlement Support To Include Ripple's RLUSD, Circle's USDC - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMGVONGxZU1piNExHclk2dHBPV0JwcHJ0MXRuaVoyNXl3S2EwM243azVfc3c4QnRFSUlOeWhnNVZsTWlnNnBKVU94TEFGbXYtS1NfSlFtbkE5UHNvNDhqYW9FNEU5dXY1aUw3MjhNUXVWWDAtTnhJU0M1NV9oVmpsamw0YjZFVExZWG1iSEFJRTVGQVZvYUJrNFF0R3pmWWYwV0kxdUJIdkYwWGI5aDYwUHh5cmdmN1FFVnQwYlh4N0M3X1U2Z0hlVVg1cjlsWTRzS0pFYS1hT0MtN2g3Ui0yakZR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T13:19:38+00:00",
+      "snippet": "Mastercard Expands Stablecoin Settlement Support To Include Ripple's RLUSD, Circle's USDC Benzinga",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 44.71
+    },
+    {
+      "title": "Straight from Mastercard’s website. Mastercard expands settlement capabilities. Stablecoins include RLUSD and use of XRPL",
+      "url": "https://www.reddit.com/r/XRPUnite/comments/1tvsbr5/straight_from_mastercards_website_mastercard/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T15:12:36+00:00",
+      "snippet": "No fluff, just facts. Straight from Mastercard’s website. Quote from article - “Mastercard will support settlement using regulated stablecoins including Circle’s USDC, which is already supporting early on-chain settlement flows in select markets, as well as Paxos-issued stablecoins including PYUSD, USDG and USDP, Ripple’s RLUSD and SoFi’s SoFiUSD. These stablecoins will be enabled across a range of supported blockchain networks including Arbitrum, Base, Canton, Ethereum, Polygon, Solana, Tempo...",
+      "author": "/u/Ok-Suit541",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 44.71
+    },
+    {
+      "title": "BREAKING: Mastercard Just Announced That Its Entire Global Payments Network Will Now Accept Stablecoins Including USDC, PYUSD, RLUSD, And SoFiUSD For Card Settlement, Meaning Banks And Fintech Companies Can Now Settle T...",
+      "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1tvupxl/breaking_mastercard_just_announced_that_its/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T16:33:01+00:00",
+      "snippet": "Mastercard announced on June 3, 2026 that it is expanding its global settlement infrastructure to support regulated stablecoins alongside traditional fiat currencies, marking the first time the company’s card network has opened its core settlement layer to blockchain-based digital assets at a global scale. The supported stablecoins include Circle’s USDC, Paxos-issued tokens including PYUSD, USDG, and USDP, Ripple’s RLUSD, and SoFi’s SoFiUSD, and they will be enabled across eight blockchain netw...",
+      "author": "/u/InterstellarKinetics",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 43.88
+    },
+    {
+      "title": "[BUYING] Need USD/USDT ($10 - $100) | 100% Safe & Clean Funds | Reputable Trader",
+      "url": "https://www.reddit.com/r/USDTexchange/comments/1twcsyr/buying_need_usdusdt_10_100_100_safe_clean_funds/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-04T04:13:58+00:00",
+      "snippet": "Hey Guys Looking to buy small amount of USDT/USDC ( $1- $100) range. If you are looking for cash out some crypto or freelancing earnings safely and quickly. Feel free to reach out Why trade with me? ° ZERO RISK OF BANK FREEZE : I use 100% clean, personal funds my payment history is solid and I have never had u issue with bank account or Compliance. ° Prooven well Reputation : I have completed numerous successful Trades here You can check my profile History or feedback from satisfied users I hav...",
+      "author": "/u/IcyBrother5450",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 43.72
+    },
+    {
+      "title": "Circle shares drop 10% as Stripe, Visa, Mastercard plan stablecoin platforms, raising competition fears. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPckVnY25wdmtTVXJpWC1qYktpMDVXT0hHU0xEdEg1bmI4Rmt2UmZINWFnM291WkFHSlYzdWFYRTUwSEFKVUJiaW5pODN6LVhCUVVibzJKVXZPR2ZZektraExIcDlkS1lPd3lWOENGYVpJU3NZZ2IzeDd2bjhxM0s5UmRvNmU5ZlVMYmdjc0JhV0N1eWI1NkNrZGg2ZUdjdzkxY3RhVlM5eWZKS0NZc1VV?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-04T02:18:16+00:00",
+      "snippet": "Circle shares drop 10% as Stripe, Visa, Mastercard plan stablecoin platforms, raising competition fears. Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 43.45
+    },
+    {
+      "title": "Stablecoin News: Mastercard Adds RLUSD, USDC, PYUSD To Payment Network, Why It Matters? - The Coin Republic",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNekJLT01PcldESGJveU9BRDhEQkR2YjNqQ3pvbGZzU0wtTkU1RThqV2JhRWswVXp0ZGxNMkN3X3k5Q0dOcUc2OG8yeW9SVDJ3MGNsa3JxYl9HYzNCWGFNNjl2OVU0NkVEZnlGaHVNUXNTNjlzcVVzVGxYUy1LNzROd050UmlEVGhtbVMxQXpkcWVTN0w5NUxORlh4VXpBRXdHeEFrMi1COXhXYkdFV2xfV19KOTNZZk44c043dy1iTEF5SV9U0gHKAUFVX3lxTE9BZ1dEZFdLdzdtMFdmT0gwY0dOUWs4LU5VR2FXT1Z3eTJUQm9DeWdrMHVpU3pxQ0Q5SUFqbWt3d1VHXzFSTy1ORUpOS1RGekRja0hjYmJhYXJhUTlCVHNIVWVQcXZ3bF9NWVp2Wld6WVpSbFozMVl6dTZ5Y19LUk9XWWF2YzQ5YzZJQzF4VTAtQ0ZpVmxKQzN1UzA2dGhGZ21iMXliQmFBZk5adURjdnU2Q0JEbGpzZ2pyV1dydWRqdEgweFVjT29SNGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-04T02:10:00+00:00",
+      "snippet": "Stablecoin News: Mastercard Adds RLUSD, USDC, PYUSD To Payment Network, Why It Matters? The Coin Republic",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 43.36
+    },
+    {
+      "title": "Europe stablecoins ride MiCA as Evernodes flags XRP Ledger adoption - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTY4enZlN2VVSFNHeUl1cFhPOXkxRFBlTW02YnJvTjRzTmxRZXlWWklEcXdsN2NCbm5vN0pIYloxWjBNd3ZQdlVXQ1dPNTJrSGxpcGhnWmlPVmJNdEZyNmdWdW5PUlNmLUJIRVNVSXFoYkhQb3dqUGFwcHV0SHl1ejRVWHk3MmxxZ2hGUjJxZGEwdmQyWFVtWEdJd2xFOEc5amg3dzA0MA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-04T02:31:52+00:00",
+      "snippet": "Europe stablecoins ride MiCA as Evernodes flags XRP Ledger adoption 디지털투데이",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 42.96
+    },
+    {
+      "title": "GENIUS Act & Stablecoin Regulation FAQ: What Broker-Dealers and Banks Need to Know - Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM203amVKWFFCU2ZmNFNDcWlkYnZHYVpfNk9iMjR1VmNtTENFT3hoTEFUMk9FSEhkMTVBd3FGWU9MZmRBMXBTZnZsSjdDbUhvdDVTM2FxV1A5TnpBeGZFRVlRTEk1UnU5TnVOcF9fTVQ4VUxvUlp4bkU1Slp0NnVPM3FXVnZHWjZqcDI2UmQ5WFJ2WC11WjF5bFBuQTQ3bUlIWmdvVG0yS2NiZVQ0VlBVcFk0SWYxaC01UXpIaWpZRFJWcXF0RlptSDVJamQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T20:35:10+00:00",
+      "snippet": "GENIUS Act & Stablecoin Regulation FAQ: What Broker-Dealers and Banks Need to Know Nasdaq",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 42.37
+    },
+    {
+      "title": "Mastercard expands support to USDC, PYUSD, RLUSD stablecoin settlement - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVTNPNHpKNUxWLVFtRXJZR2ZZTG4xdHRWQ1NiaFphRVBqUThiRFk2eUJzYUZrXzFsdlZCVEl1Qng1RVI1bnlHNllsU2tWVmZ2UEpPSzZwZFZLLU55SnFJV3BaUDJUR0lGcUotR3Q1S2NlTVF5SnB2NWNhRXJyLWcwVHZKNEhtRnlZSUc3a2RnejJmR0hwNWlSNENiU3g3TlptMjFUZ1luQXJyTGxqSHkxS0Q2Z2lsQ0NVVTZRVng2MXB6STJhMF9McHdnakNPOGU2alU5NDdlOE4xNHlmU2tr?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T21:20:24+00:00",
+      "snippet": "Mastercard expands support to USDC, PYUSD, RLUSD stablecoin settlement MSN",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 42.22
+    },
+    {
+      "title": "The Stablecoin Reserve Trade: Who Actually Keeps the Money",
+      "url": "https://www.reddit.com/r/u_KiransPerspective/comments/1tw8gne/the_stablecoin_reserve_trade_who_actually_keeps/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-04T00:56:21+00:00",
+      "snippet": "Personal DD / notes. Figures as of June 3, 2026, and they move daily. Not financial advice. TL;DR: A stablecoin is a money-market fund that keeps the yield instead of paying it to you. The issuer (Circle) is the obvious, expensive, high-beta way to play it. The boring plumbing underneath (BlackRock, BNY Mellon) is the durable, lower-beta way. The macro tell is ~$0.8–1T of new T-bill demand by 2028 (Standard Chartered). And the catch almost nobody prices: the macro thesis and the issuer thesis f...",
+      "author": "/u/KiransPerspective",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 42.07
+    },
+    {
+      "title": "The UK House of Lords released a 71-page report on stablecoin regulation, criticizing the current regulatory proposals for lacking competitiveness - WEEX",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxObDlUWjN2SHVLa1o5MG5xMzZhdHQtZlFsOTA0anJMVTQzcHZpMW93OUJLUW4wMFh5Yk9Oa3ZCQ25WQTFCYXdoTWtldF9aR2lqX3VvdnlMRWsyWDlZbVBiMzhXUGFSUk5oZmdUVGk2UVlxdy1EYTFwNzBVUjQ1R3hOakJBY3p0RkU0bms4MHpVZzA0c194UDhRTkNxUWM3NUFvcmZsTU52bWRNbVdrVjY5TXg1UDhzUzR5VUF1aXRqdXljWnN4RDNzSXpJY21mVHNFQWdUY3VJNTNMSU5GMTQ2WktPdVJ5U05Pb3lZM2JtQzFkTlQwQ1Z3QkNFemZXQlJuT0xMekpMcnFLZGM4ZUlfMVdWSXN1aE93ZFRjVkNqaEtmZVFGTWh5X2g1TQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-04T01:50:35+00:00",
+      "snippet": "The UK House of Lords released a 71-page report on stablecoin regulation, criticizing the current regulatory proposals for lacking competitiveness WEEX",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 40.66
+    },
+    {
+      "title": "Circle faces fresh market jolt as Coinbase weighs rival Stablecoin play - crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnd3bHdWc3ZYWXl6S1NIek8tcmdaQlhlTGl6NE8waEZabFlVNU9tZXBVNk15dXBUeUFES3dDWmV6WDJFeEZINllKM0FQSkp0TnNFRjJRSmFGRnJpSmVOTWJwQkRfRE44MlFrOFhUWVZnWWRNZDduQ3ljaHFueUoyblJrRkdWN3pHN2F6Z19NSi1OekZBS0N3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T21:26:45+00:00",
+      "snippet": "Circle faces fresh market jolt as Coinbase weighs rival Stablecoin play crypto.news",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 40.41
+    },
+    {
+      "title": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWHVzaEltNURpWThuaFJGQVJ0c3kzRFV4QlByLUFDb3ZnQkZCdzd3dXdvWUc2MGRpcUN2TC1vMHN3Ylp2Y1l0Y01WdjF5bWp2UTBqNm5RLUJ0Q0hrZm5IVk9icXM2dThMbWE2VU9OWVhTMGpnWHJuSjRyZGljS1NxSDFfR24xSkN6SlZodGkwa2lmZFZnaklKN2FZczRaQ1BsVTRqdnpkVQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T21:03:50+00:00",
+      "snippet": "Tether Debuts Tokenized Gold Stablecoin Visa Card That Pays Out Crypto Rewards Yahoo Finance",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 40.17
+    },
+    {
+      "title": "Circle Stock Slips as Stripe, Visa, Mastercard Explore Stablecoin Platform - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdl9YYjJyMjY4ME9QMGpTOUt0Y0ZYOGxGTXpobV83SjN5QjQwVTlHZVVRVFNxOXl5d091MkJOM2pMZnhMVTF2OC1jMnIyVXJSTlZkamlGcFQ4UFRFUGFTWnZOb3BlUjctS1F2RU05c1F4YzBKUXRVTTM2aDBZRy1qT3JXZ0R2TXd2LUxiaG85UnY1ZHNRSGNFWG5xbw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T20:43:50+00:00",
+      "snippet": "Circle Stock Slips as Stripe, Visa, Mastercard Explore Stablecoin Platform Yahoo Finance",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 39.96
+    },
+    {
+      "title": "Encuesta anónima para mi tesis: uso de stablecoins (USDT/USDC) y dólar cripto en LATAM",
+      "url": "https://www.reddit.com/r/ChileInversiones/comments/1tw7848/encuesta_anónima_para_mi_tesis_uso_de_stablecoins/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-04T00:02:59+00:00",
+      "snippet": "¡Buenas! Soy estudiante de Maestría en Finanzas en EM Normandie (Francia) y estoy haciendo mi tesis sobre el uso de stablecoins y la dolarización cripto en América Latina, Posteo en r/merval porque acá el USDT y el dólar cripto son una herramienta concreta de ahorro y de cobertura frente a la inflación, así que su mirada como inversores es muy valiosa para el estudio. Me interesa tanto a quienes los usan como refugio o para operar, como a quienes no los usan. La encuesta es anónima, no pide dat...",
+      "author": "/u/MaxDI0R",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 39.63
+    },
+    {
+      "title": "Mastercard Adds Stablecoin Settlement to Its Global Network, USDC, PYUSD, RLUSD and More Now Live - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCUFlPY3RsVXdkWWtkSllRU0JObnFLN2xIUUZ1QXFLeXRDZzQ2T3Rxb1BOcWNBLWYtSFhzdXJSUU1obEZfbGM0?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T20:10:24+00:00",
+      "snippet": "Mastercard Adds Stablecoin Settlement to Its Global Network, USDC, PYUSD, RLUSD and More Now Live MEXC",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 39.61
+    },
+    {
+      "title": "WHAT DOES TETHER KNOW?!",
+      "url": "https://www.reddit.com/r/aubullion/comments/1tw6rcw/what_does_tether_know/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T23:43:38+00:00",
+      "snippet": "China has been the golden powerhouse mining the most gold in the world as well as importing the most gold in the world. Of course, while exporting a negligible amount. However, TETHER, the crypto giant behind USDT stable coin has been buying more gold than China!!! Why? Should be the question that comes to mind. Maybe, just maybe, they know the digital future they are hoping for where their digital USDT replaces the paper USD may require tangible backing to provide confidence. When the paper sy...",
+      "author": "/u/aubullionca",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 39.47
+    },
+    {
+      "title": "Mastercard Stablecoins integrated into XRP, Ethereum & Solana for global settlements",
+      "url": "https://www.reddit.com/r/StableCoins/comments/1tw5eez/mastercard_stablecoins_integrated_into_xrp/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T22:48:36+00:00",
+      "snippet": "On June 3, Mastercard announced it will support regulated stablecoins like USDC, PYUSD, RLUSD and more, enabling settlements across 8 blockchains: XRP Ledger, Ethereum, Solana, Polygon, Base, Arbitrum, Canton, and Tempo. This means settlements can now happen 24/7, beyond banking hours, with direct applications in cross‑border payments, treasury, and disbursements. Early partners include ARQ (Mexico), CBW Bank, Cross River, Lead Bank, and Nuvei, marking an initial rollout in the U.S. and Latin A...",
+      "author": "/u/Polacobest",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.51
+    },
+    {
+      "title": "Privacy Stablecoins in a multipolar world",
+      "url": "https://www.reddit.com/r/Zephyr_Protocol/comments/1tw8xe0/privacy_stablecoins_in_a_multipolar_world/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-04T01:16:41+00:00",
+      "snippet": "TL;DR: In a world where the US dollar is weaponized and global financial rails are fracturing, a neutral privacy stablecoin becomes essential. I forced an AI analyst to attack every alternative (DAI, USDT, Haven, SILK), then dissected Zephyr Protocol’s architecture, macro tailwinds, and risks. After layers of pushback, the conclusion: Zephyr is the purest structural bet on the de-dollarization/privacy nexus. Not a guarantee, but the only design that matches the moment. The final verdict? “All i...",
+      "author": "/u/EXPLORE_ALL_NOW",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.24
+    },
+    {
+      "title": "Tether to Launch the World’s First Visa Card with Cashback in Gold-Backed Stablecoin XAUT - incrypted",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcFBjaVR6b3pzN0NTLW5jNmg3ZjFaMDY0bHpLYXNOMlNCR01WbUlrUlB4alRad1ROOUVERGR0MDdOZGRDZXBhMzJJc2VmaG4tZnl5WnBHRWcycTN3bFl2WV8xZVlidVlKZlNWSmQ4TG1Hek1jTTR1RzBoV3ZjczV5WUxqRFY1UU42V2tZ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T13:43:47+00:00",
+      "snippet": "Tether to Launch the World’s First Visa Card with Cashback in Gold-Backed Stablecoin XAUT incrypted",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 37.46
+    },
+    {
+      "title": "Mastercard Adds USDC, RLUSD and PYUSD as Stablecoin Options - FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMUk41aTRnNGdMRHBEMDZ6U2tiT2E3czVBSDI0MEpaa0JYSVZSZzMtcFhEZ2dad0xCVVh3SmE0MnlRaGx3OEZ2NGtXZHFIQXNJWk5pN2pTeS15c0MyM21rRUtfY1RFSFZudFdEUlBZTFdLejR2M3FMTHlNZmY2ZWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T16:38:18+00:00",
+      "snippet": "Mastercard Adds USDC, RLUSD and PYUSD as Stablecoin Options FinanceFeeds",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 37.4
+    },
+    {
+      "title": "Bitcoin Slides as Stablecoin Settlement Expands and Zcash Demand Rises",
+      "url": "https://www.reddit.com/r/BlockzHub/comments/1tvubnd/bitcoin_slides_as_stablecoin_settlement_expands/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T16:19:41+00:00",
+      "snippet": "Bitcoin pressure led the latest market coverage as BTC retested lower levels, ETF outflows stayed negative, and liquidation stress pushed sentiment into extreme fear. Mastercard expanded regulated stablecoin settlement while the ruble-backed A7A5 stablecoin drew sanctions-evasion scrutiny. We cover Zcash, Ethereum, BNB, XRP, Hyperliquid, Cardano and broader institutional flows. We also cover XMR, SHIB, TON, M, LAB, ONDO, ICP, WLD, DEXE and prediction market topics. Read more submitted by /u/BCS...",
+      "author": "/u/BCScalingScout1",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 37.27
+    },
+    {
+      "title": "United Kingdom FCA Stablecoin Issuance and Cryptoasset Custody Regime - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTDdzX3I1MEdLNlhxd24xTmczSk5iT0lTTE1uNW1RMElIemMyanc3ejA1OW95S2xuVGVZOEc0dWNVOERFd1pYbXFRMEVVNEFGZWcwQXJSRm5rdDhWRlYyczlpRjFGUExQSjhkcEJtMmRUbUZuaG1OeENidkpXUFhENmFSakF3a01rNUVqNFZhcnNDbW9p?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-04T04:11:54+00:00",
+      "snippet": "United Kingdom FCA Stablecoin Issuance and Cryptoasset Custody Regime CryptoSlate",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 37.13
+    },
+    {
+      "title": "Circle Internet shares drop 2% on reports Coinbase may join stablecoin platform - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUFtdmxfY2NJR29OMEJGNFRWSzBMV1VydzZPRGhLQ3BaaXdiSFlGaDZwT0RuWFlDNGR1SGlCZ1lCSVdGOTVnNmRsTmdRVk9lR1dRbjFLaDNIVDNzdlpQRzhmTkd3NFY0cHZHR2lMN0dtdjVuXzh4WC1vRHFwVGdiUGxvWU1nOTlKbHNya2l3Z0VwcEs2MWJ5QS1WQXFSYzRVeTZ4dFlVQ21vcjhrSG5TOWY3Q3hHNzRxZ2JDOVBVYjBzM3NuUmVB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T15:34:06+00:00",
+      "snippet": "Circle Internet shares drop 2% on reports Coinbase may join stablecoin platform TipRanks",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 36.74
+    },
+    {
+      "title": "Which Stock should I invest in?",
+      "url": "https://www.reddit.com/r/ValueInvesting/comments/1tw2ikc/which_stock_should_i_invest_in/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T20:59:30+00:00",
+      "snippet": "Which of the following stocks Circle, Redwire, or Adobe? CIRCLE (CRCL) Metric Value Market Cap ~$25.5B–28.1B Revenue (TTM) ~$2.86B Net Income -$14M P/E Ratio N/A (currently not profitable) Forward P/E ~82.9x Price-to-Sales (P/S) ~9–10x Industry Stablecoins / Crypto Infrastructure Profitability Near break-even Risk Level High Investment Style High-growth RDW (Redwire) Metric Value Market Cap ~$3.5B–4.8B Revenue (TTM) ~$371M Net Income -$344M P/E Ratio N/A (currently not profitable) Forward P/E N...",
+      "author": "/u/Creepy-Low-744",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 36.6
+    },
+    {
+      "title": "Mastercard Broadens Stablecoin Settlement Capabilities Across Global Network - East & Partners",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcHMwU3c5NTY2OTFFUVNuOTR5UEhPQ3NmY3Fvd3RvN19DaFpMdFhyZUE1ZWF4WVFZY05oSGNCdlJGNW1DN0VzMzFMTXdmSU5sQ0k5NklRQ0VWZXVaN1dIY1BZc0x6Q3NzTURESWpBQkppcTNCQ0h5dmJxOUd1N3I2NVNoanZmbGlUbmJqTXRYTGhtbTJPSU5abUJxX2FwY3ZvUXRTNWZ5bnBRZjhHNGxV?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-04T03:11:08+00:00",
+      "snippet": "Mastercard Broadens Stablecoin Settlement Capabilities Across Global Network East & Partners",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 36.5
+    },
+    {
+      "title": "Stripe, Visa, and Mastercard to Launch Joint Stablecoin P - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FTnNLRGVsNXhybV9LSGtONEswZlNkYmptWWY5Z2thSC1zQXRVQzBaa2I2U19VU0RmellvMlhxUWc5SU45NEpTaFJrZHRBQ2JjcVpIemdNdk5RQ2xKZU1QSXdqSmdXVkxQVFR3bjdrUmczSTQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T23:54:37+00:00",
+      "snippet": "Stripe, Visa, and Mastercard to Launch Joint Stablecoin P KuCoin",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 36.32
+    },
+    {
+      "title": "Mastercard Expands Stablecoin Settlement for Card Payments, Adds USDC and RLUSD - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81aHBTeWFEWHBsYjhDdlZ4NnJ5M2Rwc0JHeDY4WkdPMEZQdFRyV1FxZk1YQ3JubXFJNWhfWFFDVHNGTExyd2JGdTFLQmtoVElhamNsMg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T11:39:09+00:00",
+      "snippet": "Mastercard Expands Stablecoin Settlement for Card Payments, Adds USDC and RLUSD bloomingbit",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 36.16
+    },
+    {
+      "title": "CRCL, COIN Stocks Dip After Report Suggests Coinbase Is Mulling Entry Into New Stablecoin Platform Backed By Stripe, Visa, Mastercard - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWkpqbDh3SXZqWTExTHY1VnBWcGZtTkVDYmtNMVRWcVBVenZQdmJ3LWJrR1pOcEZPVlUyU3dneXZzaUxNZ09idzRzT3ZrQ3ppcHlWZTNYU0Q3bHg1d1k0TE0zcTZiRHFFYmlsWTlRcmdheUdxWkc3Tm5Vd3RFMlRBVkxDbnJsSERBNGRQUmtJbXBzZUpwVTc5Y005dG1kUjFNSHc3aWtSZkl0SjV6bzdZLTl0a0M4Zk15bWVFV1M5alVHMnJPRWF6Njgydmd3cUgyLVlyUWMtenhmZEl4d19TU2k3SW40N2Y4YXRMZ0RRbHA2N1dYMHA3aVNKQnItNXEwd1lnc0pJNmVjNDZCYkVBOGUycnNzMjg2UVkw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T14:16:05+00:00",
+      "snippet": "CRCL, COIN Stocks Dip After Report Suggests Coinbase Is Mulling Entry Into New Stablecoin Platform Backed By Stripe, Visa, Mastercard TradingView",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 35.92
+    },
+    {
+      "title": "Tether partners with Fasset to launch the first gold-backed Visa card, allowing users to earn XAUT on their spending - WEEX",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNckpHbHFlNUVqU0lMTUpyVEtNa3RiMnUyVG80REM5N1F6Sk1ZXzZubzdaQUkyZ0ZhWThfNm9ZSS1PMlhrSVVJUnhIWVBrSk5kUklQVGdlYUdMOFNSUjlmcHdfN0lMR3RqcmJoZlliWjNLeUJYYnIwMC1TekJrTjZXNXNVLS1JZzE2My1WYmZ2WVhRNGEtck51THpLQzRJMkp4SzNpTG1pYm9nRzhYQmhfR25RRzlTMGhZeHBKMENJNmQtWlRJU2Q4NExrOXQ2Q1dqeXpCQ19YbmZTb285ckpTN2NscEFrYlJrOGc3ekFWeUNIWGM1eUxqZHVfQnNaR1A3RUU0?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T23:02:58+00:00",
+      "snippet": "Tether partners with Fasset to launch the first gold-backed Visa card, allowing users to earn XAUT on their spending WEEX",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "positive",
+      "score": 35.79
+    },
+    {
+      "title": "Circle Internet Shares Slip Following Report of New Stablecoin Initiative by Payments Giants (CRCL) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSDUyajNEODdBRDlob2I4ZTNJdnJqSU9jQVpxanhfV0g1TzhWSFRZbzhRN1o2bktuZGpoLW5pNDV1eFlrVW5mcndmRDhvZzk1NFZvNEFnS3lncWM3QW1TWnBnRWJVNVpDNzJ4NzNKUUU5dGxkWmp4al9RSkY2Y0FsV0NvT3U0SW1WMklOdWpJOEZ6ZU5WdlhzWF9xdGtvbjM4d1pPdQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T13:46:26+00:00",
+      "snippet": "Circle Internet Shares Slip Following Report of New Stablecoin Initiative by Payments Giants (CRCL) Yahoo Finance",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 35.61
+    },
+    {
+      "title": "UK House of Lords urges fewer restrictions on bank issued stablecoins - ledgerinsights.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU1uNVNKVFZVZEZJVzJvMXV5d2ZpNlN6VmtyN2tmay1nV0wweXhza3MxbVFpOEpYYkJUd3N1MktUTVdLV0w1aERxcDJPWnpicFhpa05fNS1pTUt2Qnh1UmVNVGZZMEQxa3ExR3JsbTI5eGUzTnJNYW1DZUpoQWFZbEMzbWx3WlRjQ1hGcnQ2YnpYNXJjczU4OHZqTDhDSHBVc3lV?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T16:51:31+00:00",
+      "snippet": "UK House of Lords urges fewer restrictions on bank issued stablecoins ledgerinsights.com",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 35.04
+    },
+    {
+      "title": "Circle Internet stock falls on stablecoin competition report By Investing.com - Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOEdyTHNVblFncUE4V0toTjRvWE5yNWFmRFpQRWVzbTkwU3VXc2NoenZnOThzSUZ6RkdtT0Z0R296TGZGWDJLT2NXRWxKN0Z0WmJWd2t5eDctOThuaHNlaEtUdzVMdFNVMEFBVDdPbXZrbC1MOTRCNWw1bndwa25OMWxJSUVHdGdmVHZ1b2ViTkl5N1ZIbmQ0d2JRbnY5ZlRuYWc4N0ltdHB1WHpKblhST2o4czZBYThCZVQzR1hR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T12:11:15+00:00",
+      "snippet": "Circle Internet stock falls on stablecoin competition report By Investing.com Investing.com India",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.62
+    },
+    {
+      "title": "Circle Internet stock falls on stablecoin competition report - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFV1aXJ4OVhfalpkU1JhUklVOC1aRG5KWXRmN2FoLVAxU1dWeVJreDRwZVpkS2t5RmVrdmxkQjNVTHk1d2M2TmdHbmhJN0pNUVRrT3BDV21QY282UTNuMVFzX1FWVmRoZVQ2cWx2ODdrSkRRYjl1eDdsVGRXUjNKMHpDZzMxR21JbFBGdHFRVGRtMUV3M2o4c3NoYjhJdlVOYTlrVGRlaVA4dk5QUW9RTTRXRWxNeUlFa2JCWjZZcw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T12:02:18+00:00",
+      "snippet": "Circle Internet stock falls on stablecoin competition report Investing.com",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.53
+    },
+    {
+      "title": "UK stablecoin regulation must level the playing field and provide certainty, finds new House of Lords report - Trade Finance Global",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLW9UZDJNaDdtTTBWelp2dmhhMmpVbTVIU0lpNE8yYWhHd01KNXBzR2tvOUpDX1ZvRXl2eFlUWVZHMlEwdHlXV2JNZWlMOTg5aDNiSkJPQ1NBUkloWEZaLW5Gb1E0WE4xWUpOVTZfS0l6dG9KLXFYUnpWV21YdjVRMDNQMnROSldmcXpzbnA3U2NFT2JLeUYwSUpocmt6NkhCeDhjZGNLSm9rYTNMSzZWbXlDMC1TZXJZ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T16:02:11+00:00",
+      "snippet": "UK stablecoin regulation must level the playing field and provide certainty, finds new House of Lords report Trade Finance Global",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 34.53
+    },
+    {
+      "title": "Mastercard expands stablecoin settlement options with USDC, PYUSD and RLUSD - The Block",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlVVY1NmOTFOWUJfeDdmSzltcWR0aG5IeUVlYm9KVmRzaTFKQVY4UTNwOWZnSGEyX1UxVmh0SWhVVlRLLVlJZkI2dGRhVGpjM3ZHTmpNUS1yUFU5aFBTQjMxLU4zaWxCQW5NdDB6Tjg0N1hnOXBnbDdKSDh5M2hvRjNENUVPaXptMnpDcjVLVVpCUnFmLWJMamZ5MlprUThtZi1QcVNmZnRFdElUemFF?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T08:57:56+00:00",
+      "snippet": "Mastercard expands stablecoin settlement options with USDC, PYUSD and RLUSD The Block",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 34.48
+    },
+    {
+      "title": "Mastercard Expands Regulated Stablecoin Support for Institutional Settlements - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzNLdl9ldHJjcE1lNTJFUU5SVVFCdF8tMUJoWk9qY3VqdUFsMEg4S2tvRHV5UEJqZmk3aEJFZmhhUTFrd0h5QjVLNjJzTjUtanlOYWkxYzBmY3liVU1RTWt0UDVlQ3hiSWpaNkQyRUJiSkV2akhseVVBTm9kNlBVYVRwQTNJc2NtUzhVenoxQlJ6c3BJcUh3ZG5lRms2Z0dEMHlwVXBjTVpqejZONlFzVg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T12:44:01+00:00",
+      "snippet": "Mastercard Expands Regulated Stablecoin Support for Institutional Settlements KuCoin",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 34.34
+    },
+    {
+      "title": "Why Circle Internet Group Stock Tumbled Today - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3IycU9JdUszWkFpb0dRTFh2N2V6eThLXzZaQzZoS3FQVG5FQ2UyNURQemZ5TWZvTElIRGN0OE1GOGs0UHVUYmhyVUxFRU5wMHFmbTYwVHFxcVBJOERlUkFWMk9oN0tqSVVzV0MxRmNrbG5WUnc3eGNsZXczbUJGbw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T23:43:21+00:00",
+      "snippet": "Why Circle Internet Group Stock Tumbled Today AOL.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 34.33
+    },
+    {
+      "title": "Tether and Fasset Unveil First Gold-Backed Visa Card The card targets rising demand for practical uses of crypto-based assets, especially in regions where access to stable financial tools remains limited.",
+      "url": "https://www.reddit.com/r/u_Patient_Craft2195/comments/1tvpu6o/tether_and_fasset_unveil_first_goldbacked_visa/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T13:45:45+00:00",
+      "snippet": "Tether, the issuer of USDT, and Fasset, a digital banking and investment platform, have launched a gold-backed Visa card that allows users to spend tokenized gold in everyday transactions, marking a new push to connect digital assets with real-world payments. The companies say the card targets rising demand for practical uses of crypto-based assets, especially in regions where access to stable financial tools remains limited. As per the announcement, the card operates on Visa’s global network a...",
+      "author": "/u/Patient_Craft2195",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 33.99
+    },
+    {
+      "title": "Tether casino deposit: What Canadian players need to know - mbnoticias.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmpnNHNDbDljbHVWc1dUcHRubU5CSHJjdGZLeHRfNFNUeUZfa0JqaHJPRkg4b2oxMU92QmlBZ2dlVk12czhlSlFDREhuV1hBUHVyRUNjWVUxZ2pwTHpKZ3dfMHZ5cDBIYlJPd2FtU211bWo5Ul9rRUxZSXBnblNwalRMaXRhRlZGLUYydk9TRGZYbGRLeGJMekdn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T23:07:23+00:00",
+      "snippet": "Tether casino deposit: What Canadian players need to know mbnoticias.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 33.96
+    },
+    {
+      "title": "Circle Froze $12.6M in USDC This Week, 16+ Wrongful Freezes Documented. What Does This Mean for P2P Traders?",
+      "url": "https://www.reddit.com/r/CryptoP2PMarketplace/comments/1tvi078/circle_froze_126m_in_usdc_this_week_16_wrongful/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T07:25:11+00:00",
+      "snippet": "https://preview.redd.it/fzbq6gtzr05h1.png?width=1080&format=png&auto=webp&s=b8ca2d9704136b2f25dfe92e7c4acb60651a1a7c By now you’ve probably seen the ZachXBT thread on the Circle/Zama freeze. For anyone who missed it: What happened: Overnight Finance (facing a civil lawsuit) deposited $12.4M into Zama, a privacy protocol, Circle froze the ENTIRE Zama contract, not just Overnight’s wallet Innocent Zama users were locked out of their funds. ZachXBT says this is the 16th+ documented case of Circle...",
+      "author": "/u/Codeeu_io",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 33.31
+    },
+    {
+      "title": "Coinbase and Circle shares fall amid Coinbase's... | Pluang – Crypto, Stocks, Gold & Funds - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPekhubVdWZWxfaWJVX3hKb3BoZVRFLWZGbDk4RnpySUhzVzFucm1qS0tQdXctdGZfbmc1OVYxRnZaMmtDc3ZJNEVwTmFDdVZ5SlNkNWhiVkVfVHVZc2RUOTVaVFRDMkhvS3FOYjExMmNXU054Q1lUcnE3ejFUUHpHZkZwWG9XaWJIYkFTUDhZUW5EdlJJMDBlNA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T21:47:51+00:00",
+      "snippet": "Coinbase and Circle shares fall amid Coinbase's... | Pluang – Crypto, Stocks, Gold & Funds Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 33.13
+    },
+    {
+      "title": "Stripe, Visa and Mastercard are close to launching a joint stablecoin platform: Report - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96UUI2UnFvbzZaM0lSUjMtWERqQksxYXpxQVh6WjMyRmUzellOUTZDM2dka1JHcWlkem5lcWVCWWs0RGF2SjU3UFpGVEtrUGpzR3hTaHI5YW4?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T18:03:56+00:00",
+      "snippet": "Stripe, Visa and Mastercard are close to launching a joint stablecoin platform: Report Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 32.67
+    },
+    {
+      "title": "XRP News: Mastercard Launches 24/7 Settlement Using RLUSD Stablecoin on XRPL - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpdHA4U29EbzV0UVVmeHRNaVBlbmJPNGI5c2FyWTVDTnZWbGxkMTVldVAzN0VRS1dZay1rMndZTlpNb3FXaWc4NXR1dnh0bTJtXzZob2I3Y1NHZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T18:00:02+00:00",
+      "snippet": "XRP News: Mastercard Launches 24/7 Settlement Using RLUSD Stablecoin on XRPL Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 32.63
+    },
+    {
+      "title": "📢 Solana Tech Pulse (May 26 – June 02)",
+      "url": "https://www.reddit.com/r/jpool/comments/1tvqfsu/solana_tech_pulse_may_26_june_02/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T14:07:26+00:00",
+      "snippet": "1/ 🔧 Backpack Launches Securities Platform 💬 Backpack is introducing Backpack Securities, a regulated brokerage that combines real stock and ETF ownership under New York law with instant tokenization on Solana. Users gain 24/5 trading, fiat and stablecoin funding, and the ability to move assets between traditional brokerage accounts and onchain wallets while keeping unified portfolio collateral across crypto and securities. Read more 2/ 🔧 Solana Introduces Native Subscriptions And Allowances Fo...",
+      "author": "/u/jpoolone",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 32.17
+    },
+    {
+      "title": "Russian ruble stablecoin A7A5 grows despite Western sanctions: CertiK",
+      "url": "https://cointelegraph.com/news/russian-ruble-stablecoin-growing-western-sanctions-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-06-03T14:00:00+00:00",
+      "snippet": "Russian ruble-backed stablecoin A7A5 processed over $110 billion in transactions despite Western sanctions, according to CertiK.",
+      "author": "Cointelegraph by Zoltan Vardai",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 32.13
+    },
+    {
+      "title": "Stripe, Visa, Mastercard close to new stablecoin platform - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNODcxM3YxYXdjUXRZU1kxNm1qY21RTmVmM2k0V1pxWWJUd21NUWFPNmpUeGFJaG5aMnlEeGdTM25SV21IWW9LbmlseGxEYmtDVWMtQ0NQalhfZXdGS25UNmlidF9LOVlybVR2dUxqdVdMdGh1Y0Z2bjNRMGFydEk4cmd6aFNtWEZmODhBRHZWTQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T19:58:40+00:00",
+      "snippet": "Stripe, Visa, Mastercard close to new stablecoin platform CoinDesk",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.99
+    },
+    {
+      "title": "Is Polygon the Next Big Stablecoin Play? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRTGRsMl9MQjF5QU9SSGJNQWg1c2lERl9rVGdYUGR5STNoSV9CVG8tZGZJWmxJUW5ydTZqcDZtQW84NnVoZU9JMi0xcVpjdVN1LWdTWkJkOHczQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T19:56:05+00:00",
+      "snippet": "Is Polygon the Next Big Stablecoin Play? Cryptonews.net",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.96
+    },
+    {
+      "title": "BREAKING NEWS: Mastercard expands stablecoin settlement support with USDC, RLUSD, PYUSD, USDG, USDP and SoFiUSD across Ethereum, Solana, XRP Ledger, Base, Arbitrum and Polygon.",
+      "url": "https://www.reddit.com/r/BlueChipCryptos/comments/1tvkbmn/breaking_news_mastercard_expands_stablecoin/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T09:38:36+00:00",
+      "snippet": "BREAKING NEWS: Mastercard expands stablecoin settlement support with USDC, RLUSD, PYUSD, USDG, USDP and SoFiUSD across Ethereum, Solana, XRP Ledger, Base, Arbitrum and Polygon. Mastercard expands settlement capabilities to include stablecoin, intraday, holiday and weekend options Enhanced capabilities will give issuers and acquirers more choice in how and when they settle transactions, supporting more time-sensitive payment flows. FULL PRESS RELEASE: Mastercard today announced plans to expand i...",
+      "author": "/u/BlueChipCryptos",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 31.93
+    },
+    {
+      "title": "Why MoneyGram wants a stablecoin - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdzlxU1c2RWJXMjU5NDNzZERJRTdMM0J5NlJaOHJ4a0NEQ2pIM0VrRUVOdUtuLWxLeHNYUENlVGhNUnJva0tld3ZacHJhZzVmelFzM1o0NzJrTm81cXc4QU5mVGpzd1ZnLWVmXzU2LVdTTExXcTY1UGFBbHB1aG9vc2J3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T19:41:00+00:00",
+      "snippet": "Why MoneyGram wants a stablecoin American Banker",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.81
+    },
+    {
+      "title": "$71K USDC Distributed This Week!",
+      "url": "https://www.reddit.com/r/Neverland_Money/comments/1tw7mi7/71k_usdc_distributed_this_week/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-04T00:19:53+00:00",
+      "snippet": "$71K in USDC will be distributed to DUST lockers and DUST liquidity providers again this week, and early migrators to our new Balancer AutoRange pool are enjoying an especially high APR! submitted by /u/alice_nvr to r/Neverland_Money [link] [comments]",
+      "author": "/u/alice_nvr",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 31.77
+    },
+    {
+      "title": "Zebec Network scales real-time stablecoin payroll and payouts with USDC and EURC - Circle Internet Financial",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4T3ktOVhGaTVUbjluZ09jUTA4Z1lpRXRyeXN4Q1JCMHo2emxxTVoyaXRwQW1yNEtqeldxUjEtMzZNMGxucG5zN3N0VUNiRktkakdLcXp2MC1lVVpVZlE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-02T19:05:06+00:00",
+      "snippet": "Zebec Network scales real-time stablecoin payroll and payouts with USDC and EURC Circle Internet Financial",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.43
+    },
+    {
+      "title": "Mastercard Expands Network to Support Regulated Stablecoin Settlement - FintechNews CH",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNF9LX0x2Q3pyVGg4dG5kbW01SGZ5Y2RaUTRTY09HQXJsenZsT2g1WEd6NWVkNUJqbjQyLXVMa3VDZDJ2RHFXcmVKYlpfRTRGQk9hS1d0Qks0UTdKcHJzX3lvWXFmTEgxbHlrUU53c1VTQS1JMnVpbFdiRnhoR3ZNT28zallfd1N5MWFUVXI3M1g3YWthYTFialAyVUlETkhteG40?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T08:01:02+00:00",
+      "snippet": "Mastercard Expands Network to Support Regulated Stablecoin Settlement FintechNews CH",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 31.39
+    },
+    {
+      "title": "Stablecoin regulation ‘must not be delayed’ Lords say - UKTN",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY3dTNFdiblJQZmk3YWdPZGRLWjNLcTVDRWRtR1FYQndUSGtJZXAyTWFaUnZ5dzJqcHZQdHBaZmMzUXFYOVpDZ0psUU5STDJqQVR1c1NmNm1KNHFZU3F4RmRuS2NWVm9qYWphUVJiNTNkY2RFU3lMZnU0UHZxeFVPcXc5VldjQi1OWmc0dGZIbUxlb1dhdmc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T11:00:28+00:00",
+      "snippet": "Stablecoin regulation ‘must not be delayed’ Lords say UKTN",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 31.39
+    },
+    {
+      "title": "Mastercard just announced stablecoin settlement support, but is that actually useful for AI agents paying contractors autonomously, or is it solving the wrong problem?",
+      "url": "https://www.reddit.com/r/AiBuilders/comments/1tw6g4q/mastercard_just_announced_stablecoin_settlement/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T23:30:31+00:00",
+      "snippet": "Saw the Finextra piece this morning: Mastercard is rolling out stablecoin settlement support. My first reaction was excitement. My second reaction, after thinking about it for five minutes, was \"this still doesn't help my agent.\" Here's the specific scenario I keep running into. I'm building an orchestration layer where an AI agent manages a roster of freelance contributors across Southeast Asia and West Africa. The agent evaluates deliverables, approves work, and is supposed to trigger payment...",
+      "author": "/u/AI-Agent-Payments",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 31.36
+    },
+    {
+      "title": "Mastercard Opens Card Settlement To Stablecoins On 8 Blockchains - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6c1hUZmxobUR1cXN2ODBaUlNHRGRLRTVYOE9HLVlsaDVGcE1NRXBnaFVOUEFLTWpXc0drSmw4cnR2bFgtNWRQaGdJcERKN1hjbUY5M3l1QjJsbDdHQ1l0bHJvS20wLWZBSzBxUWstN1VndXRlS3lid1FR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T18:50:22+00:00",
+      "snippet": "Mastercard Opens Card Settlement To Stablecoins On 8 Blockchains Yellow.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.28
+    },
+    {
+      "title": "NYDFS, European Banking Authority Forge Stablecoin Oversight Pact - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTm5zMFBMcG1vLTIxWlhRTWNOb2kycnlGcEhYUHNhYkJLUjQtdHBvU2dub3ZQZk5uZ3E2X2tCX2hsTkZMdEVJVGFDdHBUdnR3Tnl4ZjdBTE1UTW8tbXVvbmc0TlZjOXlHQzQ4X0RBcjVNSDR4VDV1dWZXT2VOOWlrOUtFM21aVTdabTEzX2N3WXl4X2Z4bndoRmRZUlRRUUU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T18:42:50+00:00",
+      "snippet": "NYDFS, European Banking Authority Forge Stablecoin Oversight Pact PYMNTS.com",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.2
+    },
+    {
+      "title": "7Siblings Once Again Buys the Dip on ETH, Borrows $10 Million USDT to Purchase 5,589 ETH - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vRmFaZnBYS0dpRlZ2Qk5RR1NMbi13S1FhTHFGbzk4R0dBQ28xeWo1bi1mMUlMVHdwN2tpTmM4YXVNbjRVc2FSXzZFZkpvRWpSNFJWV2VGSm5ESWtVeHBsRzJoTXDSAWpBVV95cUxQbkp5dzNZVWxUSTBxa2d1ZWE1VTd0MnMxVzVyUHNKUGNBMHRCWFg0bS1nZ25oVWxwMWltSGJlXzhsTF91M1g3cHFPTy1wU1dvdU1DSlRtT1RpcXdReTJnLVhFaURieE54ejJn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T18:40:19+00:00",
+      "snippet": "7Siblings Once Again Buys the Dip on ETH, Borrows $10 Million USDT to Purchase 5,589 ETH Bitget",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 31.18
+    },
+    {
+      "title": "Tether and Fasset Launch XAUT Rewards Visa Card - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM2xoR3RMU25sRTlUQk8zZjNYT3c4WXUxM1h3MlRmUDYxWGZSZTFFam11X0t5RmZHaEx6MjJfdGdrRXFpUXoyVUFYNmpZOVNENHE3dzgya0RrMUdoVTRQOE15TzdQRDhJZlJxMklRSlh4eGZ3ZXFCSVVIS1g4TGVuQXV2Ynh5bDQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T15:36:19+00:00",
+      "snippet": "Tether and Fasset Launch XAUT Rewards Visa Card CoinMarketCap",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "positive",
+      "score": 31.13
+    },
+    {
+      "title": "Euro Stablecoins Hit Record Highs Under MiCA Despite Flat Retail Demand - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pYmQxeFEtSmNFZDA2R1ljSlVta1loNFRqckl4SVNSSTVJR0M0SlJtRXBJcHlPNFcxSDI0WXZHNGRfWk53Sm5sSnhUS3Bza29GTjFEODludFVTSFoyS1RpQ3RMYUV5Zw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T10:18:00+00:00",
+      "snippet": "Euro Stablecoins Hit Record Highs Under MiCA Despite Flat Retail Demand BeInCrypto",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 30.94
+    },
+    {
+      "title": "MoneyGram MGUSD Stablecoin Launch Enters $320B Market with Stripe-Backed Issuer - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODhJQi1jLW1wZDZpMFEtSHBCdTVwTFE3ZnI2cVB2ck1oaFZ0azdwVTA0dlVEcF83SnV1SnNJeGtPVDhMOXFzdW5BSW03MkFHajVoSmh1WDJVU0NBUW92a29MalNRendYTDlkdGNvaUU4MFQ0U2RtaE1LdW5vOFNNMHZIY1NWQzQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T07:04:29+00:00",
+      "snippet": "MoneyGram MGUSD Stablecoin Launch Enters $320B Market with Stripe-Backed Issuer The Cryptonomist",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 30.8
+    },
+    {
+      "title": "Revolut US bank plans stablecoins alongside FDIC-insured accounts: Report",
+      "url": "https://cointelegraph.com/news/revoluts-planned-us-bank-to-offer-stablecoins-alongside-fdic-insured-accounts-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-06-03T21:25:48+00:00",
+      "snippet": "Reuters reported that Revolut plans to integrate stablecoins into its future US bank as more fintech and crypto companies chase federal banking approvals.",
+      "author": "Cointelegraph by Nate Kostar",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 30.79
+    },
+    {
+      "title": "Tether Launches Visa Card Offering 6% XAUT Cashback - Blockonomi",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oMjQzOTQyNGFmVHZLOHFZLVJNcloya1FabHI3WWJnUkpOcU5EWHFKNDNmdmdZcFBWd0l0bkZjakFxYl8wV014Y180RTR0Rmk4OTk2VTREU1h6MF96aGR5eWQ4Ny1EbWtWUHlFZG9HWnVmMVBXXzVlb0IzaHRlSVU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T14:58:57+00:00",
+      "snippet": "Tether Launches Visa Card Offering 6% XAUT Cashback Blockonomi",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "positive",
+      "score": 30.74
+    },
+    {
+      "title": "UK House of Lords report criticizes pound stablecoin regulation for lagging behind Europe and the US - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ycW5lZTdqekowVWEwazJxYUJEZVBtLUlva0lPcXBZMDR5b2pfcmxHQ3hSNUdwOF9mOHV4cVBPMXY0TFQ5X0tsWm5RaUppTkVyTmNnQURzaHRZNGwwUnfSAWNBVV95cUxPWWpZbktTZXNNOWd1M2h0dHNGR1d0NUN6d2ZlV1R0V0dXdGprS2hPXzl2cjQtbzlGbGVNTFAzSk9QZDdCejFsdUk4d0FOcnViOFdDcVdValN4SC1uZmpfZVpyTHM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T09:47:10+00:00",
+      "snippet": "UK House of Lords report criticizes pound stablecoin regulation for lagging behind Europe and the US Bitget",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 30.62
+    },
+    {
+      "title": "Payment giants Stripe, Visa, Mastercard said to be among backers of soon-to-debut stablecoin platform - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YS0VpelJmaXJ0LUthMUx0aTdXTG81akJ1UzdhOGp4Y3BXcC01Q3FzVldVVlZlSUNrcHVoQ24tcGtIb0R4dFNSY1VnOVFWR3lhWmN0RmttNzhHUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T17:44:00+00:00",
+      "snippet": "Payment giants Stripe, Visa, Mastercard said to be among backers of soon-to-debut stablecoin platform Cryptonews.net",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.59
+    },
+    {
+      "title": "Mastercard Unveils Stablecoin Settlement Support Spanning 8 Blockchains, Including The XRP Ledger - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWGFrTFJuQjVEeVJ5VlFCeE9VV20zSW5COFF3bjE5eE4tZFVTX01jVGNtZnhhcDFnbFNEVDBoQ3dxVlEteGktUEc5bWJJM3lFVkh2XzN0dmpHbnBoZHkwZndnYUVHS2JMYTFjeU9sNDBsb2tMVnlsS3hvRFhmZmdfVUxCdWxYUnBITnoyQUlEeHhCakJqTG1NQ1pmeFVBRUhTVjVYNWt1OUI2cUFjU0VfYWFxUlJYUGMtc1R2U1RGLXRSTDNGbWU2WkJDMnp4emttZ1l4WWtWT2RTRTFZVXB4aUk0NWFOUl9aQ0E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T17:30:33+00:00",
+      "snippet": "Mastercard Unveils Stablecoin Settlement Support Spanning 8 Blockchains, Including The XRP Ledger TradingView",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.45
+    },
+    {
+      "title": "Tether launching tokenized gold Visa card with XAUT rewards - The Block",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2dGMUsybUJNWFkwcmQxVWw5REJsVHdEQkIwWXdINHJhVE1ySEFsZWxnaDlXbHZMOTlKaGZleS1kSmRvQUN4YjU2M3FyamRGS3VtNERaZ19TVzVySUtJVENWMTh3VGhiejRoTDNLZzN5am9yR2plcWwtRkliNDlBUkZoNkpEeGdRUTRVd3NhMlhFNk9nQnBtMFl3Zw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T14:27:56+00:00",
+      "snippet": "Tether launching tokenized gold Visa card with XAUT rewards The Block",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "positive",
+      "score": 30.42
+    },
+    {
+      "title": "Mastercard Adds Stablecoin Settlement for 24/7 Card Payments - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT19WckV3U0E4cTNCclZDWmdDZHNzdklKOXJ3WjREbkUwWUdKNUcwVF9faUZROF9vWW1yTWEwdG9XbkdzakdadVJjTUhub1BUajdBd24tZ1hPT3hyYlpCWWpfdV9BUEx3Y0RCdGdiU3Y2U09IZFNQOFZWbUJhV0xwZTgtUEVLNXZqQ25ObE5Md2FfdFRTTnBHZFpVRjc3b3BFZ0I5ZDNRUU8?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T17:19:43+00:00",
+      "snippet": "Mastercard Adds Stablecoin Settlement for 24/7 Card Payments Yahoo Finance",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.34
+    },
+    {
+      "title": "Tether, Fasset to Launch Gold-Backed Card Offering XAUT Cashback - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95NmlGa0EyU29TVkpJQk5DcFNvam9WNEhfX1V4YWJDaW10Z0ViYk5YU3NzUGgyR3RkU215Ym1pWnZRTnNFczFIMnR5Q3dpYmdiWk9xLQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T13:56:50+00:00",
+      "snippet": "Tether, Fasset to Launch Gold-Backed Card Offering XAUT Cashback bloomingbit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "positive",
+      "score": 30.1
+    },
+    {
+      "title": "Mastercard Brings Stablecoin Settlement to the Global Networ - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IOC1ERTBINTBkekNvLW4xa2FST3dZWDgyelZDV3dSMk45cnRwUFB1RFJCUUxzOTFrUHZsdUtWU005cGNNUjNuZFBYYlM2VnoyUnVnNmxvMUx4bWdKMExfb2Q0cTdZY3ktdVZFeU1LTkphaWs?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T16:53:07+00:00",
+      "snippet": "Mastercard Brings Stablecoin Settlement to the Global Networ KuCoin",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.06
+    },
+    {
+      "title": "House of Lords committee weighs in on BoE stablecoin plans - FStech",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEY0czdkRU9PczBUY3hfdG5ZMDdEbHpUaUpMTW5sTFVvTktBMHFVWDczRlRrUGJsQVYzS1lfYWNsTkRCbGU5Mndxa214a05SclpwOV92S1ZiNWRZYXNDOS1xUTVSRWt1NV9uU3NwRVZGcVUtNnZHcW5uZ3JNbzBwd0U5ZjFuU0w5bHBpWUNSdVdTb0ZpcFE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T16:26:07+00:00",
+      "snippet": "House of Lords committee weighs in on BoE stablecoin plans FStech",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.78
+    },
+    {
+      "title": "UK Lords Warn on Stablecoin Regulation Risks - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGtfMXdUdEQ4SXBObHkxSmd4ZkVKVHhLUnZ5UmMxS2ZyUnlsMHA0YWFSOC0wdHhqTzJTRVR1Q3BZb1Y0YUYwd0M0SXhYc1Fqd3dqRXpwVWNoeElWekRBcUNLOE96VzVGMmo0eHI5c2tPV2k5d2VldXpmRy1zb3dhbEoyeEptQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T08:17:20+00:00",
+      "snippet": "UK Lords Warn on Stablecoin Regulation Risks Intellectia AI",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 29.69
+    },
+    {
+      "title": "Tether and Fasset unveil Visa card with a Gold rewards twist - crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzNWSTJheHp6WDNEZW5WUHcyUW1oSWFBRkIwajRvR1QxQjhYTWh1cDIxcU1xQXI3aU9hb3VyTkVoY0dUdkFqN1A2aFdnSVhyYXN3NHlqbDVROF9pa3lvMURDaU1YcmptQmpTUi1PVDQyYnI3MUprcE1URU5nV0c3ZTBxNFhFNEpJ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T16:17:15+00:00",
+      "snippet": "Tether and Fasset unveil Visa card with a Gold rewards twist crypto.news",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 29.69
+    },
+    {
+      "title": "Mastercard expands card settlement hours via stablecoins - ledgerinsights.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXdyVWxxUVFYeXFEZnZ0U3dYblpFUWxlMXY2bFZwc0UxdHc5aDVpcWZOX0ZTLXoxV0ZCOHNWYy16NGctZ04yTkM0bktyYUVqcmJaUVpfUWltOHNUQmZSc1hGR0tKSVdBRlZvZmtSQ1NFUjE0Nk9hM3JnSWVVQ21BbU43Y3ZrLTRsM3dPb1RndUludw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T13:16:21+00:00",
+      "snippet": "Mastercard expands card settlement hours via stablecoins ledgerinsights.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 29.68
+    },
+    {
+      "title": "Mastercard to support USDC and PYUSD stablecoin settlements - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1USHhfdUtsd2pPU09VVW1uODVnYmR4RGFlRTNGS0tDcVpCbHFvWjhmX2hzTk14X04zdy1IMlFtWVJlLWVkMU5VSWl0TVNYcHljcUNLbXFPMzZNUGEzTzVzcGdZWdIBY0FVX3lxTE1USHhfdUtsd2pPU09VVW1uODVnYmR4RGFlRTNGS0tDcVpCbHFvWjhmX2hzTk14X04zdy1IMlFtWVJlLWVkMU5VSWl0TVNYcHljcUNLbXFPMzZNUGEzTzVzcGdZWQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T04:10:09+00:00",
+      "snippet": "Mastercard to support USDC and PYUSD stablecoin settlements Bitget",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.61
+    },
+    {
+      "title": "Fiserv stablecoin arrives next month - Payments Dive",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3Q5b0ItV2xTZ1RuRWJBMTJLX2Q4YUhIWjJrNkVISTJYQU03R0xINWxtbEpNVXRKU1pkUExEN3pMcGtrNGRNRlZRMmYzd0FLU2lXTFNqYk1HaHh3UVYxWGRWX0NpazFvbmtHOXNlaUpjS2V4MnBmTjFtZnIwUjJoV3JlWUg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T15:57:12+00:00",
+      "snippet": "Fiserv stablecoin arrives next month Payments Dive",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.48
+    },
+    {
+      "title": "House of Lords committee urges UK regulators to ease stablecoin rules that could stifle market growth - The Block",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ21odXIzbkd0aVJ0c1VOOFZweVFOaHVqUjRFS0NKY3hJb3VKQy1uVFFMUUNwOWtoQ01wMXFwRnlpbTFrVGRaNUYySmlPVjlPN2pqUFlxV2NpbGJsblMyaU9USGx1anp2MVgxRFVJVFJDZFRjOXlKMDNIUTRMUHpiWVlCeGF1VTNXTTd4YVBxUHFfV2JOWHJ6c1dYX3VJVnl2N05SeFVhcEF2MWpnX2FkbVVoYldIOXZrWXBOSVBaTm9NT3g3UnB0ZzlYUFdkemVSOW9MS2NCXzc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T12:47:15+00:00",
+      "snippet": "House of Lords committee urges UK regulators to ease stablecoin rules that could stifle market growth The Block",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 29.37
+    },
+    {
+      "title": "New Stock Market Guru “Serenity” Buys the Dip on BTC & ETH ETFs On June 3, 2026",
+      "url": "https://www.reddit.com/r/TradeVerseNetwork/comments/1twbwht/new_stock_market_guru_serenity_buys_the_dip_on/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-04T03:31:51+00:00",
+      "snippet": "emerging trader Serenity (newly popular on X) shared that he entered long positions in crypto ETFs: IBIT (BlackRock Bitcoin ETF) at $62,000 Bitcoin equivalent ETHA (Ethereum ETF) at $1,750 Ethereum equivalent He emphasized these are short-term swing trades, not long-term HODLs. Context: Despite the high conviction buy from a rising “guru,” broader market weakness continued to pressure crypto-related stocks: Robinhood (HOOD) Coinbase (COIN) Both saw notable declines as Bitcoin and Ethereum remai...",
+      "author": "/u/robot2trade",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 29.37
+    },
+    {
+      "title": "TheWealthNet - Stablecoin regulation 'must not be delayed', House of Lords says - Pam Insight",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWl3WmcyZTN6dzV2WFRCeFFpVXhJaFFnUF8zeTh3T3BsdFl5X1ROVG91bnV0YmZXb2FUaHliR0hvenRCQTAxaGFxNk4xSldEX256ZnhKc2p2ZGszRUJPT0Q2emFZWXZaU2hKbEFsMVFrRFNFRWIxWjltVmJvU3JSVkg1TXl5SWF3X243VEZfeHRXcmk0NF9OSl9VWDk2ZVN3dVE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T07:23:14+00:00",
+      "snippet": "TheWealthNet - Stablecoin regulation 'must not be delayed', House of Lords says Pam Insight",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 29.12
+    },
+    {
+      "title": "Stripe, visa and mastercard are launching a joint stablecoin platform. The same companies that charge merchants 2-3% per transaction just decided they want to run crypto rails too",
+      "url": "https://www.reddit.com/r/CryptoBrief/comments/1tvxcdj/stripe_visa_and_mastercard_are_launching_a_joint/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T18:01:51+00:00",
+      "snippet": "https://preview.redd.it/fhhj1s8cu35h1.png?width=1742&format=png&auto=webp&s=d9c879521cb731fd68b1e963fd070564c4228d09 Stripe, visa and mastercard are close to launching a new stablecoin platform according to three people familiar with the plans with coinbase also evaluating whether to participate, reported today june 3 2026. The crypto community is celebrating this as mainstream adoption whilew nobody is asking the obv ques that why would the three companies that built the most profitable fee ex...",
+      "author": "/u/mcdonaldsingh",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 29.12
+    },
+    {
+      "title": "House of Lords warns UK risks losing ground in stablecoin race - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZExDTWZRcHQxcXhHNDdmYlNJMW05S29qUUtvMGJXek96TzZwakxVZWRvVWJvdkFJcC05OENpVGdpT3JzaEpoZlNidkpBYVNEQ0lpbEtQTXozeWlxbTlWSEpKaHZWQ1NFdWRycnpDMkNnc0tYaDFwZlZoQ0ZlUlV4cTJvQWp5ZXZBTGRyZUNR0gGTAUFVX3lxTE5yM3ZQUlNzZ0dacnYzeXlBVk12T1F2N0EwUWxNSGtVNy1jM2dKWFp0dzFyd1ZUWHNKZno3b0FvZUY4RWZ1RkhIemdOcXJ3dkZQOGlQQ1BSblhkZXR3X3NSSkFBenlQSUlyXzUweWZoOVFadkhRLTBHZmNpT2k0S0ZxTTJuSE1qVi02UVhlTHdIYUZxRQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T15:12:45+00:00",
+      "snippet": "House of Lords warns UK risks losing ground in stablecoin race AMBCrypto",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.01
+    },
+    {
+      "title": "Tether Collaborates with Fasset to Launch the First Gold-Backed Card, Unlocking Real-World Utility for Digital Gold - Tether.io",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdFNZc3hwQWhVVkZHeEZvbW15d1ZvZThZYkh3WDJTS2JKaTlTZFdUUmFETVRaRC1mZkFjUXhxaW82TXpJTHE3TjA4THhIU1FZZzN3Z0dPLVVLR2lqMmRGSWd1VzdOaVFJNVZjYjVha29Peld5a0psUVpyMWRBemU5c0lPT2Q3YmdfWkphc0UwcThrMV9nMUVnNlMwS0VfeEM4Y1luZ1dTSFdCcGtNb0lfdHpxakU0UnNxTE12TkROTUc4cTBIZWptc2g3SDFtN0Y0bWNCQw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T12:04:04+00:00",
+      "snippet": "Tether Collaborates with Fasset to Launch the First Gold-Backed Card, Unlocking Real-World Utility for Digital Gold Tether.io",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "positive",
+      "score": 28.92
+    },
+    {
+      "title": "NYDFS and EBA Sign Agreement to Collaborate on Stablecoin Regulation - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Y0JDTlJMQUNYa0tYSU5acFNnRjA2T1g2dWZjZEpEdGc2aF9KVWEwMFJjNHdGQjROZ2VxMm9yRlVzbWxtV0NsT2xNV2pqT2NNek9wYnVR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T06:33:44+00:00",
+      "snippet": "NYDFS and EBA Sign Agreement to Collaborate on Stablecoin Regulation Cryptonews.net",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 28.61
+    },
+    {
+      "title": "Mastercard Adds USDC, PYUSD, RLUSD to Card Settlement - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOGdPYlYycVg4b3prc1FTUzVza2pNR1hRcnQ2ZTVTWEJJN1JpMjVybDdmTC1qRTlHLTVMOGpFTFdNcDBFSVFkN3dQUThGMWMxbFRaWVNrTjJnRUlpdWZYNkdQUkQ2RFRlclpIZDlwRkl3WEw1NHZYN055Q25WdmlVbmUwbUhzekpmU0l3WjRB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T14:13:16+00:00",
+      "snippet": "Mastercard Adds USDC, PYUSD, RLUSD to Card Settlement CoinMarketCap",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 28.39
+    },
+    {
+      "title": "The GENIUS Act: Blockchain Association Shares Opinion on Stablecoin Regulation with Treasury - Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOXdvOGFVS0hZaGRpdGZMVTUySVhfMXRzaU5obUZvbVJPaktoMjdkNEVPeVZEeGtWeFREUGJIOGxaRllIUl9sUTEzZ0I3MGtoUy1TSTUwNmNvMm9wNG5ZN21NdlVaS3lnMzhITl9VYmI4U2h2N21XRGFIa08tU1NIWlQ4VjF4V21hd2xFVDJ0dV9FNHNuRGFWdy0tUHVtMjI1TGViVWRPQ2JYV3N6R25ZbEhxUEhmOTlhdVNRaDlZMlNpUHVlUFN2M1dPSHBGUGJGRlRLcXYwbw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-02T22:01:52+00:00",
+      "snippet": "The GENIUS Act: Blockchain Association Shares Opinion on Stablecoin Regulation with Treasury Crowdfund Insider",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 28.27
+    },
+    {
+      "title": "Coinbase said to be looking into participating new stablecoin platform backed by Stripe, Visa, Mastercard - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeVdZaW9GUW1rQWV6RjdWbmFoTVNoUF8waU9IbVlFeE1ITXNpR1ZJSjc2MWR4VEFiSFhMeHE5SnZTbVBfbHVPYnBRN0xJWG1iVUhPcllKV2JOQlpmUWoyeW9ZVDJUcF9senUzazhmSWFQS2hhUHhxeEhHaUNHUDFWM0dRd09Oa3c5b29GNHJmNXFESXYyTHBPZHE5dlpSYm5YTDZQZTR3S25jWXBkdkRBYm1XMXVxdjJpcDJBTW8xZjF2bHJGNkE2Wi1uWVVYSU5pWjVkR2t0dUZ2LW5E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T13:56:37+00:00",
+      "snippet": "Coinbase said to be looking into participating new stablecoin platform backed by Stripe, Visa, Mastercard CoinDesk",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.22
+    },
+    {
+      "title": "XAU (Gold Spot)/USDT (1h) Channel Down Setup",
+      "url": "https://www.reddit.com/r/ChartScout_io/comments/1tvovbw/xau_gold_spotusdt_1h_channel_down_setup/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T13:08:54+00:00",
+      "snippet": "Sharing the 1-hour chart for XAU/USDT (Gold Spot vs Tether) showing a Channel Down pattern, generated by ChartScout. Structure Overview: • Asset : XAU (Gold Spot) • Timeframe : 1h • Resistance Touches : 3 on the upper descending line • Support Touches : 4 on the lower descending line Market Bias: • Textbook technical analysis classifies a Descending Channel as a bullish continuation pattern. • The structure represents a downward consolidation phase where buyers slowly absorb selling pressure ag...",
+      "author": "/u/ChartSage",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.18
+    },
+    {
+      "title": "Senator Lummis just called out Jamie Dimon live on cnbc“He’s absolutely wrong. Either he hasn’t read the bill or he wants to mislead people.”",
+      "url": "https://www.reddit.com/r/CryptoBrief/comments/1tvvkmc/senator_lummis_just_called_out_jamie_dimon_live/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T17:01:46+00:00",
+      "snippet": "Jpmorgan c￼eo jamie dimon went on fox business and declared that the clarity act lacks sufficient safeguards around aml rules, the bank secrecy act and stablecoin provisions and that big banks including jpmorgan would vigorously oppose the bill in its current form. Senator cynthia lummis fired back on cnbc saying dimon either hadn’t read the bill or was actively trying to mislead people, pointing out the clarity act contains 16-17 direct references applying aml and bank secrecy act requirements...",
+      "author": "/u/Jealous-Drawer8972",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 28.12
+    },
+    {
+      "title": "Mastercard announced the addition of stablecoins to its payments network - incrypted",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNU5pZUxQYUZJa3NIMkVxYk5qQWVnVnJ1Uk12UzFScmF6TFdhaGZROTRObmNJazBZTnFhS0dkTlFWOWRMZ1ZsdFBiWklsbzhRS1E2VjVoXzJFNFhyUFd5QzE4UElDWHhxZ3E2dzYwMi1fVEJuVUZrT0dyak1lbjBsanYzazhGc3FoVXdIVzdmejJxZnZ1cWxxMA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T13:24:51+00:00",
+      "snippet": "Mastercard announced the addition of stablecoins to its payments network incrypted",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.89
+    },
+    {
+      "title": "Robinhood - Win easy €54 + €31 from me (€85 total 💸)",
+      "url": "https://www.reddit.com/r/referralforpay/comments/1tw788r/robinhood_win_easy_54_31_from_me_85_total/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-04T00:03:09+00:00",
+      "snippet": "For those who like to take advantage of registration campaigns, this one is still very much worth it, and it's one of those that you can do super quickly and simply! ​Summary of what you can receive: (My terms to receive payout) ​€50 in crypto offered by the platform upon registration. ​€4 extra by completing 1 quick quiz inside the app. €31 from me ​👉 Total: €85 ​📲 How it works: 1️⃣​Comment $bid or ask in the comments for the link if you're interested 2️⃣​Register with the referral link and co...",
+      "author": "/u/Spare-Rain-3985",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 27.63
+    },
+    {
+      "title": "Whale 'pension-usdt.eth' Closes All BTC Shorts, Profits $3.56 Million - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKVy0xaGZldGZTVW45Xzd0ek1NOEd1b0Q4eS11M1Y3RHhiZU9wMTZYYzVtQkJRR2hjOXAtN3prSEJFUEtJWHpTd2lEQ24tNGZGanNCRTZqdmh1V3ZBckHSAWNBVV95cUxPNVVBU0lHUC1kSUZkMzhYd3BpN05QVXdNZkVUZ3RnSGV3NFFYMGRyQ2oxM2VnVll6YVNTVjBCUG05WDRvNm9WOTRWUHJiNDFJazl3YWxwZHJtY09BbmNrMHR2dVU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T09:54:32+00:00",
+      "snippet": "Whale 'pension-usdt.eth' Closes All BTC Shorts, Profits $3.56 Million Bitget",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 27.57
+    },
+    {
+      "title": "Mastercard Opens Card-Settlement Network on Eight Blockchains, Adding Weekend and Holiday Cycles",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-opens-card-settlement-network-on-eight-blockchains-adding-weekend-and-holiday-cycles",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-06-03T14:02:51+00:00",
+      "snippet": "Issuers and acquirers can now clear card transactions in regulated stablecoins on Arbitrum, Base, Canton, Ethereum, Polygon, Solana, Tempo and XRPL, with ARQ, CBW Bank, Cross River, Lead Bank and Nuvei lined up as the first adopters in the US and Latin America.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 27.57
+    },
+    {
+      "title": "Mastercard Brings 24/7 Stablecoin Settlements to Global Payments Network - Coinpedia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGVPaEUtaV9XdFFaMDRSdDRvWWwtdENDUDFLWi1KcWRmOGI1LWFZUjZnazNKMXRCZm8xZHBnVUpWd1JNQXRtajUwZmFEOUtfTlZReDZtbnhNOEM4LUt1TUJhU3h6QVg3Uzh5NFczazV5V29GUDdzZl9uQWZTNlpXaS16ek5hWmdvUzhwZVRKZTV3T1RFX1NKV1hnNVZpN1NfeUHSAacBQVVfeXFMT3FIbHV5U3hBOFpoRURqSTZXSVNFOC1aUWhEdXBtby1FbEY4ZlVBSVpreG1lN19pak1GQVZ1Y3dtdWZFbVdzSUFiOVc5SGxOa3VudTJpNGc1SjVBYVZVOWV3a0R5V2R6TTdtaGFrczB5NF9fbHo0SVNlUEswOU9qRkRBdkpWa3U5cWtnaWhfQjhsWnN4MkJySFcxMW1zSFQtdFEzUlBQX0k?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T12:52:00+00:00",
+      "snippet": "Mastercard Brings 24/7 Stablecoin Settlements to Global Payments Network Coinpedia",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.55
+    },
+    {
+      "title": "[H] 81% Crypto (USDC) [W] Amazon GC",
+      "url": "https://www.reddit.com/r/giftcardexchange/comments/1tw6oox/h_81_crypto_usdc_w_amazon_gc/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T23:40:28+00:00",
+      "snippet": "Please leave a comment here before messaging me. I won't respond to anyone who doesn't leave a message here first. Lower reps go first. If I haven't attached the CLOSED flair, I'm still buying. submitted by /u/Kung_Fucius to r/giftcardexchange [link] [comments]",
+      "author": "/u/Kung_Fucius",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 27.44
+    },
+    {
+      "title": "Peter Schiff: Tether’s market cap will soon surpass that of Ethereum and eventually overtake BTC - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96SnpLcnRseFU5ZmNqNmpDUEpfUHV2aVdoeTQtOGNteTBTaXcxOGtqYXdvSGdQUEJkLThvNDBPLWJvMmpiclJ1N0dXUzNVUjhsR3Y5aDN0NjFsNkdBM1HSAWNBVV95cUxNSG9kWkFIT3BOZlFJM1NaRk55N0R5TURvMFdNUzFmQmlHVzFUamY2d3dzTXNlR28wMmJFZGhHVGpQYzdReGstZ2RVY1MtQVU2SGlUaFlmREJ3Rzd3MzlpOWxGcEE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T12:31:08+00:00",
+      "snippet": "Peter Schiff: Tether’s market cap will soon surpass that of Ethereum and eventually overtake BTC Bitget",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 27.33
+    },
+    {
+      "title": "Mastercard Pushes Deeper Into Digital Assets With USDC, RLUSD Settlement Support - CUToday",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORkFVeG5tWmxBbWozU0taYnAyWF9MSDhCTDhXTkp4UWJlcXZsSUl1bXhQaDNYREM1VHAtZkEzQ3Y0MjZTV0tPTy1aenRaSlFaSTdMYllUSHhTY3J0QU9VMzdWWjg4a2pBWkY5dk4yYl8wZjRRY2s2WTVRME5nVjZWYXAxWkRZZXR6ZF90bzdlVHlDMmt3QWRld0I0TVFFWHZNZkl0ZThIN041TEpPSkN2Vk9xNzRxZHc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T12:20:36+00:00",
+      "snippet": "Mastercard Pushes Deeper Into Digital Assets With USDC, RLUSD Settlement Support CUToday",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 27.22
+    },
+    {
+      "title": "Stablecoin infrastructure is improving, but crypto still looks cautious",
+      "url": "https://www.reddit.com/r/CryptoLivePulse/comments/1tvm4oo/stablecoin_infrastructure_is_improving_but_crypto/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T11:10:56+00:00",
+      "snippet": "Daily Pulse, Wednesday, June 3, 2026 Crypto has a mixed setup today. Mastercard expanded stablecoin settlement options with USDC, PYUSD, and RLUSD, which supports the longer-term payment infrastructure story. But near-term risk still looks cautious with Bitcoin weak near $67K, VIX higher, and stablecoin oversight headlines keeping policy risk in focus. For now, the plumbing looks better, but the tape still needs Bitcoin stability. Stablecoin Policy Risk Keeps Crypto Cautious submitted by /u/cry...",
+      "author": "/u/cryptolivepulse",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.2
+    },
+    {
+      "title": "Mastercard to expand settlement capabilities, including stablecoin, holiday, weekend options (MA:NYSE) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUm1CeWRZMXVTdlBHMjlXaUJJa3JobjViNE03b2pnX2pQaWF0LUxoNTByNTZDdWs4RVJtUFFCNjNmVm1sVUM0TXJidlRSOGo1R1plaWxIcEo3OWlxVjl2QzhYZkNHOThYMHBsUERFYWxUbm1rSngyRVR3QUtXc0FUa0Rxd2JxbEdtSUwydlVmel92d2ctdFBqMDBKWHBPS1VxVHFnR0lwa1JYcW9RbW5QZG5yUHBUZFBlbjdNWVE3SnhPWkhGaEE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T11:54:33+00:00",
+      "snippet": "Mastercard to expand settlement capabilities, including stablecoin, holiday, weekend options (MA:NYSE) Seeking Alpha",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.95
+    },
+    {
+      "title": "Robinhood - easy 64€ 💸💸",
+      "url": "https://www.reddit.com/r/refferalsfordummies/comments/1tw56ra/robinhood_easy_64/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T22:40:27+00:00",
+      "snippet": "For those who like to take advantage of registration campaigns, this one is still very much worth it, and it's one of those that you can do super quickly and simply! ​Summary of what you can receive: - ​€50 in crypto offered by the platform upon registration. - ​€14 extra by completing 1 quick quiz inside the app. ​👉 Total: €64 ​📲 How it works: 1️⃣​Comment to ask for the invitation. 2️⃣​Register and complete identity verification. Deposit €50 into the account. - (You can withdraw the deposit ri...",
+      "author": "/u/Spare-Rain-3985",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 26.94
+    },
+    {
+      "title": "Robinhood - Earn €64 in 10min! 💰 🚀",
+      "url": "https://www.reddit.com/r/ReferralFlow/comments/1tw4pt9/robinhood_earn_64_in_10min/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T22:21:37+00:00",
+      "snippet": "For those who like to take advantage of registration campaigns, this one is still very much worth it, and it's one of those that you can do super quickly and simply! ​Summary of what you can receive: - ​€50 in crypto offered by the platform upon registration. - ​€14 extra by completing 1 quick quiz inside the app. ​👉 Total: €64 ​📲 How it works: 1️⃣​Comment to ask for the invitation. 2️⃣​Register and complete identity verification. Deposit €50 into the account. - (You can withdraw the deposit ri...",
+      "author": "/u/Spare-Rain-3985",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 26.78
+    },
+    {
+      "title": "Robinhood - Earn €64 in 10min! 💰 🚀",
+      "url": "https://www.reddit.com/r/beercash/comments/1tw4osj/robinhood_earn_64_in_10min/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T22:20:31+00:00",
+      "snippet": "For those who like to take advantage of registration campaigns, this one is still very much worth it, and it's one of those that you can do super quickly and simply! ​Summary of what you can receive: - ​€50 in crypto offered by the platform upon registration. - ​€14 extra by completing 1 quick quiz inside the app. ​👉 Total: €64 ​📲 How it works: 1️⃣​Comment to ask for the invitation. 2️⃣​Register and complete identity verification. Deposit €50 into the account. - (You can withdraw the deposit ri...",
+      "author": "/u/Spare-Rain-3985",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 26.78
+    },
+    {
+      "title": "Robinhood - Earn €64 in 10min! 💰 🚀",
+      "url": "https://www.reddit.com/r/OnlineIncomeHustle/comments/1tw4kxb/robinhood_earn_64_in_10min/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T22:16:19+00:00",
+      "snippet": "For those who like to take advantage of registration campaigns, this one is still very much worth it, and it's one of those that you can do super quickly and simply! ​Summary of what you can receive: - ​€50 in crypto offered by the platform upon registration. - ​€14 extra by completing 1 quick quiz inside the app. ​👉 Total: €64 ​📲 How it works: 1️⃣​Comment to ask for the invitation. 2️⃣​Register and complete identity verification. Deposit €50 into the account. - (You can withdraw the deposit ri...",
+      "author": "/u/Spare-Rain-3985",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 26.74
+    },
+    {
+      "title": "Robinhood - Earn €64 in 10min! 💰 🚀",
+      "url": "https://www.reddit.com/r/cash4signups/comments/1tw4jmh/robinhood_earn_64_in_10min/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T22:14:56+00:00",
+      "snippet": "For those who like to take advantage of registration campaigns, this one is still very much worth it, and it's one of those that you can do super quickly and simply! ​Summary of what you can receive: - ​€50 in crypto offered by the platform upon registration. - ​€14 extra by completing 1 quick quiz inside the app. ​👉 Total: €64 ​📲 How it works: 1️⃣​Comment to ask for the invitation. 2️⃣​Register and complete identity verification. Deposit €50 into the account. - (You can withdraw the deposit ri...",
+      "author": "/u/Spare-Rain-3985",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 26.73
+    },
+    {
+      "title": "Tether-backed Adecoagro launches 10 MW sugarcane-powered Bitcoin mining pilot in Brazil - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbVJGc3NWbDdIODhRMWJZNlh4OG9idG5UV1Y3U0dzaTkzOG5WRU5OVlhaWldqU0U0aDVoU3pQQVVsWVFST1VEQXJscGFmWUdFQmlSc01CRVVmam1lZkFDM1BRWk9HaVdZaUVkTUdiTE9zU0NvQkk0dC1oaWlDMmJ6ZTZ2V0NmQzQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T08:33:05+00:00",
+      "snippet": "Tether-backed Adecoagro launches 10 MW sugarcane-powered Bitcoin mining pilot in Brazil The Cryptonomist",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "positive",
+      "score": 26.73
+    },
+    {
+      "title": "Lords call on BoE to loosen proposed stablecoin rules - Investment Week",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUZiUXZxVGticGV0VFZmaEthbEdEazVUcnlXc2ZRNS1YeUVzM0ZCOWNIaUNETFkwNkpiMFdZX2FhWjB1Tzd6RWY3cW10YXhnNUpJdThVb3JyUW5wcVhzRkRDUU1pbWZobFNxdTlZc0ZDc3A0aXFjeFZER3ZvT3c1Yzk2NkpSeVVLcmdzclZWWDAxdw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T11:11:21+00:00",
+      "snippet": "Lords call on BoE to loosen proposed stablecoin rules Investment Week",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.5
+    },
+    {
+      "title": "Robinhood - Earn €64 in 10min! 💰 🚀",
+      "url": "https://www.reddit.com/r/ReferralLinksNation/comments/1tw3i7b/robinhood_earn_64_in_10min/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T21:35:59+00:00",
+      "snippet": "For those who like to take advantage of registration campaigns, this one is still very much worth it, and it's one of those that you can do super quickly and simply! ​Summary of what you can receive: - ​€50 in crypto offered by the platform upon registration. - ​€14 extra by completing 1 quick quiz inside the app. ​👉 Total: €64 ​📲 How it works: 1️⃣​Comment to ask for the invitation. 2️⃣​Register and complete identity verification. Deposit €50 into the account. - (You can withdraw the deposit ri...",
+      "author": "/u/Spare-Rain-3985",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 26.4
+    },
+    {
+      "title": "onchain privacy finally has basically the crypto version of a swiss bank account",
+      "url": "https://www.reddit.com/r/CryptoPeople/comments/1tvpiir/onchain_privacy_finally_has_basically_the_crypto/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T13:33:20+00:00",
+      "snippet": "stablecoins are processing double visa's annual volume right now on fully public ledgers. every transfer, every amount, every wallet address, permanently visible to anyone with a browser. that's the baseline most people have accepted as normal because the alternatives were worse until pretty recently the alternatives were: use monero and get delistings, use tornado cash and get sanctioned, or navigate some privacy chain that required a new wallet, a new token, and an hour of your time for a sin...",
+      "author": "/u/Repulsive_Counter_79",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 26.38
+    },
+    {
+      "title": "A certain whale, dormant for 4 months, borrowed 10 million USDT and then accumulated 5,589 ETH. - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5RHZQLTJPTE1aR3o4QVNldGlzMTU4djZ5dXZxZlh0cGFGd1pCX1ZvazdyQnBWMGdDVVVqbm52WEtkQVJSSUprcGZ2T09ORFp1RTVxUFR4ZEVySFJSLXRERjBwbDTSAWpBVV95cUxNbEw1Z01YVFREZG9ucmFhdldldUJ2NlREY1pfdzM3TklkT3RfMkVXSUozQkZHbnpaTkl5Ym1MR0F0UTBuUFdmZ0NPSkpOUFNoaUpvWTJEWHgyU1NVN2hEcGVjNURfS1lwZjJn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T10:45:38+00:00",
+      "snippet": "A certain whale, dormant for 4 months, borrowed 10 million USDT and then accumulated 5,589 ETH. Bitget",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.23
+    },
+    {
+      "title": "Holding $147.3 million in ETH, a certain whale, after four months of inactivity, borrowed 10 million USDT to purchase 5,589 ETH - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNzQzNDhGNW9JWVVaSlRtWndPVE9RY2JVcVhnWUxNcDlMd1BEZFU2TnJ5TFZwa0FWQ3p4N1phXzZpNzVIQk9rOGdrbDdiUU5wSGlmbmdjTXBEYi1lWVHSAWNBVV95cUxNUXhOalZpZG1sVlVxT0VPQ05QYnUzSHJNLWJKV2ctSzZvTWs0M0tUQTZsOG9ZUXZrUVl4R1VZMFc2OEQ1TE0yRWw5LTBHOF9pRHJ2TENKVkVadldnM2VlU0gtRXc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T10:42:32+00:00",
+      "snippet": "Holding $147.3 million in ETH, a certain whale, after four months of inactivity, borrowed 10 million USDT to purchase 5,589 ETH Bitget",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.2
+    },
+    {
+      "title": "Stablecoins vs Altcoins: Key Differences",
+      "url": "https://www.reddit.com/r/u_Far-Photograph-2342/comments/1tvoocq/stablecoins_vs_altcoins_key_differences/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T13:01:32+00:00",
+      "snippet": "Most people new to crypto sort the market into Bitcoin and \"everything else.\" That second group is where the confusion starts, because it holds two very different kinds of assets: altcoins built to grow in value, and stablecoins built to hold a fixed value. Knowing which is which changes how you trade, save, and move money on-chain . https://preview.redd.it/tdnu359xf25h1.png?width=1920&format=png&auto=webp&s=5078dbb23297da95eff9aa89f5c566786f9b44ca This guide explains what stablecoins and altco...",
+      "author": "/u/Far-Photograph-2342",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 26.12
+    },
+    {
+      "title": "The Russian Ministry of Finance opposes the circulation of USD stablecoins and plans to prioritize the development of a ruble stablecoin. - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PZlUxX2tDc2phZ3ZRY2F1V1oybEo0VjU5TlZKUUw2RFE5bHNXbUt3NDluLWhjTGtpeTB0bHg4M0g4MFN5clNhc0o3aFZoOF9MVDZ4NEdLbUlHT3p4MEHSAWNBVV95cUxOckxaTUdleWREbGxSbGNrLU1YMmVXTnhKZUtya0ZZVmlmVlVtbVlTMGgzcTl6aDNKMXVWVHFadFp4cFZRc0tJOXhMaFJtd1BYVmt1VUZVTnpLR0hGWTVoXzlNODQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T10:11:08+00:00",
+      "snippet": "The Russian Ministry of Finance opposes the circulation of USD stablecoins and plans to prioritize the development of a ruble stablecoin. Bitget",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.87
+    },
+    {
+      "title": "Quelles plateformes permettent d’acheter de l’or avec du USDT ?",
+      "url": "https://www.reddit.com/r/DecentralizedFinance/comments/1tvj5rt/quelles_plateformes_permettent_dacheter_de_lor/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-06-03T08:31:58+00:00",
+      "snippet": "De plus en plus de plateformes crypto permettent d’obtenir une exposition à l’or en utilisant des stablecoins comme le USDT , mais il faut bien distinguer les types de produits proposés. En pratique, on trouve surtout des produits dérivés ou des contrats indexés sur le prix de l’or , plutôt qu’un achat d’or physique. Un exemple de plateforme dans cet écosystème est Bitget, où l’or (lorsqu’il est disponible) est généralement accessible via des instruments de trading adossés au prix. Type de plat...",
+      "author": "/u/cRaving_Feverrr",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.87
+    },
+    {
+      "title": "UK Lawmakers Urge Stablecoin Rule Softening - Sharecafe",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEVlNjlwazRCbEZSZnV5dUdLRTJPdndUWFlPTC1fN3FCWTVqRmh6QnBLUWdPT1JTeVpyXzVNLUlTV3RKNVNKRm1aSHRUdGhsLUNvS0NEV0M4YzdGUU9vNmI2NktEaU5DdHVNX1MtS0xVNTUwMlBHdi1OZWV0bHh4WmtLZmJ3b2Y4a0Z6RA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T09:59:49+00:00",
+      "snippet": "UK Lawmakers Urge Stablecoin Rule Softening Sharecafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.75
+    },
+    {
+      "title": "The Stablecoin Paradox: Are We Building Argentina’s Currency Board at Digital Scale? - International Banker",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkV5RGtFVXlmUlFYQXlsN01FTXFCSDZDZjkwSVNoeUlNQkVxcy1odExfWkpqWFpCVFVIUEQzY0l6Y1hkX0RHOGVBUkRhQy1JeGpUTXB5akdJenY2LTVVZXJ5b043SkYzeXViWW9ZeV80enFuWk9FN1JVYXl5cmJnbms1SjkxUkZrUDc0enpaeGQybVRkVUMtRnZ0T2Yxd0RZT0F1Yk5tOFNTNTBKN200SERqNVBiYkN5eTFsMG0wZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-06-03T09:49:18+00:00",
+      "snippet": "The Stablecoin Paradox: Are We Building Argentina’s Currency Board at Digital Scale? International Banker",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.64
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 19,
+      "USDC": 22,
+      "Tether": 18,
+      "USDT": 11,
+      "Stablecoin": 88,
+      "Robinhood": 8
+    },
+    "platform_counts": {
+      "News RSS": 83,
+      "Reddit": 34,
+      "RSS Feed": 3
+    },
+    "risk_count": 37,
+    "top_risks": [
+      {
+        "title": "Stripe, Visa, Mastercard, Coinbase form alliance to issue new stablecoin, check Tether and Circle - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOGlCV09obkY4S3dUV08wQXkzTGR3b0NyX3I3WUFhOW5VQnFaZmZCdEVzSTlKRGdZQmlJSktja3VFT2swWlBMQVF6a1Rzemp6UzA3ZU4wakV6RlRkenlWS0JTUHpfdzI2NWl3QThJRS15V2RLZ0ZuTGhOMmRIS3NtR1gwMDNjeVBlRFpYaTQtNUd4UERMdUJ3anRXWUwxRjNhUHhIZkFGN2t1STFtU1BVUkNnbTdOckRHc09XUy1RZklIWkQwQ0U2S2NOU2w2UVU?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-06-03T21:31:22+00:00",
+        "snippet": "Stripe, Visa, Mastercard, Coinbase form alliance to issue new stablecoin, check Tether and Circle 디지털투데이",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "Tether",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 52.96
+      },
+      {
+        "title": "StablR multisig minting-key compromise: MiCA covers reserves but not custody architecture",
+        "url": "https://www.reddit.com/r/u_VicMenMTO/comments/1tvs03q/stablr_multisig_mintingkey_compromise_mica_covers/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-06-03T15:01:40+00:00",
+        "snippet": "Spent the morning reading the CoinDesk reporting (26 May 2026) on the StablR incident and I think the architectural read here is more interesting than the headline number. StablR is a Malta MFSA-licensed EMI, a MiCA-authorised EMT issuer, Tether- and Kraken-backed. Mainstream regulated stablecoin. On 24 May 2026 an attacker compromised a single private key, added their own address as owner of the minting multisig, removed the two legitimate signers, and minted roughly $13.5M in unbacked USDR +...",
+        "author": "/u/VicMenMTO",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 50.62
+      },
+      {
+        "title": "💵 Stablecoin Supply Hits Record $322 Billion, Rulemaking Starts This Week",
+        "url": "https://www.reddit.com/r/kava_platform/comments/1tvtjp5/stablecoin_supply_hits_record_322_billion/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-06-03T15:54:25+00:00",
+        "snippet": "Stablecoin supply closed May at a record $322 billion. BlackRock's global head of market development put it simply: stablecoins are \"a bridge between traditional finance and digital liquidity.\" This week, the GENIUS Act comment periods begin to close, the point at which federal stablecoin regulation shifts from statute to the operating rules issuers must build. What gets settled now determines who can issue, what reserves they hold, and whether yield survives. The Senate floor opens on June 3 f...",
+        "author": "/u/cameron_kavalabs",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 47.56
+      },
+      {
+        "title": "Federal Reserve tells Congress it wants technology-neutral rules for tokenized securities and stablecoins - Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qcXlDbHQxNmxZTkk2ME1veHlMY1Y1d3VVWDdQNExaLW9yWVVBQjE0M3JFdmpUU3RTQWx2Y2hsSmJ2T2pOTTQ1UVdhQWZkeWhMSVlQOEJSemJoTzMtSE9yR19IbmhjNVZFanZnUDlpOEozS0JfZmhyTXlWTEx0MFk?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-06-04T00:44:49+00:00",
+        "snippet": "Federal Reserve tells Congress it wants technology-neutral rules for tokenized securities and stablecoins Crypto Briefing",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 44.97
+      },
+      {
+        "title": "Straight from Mastercard’s website. Mastercard expands settlement capabilities. Stablecoins include RLUSD and use of XRPL",
+        "url": "https://www.reddit.com/r/XRPUnite/comments/1tvsbr5/straight_from_mastercards_website_mastercard/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-06-03T15:12:36+00:00",
+        "snippet": "No fluff, just facts. Straight from Mastercard’s website. Quote from article - “Mastercard will support settlement using regulated stablecoins including Circle’s USDC, which is already supporting early on-chain settlement flows in select markets, as well as Paxos-issued stablecoins including PYUSD, USDG and USDP, Ripple’s RLUSD and SoFi’s SoFiUSD. These stablecoins will be enabled across a range of supported blockchain networks including Arbitrum, Base, Canton, Ethereum, Polygon, Solana, Tempo...",
+        "author": "/u/Ok-Suit541",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 44.71
+      },
+      {
+        "title": "BREAKING: Mastercard Just Announced That Its Entire Global Payments Network Will Now Accept Stablecoins Including USDC, PYUSD, RLUSD, And SoFiUSD For Card Settlement, Meaning Banks And Fintech Companies Can Now Settle T...",
+        "url": "https://www.reddit.com/r/InterstellarKinetics/comments/1tvupxl/breaking_mastercard_just_announced_that_its/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-06-03T16:33:01+00:00",
+        "snippet": "Mastercard announced on June 3, 2026 that it is expanding its global settlement infrastructure to support regulated stablecoins alongside traditional fiat currencies, marking the first time the company’s card network has opened its core settlement layer to blockchain-based digital assets at a global scale. The supported stablecoins include Circle’s USDC, Paxos-issued tokens including PYUSD, USDG, and USDP, Ripple’s RLUSD, and SoFi’s SoFiUSD, and they will be enabled across eight blockchain netw...",
+        "author": "/u/InterstellarKinetics",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 43.88
+      },
+      {
+        "title": "[BUYING] Need USD/USDT ($10 - $100) | 100% Safe & Clean Funds | Reputable Trader",
+        "url": "https://www.reddit.com/r/USDTexchange/comments/1twcsyr/buying_need_usdusdt_10_100_100_safe_clean_funds/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-06-04T04:13:58+00:00",
+        "snippet": "Hey Guys Looking to buy small amount of USDT/USDC ( $1- $100) range. If you are looking for cash out some crypto or freelancing earnings safely and quickly. Feel free to reach out Why trade with me? ° ZERO RISK OF BANK FREEZE : I use 100% clean, personal funds my payment history is solid and I have never had u issue with bank account or Compliance. ° Prooven well Reputation : I have completed numerous successful Trades here You can check my profile History or feedback from satisfied users I hav...",
+        "author": "/u/IcyBrother5450",
+        "query": "Robinhood crypto USDC",
+        "engagement": 0,
+        "entities": [
+          "USDC",
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 43.72
+      },
+      {
+        "title": "Europe stablecoins ride MiCA as Evernodes flags XRP Ledger adoption - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTY4enZlN2VVSFNHeUl1cFhPOXkxRFBlTW02YnJvTjRzTmxRZXlWWklEcXdsN2NCbm5vN0pIYloxWjBNd3ZQdlVXQ1dPNTJrSGxpcGhnWmlPVmJNdEZyNmdWdW5PUlNmLUJIRVNVSXFoYkhQb3dqUGFwcHV0SHl1ejRVWHk3MmxxZ2hGUjJxZGEwdmQyWFVtWEdJd2xFOEc5amg3dzA0MA?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-06-04T02:31:52+00:00",
+        "snippet": "Europe stablecoins ride MiCA as Evernodes flags XRP Ledger adoption 디지털투데이",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 42.96
+      },
+      {
+        "title": "GENIUS Act & Stablecoin Regulation FAQ: What Broker-Dealers and Banks Need to Know - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM203amVKWFFCU2ZmNFNDcWlkYnZHYVpfNk9iMjR1VmNtTENFT3hoTEFUMk9FSEhkMTVBd3FGWU9MZmRBMXBTZnZsSjdDbUhvdDVTM2FxV1A5TnpBeGZFRVlRTEk1UnU5TnVOcF9fTVQ4VUxvUlp4bkU1Slp0NnVPM3FXVnZHWjZqcDI2UmQ5WFJ2WC11WjF5bFBuQTQ3bUlIWmdvVG0yS2NiZVQ0VlBVcFk0SWYxaC01UXpIaWpZRFJWcXF0RlptSDVJamQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-06-03T20:35:10+00:00",
+        "snippet": "GENIUS Act & Stablecoin Regulation FAQ: What Broker-Dealers and Banks Need to Know Nasdaq",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 42.37
+      },
+      {
+        "title": "The Stablecoin Reserve Trade: Who Actually Keeps the Money",
+        "url": "https://www.reddit.com/r/u_KiransPerspective/comments/1tw8gne/the_stablecoin_reserve_trade_who_actually_keeps/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-06-04T00:56:21+00:00",
+        "snippet": "Personal DD / notes. Figures as of June 3, 2026, and they move daily. Not financial advice. TL;DR: A stablecoin is a money-market fund that keeps the yield instead of paying it to you. The issuer (Circle) is the obvious, expensive, high-beta way to play it. The boring plumbing underneath (BlackRock, BNY Mellon) is the durable, lower-beta way. The macro tell is ~$0.8–1T of new T-bill demand by 2028 (Standard Chartered). And the catch almost nobody prices: the macro thesis and the issuer thesis f...",
+        "author": "/u/KiransPerspective",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 42.07
+      },
+      {
+        "title": "The UK House of Lords released a 71-page report on stablecoin regulation, criticizing the current regulatory proposals for lacking competitiveness - WEEX",
+        "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxObDlUWjN2SHVLa1o5MG5xMzZhdHQtZlFsOTA0anJMVTQzcHZpMW93OUJLUW4wMFh5Yk9Oa3ZCQ25WQTFCYXdoTWtldF9aR2lqX3VvdnlMRWsyWDlZbVBiMzhXUGFSUk5oZmdUVGk2UVlxdy1EYTFwNzBVUjQ1R3hOakJBY3p0RkU0bms4MHpVZzA0c194UDhRTkNxUWM3NUFvcmZsTU52bWRNbVdrVjY5TXg1UDhzUzR5VUF1aXRqdXljWnN4RDNzSXpJY21mVHNFQWdUY3VJNTNMSU5GMTQ2WktPdVJ5U05Pb3lZM2JtQzFkTlQwQ1Z3QkNFemZXQlJuT0xMekpMcnFLZGM4ZUlfMVdWSXN1aE93ZFRjVkNqaEtmZVFGTWh5X2g1TQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-06-04T01:50:35+00:00",
+        "snippet": "The UK House of Lords released a 71-page report on stablecoin regulation, criticizing the current regulatory proposals for lacking competitiveness WEEX",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 40.66
+      },
+      {
+        "title": "Mastercard Stablecoins integrated into XRP, Ethereum & Solana for global settlements",
+        "url": "https://www.reddit.com/r/StableCoins/comments/1tw5eez/mastercard_stablecoins_integrated_into_xrp/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-06-03T22:48:36+00:00",
+        "snippet": "On June 3, Mastercard announced it will support regulated stablecoins like USDC, PYUSD, RLUSD and more, enabling settlements across 8 blockchains: XRP Ledger, Ethereum, Solana, Polygon, Base, Arbitrum, Canton, and Tempo. This means settlements can now happen 24/7, beyond banking hours, with direct applications in cross‑border payments, treasury, and disbursements. Early partners include ARQ (Mexico), CBW Bank, Cross River, Lead Bank, and Nuvei, marking an initial rollout in the U.S. and Latin A...",
+        "author": "/u/Polacobest",
+        "query": "USDC stablecoin",
+        "engagement": 0,
+        "entities": [
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 38.51
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 88,
+        "headline": "Stripe, Visa, Mastercard, Coinbase form alliance to issue new stablecoin, check Tether and Circle - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOGlCV09obkY4S3dUV08wQXkzTGR3b0NyX3I3WUFhOW5VQnFaZmZCdEVzSTlKRGdZQmlJSktja3VFT2swWlBMQVF6a1Rzemp6UzA3ZU4wakV6RlRkenlWS0JTUHpfdzI2NWl3QThJRS15V2RLZ0ZuTGhOMmRIS3NtR1gwMDNjeVBlRFpYaTQtNUd4UERMdUJ3anRXWUwxRjNhUHhIZkFGN2t1STFtU1BVUkNnbTdOckRHc09XUy1RZklIWkQwQ0U2S2NOU2w2UVU?oc=5"
+      },
+      {
+        "entity": "USDC",
+        "count": 22,
+        "headline": "Mastercard Expands Stablecoin Settlement via Circle's USDC, Ripple's RLUSD and Beyond - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa2Nwc2ZUMmJLdzd1Rk1fLXdtYWxLaGVOdFd5R29FM09tVEpXYkdFZmpNV0xnOGpEVXNVaHkzSnFMaFBET1QycXkxWWJRd252SGRveVY4Z0U0TVVtVngxYy0xNmZOcTRMTVVrSkM0ZDMwY1RyOVNKOXBENTdnVWRyLXVOTW9EbzRteEFQdEhncEdsZ19f?oc=5"
+      },
+      {
+        "entity": "Circle",
+        "count": 19,
+        "headline": "Stripe, Visa, Mastercard, Coinbase form alliance to issue new stablecoin, check Tether and Circle - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOGlCV09obkY4S3dUV08wQXkzTGR3b0NyX3I3WUFhOW5VQnFaZmZCdEVzSTlKRGdZQmlJSktja3VFT2swWlBMQVF6a1Rzemp6UzA3ZU4wakV6RlRkenlWS0JTUHpfdzI2NWl3QThJRS15V2RLZ0ZuTGhOMmRIS3NtR1gwMDNjeVBlRFpYaTQtNUd4UERMdUJ3anRXWUwxRjNhUHhIZkFGN2t1STFtU1BVUkNnbTdOckRHc09XUy1RZklIWkQwQ0U2S2NOU2w2UVU?oc=5"
+      },
+      {
+        "entity": "Tether",
+        "count": 18,
+        "headline": "Stripe, Visa, Mastercard, Coinbase form alliance to issue new stablecoin, check Tether and Circle - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOGlCV09obkY4S3dUV08wQXkzTGR3b0NyX3I3WUFhOW5VQnFaZmZCdEVzSTlKRGdZQmlJSktja3VFT2swWlBMQVF6a1Rzemp6UzA3ZU4wakV6RlRkenlWS0JTUHpfdzI2NWl3QThJRS15V2RLZ0ZuTGhOMmRIS3NtR1gwMDNjeVBlRFpYaTQtNUd4UERMdUJ3anRXWUwxRjNhUHhIZkFGN2t1STFtU1BVUkNnbTdOckRHc09XUy1RZklIWkQwQ0U2S2NOU2w2UVU?oc=5"
+      },
+      {
+        "entity": "USDT",
+        "count": 11,
+        "headline": "[BUYING] Need USD/USDT ($10 - $100) | 100% Safe & Clean Funds | Reputable Trader",
+        "url": "https://www.reddit.com/r/USDTexchange/comments/1twcsyr/buying_need_usdusdt_10_100_100_safe_clean_funds/"
+      },
+      {
+        "entity": "Robinhood",
+        "count": 8,
+        "headline": "New Stock Market Guru “Serenity” Buys the Dip on BTC & ETH ETFs On June 3, 2026",
+        "url": "https://www.reddit.com/r/TradeVerseNetwork/comments/1twbwht/new_stock_market_guru_serenity_buys_the_dip_on/"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 825,
+      "kept": 83,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": true,
+      "fetched": 140,
+      "kept": 34,
+      "message": ""
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 2,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 35,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
