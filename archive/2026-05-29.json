@@ -1,0 +1,1934 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T04:15:23.853004+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals",
+      "url": "https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-05-28T18:53:40+00:00",
+      "snippet": "USAT's market cap jumped above $140 million in April, though it remains well behind Circle's USDC, PayPal's PYUSD and Ripple's RLUSD tokens.",
+      "author": "Krisztian Sandor",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 49.81
+    },
+    {
+      "title": "Elizabeth Warren called the GENIUS Act a gift to money launderers and terrorists. She's been wrong about crypto before but is she wrong about this specific bill?",
+      "url": "https://www.reddit.com/r/CryptoBrief/comments/1tqff5n/elizabeth_warren_called_the_genius_act_a_gift_to/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T20:27:57+00:00",
+      "snippet": "The GENIUS Act is the first federal framework for payment stablecoins , cleared the Senate 66-32. It's a massive moment for crypto regulation. But buried in the coverage is a detail worth actually examining warren and committee democrats issued a national security advisory criticizing the bill for failing to address illicit finance vulnerabilities, arguing the legislation would make the problem wors by exempting DeFi businesses from anti money laundering requirements and failing to close the to...",
+      "author": "/u/kungfuhabibi",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 46.1
+    },
+    {
+      "title": "STABLECOINS | USDC Stablecoin Issuer, Circle, Targets Africa’s Stablecoin Push With New Senior Growth Role - BitKE",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55N0JjaE9ULWhyUC1TdWYzNlo0RkdXbG0zQjRqb1dJcVdicnlCNF83X3dwenNqVjNOQVNxYXRkR3FMSzFIT1Vwc2lxeTBZXzROdVlVUmNSSjdWbWM5dTlybQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T06:00:47+00:00",
+      "snippet": "STABLECOINS | USDC Stablecoin Issuer, Circle, Targets Africa’s Stablecoin Push With New Senior Growth Role BitKE",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 45.47
+    },
+    {
+      "title": "Trezor stablecoin yield heads into Trezor Suite for USDC/USDT - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFZ0VUlSU1l4bUhZdXFvMTdaeFFRbjREQ1JLeW5oN1hZVjNtQTNwd2x2dGFLRnpEQy12OXE2aG9nNjFOb2xuRTRYTlV5S3d0VER4RTF1SFk1LVU4bmp4R2pWYWFSeHBQeWFPdjZSUkZxTzgwZUR3bmVicEQyRlhQVTlHbEtWUmN3bG50LUZB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T14:47:33+00:00",
+      "snippet": "Trezor stablecoin yield heads into Trezor Suite for USDC/USDT The Cryptonomist",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 44.08
+    },
+    {
+      "title": "Trezor adds native USDt, USDC yield via Morpho integration",
+      "url": "https://www.reddit.com/r/RWATimes/comments/1tqmmwk/trezor_adds_native_usdt_usdc_yield_via_morpho/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-29T01:15:09+00:00",
+      "snippet": "![]( https://s.tradingview.com/static/images/illustrations/news-story.jpg ) Trezor has integrated native stablecoin yield functionality into Trezor Suite, the hardware wallet provider’s desktop and mobile application, in a move that could make earning yield on stablecoins mor ... Details: - Published: 28/05/2026 17:28 (UTC) - 📊 Characteristics Score: Asset Type: stable_coin Sentiment: 0.3 Entropy: 0.75 Relevance: 0.8 Staleness: 0.4 Uncertainty: 0.2 Level-1 Focus: integration-with-defi, asset-ty...",
+      "author": "/u/rwatimes",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 43.49
+    },
+    {
+      "title": "Introducing PUSD",
+      "url": "https://www.reddit.com/r/pushprotocol/comments/1tq5fpo/introducing_pusd/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T14:34:10+00:00",
+      "snippet": "A universal stablecoin that unifies fragmented USDC, USDT liquidity from any chain to enable bridgeless cross-chain payments. • Pegged 1:1 with all USDT, USDC • Use it to pay, trade, and earn safest yield with PUSD+ Mint here: pusd.push.org Detailed info about use cases, deposits, redemption, and yield explained here: https://push.org/blog/introducing-pusd/ submitted by /u/VirenPanchal to r/pushprotocol [link] [comments]",
+      "author": "/u/VirenPanchal",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 43.15
+    },
+    {
+      "title": "Tether's USAT stablecoin shields USDT from US regulation, keeping $183B offshore coin outside compliance. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHJxT3ZPQmQ3dm1zdS1RR2dfdnROMy1KcDhLdXd5aDBaWVpIU3J3bTgyakZBNVV2QVdZTmRtNTktMkFuSHpGekVzbThBcEhKTGR1YnZzb2lNXzBQc0djLXRxRkU4b3AybkxPUDVrRU5UY3Q1TW1QeUlXelRoRzR5ckRLT0FSUTh3bFNKbXVR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T03:43:31+00:00",
+      "snippet": "Tether's USAT stablecoin shields USDT from US regulation, keeping $183B offshore coin outside compliance. Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 42.16
+    },
+    {
+      "title": "Toddlers learn by falling: Why DeFi's $20 billion TVL drop is just a market stress-test",
+      "url": "https://www.coindesk.com/business/2026/05/28/toddlers-learn-by-falling-why-defi-s-usd20-billion-tvl-drop-is-just-a-market-stress-test",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-05-28T16:33:56+00:00",
+      "snippet": "DeFi Technologies president Andrew Forson says the stablecoin layer is thriving, with more than $150 billion in U.S. Treasuries backing coins like USDT and USDC.",
+      "author": "Olivier Acuna",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 41.57
+    },
+    {
+      "title": "Trezor adds USDC USDT yield via Morpho - crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DOEQtV09CSjFsdm9kaTdNWGpnM1czeXNUWjVJUk9DVzlBS3FFZFdzVjF3UkpIR1pYbXBQN3NiRktlSWpZR3RhcmhYZlFOOFlLd0dUQjdQUmFtV20yRlJQcXJ6eURpOVByZExj?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T20:39:45+00:00",
+      "snippet": "Trezor adds USDC USDT yield via Morpho crypto.news",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 40.25
+    },
+    {
+      "title": "Nium And Circle Expand Stablecoin Payments Push As Cross-Border Infrastructure Converges Around USDC - FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzNpYmNHb2dOdjFHemJueXpib1lsUkhyRUc1VldtNDdpS1ZDeGtTWWFTUF9QdTJhTFVWdVRhY2Y5SHlvZXpad2lMaGhxNGp0c0Q4VDFFV1o0Q2FQZlhvLUxCWUZIek83UGxJekwydWlsaC0yLVQ5Z3BjQnlMcGxrQkt0czZYNUhlc293RVJWOWFfZ0VBNVBOMW4ybDljMTk5VUxub00yTXZlS1RMd2pQSnVRM2R3WXVTUU9XMEpaSk9rNzJM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T08:27:17+00:00",
+      "snippet": "Nium And Circle Expand Stablecoin Payments Push As Cross-Border Infrastructure Converges Around USDC FinanceFeeds",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 40.12
+    },
+    {
+      "title": "Tether’s USAT Gains in US Market but Still Trails Rival Stablecoins - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lMDloX1VaVldLSFB6VUl4WEZmRHpEbkE4WXhvZC1sSHpfY1ZLZ09RNXVQbjlvSnhsU2d2V3hmQk9hWnUtVHg4RGV0cUJSZ3hyOFppbw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T20:08:22+00:00",
+      "snippet": "Tether’s USAT Gains in US Market but Still Trails Rival Stablecoins bloomingbit",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 39.92
+    },
+    {
+      "title": "Stablecoin News: Cash App Turns USDC Into Mainstream Digital Money - The Coin Republic",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWlNReDVjVkp3eWlHQ2tFQW90MnBvM2wwWTNFYWZvRlYxWXFJRllGdFFXY2c5R3VySlNDVVZ0bVFQbEx3YzFKSW8xeWJZcmpKRFZNc214emdpVnd5Uy1oMmlVZ0YwbGNfaDM4eUxhRjM1djlJTVZBT2RFNnRfT0hlLWYyOWtTRm5sc250RnYyRG1aOHdvR3pIZ2JYVXN1dWNHc0t3aHJWOHVWMFUyWGfSAbMBQVVfeXFMUDNlN2VoOW1WYTFHMGFzRjZteTRvMHlwejV1dGZYblRzLU1oTTZrcDVaSXp2YzFQTmMtMHRlUllNaXE5WGtRWHNMMjNoYmlRYlZBa1lyRHVpYkxUM1I2MW9NbkdxQ2ptMlVuaWdMMW16T3JKSVYtT2xzd21IMGdoVmJQUVVHb1dRN1BTMjl6eUZoN2ZFclRhekJvQ0hGckVMTE1oZEI0d1pxZUUxalZUT0k0REU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T20:00:00+00:00",
+      "snippet": "Stablecoin News: Cash App Turns USDC Into Mainstream Digital Money The Coin Republic",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 39.83
+    },
+    {
+      "title": "Tether (USDT) transfers spike as Bitcoin volatility triggers major liquidity shifts in crypto markets - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmUwLVBfQ1VZclJybi1sNnI3QXJ3NkVKU3Jhd3pKbTZiZ3FZWWhveVVCWXdiRlhJTU13d1djTVZrVXpnXzlqRi1jb1M0X0VPZ2tRMWoycFNPdnctNVVEdE5ZWGlmRFZkWXFEQzNxUWp2dmt2UXZRY1NpUjRJWkZVLWJJZV9mcEhLVTFSaFVSS2FNWnF0V2tiZjI2cUhiRm1KdV90ekIxWmdMVjBHQ3lr?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T11:27:57+00:00",
+      "snippet": "Tether (USDT) transfers spike as Bitcoin volatility triggers major liquidity shifts in crypto markets Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 39.5
+    },
+    {
+      "title": "250 Millionen USDC frisch auf Solana emittiert/ 250 million USDC newly issued on Solana",
+      "url": "https://www.reddit.com/r/Hive_smartinvesting/comments/1tqcrs2/250_millionen_usdc_frisch_auf_solana_emittiert/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T18:55:13+00:00",
+      "snippet": "**Frisches Kapital flutet das Ökosystem** Am 26. Mai verzeichnete die Solana-Blockchain eine plötzliche Erhöhung der Stablecoin-Bestände. Innerhalb von nur sechs Stunden wurden rund 250 Millionen USDC neu emittiert. Das entspricht etwa 0,7 Prozent des gesamten Angebots. Solche Schübe beleben oft die Handelsaktivität auf dezentralen Börsen. Parallel dazu wächst die Kreditplattform Jupiter Lend deutlich. Das dort gebundene Kapital überstieg zuletzt die Marke von 2 Milliarden USD. Im Vergleich zum...",
+      "author": "/u/No_Analysis4572",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 39.33
+    },
+    {
+      "title": "Trezor Brings USDC And USDT Yield Straight Into Its Suite App - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XMEREUDV1OW43d0FjTUozX0pMQ2RHX09LYms1UDlFcENycko0a0Y4X1hzbFhJRDFyN0UyZFM2UVNITmtweVBWcXBvTXFwVEx3eGFtYjA4cV9TMHZ5dGhoUzN3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T18:53:28+00:00",
+      "snippet": "Trezor Brings USDC And USDT Yield Straight Into Its Suite App Yellow.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 39.14
+    },
+    {
+      "title": "Trezor Suite adds native stablecoin yield, letting users earn on USDC and USDT without leaving the hardware wallet’s interface (x-post from /r/Cryptocurrency)",
+      "url": "https://www.reddit.com/r/CryptoCurrencyClassic/comments/1tqi905/trezor_suite_adds_native_stablecoin_yield_letting/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T22:10:46+00:00",
+      "snippet": "submitted by /u/ASICmachine to r/CryptoCurrencyClassic [link] [comments]",
+      "author": "/u/ASICmachine",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 38.96
+    },
+    {
+      "title": "Yield USDC & USDT is on ETH is here!",
+      "url": "https://www.reddit.com/r/TREZOR/comments/1tq4o28/yield_usdc_usdt_is_on_eth_is_here/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T14:06:04+00:00",
+      "snippet": "Earn yield on USDC or USDT on Ethereum without leaving Trezor Suite. No dApps, no browser extensions, no new accounts. Powered by Morpho, one of the most stress-tested and audited lending protocols on Ethereum. Start now with just a few clicks. More information here: https://trezor.io/guides/sending-receiving-staking-funds/interacting-with-smart-contracts/stablecoin-yield-in-trezor-suite Feel free to ask us anything <3 submitted by /u/SuchTrezorVeryCrypto to r/TREZOR [link] [comments]",
+      "author": "/u/SuchTrezorVeryCrypto",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.92
+    },
+    {
+      "title": "Are stablecoins safe for B2B payments in 2026",
+      "url": "https://www.reddit.com/r/StableCoins/comments/1tq3suk/are_stablecoins_safe_for_b2b_payments_in_2026/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T13:33:41+00:00",
+      "snippet": "Short answer for anyone landing here from search, stablecoins are safe for B2B payments when the platform routing them sits on regulated infra with audited reserves and segregated custody. The risk shows up on the stack, not the coin. I see this question come up a lot when finance teams are doing diligence on cross-border payment vendors, and the answers floating around online tend to conflate two very different things. So splitting it out below since the framing matters more than people think....",
+      "author": "/u/GetRekt1o1",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.65
+    },
+    {
+      "title": "UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules",
+      "url": "https://www.coindesk.com/business/2026/05/28/unicredit-warns-europe-may-struggle-to-contain-crypto-bank-crisis-under-mica-rules",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-05-28T16:50:24+00:00",
+      "snippet": "EU deposit insurance (up to €100,000) may not absorb stress from large stablecoin reserve accounts, unlike the full protection offered by U.S. regulators.",
+      "author": "Francisco Rodrigues",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 37.13
+    },
+    {
+      "title": "Cash App Launches USDC Stablecoin Payment Feature Across Major Blockchains - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVUo0RkVIenpnM1dwc25wcEFjNlp1OVJlNDk2aHJPajNUZnVlcmNvaGYzQm1vNFMzZmdpNVVzR1BpSEZCQzkybmZfS1BDdTZMXzYtclZCckIyUTJXcTBnVnoxamt3eHc4RDBiX2EwZmJLZUlzZTQ1SlY2SnRWd1BKdF9hSTl6UDV3ZmxOQUY2SXF0QVdTcUU5b1NVNDlHbjFjbDN2QzhIYnV5RW1yU1E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T12:20:41+00:00",
+      "snippet": "Cash App Launches USDC Stablecoin Payment Feature Across Major Blockchains Intellectia AI",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 36.92
+    },
+    {
+      "title": "$3.4 Million Crypto Scam Started with a \"Wrong Number\" Text: How the Scheme Worked",
+      "url": "https://www.reddit.com/r/CryptoCourtLaw/comments/1tqhyo9/34_million_crypto_scam_started_with_a_wrong/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T22:00:08+00:00",
+      "snippet": "The pig-butchering forfeiture case out of Massachusetts is worth understanding if you've been through this. In March 2026, federal prosecutors filed a civil forfeiture action targeting $3.44 million in Tether (USDT) allegedly stolen from four investors across three states. The entry point, as alleged, was a \"wrong number\" text, engineered to feel accidental, designed to disarm. If you already know how the playbook works, you know what came next: weeks of relationship-building, an \"exclusive\" Et...",
+      "author": "/u/Crypto_Court",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 36.87
+    },
+    {
+      "title": "UK targets A7A5 stablecoin, Huobi/HTX for Russian sanctions evasion - CoinGeek",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQno0Qmg1NmFIUlJURVN6VHZ3eGUydUN2Y0Z2S1oxQndPQlpHQ3F3SlRVczRFOWxneWRmT0ZSOUFCb0UwbHZyODJrd0VZS0doSmlFeHBVcVl4R1NfTDZSRW4tcXRHYm10U1NrZzRzOWlDVlBheDgzNzlvU2Z0ZEFQeUo1WUduUERrOG1iWFRvSU1IZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T11:03:23+00:00",
+      "snippet": "UK targets A7A5 stablecoin, Huobi/HTX for Russian sanctions evasion CoinGeek",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 36.74
+    },
+    {
+      "title": "Why can a small European country become a testing ground for Tether's sovereign stablecoin? - PANews",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12RTY1alVwVzc1bWpqWXdEc2dPNnRFZkd2ZmVtZkY1YlhPWlJmVDdBMWdBQ0FYdUV6NmVqUGhuX2kyN0labGFSeGNlSjZ6b2o2c1dLSjBraE9EZnNqUkx4elRZNHcyOWJ5NWJqSDZtTk16R3cwY19vSE5NT3FtVE0?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T14:46:00+00:00",
+      "snippet": "Why can a small European country become a testing ground for Tether's sovereign stablecoin? PANews",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 36.56
+    },
+    {
+      "title": "Bitcoin Returns to Risk-Off Mode as USDT Dominance Rebounds - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ha3J6d1NNazVST3g0bzlBYVdZR3c1WXRicWl4ZXBwRjVfb3BJOHp0VGp5WVpYSmlnZ3FlWlpaYjdzT2FjSTlmVnNvNlRENGhPRi15NA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-29T02:41:24+00:00",
+      "snippet": "Bitcoin Returns to Risk-Off Mode as USDT Dominance Rebounds bloomingbit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 36.51
+    },
+    {
+      "title": "🌍 What Argentina Teaches Us About Stablecoin Product-Market Fit",
+      "url": "https://www.reddit.com/r/kava_platform/comments/1tq9rf4/what_argentina_teaches_us_about_stablecoin/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T17:09:56+00:00",
+      "snippet": "Argentina ranks first globally for everyday stablecoin use. Stablecoins account for 61.8% of all crypto transaction volume in the country. Argentine users transferred $91.1 billion in crypto between July 2023 and June 2024, making it the largest market in Latin America. The reason is straightforward: with inflation above 30% and capital controls limiting access to dollars, USDT and USDC aren't a trade. They're how people pay rent, buy groceries, and receive payroll. The pattern repeats globally...",
+      "author": "/u/cameron_kavalabs",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 36.45
+    },
+    {
+      "title": "Tether’s USAT supply grows 540% month-over-month, latest attestation shows - The Block",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEM5WWdvZ01hd2VEc3pTbWhFUmRicFVUUDd1d0VlazVnTk1RRm1Za1VuTnRrZTd5QVF3QksybDVpUTd2T19PaHk1WjZtR0pvZ2puX0RqcGhVMmJHU21pc1hScVRIbXFNMXFzaFYxQTQ2MktoY244QWZ5WkFtd3dHTW4yb3dIR2x3dFhFd2F2b3NZeTVWbmhuVW4xak9TcExTMGZMVXI2cm9BSVU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T17:38:59+00:00",
+      "snippet": "Tether’s USAT supply grows 540% month-over-month, latest attestation shows The Block",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 35.86
+    },
+    {
+      "title": "Tether invests in LemFi to boost USDT remittances across Africa and Asia, speeding cross-border payments. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYldYel9ZSElBc3ZSMEFrZjd2eFhYMUVjeFBZNGoxb3hJa2E0VURZUFZHSzhHRkhZcnVUb0VkalBETDd3TmFTN1Y3ZEZoMjRrc3BYbEVxSWJIdlh1MnRiYVBXUnBwcHZpd3FKMFd0bzRuYjdod0g1Y0c2ZVVQSXB0SVVfdkJYUms3bEJQYVNSSjd3dWFlQXFpVkpqWU9hZDZuVENF?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T12:24:55+00:00",
+      "snippet": "Tether invests in LemFi to boost USDT remittances across Africa and Asia, speeding cross-border payments. Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 35.09
+    },
+    {
+      "title": "Crypto Long & Short: Asia’s regulated crypto future",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/05/27/crypto-long-and-short-asia-s-regulated-crypto-future",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-05-28T15:00:00+00:00",
+      "snippet": "Asia's adoption of crypto and stablecoins is driving regulated growth in payments and remittances. Learn how Singapore, Hong Kong, India, and Korea are leading the way.",
+      "author": "Hassan Ahmed",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 34.92
+    },
+    {
+      "title": "Top Incentivized (Merkl) Stablecoin-Only Yields (2026-05-28)",
+      "url": "https://www.reddit.com/r/defi/comments/1tqb7gv/top_incentivized_merkl_stablecoinonly_yields/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T17:59:57+00:00",
+      "snippet": "Here are the top 5 incentivized Mekl opportunities to earn stablecoin-only yield on stablecoin-only liquidity: 20.59% - USDm, 0GUSDC.e Provide liquidity to Mento GBPm-USDm, Mento, Monad 20.10% - USDm, Provide liquidity to Mento EURm-USDm, Mento, Monad 18.80% - MUSD, Provide liquidity to UniswapV4 USDC-MUSD, Uniswap, Mezo 15.00% - USDp, Stake into the Curve USDpfrxUSD gauge, Curve, HyperEVM 13.03% - Provide liquidity to Satsuma ctUSD-GUSD, Satsuma, Citrea *Note: Only includes stablecoin campaign...",
+      "author": "/u/stablefyi",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 34.87
+    },
+    {
+      "title": "Coinbase Introduces Instant Stablecoin USDC Borrowing Against Bitcoin and Crypto Holdings - Crowdfund Insider",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUUF5ZGprMEc3bWlDRUdvUkkxbTJaaHRnMGFvamtTMTJNVnhhRGRfM2tiV0g2MDJmc2tWTFV0aWFWNUVpSXJEVTNPaG5WamNIMGI2ZlJWUXdvT1ExODlIYi1MeTBma05xdkVMck4zYXh3SGlKaUNqQkhGalp0aVY2eUZ2RkN2dDlwSWVpbll6WmROdmRzbnhxVXVrR1Z4Zmgtbnc4NGhLZ3d2S0paOXV4YWxMUVNYSVQ0cTFVenJSN2daZUptd1lzeWhGRms3Q2tqblZVYw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T11:15:26+00:00",
+      "snippet": "Coinbase Introduces Instant Stablecoin USDC Borrowing Against Bitcoin and Crypto Holdings Crowdfund Insider",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.37
+    },
+    {
+      "title": "Ripple Demands 0% Haircut on Stablecoins in SEC Rules - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CbXdHQlFoTmZoM1psU2VWXzJDeFBQMW92SnFmUDBnd3NaUW9kbjh1VnduazhGcWFrbnZqYUR4cTcta3JPcjJIZFRHV1h3VFRSMUNHemln?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T14:51:56+00:00",
+      "snippet": "Ripple Demands 0% Haircut on Stablecoins in SEC Rules Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 34.12
+    },
+    {
+      "title": "USDT trading volume rises as stablecoin activity surges amid crypto market volatility - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbXZmSmpxM3FoNWFzVG1IX3VTUFBVNmUwR1FUR2JfWFc4TzFER3FRUFRKOG5kOEc5Q0J5Z3QzOFcxcHBrQUhlOFlNSFdHc09ObUNlQmNxMXBUTms2bVB5c3YzVDhJQnQwOUQ3MnktM2RMb0tOMGhIWF9wT1h3VlFYRVVGR2N1eXlWT3Z5QU11Q29fd3FIV0J0aHNFb3NFb3RJRWlNd05R?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T10:46:54+00:00",
+      "snippet": "USDT trading volume rises as stablecoin activity surges amid crypto market volatility Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.07
+    },
+    {
+      "title": "Robinhood Crypto Transfer",
+      "url": "https://www.reddit.com/r/algorand/comments/1tqkzlc/robinhood_crypto_transfer/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-29T00:02:59+00:00",
+      "snippet": "Robinhood has enabled transfers for Algorand to your wallet. Im thinking this maybe one of the best ways to transfer from wallet to sale and convert to fiat unless you have coinbase one since robinhood has a 1% conversion fee when selling. Now when buying Algorand I think it’s still cheaper to buy USDC from coinbase at no fee and then transfer to wallet and swapping. Since Pera swaps are now at 1% plus conversion fee in wallet it will actually be more expensive then buying on robinhood and tran...",
+      "author": "/u/Foreign_Brilliant403",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 33.89
+    },
+    {
+      "title": "Nium and Circle partner to enable USDC stablecoin cross-border payments to 190+ countries. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSDF2cVZGdmtiUWdLemhiNHREbGVobVBrYnVwczVZbzhzNFJBMEhNOTBBUHktQUxNNkpwQXotdVpxdEZZUTlrWGRiUXZGdXpobGZyakUyQ1lYRDB1b0FFS1ZmYWw1MnJsNWpDNTF5N1RUY1RFQ1FJQ3U0eW9NbjBFd00teVh2cXBhMW55Wk1XNXlGMENPWG52NnZ3LWMtM3ZTb1Nfaw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T21:29:57+00:00",
+      "snippet": "Nium and Circle partner to enable USDC stablecoin cross-border payments to 190+ countries. Pluang",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 33.27
+    },
+    {
+      "title": "Tether’s Dual-Token Strategy: Is USAT Compliance Just Smoke and Mirrors—While USDT’s Permanent Noncompliance Is the Real Truth? - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OeWxFSEtTV2ZRNlBlaFkwdjBpR01XMUdSMHRmcmRqMDNmcndrRFJ5Z1VsZzJ3QTh6aS1HQjF5Vi0xT0RmZUZQRzJxSTVzTk9ROE56T1NLWVhLdw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T09:25:09+00:00",
+      "snippet": "Tether’s Dual-Token Strategy: Is USAT Compliance Just Smoke and Mirrors—While USDT’s Permanent Noncompliance Is the Real Truth? 深潮TechFlow",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 33.22
+    },
+    {
+      "title": "Orbital selects Banking Circle to expand stablecoin and multi-currency payment capabilities - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWW1PWDFhTnhJaVBBRVhPcTRJZXlFQjJoNVZmMTlDa0tzLWM2dHdwMmFvQnMyVGJLbHA3emJYUWx5bEMzaGl5NFlaWTdLNWs0ZVFRN2J5ZGhTbTdjVGk5cEFrYlg3aGNYVUNacnNwT2ZIQ0xZcnduYUZ5eGZHMEZ4YW5NUjNyYjRiUE01SVAxdjVDbmlnMVJMVUl6Wkx3RUI3dUhtdDZZaU9rNzdrb3dJb216T0lHLTVIQnBfOGRHdWRwMDA3WGx2N0Vta3M1MzVaSWpfUHh3YmRyLXI1OWxPRQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T09:23:00+00:00",
+      "snippet": "Orbital selects Banking Circle to expand stablecoin and multi-currency payment capabilities PR Newswire",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 33.2
+    },
+    {
+      "title": "Nium and Circle Partner to Bridge Stablecoin Settlement with Global Payouts - LeapRate",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbWJQMlkwTW5iWUxyS2NSMUIzQjVOS0dlMksxNVUwRE9vbnVMaFV5MW80N1pVWDhjWHV1cmxLRC1wcGY2bVBMVXpMQjVxbzkxN2J5eF9pYXZVMWRJNlhTOFpXc213VnVSMVJiYkcyR0ZRZDgzZzh6MWsxbF85UlNYaXlCenlvRkluQVlKc1hJTkpRSUZTODZSVVlKLXptX29TLXlzdGpYSy1qYlJfc3dOSUJLWEVuNHRubmdIbW9XMF9xeVZ5eWxN?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T08:47:16+00:00",
+      "snippet": "Nium and Circle Partner to Bridge Stablecoin Settlement with Global Payouts LeapRate",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 32.83
+    },
+    {
+      "title": "Government of Georgia selects Tether to launch national stablecoin - FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQazVlN2FQUWR3TXFjUE56N3d1a094T1pKNFktQjRKQ1AtWWJ2SWZET0pGSFRLT2NEVHQxTUZzWjFuRi0tT2p1Sl9HUnVEZFNFbDNINERJeWVncXNPX1dVLVlaRmhfMzZWWllZN0d2Y1VTR00ySkRnbUg2OWhvcGN2NVVLMndheEQtbWthbWpSbi1jSzJtVnI3NENKcXRtcGEzS2JRM0NlZ0phZVVOWXhtZG1PbmVIdmd1anlTVThkbmhTYW9lM0R5V0VwamdkaUFmYy16VENJbjVNcFVN?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T05:00:28+00:00",
+      "snippet": "Government of Georgia selects Tether to launch national stablecoin FinTech Futures",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 32.34
+    },
+    {
+      "title": "Cash App USDC stablecoin transfers expand on Solana, Ethereum - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiSmx6QUZiTFMwS2RGOVZSd29vWkZ3dnF4Sm5odU01YTdmX0MyQjduV2REYUd1VDRUVVNibGxIWnB0cGpzbnF1N2JiN3lDYVJoeDZIZnkteGczMUZ6ZVpzeGRqZThtZnVmWEZVZ29MMk5SUmhoQTZOXy0xNnhnUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T07:34:53+00:00",
+      "snippet": "Cash App USDC stablecoin transfers expand on Solana, Ethereum The Cryptonomist",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 32.07
+    },
+    {
+      "title": "Sun Yuchen discusses Web3 value circulation and stablecoin growth with Hurun. - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjd0RVlYdGtsY1FCTUUyUjZKRks2dVNiUGhtN0h6TFVoMVp2RDA1bmJwRmF3VDNRVXBxUi01WE5CV0ROU09wMl9FOGdSQVVoWlp4eS01cVZ2R09hcUNlNmZEcFY1Q3dEWVhValg0RTJZOEFxQkxBWVBISExLLU5hQjNkdjJnRzQyMGlPRkhPem9acnVRanFoYkx3d0FjWS1qbExoNjNrWUtad3JqcTgw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T14:27:03+00:00",
+      "snippet": "Sun Yuchen discusses Web3 value circulation and stablecoin growth with Hurun. KuCoin",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 30.74
+    },
+    {
+      "title": "Trump reaffirms no easing of sanctions on Iran, no fund releases",
+      "url": "https://www.reddit.com/r/RWATimes/comments/1tpu8qs/trump_reaffirms_no_easing_of_sanctions_on_iran_no/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T05:30:08+00:00",
+      "snippet": "![]( https://static.cryptobriefing.com/wp-content/uploads/2026/05/27203019/details-emerge-of-a-potential-iran-deal-as-trump-says-not-to-3-1-800x420.jpeg ) Trump reaffirms no Iran sanctions relief as US seizes $500M in crypto assets. Treasury freezes $344M USDT in latest crackdown on Iranian digital wallets. Details: - Published: 28/05/2026 00:30 (UTC) - 📊 Characteristics Score: Asset Type: stable_coin Sentiment: -0.6 Entropy: 0.75 Relevance: 0.8 Staleness: 0.3 Uncertainty: 0.7 Level-1 Focus: ju...",
+      "author": "/u/rwatimes",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 30.62
+    },
+    {
+      "title": "SoFi Launches SoFiUSD Stablecoin on Ethereum and Solana - Coinfomania",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1naEtxY05HZUFkMG5xOUttY2RDTG5URHl4X2FmS0FiNjF2cDhqMXFkNFZYcGpfLTVCTXhVb2VhR0N6dVFBOGNXQnZHNEVSNm1US1VSMmlLVzFQcV9QYUpVU0p2SlJ6ZkhnLXFXZlRnc1diU3V5?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T14:03:12+00:00",
+      "snippet": "SoFi Launches SoFiUSD Stablecoin on Ethereum and Solana Coinfomania",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 30.49
+    },
+    {
+      "title": "Cash App Rolls Out Stablecoin Payments - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDdzN1RlUzFORERCbkVJS2RuMVBuSmFBT0hfOGhpdGpOM0NaRHkyNVVxdUpCZ0JNWE1xLWItdjRQTlhGNEFvcHJKS3hIcWFiSF9oNngxcWh1N3FGeGZscTl1RUdyT1ZmZFFCVkI3UHFYWno2YkdNUHdOaG8xSDFoY2JwejFoUFBIclE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T16:44:14+00:00",
+      "snippet": "Cash App Rolls Out Stablecoin Payments PYMNTS.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.29
+    },
+    {
+      "title": "[H] 95% Cash by mail, crypto [W] Cash by mail, crypto",
+      "url": "https://www.reddit.com/r/Cash4Cash/comments/1tq7nhi/h_95_cash_by_mail_crypto_w_cash_by_mail_crypto/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T15:54:30+00:00",
+      "snippet": "Buy and sell crypto anonymously with cash in the mail. I can do any major cryptocurrency, including BTC, BCH, LTC, ETH, USDT, USDC, and more. Anonymous option: You can provide \"General Delivery\" as your street address. It will be held at your local post office. Then, you can go and pick it up. US$50 minimum. US$5,000 maximum per day. I charge 5% on all transactions plus postage. Postage costs are: $1 for a plain white envelope with no tracking (arrives in ~5 working days) $6 for a padded envelo...",
+      "author": "/u/NateNate60",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 29.82
+    },
+    {
+      "title": "Should I replace AMEX Gold with Robinhood GC as someone with minimal monthly spend?",
+      "url": "https://www.reddit.com/r/RobinhoodGC/comments/1tqpufm/should_i_replace_amex_gold_with_robinhood_gc_as/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-29T03:38:54+00:00",
+      "snippet": "I received an email that I was pre approved for the Robinhood GC, but I need to decide by Monday whether or not to open an account. I never signed up for the waitlist so I almost feel obligated to accept, and I’ve been considering dropping the AMEX Gold for the GC but I’m not sure if it would be beneficial for me personally… I’ve had Amex gold for coming up on 3 years next month; I don’t have a ton of time to travel and really only earn points through dining, groceries, Rakuten referrals, and s...",
+      "author": "/u/survivorgxvin",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 29.69
+    },
+    {
+      "title": "Mastercard Secures New York BitLicense in Stablecoin Infrastructure Push - blockhead.co",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlJhTjJ1MVJqRWVMSDVnRU5xU0FMQkx4WFV5TmpmckdnTjhpVzlmVDJTaFBjeDdwZnoySDNqV2ttOFduakNRaXo5TGdva2g5Sk5lYXFfWndOLUVlaHE0bzVteUdIM0ZtQTBjdXZ1WWx1ZkhOVm1TTGloZkNqZnlIYmota3IyaVJSMkNHMklEUXRhV3ZVQTBoWVljYVYzOUFmdllYV3hqLUJLY0VjSkE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T07:36:33+00:00",
+      "snippet": "Mastercard Secures New York BitLicense in Stablecoin Infrastructure Push blockhead.co",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 29.59
+    },
+    {
+      "title": "Stablecoins Holding Well During The Market Dip! | A Look at the Top Stablecoins | May 2026",
+      "url": "https://www.reddit.com/r/wikifolio/comments/1tqpdz4/stablecoins_holding_well_during_the_market_dip_a/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-29T03:17:23+00:00",
+      "snippet": "Stablecoins are now well established in the crypto markets and have become an integral and essential part of it. What’s even more interesting is that with the new US administration, the first legislative from the crypto industry was the act on stablecoins. The path is now clear for creating legal and compliant stablecoins. The act was put in place in 2025. Let’s check how the stablecoins are doing with this new regulatory clarity but also having in mind the crypto downtrend these days. https://...",
+      "author": "/u/blkchnDE",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.51
+    },
+    {
+      "title": "Aave Labs’ Push gains UK FCA crypto registration",
+      "url": "https://cointelegraph.com/news/aave-labs-push-gains-uk-fca-crypto-registration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-05-28T13:28:01+00:00",
+      "snippet": "Aave Labs’ Push received FCA approval for “certain cryptoasset activities” in the UK, supporting its plans for regulated stablecoin on- and off-ramping.",
+      "author": "Cointelegraph by Zoltan Vardai",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 29.51
+    },
+    {
+      "title": "Block’s Cash App is rolling out USDC stablecoin payment functionality in phases, supporting four blockchains: Solana, Ethereum, Polygon, and Arbitrum. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3V3cmxGeFZpYVJ6elAxNkZwSFFGN3Fmbi1VUEtFM0F6ZTZyWWJSN2ViNzhPVkFESTQwQmhkSjRQblNRWmNYMTZDdzFiUXlxNTQ4QkNySjNDRWdweUllLU4xRzBzUUhBREtyRF9yZEdibFdMM3FRM0pfRlVoVGpseXpBRlZ4TFZVSkRPSnZQZUROQVE1ZXpKM09VNDY?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T02:55:41+00:00",
+      "snippet": "Block’s Cash App is rolling out USDC stablecoin payment functionality in phases, supporting four blockchains: Solana, Ethereum, Polygon, and Arbitrum. 富途牛牛",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.16
+    },
+    {
+      "title": "Tether’s USAT Exists So USDT Never Has To Comply - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTjJMazhib2k4TVFZeHFTLTl1aGlsQkRfeWN4cHh5OWF4ZEJUdVBFUnlxdmtDTGRiWEZvN2VwVTVhZW01ZU5XNDN1Tlg0WTc3NG5rTWNqQmdVS1FxZHJvNEJtX0FtUkVGMy1vRDlLZ00wM1F3N0V2M2dNVFp3LVB2Zjg1NjQyZDlaNUVVTS1JY19uRkEyXzZBbmVZU3BLd3FVaFVyM0hn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T02:41:00+00:00",
+      "snippet": "Tether’s USAT Exists So USDT Never Has To Comply Forbes",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 29.01
+    },
+    {
+      "title": "OwlPay Agent Wallet: What AI Agent Payments Could Look Like in Everyday Life",
+      "url": "https://www.reddit.com/r/AllThingsCrypto/comments/1tqnjtc/owlpay_agent_wallet_what_ai_agent_payments_could/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-29T01:55:33+00:00",
+      "snippet": "Stuck in meetings with no time to order lunch? Your AI assistant can help search for lunch options, find a suitable payment method, and move the payment forward with just a few short messages. This is how agentic payment is starting to change everyday life. AI agents can already help users search, compare, and make decisions. But payments are still where things get more complicated. With OwlPay Agent Wallet, we’re exploring how AI agents can support USDC payment flows under user authorization....",
+      "author": "/u/OwlPay",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 28.83
+    },
+    {
+      "title": "Analysis of Tron's Dominance in Stablecoin Network - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm4zOHZydzBCTklQU1R0R1F4OFdoV1JUaFBRbXYwRVVpd05hbE5ZdXhsSDR1M1lMYlR2djA5OGlrS3ozek9ZeF8wdHkyZVRhcUIyeWtld2ZtRHNEaUhCSVE1X3VQT1lxMUlUcWlOcWRsTFdDdFFZbFBlWFB0UWtrNjJUUk1PQzBGZkhINQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T14:16:11+00:00",
+      "snippet": "Analysis of Tron's Dominance in Stablecoin Network Intellectia AI",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.75
+    },
+    {
+      "title": "DOGE/USDT Update — Bouncing at 4H OB But 1D Downtrend Intact.",
+      "url": "https://www.reddit.com/r/altcoin/comments/1tqn44z/dogeusdt_update_bouncing_at_4h_ob_but_1d/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-29T01:36:09+00:00",
+      "snippet": "Quick DOGE update from yesterday's analysis. What happened: Price reached the 4H Order Block and showing early upward reaction as expected. But here's the conflict: 1D timeframe structure remains bearish — lower lows still intact. This bounce could just be a short term relief move, not a reversal. Key zones right now: IFVG sitting directly above current price — could act as resistance 4H OB: $0.0960—$0.0980 — now acting as support 1D OB below: $0.0927—$0.0945 — still the major level What I'm wa...",
+      "author": "/u/chart_walker",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.67
+    },
+    {
+      "title": "Tron trades at $0.37 despite $84B USDT volume; price hinges on regulatory clarity and founder actions. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRkYtbWREUF9KVWdqRzJ5WWpnZDZZQ3ZVelRPMUJVc3hNSWhrSkJQTEJWR0ZMdEM5LUpzX0tWMEpkcHY5ZWw3ZTV4ZmV6d2JKWXVHd3lLR19OYmk2MWFVZERjbFJBYTFoblFjMV9WU1J4clJ1MnNjRGYtYUdPN3dVcWM3RC00ZFRPNXYwREZWdE9iZXVydmc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T14:03:56+00:00",
+      "snippet": "Tron trades at $0.37 despite $84B USDT volume; price hinges on regulatory clarity and founder actions. Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.62
+    },
+    {
+      "title": "Tron TRX price analysis: stablecoin dominance but token discount - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGpDRm15RWtLMWUxTW56ampBbHI0Z0tBblV3TUxKM0htRTlYZ3IyYmVscDA1ODdsakU4UnVGcmw2TndCT3BIMDBhT3Z0eUdOSW1DaGhnaTl5TFRfX3ZQczVWT3pOQWhDR29vcmFMZ1JSeG5pRWgydWxZdXFpTlMxMTI3N0ZsWTVvM1NZ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T13:55:39+00:00",
+      "snippet": "Tron TRX price analysis: stablecoin dominance but token discount The Cryptonomist",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.54
+    },
+    {
+      "title": "WhiteBIT, Tether & TradingView Launch up to $50K Futures Battle with 400+ Prizes - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQURheEhrMWZQYzc4aXN2Szc1YTlVLVBZWkpUSXl5VVdpTjd5RzNHM2VFeG4xOWgxampWNk93VS0tN1V5MWljQ294c0xUcXRfOXVLZm5LSDF1c3VqV1NUUU9MN1BfT3h2bDN3UFNnWXA2SFlabWdET0Jrd2NDMHl5ckotaUZUNEUyRm9lT25ULTVraDdHNjdRa0hhcU8tZXA1Tk5r?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T10:43:59+00:00",
+      "snippet": "WhiteBIT, Tether & TradingView Launch up to $50K Futures Battle with 400+ Prizes CryptoPotato",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "positive",
+      "score": 28.42
+    },
+    {
+      "title": "Tron price prediction 2026-2030: the stablecoin settlement layer bet - crypto.news",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeElhNzd3cmlGWlhTVFRuY0ZOYTFfeHpWeXRLQnhWWTlNLUlSOG5zSWZyakRUZGYzSk45ZDNWU3Z2N2tSaC1PeTI5LTQ5STQ0eE54M1dXQWh6UW1PTmNmbGRjY1JNWUV1enhacHFNUVQ3VlVnV0tET29HUWhMdjMteS1KWWFtd05HaHdUa04waGxGdw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T13:30:00+00:00",
+      "snippet": "Tron price prediction 2026-2030: the stablecoin settlement layer bet crypto.news",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.27
+    },
+    {
+      "title": "Nium and Circle to Connect USDC Settlement With Local Payouts Across 190 Countries - Fintech Singapore",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uTDBSeEN4WTAxOVE2eXRaY3hLUm5Ga0NlbWw4cThsLXZHdkNCaXVUX2tkRGZiUm1aY0phQVdoSWNrVHhjSTBlMVJaN0tjTHMzcXRxemtMOUt3WWxtZFBObHFiTGZDUFJ6TWtyM1lR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T01:11:11+00:00",
+      "snippet": "Nium and Circle to Connect USDC Settlement With Local Payouts Across 190 Countries Fintech Singapore",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 28.07
+    },
+    {
+      "title": "Circle and Nium Partner to Fuel USDC Cross-Border Crypto Payments - Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ3FiVDVvTzR5UG5vTXdBOTFSYUpmMXdibmMzUjNWS25zd0RQYlNIU3I0cktXcmRXSnkwU2FseFJlOWZOWnI5bEJ6ZTVBY0ZYZ01HaHlKZ1I0cUdsLVJNSkFGY1NMOVotWXV0SFlQUVh2NW43SmFJZnA4UWItZEx4ZVl2LUNhcUgyYTlndklFQ01zVm4xZHc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T01:06:32+00:00",
+      "snippet": "Circle and Nium Partner to Fuel USDC Cross-Border Crypto Payments Bitcoin News",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 28.03
+    },
+    {
+      "title": "Crypto Card Payment Volumes More Than Double In A Year, Growth Surges Since Stablecoin Act Passage - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcFdUMWpDT0pHRW8zblI5UEhBaElyUzhTWU96alllaG4tTzdMT0Y4anMtOWM2cDY5MDhqbHNhdXVrdnJKT240M2RIbUtYZXlNc0dxNjQ4NE5RTVhSQTlXM0lQUkpoNWU0NFhBMWJNdUFKam00dFY3cmF0TFd6ZmJPVkFRMnVpRGp5YjZsV3FzUmY0WEtXZ0ZrX2kzc3hLanRsWUxQQ0lpeWdZTVRpa0pjZFk3ZWJJRmViZzlCczBmS3FFSkwwWkVmWl8tdEh5S0hKZnhuRUtpUTJNT2tNMkNyWi1NOXBYdHRqYXFfQWc3MnM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T09:53:44+00:00",
+      "snippet": "Crypto Card Payment Volumes More Than Double In A Year, Growth Surges Since Stablecoin Act Passage Benzinga",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 27.89
+    },
+    {
+      "title": "Visa Processes 90% of Crypto-Card Transactions as Stablecoin Payments Grow - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjZtMkkyWncwVHJIdkwyWVNlZ09vdWo2dUMyYlFfdFd2YlZHZlV1SHlZSFdoRVV0clp3bFloclo3dXdySDEwdHpjdjExU2VObVFwcnBDbmtqWThMemZyMWU4RXdNUTZoWm5Iblg1emF3WUdoc1RaRmlScXBva01CTm1kMGJqd2xtR2pUT3ZZaU5SVFRLZEswcE96TDNLMDNHOVNPNFBqTDZ5bnc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T12:36:58+00:00",
+      "snippet": "Visa Processes 90% of Crypto-Card Transactions as Stablecoin Payments Grow KuCoin",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.72
+    },
+    {
+      "title": "Samsung units take $408M stake in Upbit operator Dunamu: Report",
+      "url": "https://cointelegraph.com/news/samsung-dunamu-stake-upbit-digital-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-05-28T12:50:07+00:00",
+      "snippet": "Samsung Securities, SDS and Card will buy 4% of Dunamu as Korean firms prepare for tokenized securities and stablecoin frameworks.",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 27.6
+    },
+    {
+      "title": "Which exchanges support trading crude oil and commodities with USDC?",
+      "url": "https://www.reddit.com/r/DecentralizedFinance/comments/1tq672q/which_exchanges_support_trading_crude_oil_and/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T15:01:53+00:00",
+      "snippet": "I’ve been looking for exchanges that let you trade commodities like crude oil, gold, or silver using USDC as collateral instead of fiat. So far it seems like some crypto exchanges are expanding into commodity-linked perpetuals or CFD-style products, but availability depends a lot on the platform. Has anyone here traded oil or commodity markets directly from a USDC account? Which exchanges actually support this properly, Bitget, Binance, OKX, Bybit, etc.? I’m mainly curious about liquidity, spre...",
+      "author": "/u/JnoSEPARA",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 27.38
+    },
+    {
+      "title": "Circle and Nium Launch Stablecoin Settlement Partnership - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3lqVGZsVzd2ZmZJVVcxZmRVOUwtU0FPYTFtZXFNZlJYT3JyMDNERHNfVnpBekNBUEFfdU1pYXMxLUMtWTlCRmJWRURjWGNYVzdYcERsTFRWS1h5VUd0Y3A1R1Q3UmtLX2VTdC1XMWh4bWdyNEFmdzg5Q0R3X0dpXzlUemdObWxMLU5MWHR2cTVYZWduLU95TVY1cU5fekE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T18:00:26+00:00",
+      "snippet": "Circle and Nium Launch Stablecoin Settlement Partnership PYMNTS.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 27.34
+    },
+    {
+      "title": "Cash App Opens USDC Transfers Across Solana, Ethereum, Polygon And Arbitrum - Crypto Adventure",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2hDdE1KQU10RVJRNElVRDJ1ZmFmajE4LXB4dllSVEgxTzlkQllBOTlnODJCNEx6QjZCSUxUa1NmOExVQnc2Zmt5VmNXX3NrdlkxYVBkeXZkWXBpSHFLbHVNMHc4ZW9uSFZkNDBZU05xeVRiOTR6NVIxeU12MU9CNGgtaDA0U2txMXVUNFFZX2VMLWNTV2RsTVVpNjVibGczNjBpbQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T11:47:15+00:00",
+      "snippet": "Cash App Opens USDC Transfers Across Solana, Ethereum, Polygon And Arbitrum Crypto Adventure",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 27.2
+    },
+    {
+      "title": "Circle Wants USDC to Power Global Payments—Nium Gives It Access to 190 Countries - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TT0tqRkFLSVNaRFp6TE9oV1ZMUnAzTUtEZ09FcTd4aFhZNVZhQVNsYjNCbE54a2NpRFZmeEJJTmdmUkVzTFhJZmh3Y29JUnhMdF9hM1U3Yw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T23:42:00+00:00",
+      "snippet": "Circle Wants USDC to Power Global Payments—Nium Gives It Access to 190 Countries Cryptonews.net",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 27.15
+    },
+    {
+      "title": "Block Kicks Off Cash App’s Phased Stablecoin Rollout to Its Nearly 60 Million Users - unchainedcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2xpRXZzeUNTODNVcjNfbDlTdndIclVROHZXUTFYd29CQ3hfZ21keWlyaGIzX1RHUUVrRDY5al9mVGZITE5Hd0tyem5WYzJZbGR3SmdidkY2eEk1SXFDM0RXSmVuWDdURDN0dWhGQUNVWl82eHRNZFF0UFd4TjEyUUUtLWFBdEFfXzdSRmM2T1ZpVzJuMVI5azdPV29vRGE0ZklhQ0FXdng5X2dXYVdHYw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T11:33:00+00:00",
+      "snippet": "Block Kicks Off Cash App’s Phased Stablecoin Rollout to Its Nearly 60 Million Users unchainedcrypto.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.05
+    },
+    {
+      "title": "Robinhood Crypto Expands USDC Trading To New York Users - Bitcoin World",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pTm1BUGZWdWFfSl9LZ1VtWGJqYVg4LWhYT0pwQU9vZ19ueENJdzZfdU9mUldUb0w4QWo4ejVkQlVIekx1eGRMaUlETEdYYzhYSktEX0dOZTMtblZ3cko0MmpfOWZTMk1HRGQxbk1MeDBvT2Nw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T20:05:11+00:00",
+      "snippet": "Robinhood Crypto Expands USDC Trading To New York Users Bitcoin World",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Robinhood"
+      ],
+      "sentiment": "positive",
+      "score": 26.76
+    },
+    {
+      "title": "Cash App USDC Transfers Go Multi Chain Without Wallets - Coinfomania",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEFzdE1OMFMyWUpWN2pia2R5c3NLZGhqdjQ4WW9vZXBYZEFhend6OXBaMnJHVHBGVFkzNEIxY2hHTHk5NTU5ZWNQVGhLUVk3cmVFcFRIcUtTSGF2dFR0SG9EbXhhMmhMU0ZGT2RCQ2tlbEE5eG44MUZZbjBUZ05qSlQ1anFuQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T11:01:26+00:00",
+      "snippet": "Cash App USDC Transfers Go Multi Chain Without Wallets Coinfomania",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.72
+    },
+    {
+      "title": "Mastercard gets NY BitLicense, signaling shift to direct stablecoin settlement - ledgerinsights.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ3Racng2MlpkZnQwdXd6Ylp2bEN3RnlNOXFKamxVUVdZQURaanBuMlBoQjFTcExGOWhMTDJNbmtRU29aVExjdkI5ZkJSNDV6UlA5ek5QWTI0eFVNM2ZhSFRxVlVyU0lkTkJHOVJIN2tRNzF0S2p3X1Rrc3dhN0tyMUZVWWg4X182UDNwTEY5cjlMSThPTk15WXFXcXRXZTVkX2N2ZVNnM0t3SXp1RUE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T10:53:51+00:00",
+      "snippet": "Mastercard gets NY BitLicense, signaling shift to direct stablecoin settlement ledgerinsights.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.64
+    },
+    {
+      "title": "Bithumb halts USDT withdrawals on Kaia network for maintenance, urging use of Ethereum and Tron instead. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1otdGgzZXVPdTV1ZEh6Mk1kQVVZSm9RVWtmbE1fcEplOU03bTBadURTZjJ0SGdFbEZieVdqVnhlUGdBeGJNLUlsU1RreXJzaXc4aWhjUUNOWEtTU1BVQjRtMjlwTTN1RXYyaVhTelZERTBSaTYyV2lQT3BwUks1WjNNajI0UnU4NHh2U2VUQ1ZKcDYyTXNDeGd0TGl2bDA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T10:11:38+00:00",
+      "snippet": "Bithumb halts USDT withdrawals on Kaia network for maintenance, urging use of Ethereum and Tron instead. Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.2
+    },
+    {
+      "title": "Cash App Goes Live With Fee-Free USDC Transfers, Framing Stablecoins as a Path to Bitcoin - thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSzFpT2hjUVg2TUhRVmhVNkdaSlowT0FiODB0c01MeHRwSFRrTDNUbUpFZHJHa0FjTndNUngyQnZrS2k4VGM2dkgtQ0JWNTJDSklvMkVXV0sxUXJTRmlXWUVJZTF4VUxjM1FXV21XekpOQUE4T2ZGZm1OSnhnT3ZkRUgwQWpCTlpIVXJHTEtIUXpmNV9nMmxfVG1nU3Q5RlJ5UzlmTUxvUUJGN3dkT0JMX0N5azFid3djSEFuSjhYbENyaERFaDNFQVlzV09xc1E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T22:06:59+00:00",
+      "snippet": "Cash App Goes Live With Fee-Free USDC Transfers, Framing Stablecoins as a Path to Bitcoin thedefiant.io",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.16
+    },
+    {
+      "title": "Nium & Circle link USDC to payouts in 190 countries - CFOtech Asia",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOU1NUmlzRTVmdlZPWVRYZHliXzZmT0tkUk5KMi1UU0tsNXhxOFVVNUw5aTkzY0dQSFlDVEdodHBzOG1wN2JjUTZxZ1AxS1ptZW9YLXJuMmtoR2ZRRExnUGZoN2tkR0RNQi11bFp2c0p3ZFB3NVZYbDFFa0gxczlZaW9n?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T22:05:00+00:00",
+      "snippet": "Nium & Circle link USDC to payouts in 190 countries CFOtech Asia",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.14
+    },
+    {
+      "title": "Cash App opens up for stablecoin transactions - Finextra Research",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0x0MEhleTNIWTN1YmlILV9mNkFZUWUxYUcyRS0yWjBCQ0Q1YkhUM2p3ckp6NWFsdnJLc0gtNmIxajc3WDVodUtZckh6cTNNT2U0d1BtUFBhTi1YQXRIRGVvNm5SU1oxOEZwdFY3em9WYndnQjlSYkJOcktoMHlXWUZObDRiR1I3blQtTHZnSTF6dw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T09:50:00+00:00",
+      "snippet": "Cash App opens up for stablecoin transactions Finextra Research",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.98
+    },
+    {
+      "title": "Cash App lets users send USDC stablecoins on chains like Solana and Ethereum - The Block",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVJleWxzYk5BZ0pta014ME9laVdCUlJCYXE4Yk9fcWxrNzlzSDdOT2wtaDdzOGFaU3RITmRwenY1YWE2WTgwX0xvVlFLQWhXaWFYQ1JRcW9YVGVpMlhzUHJkcjdSRzBHNTF5cG5VNURCaWc3MS1ob3pqaWRVTmRTLVE4Y0xMMzI0NktodmIzTkRENkNrd1pCZ1hOYVVQMXdod1J3d1JxVXhsXzZSLWtTMHBn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T21:07:59+00:00",
+      "snippet": "Cash App lets users send USDC stablecoins on chains like Solana and Ethereum The Block",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.54
+    },
+    {
+      "title": "[H] 80% Crypto (USDC) [W] Amazon GC",
+      "url": "https://www.reddit.com/r/giftcardexchange/comments/1tqcmsx/h_80_crypto_usdc_w_amazon_gc/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T18:50:14+00:00",
+      "snippet": "Please leave a comment here before messaging me. I won't respond to anyone who doesn't leave a message here first. Lower reps go first. If I haven't attached the CLOSED flair, I'm still buying. submitted by /u/Kung_Fucius to r/giftcardexchange [link] [comments]",
+      "author": "/u/Kung_Fucius",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 25.29
+    },
+    {
+      "title": "Cash App supports USDC stablecoin transactions on networks like Ethereum - WEEX",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUndXakNhQ3hkcjZsa3Vvei1MNmVlWEdCbE1IbVV5REF3c1FfSG1vYU4wUXM0NWR4YnZCQ3JIZnJrS2ZrZWV2X1dBNnFTZ1pINmZ2bUpVQ2JTZ205RGd6TEt5cWd0enhuMUhHdkdaRjVoVTVjdFRoQlkxV3NmZ2RJZE1PVDZhUmJKS094Wk5Jb1lFR2QwTmlMYUx1NUNweUdZNUdCQ2phMlVIaHBjaWhGNjJnVmF4QkhWUnRmWmVYaVkwM3gxLWdDYjBR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T20:15:31+00:00",
+      "snippet": "Cash App supports USDC stablecoin transactions on networks like Ethereum WEEX",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.0
+    },
+    {
+      "title": "Casinos that let you play with USDT directly without forced conversions? (aussie online pokies).",
+      "url": "https://www.reddit.com/r/JackpotStatic/comments/1tqa790/casinos_that_let_you_play_with_usdt_directly/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T17:24:42+00:00",
+      "snippet": "I am thoroughly sick of hidden transaction fees masked as \"internal processing spreads.\" A lot of platforms advertise that they accept crypto, but the moment you deposit tokenized assets, their backend automatically converts your balance into USD or EUR fiat values using a highly unfavorable internal conversion rate. Then, when you withdraw, they convert it back to crypto, hit you with another fee, and pocket the difference. Casinos that let you play with USDT directly?I am looking for a pure c...",
+      "author": "/u/sk8erGabe1",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 24.57
+    },
+    {
+      "title": "USDC on Hyperliquid is now over $2 billion. HYPE price is still just under the previous all time high in 2025 around $60.",
+      "url": "https://www.reddit.com/r/hyperliquid1/comments/1tq9lnt/usdc_on_hyperliquid_is_now_over_2_billion_hype/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T17:04:20+00:00",
+      "snippet": "submitted by /u/Acrobatic_Guidance14 to r/hyperliquid1 [link] [comments]",
+      "author": "/u/Acrobatic_Guidance14",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 24.4
+    },
+    {
+      "title": "DOGE/USDT — Structure Turned Bearish | Key Level To Watch.",
+      "url": "https://www.reddit.com/r/altcoin/comments/1tq5f8t/dogeusdt_structure_turned_bearish_key_level_to/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T14:33:42+00:00",
+      "snippet": "DOGE update following BTC's sharp drop today. Bias: Bearish — structure has shifted across all timeframes. Lower lows confirmed on 1H, 4H and 1D. What changed: Previous support levels completely swept. Price now trading at $0.09713 with no significant defense from bulls yet. Key level I'm watching: 1D Order Block sitting between $0.0945 — $0.0927. This is the most significant demand zone left on the chart right now. Two scenarios from here: Price reaches OB zone and shows reaction → possible sh...",
+      "author": "/u/chart_walker",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.15
+    },
+    {
+      "title": "Tempo L1 Hits 3.9M Transactions in Two Months",
+      "url": "https://thedefiant.io/converge/blockchains/tempo-l1-hits-3-9m-transactions-in-two-months",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-05-28T13:18:46+00:00",
+      "snippet": "The payments-focused blockchain Tempo has settled 3.9M transactions across 177K addresses since mainnet launch in March, with stablecoin supply exceeding $25M and full Dune Analytics integration live.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 22.97
+    },
+    {
+      "title": "RegFi Episode 91: Regulating Stablecoins: The OCC’s Proposed GENIUS Act Rulemaking - JD Supra",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXNzQ3Z4SjQ0OS1BM1BXNmhUdng5RWRDLWw0RVdWZW5GWUxCSXhIbFozRmFRd0VraFdCdngxSDVWa25tSkhXMWoyWWJfUVNFNUV2bUdsVk5HLVhqNk9KdjdFUGR2b1g5Rk1lbFhuNGV2WjR1ZHRVUFh3am1DbnV4TkRHZ3h2enlJR0E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T19:57:18+00:00",
+      "snippet": "RegFi Episode 91: Regulating Stablecoins: The OCC’s Proposed GENIUS Act Rulemaking JD Supra",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 22.31
+    },
+    {
+      "title": "Ripple Asks SEC for Stablecoin and Tokenization Rule Clarity - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUZKckpoZHFUWUFkX3UyU2xwZEF5S2VCc3ZOWU1RRTNneFRNclh1SW1KTnR2VDItNkZJUTljRHhObzJXRUxmWFJUS1RDS1oxU0NwZ3ZQMDZqeHB4UzhVdzA0SzJvMmxlYzZyMURFYndKOHF5TDNvWndBM19PX2t1a2d0THFHZHR1MFA0c3laT2l5OXZJdGxwT2V3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T18:50:14+00:00",
+      "snippet": "Ripple Asks SEC for Stablecoin and Tokenization Rule Clarity KuCoin",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 21.61
+    },
+    {
+      "title": "Cash App Launches Fee-Free USDC Transfer Feature - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUGJGOXVkaFJaaGlYLVNXVkxhS0NvS1BaM3pzMHRiQ2p6RmJ1bEJFd0I1TUFSMDFxR24xR200UmVmWTRmQkZOd0x6UFV1NGE0TTBTc3JtNmNKZVNHVHBNWVpUM2M2ZFpnZXFHSjRaYlZQQkMtTU1uZnNBcEV6RXFFTGZEVFgteXFYWWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T23:18:29+00:00",
+      "snippet": "Cash App Launches Fee-Free USDC Transfer Feature Intellectia AI",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 21.28
+    },
+    {
+      "title": "Exclusive: South Korean Police Target Tether-Based Money Laundering With Dedicated Task Force - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPb1F6SGRyZkpLck4xNmFZd2dfWnJVZzM2NVVEenZNRFphUFN2eDByTE1sZE0tNkxKMlp1NnBPTlEyNG9uNmlkS1JZZEFIZjFKbUFndA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-28T01:27:19+00:00",
+      "snippet": "Exclusive: South Korean Police Target Tether-Based Money Laundering With Dedicated Task Force bloomingbit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 20.74
+    },
+    {
+      "title": "[OFFER] Kast - Up to $415 Total - Up to $250 from them and up to $165 from me (Worldwide)",
+      "url": "https://www.reddit.com/r/signupsforpay/comments/1tpyipj/offer_kast_up_to_415_total_up_to_250_from_them/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T09:30:24+00:00",
+      "snippet": "TL;DR Crypto cashback card/app with very high welcome rewards. KAST is a financial platform leveraging the power of stablecoins (\"crypto\") to give users access to their money - you hold, send, and spend instantly, anywhere. They basically aim to have a bank type app that is accessible by anyone in the world without the barriers of traditional banks. When you join, you have an instant virtual card for free that you can use right away or add to payment wallets. Virtual USD bank details, and earn...",
+      "author": "/u/dirkisgod",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 20.62
+    },
+    {
+      "title": "Eine US-Bank gibt ihren eigenen Stablecoin aus. Und 15 Millionen Kunden können ihn sofort nutzen.",
+      "url": "https://www.reddit.com/r/NovaCityCrypto/comments/1tptear/eine_usbank_gibt_ihren_eigenen_stablecoin_aus_und/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-05-28T04:47:35+00:00",
+      "snippet": "Wer sich fragt, wann Stablecoins den Sprung aus der Krypto-Nische in den Alltag schaffen, hat seit gestern eine ziemlich konkrete Antwort. SoFi Technologies, eine der größten digitalen Banken der USA mit OCC-Lizenz und FDIC-Einlagensicherung, hat ihren eigenen Stablecoin SoFiUSD direkt in die Banking-App integriert. Nicht für institutionelle Kunden, nicht hinter einer Warteliste, sondern für alle 14,7 Millionen Mitglieder. Kaufen, halten, verkaufen, konvertieren, alles in derselben App, in der...",
+      "author": "/u/Guardian2179",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 18.26
+    },
+    {
+      "title": "SoFi Launches SoFiUSD Stablecoin Across Ethereum and Solana",
+      "url": "https://decrypt.co/369187/sofi-launches-sofiusd-stablecoin-ethereum-solana",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-05-27T17:08:09+00:00",
+      "snippet": "SoFi is making its SoFiUSD token available to members, marking a milestone in the convergence of regulated banking and blockchain.",
+      "author": "Decrypt Agent",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 17.93
+    },
+    {
+      "title": "The $4 Trillion Stablecoin Play You Haven’t Heard Of - Weiss Ratings",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjJhNzh1Ymp4U0hsNVdUZm1NR05ES2JCNlIwaGhVZUV2THpqT011VFdQdUx1dklFWERXRXBxYnVJd3ZoZmhNUmR3bnhFaUl4Wl9COUJiRzFpV0tJQXNmVEJkeFRBOXM0aC1MNURoZTJ0QV9RVWhuRmFpbjVhalVpNDVqN0lyeGc2elVzS3JtVzZveEZkaU1ZRXZCeVlMemM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T20:09:18+00:00",
+      "snippet": "The $4 Trillion Stablecoin Play You Haven’t Heard Of Weiss Ratings",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 17.43
+    },
+    {
+      "title": "Stablecoins just hit a record $322 billion – and the bank-run warnings are getting louder - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QSjYxUWpGMzVUWHYxbnZ6ZnFsaGk5cnVndXNRbTRzb2RsUThqSEpxQ29RYV9DdkMxc0pfVzRpS1BTUkFLa1o3WjlUdl91ZTduaE5UMkFqbFc4SFE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T19:53:37+00:00",
+      "snippet": "Stablecoins just hit a record $322 billion – and the bank-run warnings are getting louder Cryptonews.net",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 17.27
+    },
+    {
+      "title": "Cash App Starts USDC Transfers on Ethereum, Solana, Polygon and Arbitrum - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJbTRZYUtackNyOFFfSm91VUpoRk9hblU3Mkl5a2ItRmQ3ekhmUTFhSWdCUFYtYUdzRnhtaVJ6YmVzWXBvUkpzb0tnWnVQWnY3R0xYMQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T19:24:11+00:00",
+      "snippet": "Cash App Starts USDC Transfers on Ethereum, Solana, Polygon and Arbitrum bloomingbit",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 16.96
+    },
+    {
+      "title": "Cash App Brings USDC Payments to 25% of Its 60M Users - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qQnZRbUlVX2NodHFFT2tuRlhNNTZ3QkpjaW4wdjg5NTFNcDg0cnAweG54Y2ZFclBxV0RjNEpFUnZhS2hyMWoycGxUdHdLcW43VE9JeWhRem56VS1SZ09JdElVeTBhYUVfNXQzUXZnbVE5RjIzWjRrSVh0WGw3UQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T19:17:42+00:00",
+      "snippet": "Cash App Brings USDC Payments to 25% of Its 60M Users CoinMarketCap",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 16.89
+    },
+    {
+      "title": "Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjBfb2Q3TzY0eUIxYjExX09yT3ZjUHhtM2JwTkJ2U0h5bWRVbTdRVzBHaGlLVGJGVXo3Tl8za3BZM09ySTlqeF9WNDlMeTRXRUpyci13R1JUdW9hcVhrSHk5VTBVdEZhVmdEaFMyamdkaXRHVG4ycTJMbXUyRmFOLTZqRzJSdjZpeFZsalYwdGsweWk1TWo5cHMyUUw3dTDSAacBQVVfeXFMTi11Z2F1bXNEdDA5TlNxdlBIWXh3by1wbmFkelVzb3VzbmlqVHk4U0JjMmVKR1dzMWxZVlRLWEVLMllpS3RNZjU4aG1yMTZBN1QtRFpVdUJBbS1McTcwaEN3RTg5eEtRZTBUSjRySmVLNHpzdUtnTnA0Qk1hRUxTWFdTTGxSLTJKeE9GaHdfdXVudVh3VkVJSy1HelZoUGc1WlBLczJGcnM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T18:49:02+00:00",
+      "snippet": "Cash App Now Supports Stablecoins, Despite Bitcoin Maxi Jack Dorsey's 'Gatekeeper' Gripes Decrypt",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 16.59
+    },
+    {
+      "title": "SoFi Brings Its Bank-Issued Stablecoin to 14.7 Million Members",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-brings-its-bank-issued-stablecoin-to-14-7-million-members",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-05-27T16:48:47+00:00",
+      "snippet": "SoFiUSD, first launched in December for enterprise clients, is now live inside the SoFi app — making it the first stablecoin issued by a US national bank available directly on a consumer banking platform.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 16.0
+    },
+    {
+      "title": "Block’s Cash App rolls out USDC payments to 15 million users this week - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXTFdLcWJyR29vQ1VsOXYzVUNRUlRFNk1neHk3V0ZmTU9nN2RMWGhWQXVieU9mNDliSHM0YW1SempqZ3dsaU5VcWc0dGNYcGFPeFpVSUVBZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-05-27T17:19:09+00:00",
+      "snippet": "Block’s Cash App rolls out USDC payments to 15 million users this week Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 15.66
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 11,
+      "USDC": 40,
+      "Tether": 13,
+      "USDT": 24,
+      "Stablecoin": 60,
+      "Robinhood": 3
+    },
+    "platform_counts": {
+      "News RSS": 62,
+      "Reddit": 24,
+      "RSS Feed": 9
+    },
+    "risk_count": 24,
+    "top_risks": [
+      {
+        "title": "Elizabeth Warren called the GENIUS Act a gift to money launderers and terrorists. She's been wrong about crypto before but is she wrong about this specific bill?",
+        "url": "https://www.reddit.com/r/CryptoBrief/comments/1tqff5n/elizabeth_warren_called_the_genius_act_a_gift_to/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-05-28T20:27:57+00:00",
+        "snippet": "The GENIUS Act is the first federal framework for payment stablecoins , cleared the Senate 66-32. It's a massive moment for crypto regulation. But buried in the coverage is a detail worth actually examining warren and committee democrats issued a national security advisory criticizing the bill for failing to address illicit finance vulnerabilities, arguing the legislation would make the problem wors by exempting DeFi businesses from anti money laundering requirements and failing to close the to...",
+        "author": "/u/kungfuhabibi",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 46.1
+      },
+      {
+        "title": "STABLECOINS | USDC Stablecoin Issuer, Circle, Targets Africa’s Stablecoin Push With New Senior Growth Role - BitKE",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55N0JjaE9ULWhyUC1TdWYzNlo0RkdXbG0zQjRqb1dJcVdicnlCNF83X3dwenNqVjNOQVNxYXRkR3FMSzFIT1Vwc2lxeTBZXzROdVlVUmNSSjdWbWM5dTlybQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-28T06:00:47+00:00",
+        "snippet": "STABLECOINS | USDC Stablecoin Issuer, Circle, Targets Africa’s Stablecoin Push With New Senior Growth Role BitKE",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 45.47
+      },
+      {
+        "title": "Introducing PUSD",
+        "url": "https://www.reddit.com/r/pushprotocol/comments/1tq5fpo/introducing_pusd/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-05-28T14:34:10+00:00",
+        "snippet": "A universal stablecoin that unifies fragmented USDC, USDT liquidity from any chain to enable bridgeless cross-chain payments. • Pegged 1:1 with all USDT, USDC • Use it to pay, trade, and earn safest yield with PUSD+ Mint here: pusd.push.org Detailed info about use cases, deposits, redemption, and yield explained here: https://push.org/blog/introducing-pusd/ submitted by /u/VirenPanchal to r/pushprotocol [link] [comments]",
+        "author": "/u/VirenPanchal",
+        "query": "USDC stablecoin",
+        "engagement": 0,
+        "entities": [
+          "USDC",
+          "USDT",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 43.15
+      },
+      {
+        "title": "Tether's USAT stablecoin shields USDT from US regulation, keeping $183B offshore coin outside compliance. - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHJxT3ZPQmQ3dm1zdS1RR2dfdnROMy1KcDhLdXd5aDBaWVpIU3J3bTgyakZBNVV2QVdZTmRtNTktMkFuSHpGekVzbThBcEhKTGR1YnZzb2lNXzBQc0djLXRxRkU4b3AybkxPUDVrRU5UY3Q1TW1QeUlXelRoRzR5ckRLT0FSUTh3bFNKbXVR?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-28T03:43:31+00:00",
+        "snippet": "Tether's USAT stablecoin shields USDT from US regulation, keeping $183B offshore coin outside compliance. Pluang",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "USDT",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 42.16
+      },
+      {
+        "title": "Tether (USDT) transfers spike as Bitcoin volatility triggers major liquidity shifts in crypto markets - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZmUwLVBfQ1VZclJybi1sNnI3QXJ3NkVKU3Jhd3pKbTZiZ3FZWWhveVVCWXdiRlhJTU13d1djTVZrVXpnXzlqRi1jb1M0X0VPZ2tRMWoycFNPdnctNVVEdE5ZWGlmRFZkWXFEQzNxUWp2dmt2UXZRY1NpUjRJWkZVLWJJZV9mcEhLVTFSaFVSS2FNWnF0V2tiZjI2cUhiRm1KdV90ekIxWmdMVjBHQ3lr?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-28T11:27:57+00:00",
+        "snippet": "Tether (USDT) transfers spike as Bitcoin volatility triggers major liquidity shifts in crypto markets Pluang",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 39.5
+      },
+      {
+        "title": "250 Millionen USDC frisch auf Solana emittiert/ 250 million USDC newly issued on Solana",
+        "url": "https://www.reddit.com/r/Hive_smartinvesting/comments/1tqcrs2/250_millionen_usdc_frisch_auf_solana_emittiert/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-05-28T18:55:13+00:00",
+        "snippet": "**Frisches Kapital flutet das Ökosystem** Am 26. Mai verzeichnete die Solana-Blockchain eine plötzliche Erhöhung der Stablecoin-Bestände. Innerhalb von nur sechs Stunden wurden rund 250 Millionen USDC neu emittiert. Das entspricht etwa 0,7 Prozent des gesamten Angebots. Solche Schübe beleben oft die Handelsaktivität auf dezentralen Börsen. Parallel dazu wächst die Kreditplattform Jupiter Lend deutlich. Das dort gebundene Kapital überstieg zuletzt die Marke von 2 Milliarden USD. Im Vergleich zum...",
+        "author": "/u/No_Analysis4572",
+        "query": "USDC stablecoin",
+        "engagement": 0,
+        "entities": [
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 39.33
+      },
+      {
+        "title": "Yield USDC & USDT is on ETH is here!",
+        "url": "https://www.reddit.com/r/TREZOR/comments/1tq4o28/yield_usdc_usdt_is_on_eth_is_here/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-05-28T14:06:04+00:00",
+        "snippet": "Earn yield on USDC or USDT on Ethereum without leaving Trezor Suite. No dApps, no browser extensions, no new accounts. Powered by Morpho, one of the most stress-tested and audited lending protocols on Ethereum. Start now with just a few clicks. More information here: https://trezor.io/guides/sending-receiving-staking-funds/interacting-with-smart-contracts/stablecoin-yield-in-trezor-suite Feel free to ask us anything <3 submitted by /u/SuchTrezorVeryCrypto to r/TREZOR [link] [comments]",
+        "author": "/u/SuchTrezorVeryCrypto",
+        "query": "USDC stablecoin",
+        "engagement": 0,
+        "entities": [
+          "USDC",
+          "USDT",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 38.92
+      },
+      {
+        "title": "Are stablecoins safe for B2B payments in 2026",
+        "url": "https://www.reddit.com/r/StableCoins/comments/1tq3suk/are_stablecoins_safe_for_b2b_payments_in_2026/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-05-28T13:33:41+00:00",
+        "snippet": "Short answer for anyone landing here from search, stablecoins are safe for B2B payments when the platform routing them sits on regulated infra with audited reserves and segregated custody. The risk shows up on the stack, not the coin. I see this question come up a lot when finance teams are doing diligence on cross-border payment vendors, and the answers floating around online tend to conflate two very different things. So splitting it out below since the framing matters more than people think....",
+        "author": "/u/GetRekt1o1",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 38.65
+      },
+      {
+        "title": "UniCredit warns Europe may struggle to contain crypto-bank crisis under MiCA rules",
+        "url": "https://www.coindesk.com/business/2026/05/28/unicredit-warns-europe-may-struggle-to-contain-crypto-bank-crisis-under-mica-rules",
+        "source": "CoinDesk",
+        "platform": "RSS Feed",
+        "published": "2026-05-28T16:50:24+00:00",
+        "snippet": "EU deposit insurance (up to €100,000) may not absorb stress from large stablecoin reserve accounts, unlike the full protection offered by U.S. regulators.",
+        "author": "Francisco Rodrigues",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 37.13
+      },
+      {
+        "title": "$3.4 Million Crypto Scam Started with a \"Wrong Number\" Text: How the Scheme Worked",
+        "url": "https://www.reddit.com/r/CryptoCourtLaw/comments/1tqhyo9/34_million_crypto_scam_started_with_a_wrong/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-05-28T22:00:08+00:00",
+        "snippet": "The pig-butchering forfeiture case out of Massachusetts is worth understanding if you've been through this. In March 2026, federal prosecutors filed a civil forfeiture action targeting $3.44 million in Tether (USDT) allegedly stolen from four investors across three states. The entry point, as alleged, was a \"wrong number\" text, engineered to feel accidental, designed to disarm. If you already know how the playbook works, you know what came next: weeks of relationship-building, an \"exclusive\" Et...",
+        "author": "/u/Crypto_Court",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 36.87
+      },
+      {
+        "title": "UK targets A7A5 stablecoin, Huobi/HTX for Russian sanctions evasion - CoinGeek",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQno0Qmg1NmFIUlJURVN6VHZ3eGUydUN2Y0Z2S1oxQndPQlpHQ3F3SlRVczRFOWxneWRmT0ZSOUFCb0UwbHZyODJrd0VZS0doSmlFeHBVcVl4R1NfTDZSRW4tcXRHYm10U1NrZzRzOWlDVlBheDgzNzlvU2Z0ZEFQeUo1WUduUERrOG1iWFRvSU1IZw?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-28T11:03:23+00:00",
+        "snippet": "UK targets A7A5 stablecoin, Huobi/HTX for Russian sanctions evasion CoinGeek",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 36.74
+      },
+      {
+        "title": "Tether’s USAT supply grows 540% month-over-month, latest attestation shows - The Block",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEM5WWdvZ01hd2VEc3pTbWhFUmRicFVUUDd1d0VlazVnTk1RRm1Za1VuTnRrZTd5QVF3QksybDVpUTd2T19PaHk1WjZtR0pvZ2puX0RqcGhVMmJHU21pc1hScVRIbXFNMXFzaFYxQTQ2MktoY244QWZ5WkFtd3dHTW4yb3dIR2x3dFhFd2F2b3NZeTVWbmhuVW4xak9TcExTMGZMVXI2cm9BSVU?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-05-28T17:38:59+00:00",
+        "snippet": "Tether’s USAT supply grows 540% month-over-month, latest attestation shows The Block",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether"
+        ],
+        "sentiment": "risk",
+        "score": 35.86
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 60,
+        "headline": "Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals",
+        "url": "https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals"
+      },
+      {
+        "entity": "USDC",
+        "count": 40,
+        "headline": "Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals",
+        "url": "https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals"
+      },
+      {
+        "entity": "USDT",
+        "count": 24,
+        "headline": "Trezor stablecoin yield heads into Trezor Suite for USDC/USDT - The Cryptonomist",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFZ0VUlSU1l4bUhZdXFvMTdaeFFRbjREQ1JLeW5oN1hZVjNtQTNwd2x2dGFLRnpEQy12OXE2aG9nNjFOb2xuRTRYTlV5S3d0VER4RTF1SFk1LVU4bmp4R2pWYWFSeHBQeWFPdjZSUkZxTzgwZUR3bmVicEQyRlhQVTlHbEtWUmN3bG50LUZB?oc=5"
+      },
+      {
+        "entity": "Tether",
+        "count": 13,
+        "headline": "Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals",
+        "url": "https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals"
+      },
+      {
+        "entity": "Circle",
+        "count": 11,
+        "headline": "Tether's U.S.-focused stablecoin grows over 500% in a month, but still lags main rivals",
+        "url": "https://www.coindesk.com/business/2026/05/28/tether-s-u-s-focused-stablecoin-grows-over-500-in-a-month-but-still-lags-main-rivals"
+      },
+      {
+        "entity": "Robinhood",
+        "count": 3,
+        "headline": "Robinhood Crypto Transfer",
+        "url": "https://www.reddit.com/r/algorand/comments/1tqkzlc/robinhood_crypto_transfer/"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 852,
+      "kept": 62,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": true,
+      "fetched": 119,
+      "kept": 24,
+      "message": ""
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 4,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 2,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 57,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 2,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
