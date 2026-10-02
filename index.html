@@ -1,0 +1,1807 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>稳定币海外舆情日报</title>
+  <style>
+    :root {
+      --bg: #f7f8fb;
+      --surface: #ffffff;
+      --text: #18202a;
+      --muted: #5e6a78;
+      --border: #dfe5ee;
+      --blue: #1f5f99;
+      --blue-soft: #e8f2fb;
+      --green: #2f7d5c;
+      --green-soft: #e8f6ef;
+      --orange: #b95f24;
+      --orange-soft: #fff0e5;
+      --purple: #6750a4;
+      --purple-soft: #f0edfb;
+      --rose: #a94461;
+      --rose-soft: #fdebf1;
+      --gold: #95720a;
+      --gold-soft: #fff7cf;
+      --shadow: 0 1px 2px rgba(24, 32, 42, 0.08);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+      line-height: 1.55;
+    }
+    a { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 28px 20px 20px;
+      text-align: center;
+    }
+    .wrap {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+    }
+    h1 {
+      margin: 0 0 10px;
+      font-size: 30px;
+      font-weight: 760;
+      letter-spacing: 0;
+    }
+    .subline {
+      color: var(--muted);
+      margin: 0;
+      font-size: 14px;
+    }
+    .actions {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-top: 16px;
+    }
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 36px;
+      padding: 7px 12px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--surface);
+      color: var(--text);
+      font-size: 14px;
+      font-family: inherit;
+      box-shadow: var(--shadow);
+      cursor: pointer;
+    }
+    .button.primary {
+      border-color: #b7cee5;
+      background: var(--blue-soft);
+      color: var(--blue);
+    }
+    main { padding: 24px 0 40px; }
+    section {
+      margin: 0 0 26px;
+      border-top: 1px solid var(--border);
+      padding-top: 22px;
+    }
+    section:first-child {
+      border-top: 0;
+      padding-top: 0;
+    }
+    h2 {
+      margin: 0 0 14px;
+      font-size: 19px;
+      text-align: center;
+      letter-spacing: 0;
+    }
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .metric {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 14px 16px;
+      background: var(--surface);
+      min-height: 96px;
+      text-align: center;
+    }
+    .metric:nth-child(1) { background: var(--blue-soft); }
+    .metric:nth-child(2) { background: var(--green-soft); }
+    .metric:nth-child(3) { background: var(--orange-soft); }
+    .metric:nth-child(4) { background: var(--purple-soft); }
+    .metric .value {
+      display: block;
+      font-size: 30px;
+      font-weight: 780;
+      font-variant-numeric: tabular-nums;
+    }
+    .metric:nth-child(1) .value { color: var(--blue); }
+    .metric:nth-child(2) .value { color: var(--green); }
+    .metric:nth-child(3) .value { color: var(--orange); }
+    .metric:nth-child(4) .value { color: var(--purple); }
+    .metric .label {
+      color: var(--muted);
+      font-size: 13px;
+    }
+    .chips {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+    .metric-chip {
+      border: 1px solid var(--border);
+      background: var(--surface);
+      border-radius: 999px;
+      padding: 4px 9px;
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .metric-chip b {
+      color: var(--text);
+      font-variant-numeric: tabular-nums;
+    }
+    .grid-2 {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+      gap: 18px;
+      align-items: start;
+    }
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+      font-size: 14px;
+    }
+    th, td {
+      border-bottom: 1px solid var(--border);
+      padding: 10px 12px;
+      vertical-align: middle;
+      text-align: center;
+      overflow-wrap: anywhere;
+    }
+    th {
+      background: var(--blue-soft);
+      color: #173e63;
+      font-weight: 700;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+    tbody tr:nth-child(even) { background: #fbfcfe; }
+    tbody tr:hover { background: var(--gold-soft); }
+    .notes {
+      margin: 0;
+      padding: 14px 18px 14px 34px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+    .notes li + li { margin-top: 8px; }
+    .filters {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 14px;
+    }
+    select {
+      min-width: 150px;
+      min-height: 36px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      background: var(--surface);
+      color: var(--text);
+      padding: 6px 9px;
+      font-size: 14px;
+    }
+    .items {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .item {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-left: 5px solid var(--blue);
+      border-radius: 8px;
+      padding: 14px;
+      box-shadow: var(--shadow);
+      min-height: 170px;
+      display: flex;
+      flex-direction: column;
+      gap: 9px;
+    }
+    .item.risk { border-left-color: var(--rose); }
+    .item.positive { border-left-color: var(--green); }
+    .item.neutral { border-left-color: var(--blue); }
+    .item.empty {
+      grid-column: 1 / -1;
+      min-height: 80px;
+      text-align: center;
+      justify-content: center;
+      color: var(--muted);
+    }
+    .item h3 {
+      margin: 0;
+      font-size: 16px;
+      line-height: 1.42;
+      letter-spacing: 0;
+    }
+    .meta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .snippet {
+      margin: 0;
+      color: #334150;
+      font-size: 14px;
+      flex: 1;
+    }
+    .zh-summary {
+      margin: 0;
+      padding: 9px 10px;
+      border-radius: 6px;
+      background: #fbfcfe;
+      border: 1px solid var(--border);
+      color: #253243;
+      font-size: 14px;
+    }
+    .zh-summary strong {
+      color: var(--purple);
+    }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 999px;
+      padding: 3px 8px;
+      font-size: 12px;
+      line-height: 1.3;
+      border: 1px solid transparent;
+    }
+    .badge.entity {
+      background: var(--purple-soft);
+      color: var(--purple);
+      border-color: #d9d0f2;
+    }
+    .badge.sentiment-risk {
+      background: var(--rose-soft);
+      color: var(--rose);
+      border-color: #efc8d2;
+    }
+    .badge.sentiment-positive {
+      background: var(--green-soft);
+      color: var(--green);
+      border-color: #c7ead8;
+    }
+    .badge.sentiment-neutral {
+      background: var(--blue-soft);
+      color: var(--blue);
+      border-color: #c8dff3;
+    }
+    .status {
+      display: inline-block;
+      min-width: 72px;
+      border-radius: 999px;
+      padding: 3px 9px;
+      font-size: 12px;
+    }
+    .status.ok {
+      background: var(--green-soft);
+      color: var(--green);
+    }
+    .status.warn {
+      background: var(--orange-soft);
+      color: var(--orange);
+    }
+    footer {
+      color: var(--muted);
+      font-size: 12px;
+      text-align: center;
+      padding: 0 0 32px;
+    }
+    @media (max-width: 860px) {
+      .metrics, .items, .grid-2 {
+        grid-template-columns: 1fr;
+      }
+      h1 { font-size: 24px; }
+      th, td { padding: 9px 8px; font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>稳定币海外舆情日报</h1>
+      <p class="subline">生成时间：2026-10-02 13:08（北京时间） · 免费公开源 · 每日 08:00 自动更新</p>
+      <div class="actions">
+        <a class="button" href="data/latest.json" target="_blank" rel="noopener">latest.json</a>
+        <a class="button" href="archive/2026-10-02.json" target="_blank" rel="noopener">archive.json</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section>
+      <div class="metrics">
+        <div class="metric"><span class="value">69</span><span class="label">匹配条目</span></div>
+        <div class="metric"><span class="value">6</span><span class="label">活跃主题</span></div>
+        <div class="metric"><span class="value">20</span><span class="label">风险/监管信号</span></div>
+        <div class="metric"><span class="value">8</span><span class="label">可用来源</span></div>
+      </div>
+      <div class="chips"><span class="metric-chip">News RSS <b>60</b></span><span class="metric-chip">RSS Feed <b>8</b></span><span class="metric-chip">Reddit <b>1</b></span></div>
+    </section>
+
+    <section class="grid-2">
+      <div>
+        <h2>核心叙事</h2>
+        <div class="panel">
+          <table>
+            <thead><tr><th style="width: 20%">主题</th><th style="width: 16%">数量</th><th>代表链接</th></tr></thead>
+            <tbody>
+        <tr>
+          <td>Stablecoin</td>
+          <td>41</td>
+          <td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVZiTE0tRlRLcjZjSXd3eXdsanVHZ1VpUURKQ1lLVlRCQl9FbkdyRi1zV0Nqc3kzZkJ1alk4ZlNFYjNfX21NMllwR0hBZ0VQYjZvRzJtR1FtVllPWGVrM09vODRJUDFEczdXTEd4ejVUZk5RMGluT3VlS1VtWlBGME9qUnc3MWNYTVdCcW9Gekdodw?oc=5" target="_blank" rel="noopener">Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review - The Block</a></td>
+        </tr>
+        
+
+        <tr>
+          <td>Circle</td>
+          <td>14</td>
+          <td><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVZiTE0tRlRLcjZjSXd3eXdsanVHZ1VpUURKQ1lLVlRCQl9FbkdyRi1zV0Nqc3kzZkJ1alk4ZlNFYjNfX21NMllwR0hBZ0VQYjZvRzJtR1FtVllPWGVrM09vODRJUDFEczdXTEd4ejVUZk5RMGluT3VlS1VtWlBGME9qUnc3MWNYTVdCcW9Gekdodw?oc=5" target="_blank" rel="noopener">Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review - The Block</a></td>
+        </tr>
+        
+
+        <tr>
+          <td>USDC</td>
+          <td>14</td>
+          <td><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxObkMwVUktSENmZms0SzdXUTNvemRJYll1U2UxNXhVVFVXazdNRzJpY2FZYzRXWmYwX2R1UlJLa0JHenF1a1BISFFVb2o4a0kwNjlJQ3VScS0xWE5CNWRJdjJROGUzTFFtbzRFa2MyMnZXOG5vTzlTSzZ3TjF1aGRxUERGdTREb2VWWWNabGlQUW9aYlFHVm5DWmM3U3VxM21XRFhn?oc=5" target="_blank" rel="noopener">Open USD Targets Circle&#x27;s USDC Revenue Model, CoinShares Says - CoinMarketCap</a></td>
+        </tr>
+        
+
+        <tr>
+          <td>Tether</td>
+          <td>12</td>
+          <td><a href="https://news.google.com/rss/articles/CBMisAJBVV95cUxQNXY2YXUwQ2VhV1FJdWdOQVRzN01VV0pSb2F4U1B6NXhPd1ZBdTNOcnp5WjdiaEw3bGQyQ2dkUXBlSTJsSUhXSGN1SXlhaURvVjBGUHJER2JzSkJVOGxkVHUyUE5VRnFFNHZxSXBDV2FMNXc5OHFENjRUdGNGNkU0RHlhTXBWU2FNNkt5ZmhZVWJmcjNIM1VqNXFyRnV0bDNZcllrS01SZ1J6T0tWY0NIRGVJSTc1N2hBRlBVc2dYdHpCSnBFR1EyMG16UmxtMDlaNFdWcWRId0VqQU5fVFBjcGJpRk1jcmI2X3BwRmM3d2o0UU4zZTc5OTNCYlV0WXdON2d6NC01NXNodWFHWjFMallhdXhNVXpEc1VpSnRwYnhDeGZvNUZ0eDNGUHZCMWxZ?oc=5" target="_blank" rel="noopener">Tether(USDT) Stock Price Today | Quotes &amp; News - Moomoo</a></td>
+        </tr>
+        
+
+        <tr>
+          <td>USDT</td>
+          <td>11</td>
+          <td><a href="https://news.google.com/rss/articles/CBMisAJBVV95cUxQNXY2YXUwQ2VhV1FJdWdOQVRzN01VV0pSb2F4U1B6NXhPd1ZBdTNOcnp5WjdiaEw3bGQyQ2dkUXBlSTJsSUhXSGN1SXlhaURvVjBGUHJER2JzSkJVOGxkVHUyUE5VRnFFNHZxSXBDV2FMNXc5OHFENjRUdGNGNkU0RHlhTXBWU2FNNkt5ZmhZVWJmcjNIM1VqNXFyRnV0bDNZcllrS01SZ1J6T0tWY0NIRGVJSTc1N2hBRlBVc2dYdHpCSnBFR1EyMG16UmxtMDlaNFdWcWRId0VqQU5fVFBjcGJpRk1jcmI2X3BwRmM3d2o0UU4zZTc5OTNCYlV0WXdON2d6NC01NXNodWFHWjFMallhdXhNVXpEc1VpSnRwYnhDeGZvNUZ0eDNGUHZCMWxZ?oc=5" target="_blank" rel="noopener">Tether(USDT) Stock Price Today | Quotes &amp; News - Moomoo</a></td>
+        </tr>
+        
+
+        <tr>
+          <td>Robinhood</td>
+          <td>1</td>
+          <td><a href="https://unchainedcrypto.com/robinhood-wallet-can-now-route-stock-token-trades-through-the-arcus-exchange/" target="_blank" rel="noopener">Robinhood Wallet Can Now Route Stock Token Trades Through the Arcus Exchange</a></td>
+        </tr>
+        </tbody>
+          </table>
+        </div>
+      </div>
+      <div>
+        <h2>覆盖说明</h2>
+        <div class="panel"><ul class="notes"><li>X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.</li><li>Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.</li><li>Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.</li><li>YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured.</li></ul></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>重点发言与文章</h2>
+      <div class="filters">
+        <select id="entityFilter" aria-label="主题筛选"><option value="">全部主题</option><option value="Circle">Circle</option><option value="USDC">USDC</option><option value="Tether">Tether</option><option value="USDT">USDT</option><option value="Stablecoin">Stablecoin</option><option value="Robinhood">Robinhood</option></select>
+        <select id="sentimentFilter" aria-label="信号筛选">
+          <option value="">全部信号</option>
+          <option value="risk">风险/监管</option>
+          <option value="positive">积极进展</option>
+          <option value="neutral">中性</option>
+        </select>
+        <select id="platformFilter" aria-label="来源筛选"><option value="">全部来源</option><option value="News RSS">News RSS</option><option value="RSS Feed">RSS Feed</option><option value="Reddit">Reddit</option></select>
+      </div>
+      <div class="items" id="items">
+      <article class="item risk" data-entities="Circle|Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 03:10</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVZiTE0tRlRLcjZjSXd3eXdsanVHZ1VpUURKQ1lLVlRCQl9FbkdyRi1zV0Nqc3kzZkJ1alk4ZlNFYjNfX21NMllwR0hBZ0VQYjZvRzJtR1FtVllPWGVrM09vODRJUDFEczdXTEd4ejVUZk5RMGluT3VlS1VtWlBGME9qUnc3MWNYTVdCcW9Gekdodw?oc=5" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review - The Block</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Circle、Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review The Block</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">Stablecoin</span>
+          <span>score 53.77</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Circle|Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 04:41</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOc09IVmtKVXNHX1hPblZzVXBCczF4TG9rbk5XZ1JEdkFwQmpfQXNKWDVKbDJ3TzR0V1VkbFo2RjdKRkNvTm56bDZYb0pqcXhoSzAtdHNKaUxOYmpRc2J6T0QwbkZ2N3dkMlRKd0tfVzM3T3M1VVNsRHhzNVhJQktwcDV1cVAtTTFuRHdnckdOS0RxUGdPUnctUHVQdWpRMmtwVmx3?oc=5" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">Circle urges EU to revise MiCA stablecoin rules... - Pluang</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Circle、Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">Circle urges EU to revise MiCA stablecoin rules... Pluang</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">Stablecoin</span>
+          <span>score 44.71</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Circle|USDC" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 09:15</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxObkMwVUktSENmZms0SzdXUTNvemRJYll1U2UxNXhVVFVXazdNRzJpY2FZYzRXWmYwX2R1UlJLa0JHenF1a1BISFFVb2o4a0kwNjlJQ3VScS0xWE5CNWRJdjJROGUzTFFtbzRFa2MyMnZXOG5vTzlTSzZ3TjF1aGRxUERGdTREb2VWWWNabGlQUW9aYlFHVm5DWmM3U3VxM21XRFhn?oc=5" target="_blank" rel="noopener" title="中文标题：USDC 生态和 Circle 业务动态受到关注">Open USD Targets Circle&#x27;s USDC Revenue Model, CoinShares Says - CoinMarketCap</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>积极进展：USDC 生态和 Circle 业务动态受到关注，涉及 Circle、USDC。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">Open USD Targets Circle&#x27;s USDC Revenue Model, CoinShares Says CoinMarketCap</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span>
+          <span>score 44.45</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Circle|Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 04:00</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQMTdOd0xrcFRsUzNmRkwxQWVGWHRYdnNSVnk1Smp6QlI2RWpmaDZDemM0MzZfWUJXY3FLLWxPVXNkS2laNlEwZGFnLXNtdk1URE9IWERtVVNKeVZjaGdFNjkzZXMyQk0taVdEbEpnNnp6OUxqeUZrQmdMS2Ewb1lLXw?oc=5" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">Circle urges MiCA changes as only 3 of top 30 stablecoins comply - crypto.news</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Circle、Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">Circle urges MiCA changes as only 3 of top 30 stablecoins comply crypto.news</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">Stablecoin</span>
+          <span>score 44.28</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Circle|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 10:35</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE01ODRkWjdwYzY2YlRNT2ZnRVpDeExvMG9oaVkwRHQ2aVptZFZFcU1mSDIwbGFpaFpSaHhkWkJVYWg1c2RTbktIRXlHT2hLb0g4Z2x2TVlBaXNFQXBlNXZpVFY4UXJidUNBMjBXQnRrb1ZjNnBMTEE?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关合作或产品发布继续推进">Kyobo Life Insurance Partners with Circle, SBI to Commercialize Stablecoins and RWA - finance.biggo.com</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币相关合作或产品发布继续推进，涉及 Circle、Stablecoin。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">Kyobo Life Insurance Partners with Circle, SBI to Commercialize Stablecoins and RWA finance.biggo.com</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">Stablecoin</span>
+          <span>score 43.4</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Circle|Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 02:33</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXZTcURfaXh6VE5yRnFCLXF4d2N5RzZuMWVyOFh1RE9EYzE1N1Etd0NEN2pNdXJlZXN2VzM3dnVuVDhrN2J6VzBITEVXUWtaZ1BsdGl1aC1pOHpNckxGRHFCQ0E2MnZNUXFmWGp2N0RaRS0tVTFuOEMtTHB6WFIwRzBpYWREcmFBd0RsbzhjbGMtX2lPWWpuWExhTjIxYUJK?oc=5" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">Circle Urges EU to Change MiCA Rules, Says Only 3 of Top 30 Stablecoins Comply - CoinGape</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Circle、Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">Circle Urges EU to Change MiCA Rules, Says Only 3 of Top 30 Stablecoins Comply CoinGape</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">Stablecoin</span>
+          <span>score 43.38</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Circle|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 10:15</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RU1ZLeUQ5Wi0ta0VhdUZEa3RXTHozUUdTMlhGRS1LbGJDOVluWmlBcjV5R1NRdGs2OEhHZWI0UVZZaWMyTkdsSkJRd1I5WkpvcjMyeA?oc=5" target="_blank" rel="noopener" title="中文标题：USDC 生态和 Circle 业务动态受到关注">Kyobo Life Teams Up With Circle, SBI and BDACS on Stablecoin, RWA Commercialization - bloomingbit</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDC 生态和 Circle 业务动态受到关注，涉及 Circle、Stablecoin。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">Kyobo Life Teams Up With Circle, SBI and BDACS on Stablecoin, RWA Commercialization bloomingbit</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">Stablecoin</span>
+          <span>score 43.2</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Circle|USDC|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 20:28</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQWFVQjFVSXpzZmpZVThHeDh2ODVibmV2YnhxWldZMzlYdERHSjNjVVUxcmVLZ2lHNkpxcGcwNnhYRzdPNUoyOWdwUy1XMXQ4dnZKeW4wOHh4Qi1idmFScFlFclotUDFvdlRkSmVkOEVoWE5naElaZXNra2R3aWFxSm9VREhqYm9pM05kaW5Td1cxcDUzOGhjdUR2QktxVFVuQ0lrZTkyUlIzOE10cUliOWZQSHpqcGE0d0sxbEJEem0wRmJ3bTVEYUNnMG15aUxXM20teG9oZ3hnbG1VUjY4?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Circle, Volante Technologies Partner to Embed USDC Stablecoin Payments into Banking Infrastructure - Crowdfund Insider</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币支付、结算和钱包接入场景继续扩展，涉及 Circle、USDC、Stablecoin。后续关注支付结算和应用落地。</p>
+        <p class="snippet">Circle, Volante Technologies Partner to Embed USDC Stablecoin Payments into Banking Infrastructure Crowdfund Insider</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span><span class="badge entity">Stablecoin</span>
+          <span>score 42.08</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 10:36</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE01dmY0RFNJYkQzUVAwREY2NFEwNjRrSGlOOGpmOXIwbDF1YmoxVkRCck94SlpYZ185andmVmV1VnpxZkhOWUNfN00xNl9ObEptUW51c215dkpfMTYtUm03UTUtc3Y?oc=5" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">Stablecoin List 2026: Top Stablecoins and MiCA Status - CryptoTicker</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">Stablecoin List 2026: Top Stablecoins and MiCA Status CryptoTicker</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 40.91</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 05:46</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMisAJBVV95cUxQNXY2YXUwQ2VhV1FJdWdOQVRzN01VV0pSb2F4U1B6NXhPd1ZBdTNOcnp5WjdiaEw3bGQyQ2dkUXBlSTJsSUhXSGN1SXlhaURvVjBGUHJER2JzSkJVOGxkVHUyUE5VRnFFNHZxSXBDV2FMNXc5OHFENjRUdGNGNkU0RHlhTXBWU2FNNkt5ZmhZVWJmcjNIM1VqNXFyRnV0bDNZcllrS01SZ1J6T0tWY0NIRGVJSTc1N2hBRlBVc2dYdHpCSnBFR1EyMG16UmxtMDlaNFdWcWRId0VqQU5fVFBjcGJpRk1jcmI2X3BwRmM3d2o0UU4zZTc5OTNCYlV0WXdON2d6NC01NXNodWFHWjFMallhdXhNVXpEc1VpSnRwYnhDeGZvNUZ0eDNGUHZCMWxZ?oc=5" target="_blank" rel="noopener" title="中文标题：USDT 供应和 Tether 市场地位受到关注">Tether(USDT) Stock Price Today | Quotes &amp; News - Moomoo</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDT 供应和 Tether 市场地位受到关注，涉及 Tether、USDT。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">Tether(USDT) Stock Price Today | Quotes &amp; News Moomoo</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 40.39</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Circle|USDC" data-sentiment="risk" data-platform="Reddit">
+        <div class="meta">
+          <span>Reddit</span>
+          <span>Reddit RSS</span>
+          <span>2026-10-02 08:56</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://www.reddit.com/r/CryptoAirdropsHunters/comments/1wvgf62/arktion_first_prediction_market_on_arc_circles/" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">🔮 Arktion — FIRST prediction market on Arc (Circle&#x27;s chain) — free $ARKT airdrop live</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：稳定币支付、结算和钱包接入场景继续扩展，涉及 Circle、USDC。后续关注支付结算和应用落地。</p>
+        <p class="snippet">The world&#x27;s first prediction markets built on Arc — the new L1 from Circle (USDC issuer, NYSE: CRCL). Predict BTC UP or DOWN in 5m/15m/1 h rounds and stack $ARKT before the token launches. 🎁 WHAT YOU GET FREE: • Sign in with X (Twitter) — no wallet needed to...</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span>
+          <span>score 39.4</span>
+          <span>@/u/Sell-Too-9185</span>
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="USDC" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 07:10</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTNNZ1d3SFdzY1FGM3E2UXJ0YV9INWtvdkJiZnJCTVhMcXg3UHdydjF4WTJxbHVUaHBYalZRTWxnY05XS042Vk5nNVd6eTUzeDV2UEJJcHBrcGhzLW9uamNnejNOamdRNnctNmNHN2NQd1JsUEprLWtrckkzakw0UGtmTGhSdjdxSTNiTVJpeUw?oc=5" target="_blank" rel="noopener" title="中文标题：市场关注稳定币储备透明度和赎回稳定性">USDC Gains BNY Minting and Redemption Support - CoinMarketCap</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：市场关注稳定币储备透明度和赎回稳定性，涉及 USDC。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">USDC Gains BNY Minting and Redemption Support CoinMarketCap</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 38.77</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 05:20</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6UzNhdjJXTzZFR0xTcm1zTl82cjdncW0tTjRZRXZqanRULW94QkNxN2hCbTNiU2VVTFVyZ0dHNjYxNEZmcEtjYlZGR08yZlBCS3czZQ?oc=5" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">Europe Faces Pressure to Allow Stablecoin Rewards Ahead of MiCA Review - bloomingbit</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">Europe Faces Pressure to Allow Stablecoin Rewards Ahead of MiCA Review bloomingbit</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 37.62</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 04:14</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNU2FPQVpScF9nS1lxZEEwMi1fek9kSC02YlZGdm1qbkUwSHRIRkJzNFl1VEVNTm83NjJSUm8wZFFQTm9wTFd0aFJxQlY1SmVWQU9kbXAxb3l6cEVuZFZMZ2ZuSzdkTEFfNHhSaEhCVl9nSzB0ajFCbE5uSHhQTlNOTFRsRzd3a1dnSXM5MnFubXZBbldzTEszUjJnLXdyZw?oc=5" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">50,000 Europeans Urge EU to Allow Stablecoin Rewards Under MiCA - KuCoin</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">50,000 Europeans Urge EU to Allow Stablecoin Rewards Under MiCA KuCoin</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 36.93</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 00:00</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOYjYyQVg3aDRXV25yZXdEcWpqQXdsUHM3Y2oxaXNFeXZlZFgxazhhWkotSTlmd1YyMWpZenZQa1F0TE1oM21faGxTOE1EWVpqTnR6ZVRhNzc2Y2hZbGJsX2hWNGplNFJoOVVhWGFyN3drRkFHcTAyME1FZkV0ZVFreUpZUnhEUmlpSkd5OXliem5zZGZ4SVBDa3lnTEp4dw?oc=5" target="_blank" rel="noopener" title="中文标题：USDC 生态和 Circle 业务动态受到关注">Open USD bets Stripe’s $1.9 trillion network can break USDT and USDC’s grip - CryptoSlate</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDC 生态和 Circle 业务动态受到关注，涉及 USDC、USDT。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">Open USD bets Stripe’s $1.9 trillion network can break USDT and USDC’s grip CryptoSlate</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span><span class="badge entity">USDT</span>
+          <span>score 36.78</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 11:31</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ3FXRlNTSmlYU1BmSlFvUlR2d25WV3JkSGhzYURmclg3RllvcDVVeDVjQTJTamI3LTNBa3F6OEVIMHB3MkJabzdMOExRR05rZWR3SGxFU0pCRmxGLXBWZGxfdk1raGhKaTZSVkV0dmsyZ1hfWkFzS21YNW1MenZnUWhJdkY2cDlfQW04N19R?oc=5" target="_blank" rel="noopener" title="中文标题：USDC 生态和 Circle 业务动态受到关注">USDC Treasury minted $250M USDC on Solana, boos... - Pluang</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDC 生态和 Circle 业务动态受到关注，涉及 USDC。后续关注供应、流动性和市场份额。</p>
+        <p class="snippet">USDC Treasury minted $250M USDC on Solana, boos... Pluang</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 36.49</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 02:45</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSEJKaVEyai1qZnhnbXkxS2VWX0pxLXMyWVFmdFF6bUo2ak90cE9EeG8wUDdvdlBpT1VHWkFwbG5tcTMwMTBleFUzVGdQekRYdXp1dEkyV0hsR2w3d2t4OXI5R0xGLURUYlFJR2FhdnJ4WEtCNFBoOEZZMEwyR2hzcTZFSFNTWnU2cWtKS01pRWQyNllLWkNBOTVrcFg3NWdvZ2lkd0pnLTFqWkZVUWxoVjloUzVnakVlOEpLMnBCMXdocXoyTXd2UndPRXVwU3ZYWjRzRGVaM1l3TmFfdlY0?oc=5" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review - TradingView</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review TradingView</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 36.0</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 21:55</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFBpMXF2eVl1TjZLX0M5Q0hxUHRXT1RNa3d3d25OQlF0QmdFUExCT3dHbGcteDV2SExkdEJmNWxaUUlJUzRVNWNzeGtZcUhBM1c0RVhobVhjOHV4OWZ4U0FiZ2xWVU1sVll3WlpXYWM3LUZlRWotQkRxb1ZSTjRLN2JVOXBuemZ1NUJuYUwzSE4yTUlCdmhBX9IBngFBVV95cUxPd0JiSElfS3VybjAtREUtc0M1WjJ5WEYyaEtiUUNSS055RnhuSlFFWU5CZUJiOG1DNzdnTk5RRUlXRFVkbFU0T2J0MjE5clpndmpabzE2cEVOWkZDWktaeTZrdTRpb3dBQzc0b2dPUG5mSHpUS0VkSTJNVFByZHdnR2ZlNC1LZUg0eVNvdlhjM0xPY21RdXJkZWY1MndIdw?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Hana Card teams with Tether for stablecoin opportunities - upi.com</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币支付、结算和钱包接入场景继续扩展，涉及 Tether、Stablecoin。后续关注支付结算和应用落地。</p>
+        <p class="snippet">Hana Card teams with Tether for stablecoin opportunities upi.com</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">Stablecoin</span>
+          <span>score 35.49</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 09:30</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDJQcS1jZmRFc3RTaDhsQl9rTkFEZno0Rm40VEJkWUlTQzBUaHNjeV9fbnNlVXp3by15R0pidGxNZncxbjhtcElQOFRlbGo4VG1zM2I1bVRKNEhrZzZuWlRmVXEyOFhVbTh0RS1hOGhmOTJIbUJPdDJMak1OTlFyWjdRYml4akpKdG9EREhVRzExN2Z6S3dxWTVqXzF3ajNK?oc=5" target="_blank" rel="noopener" title="中文标题：USDT 供应和 Tether 市场地位受到关注">Bitkub adds Aptos-native USDT for cheaper, fast... - Pluang</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDT 供应和 Tether 市场地位受到关注，涉及 USDT。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">Bitkub adds Aptos-native USDT for cheaper, fast... Pluang</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 35.22</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 09:03</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZSUIwZkdJXzVQYktESlI4RVhyZmFBcVdMSVZ0M0xLekNIUE1jczBCekpESmhScWp5MDJ4MXZ4RkFlRkJpNElUOXhWb0ZrUGozbmJNTw?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Lloyds Uses USDC for Visa Settlement, Completing Transfers Within an Hour on Weekends - bloomingbit</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币支付、结算和钱包接入场景继续扩展，涉及 USDC。后续关注支付结算和应用落地，后续需结合原文链接继续核验。</p>
+        <p class="snippet">Lloyds Uses USDC for Visa Settlement, Completing Transfers Within an Hour on Weekends bloomingbit</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 34.95</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 22:38</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGcyeWwxTF9jbnM4dUhRZUc2RVpXNVY4eXNQMVlHSDVIRkpnZ0VyX3dfdDdSWG9qSGJCVU1sQ0hjTmxPZUdSZFkzckJwY0k1NkMzMnloaU85R1ZaLVAyRmRQRTAwUEhKMjltTTNOSUtzYmJwN3htX0xEbUVEVU05R2xtWFFFYmVwNWpDVmRvOFN3Q1JDSDVsNVh3TUluN2d5VDlQeG5DQVU2VHQ0M1RlTWtzZw?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">Treasury publishes state stablecoin certification procedures under the GENIUS Act - ledgerinsights.com</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注供应、流动性和市场份额。</p>
+        <p class="snippet">Treasury publishes state stablecoin certification procedures under the GENIUS Act ledgerinsights.com</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 33.43</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Circle" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 22:35</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOc0Z1cUU5ek1ORDNSaFpMNDlNS3QtMERxNm16WXN3M1RaRlREcnpHdWxvcU90SVRseFVVQy1xV2ladjRGYWJCYlJIV0lOUm1CaXVQTFFuV0cxeVRZa1BjUXZUVjNmcWFpQUlkSk5mdkJBMjBPamxGWWdJY0FUX2hMZWl2X1FSNGpYZ2I1dFpQWGI5MTVoTVBXaGxBd28yQQ?oc=5" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">Circle&#x27;s Response to the European Commission&#x27;s MiCA Review Consultation - circle.com</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Circle。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">Circle&#x27;s Response to the European Commission&#x27;s MiCA Review Consultation circle.com</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span>
+          <span>score 33.4</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 22:30</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPbk42b3FxSnFmcF9ES0ZTX2wyZnpBMHBlUzVFS01RU0VPVlpYNlQ0aTMtYXByQ1o3Uk5LcXZRMzQ5M0Nld0pBVlBWOEdwckxDRjQ1blZqbUJSV1FHVjhadDRIZWNncHp3VHdCaDZDUThGU1pVLTVCMTdtRWdNN2JfUEFoNEFtbUxwbnh6MjVR?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币监管和立法进展成为讨论重点">OUSD Stablecoin Goes Live With $1 Billion in Liquidity From Coinbase, Mastercard, Stripe and Visa - genfinity.io</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：稳定币监管和立法进展成为讨论重点，涉及 Stablecoin。后续关注储备、赎回和稳定性。</p>
+        <p class="snippet">OUSD Stablecoin Goes Live With $1 Billion in Liquidity From Coinbase, Mastercard, Stripe and Visa genfinity.io</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 33.35</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Tether|USDT" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 08:13</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWTVfeVlzWTQ3U0syelZCZVVGcVpsNkgxUGF6dDJuOUF0Yk5YaTVhdDNLZEtpZHY3ZTRTR0VSekNhNWh4LVU3RDB0SWFoWkJfREpLQXAzd3UyUTlqaThUa3F3UndGSFhwZUFRSGRSbFR1bUZQeXdIeDhuLUcxcDVmSFhuRjJobzIybWEzZEFwVE5XRzQ4TENwTTIzMjJ3UnhxUDdRMXkxRmlVR1VhLXV2UHljUGgxUENyaVBNaDVIcjY?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">U.S. Senate report says 84 percent of Iran-linked sanctioned wallets mainly used Tether&#x27;s USDT - 디지털투데이</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：稳定币支付、结算和钱包接入场景继续扩展，涉及 Tether、USDT。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">U.S. Senate report says 84 percent of Iran-linked sanctioned wallets mainly used Tether&#x27;s USDT 디지털투데이</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 31.92</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 15:53</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE81d1Fubmt5Z2Mwa1hXSjZMWGZQZ2Vab01hVk1Hcm4zZDJuRFhucVlhV2xsNm5rRWkzdmVQaHYtZW9jYnZ3MXRuX3MtZGpNSGFGbGZONW9zVTJpajcxaUZJQ3pCd0wzQkMwb0NvNXdXUzRQbHFFVVNv?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Hana Card teams with Tether on stablecoin business - The Korea News Plus</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币支付、结算和钱包接入场景继续扩展，涉及 Tether、Stablecoin。后续关注支付结算和应用落地。</p>
+        <p class="snippet">Hana Card teams with Tether on stablecoin business The Korea News Plus</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">Stablecoin</span>
+          <span>score 31.72</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 14:58</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Zb21LMTdncFBrSEw1S2VwTFN6YU05UHVZM21MLXowRkxJVlBKVkUyQnR2YWFxa055TzRoZEFyUEc0ekQ2SkNYNDlycjVsaERaMGQxXw?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Hana Card Signs MOU With Tether to Expand Stablecoin Cooperation - bloomingbit</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币支付、结算和钱包接入场景继续扩展，涉及 Tether、Stablecoin。后续关注支付结算和应用落地。</p>
+        <p class="snippet">Hana Card Signs MOU With Tether to Expand Stablecoin Cooperation bloomingbit</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">Stablecoin</span>
+          <span>score 31.14</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Circle" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 23:54</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzdNMGwyWi05QUthUTNWV21zZXlkUlBRVk5iRWFHblczZWVpb2VTNWFyTnJFRzBPak9JRk5wV2RBUEZoWWYxblUwWV9nNWJhY1l4b0hoek1oRDV5U0RhcVNCdDRaZlVINUhpRVVEcUxqd1NpTlNvazNSR3lRYzhfa1JTeTRqSkJTRU1Vd0Q0azNIaVVrZ2tHc01ZSVVXZ0NYUE9vbmlnRlRza195YmlJel8zajFVQzFDVWpUMUFvaGVjMm1udEdqc3hQSi1JaTIzVUdheVVzc1g5MVZVZnc?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关合作或产品发布继续推进">21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner By Chainwire - Investing.com</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>积极进展：稳定币相关合作或产品发布继续推进，涉及 Circle。后续关注支付结算和应用落地，后续需结合原文链接继续核验。</p>
+        <p class="snippet">21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner By Chainwire Investing.com</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span>
+          <span>score 31.1</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 23:39</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUHhuNWxtOXFoRWUtbWtZcEw1NDVWcnMzNDNCV1BXeFNPS3gweGJxS2lTbmVRSHUyUzNkbXhzcEMtaERvbFI5dnh2b0hGRmt6V2pUM0JR?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币监管和立法进展成为讨论重点">Treasury will let states file for stablecoin approval before finishing their rules - Cryptonews.net</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>积极进展：稳定币监管和立法进展成为讨论重点，涉及 Stablecoin。后续关注供应、流动性和市场份额。</p>
+        <p class="snippet">Treasury will let states file for stablecoin approval before finishing their rules Cryptonews.net</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 30.94</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Tether" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 23:32</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnRoWjRLbDRQRDVMNkF1SHVEaXBDaFpLRk5oVTlydExjbjNCM190SlZ5cXBkUnlWOWItcDV1bWJ4UkNYWFRXd2c3MENDT3plSFZKNmJyZEFPR1hWYldKa2p2WElVLTMtamF3WlJmQU9sS2VZekRXSEdTODdNYmxXUzgtTkNkMXFaRm1xZXZiTDNBcE10cGUtVUhVdmxLSUxwZEd0UGtidEFpM2huUGxQZUR3?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Tether-backed USAT launches as payment option f... - Pluang</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>积极进展：稳定币支付、结算和钱包接入场景继续扩展，涉及 Tether。后续关注支付结算和应用落地，后续需结合原文链接继续核验。</p>
+        <p class="snippet">Tether-backed USAT launches as payment option f... Pluang</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span>
+          <span>score 30.87</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>The Defiant</span>
+          <span>2026-10-02 01:42</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://thedefiant.io/converge/tradfi-and-fintech/stablecoin-treasury-growth-partly-offsets-china-s-retreat-sf-fed-study-finds" target="_blank" rel="noopener" title="中文标题：稳定币监管和立法进展成为讨论重点">Stablecoin Treasury Growth Partly Offsets China’s Retreat, SF Fed Study Finds</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：稳定币监管和立法进展成为讨论重点，涉及 Stablecoin。后续关注供应、流动性和市场份额。</p>
+        <p class="snippet">Issuers favor short-term debt, while China’s decline is mostly in longer-dated securities. The authors say additional demand depends on who buys stablecoins.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 30.4</span>
+          <span>@The Defiant Team</span>
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 21:40</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMitgJBVV95cUxQN2dVMnRMX3FJNTRKRHlxTUp5TzVaY2pvdEY4clItQ0M2YlBOcTlUbHdBVnFZQndHdDgyRFlqek5YQ3RpSjU3aEtNZUpnOXgteEItaWp4ZlRsUzNod0U4bzJJU3R6Ym9Yc1ZXZmFkOVpZdHpVTWVrV2ZMYmV1Z1RTTWQ5ZTFWMzdDS0xfNC1lZXdLMGNNcVJKRHA3NkhtZ19jeW9tLVVuZ1h0WTVtR3ZSX3dOaGNMTXhIei1ZbmVkV0JaNERjYkk4ZXFmRUpYdlRCaHV1aGhyMTNUdEN2Q25zZnNKNkRyZWNELVNfaWRLd3drcHRyOVdMUlJjM1VwYk9mdFcxTzF4STd1V0VrYVJkRjFhNm1rRkhzemxENjJEd0h5QnFHSWF2aEZhYXFEWlVwbG5LRXJ3?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币监管和立法进展成为讨论重点">Elliptic Sets the Engineering Bar for On-Chain Risk With “Built for Compliance” Paper as New Rules Take Hold and Banks Launch a Joint Stablecoin - STT Info</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>积极进展：稳定币监管和立法进展成为讨论重点，涉及 Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">Elliptic Sets the Engineering Bar for On-Chain Risk With “Built for Compliance” Paper as New Rules Take Hold and Banks Launch a Joint Stablecoin STT Info</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 29.7</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-02 00:06</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3JuVU9mc1lvWTdjcElWTkJIYVRfWExJSHd0MXdpRUgxekxCUGNSMGFJSUxFZUFHMU1WSVJMRlU3UkhKblhCcERzYUs4Y25zSHYzVVZNSFFvZDg2dExOOHZpS28tdHQwaTJoLXQzTzFwTTctX2g4X3JrLWVab3VDNEhzNmQ?oc=5" target="_blank" rel="noopener" title="中文标题：USDC 生态和 Circle 业务动态受到关注">Lloyds settles $750K with Visa using USDC stabl... - Pluang</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDC 生态和 Circle 业务动态受到关注，涉及 USDC。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">Lloyds settles $750K with Visa using USDC stabl... Pluang</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 29.35</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 08:06</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5naFFhNkZ1U1A2QXlENi1EZ2hjODB4NG1JdGZxVktRY2JFcE90enpjeU83TFlTUjVyb1RFcWxTSDZRQm1Ma2owWi04SlYzM1l4N2pXODhfX2lxUFBjSWZLZTctT1czT0NISmJDWkh2Y0Nqd2wwVWc?oc=5" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">Stablecoin Regulation in Flux: ESMA&#x27;s Six MiCA Demands - OneSafe</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">Stablecoin Regulation in Flux: ESMA&#x27;s Six MiCA Demands OneSafe</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 29.35</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 15:38</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbHVqRW5Vd2JpaVBjbjZKczFQM2ExY09HLUY3U2xnMmY0UEg4b3gydTRzYmxFMjc3dVpzbzB2Zmo4N1lkM1FzR3lEVXJjWUd3VXRyVEVTcFh1NWNvVnlzZmFhTGFmZHZpMEtGMXZKREpPUlJxS0RjdlFmTks5bThKVk8tbk5WWWN2WWY5ZWwwWlAzNUpGY2Y2T25RZkdVZnJJbWZaSE5WSlpiVEU?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币监管和立法进展成为讨论重点">Treasury’s First GENIUS Act Rule Draws a $10 Billion Line Through the Stablecoin Market - forkast.news</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：稳定币监管和立法进展成为讨论重点，涉及 Stablecoin。后续关注供应、流动性和市场份额。</p>
+        <p class="snippet">Treasury’s First GENIUS Act Rule Draws a $10 Billion Line Through the Stablecoin Market forkast.news</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 29.06</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 23:17</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOalJfSWtSNUM5aEdyX0dLZXQxUmdnZkh3S05sN1FscXJvcG5LZU5QSXphUEJ0akR2VkpQUWo1LXJDMVg0cnZHZE9BMlNWbHE5MGxrVldsZ0FfVGhIazREX1NjWXRQOFJGeTloMkRSVlJ1alc5X0JSNGQxTkFZZXlWb0cxeEdRMmRycXhTLXF0YjRBck9Sd3BpWkJiNWhXTzRRY3hINDdSUUNGM1VtVlVVV2ltREFLcTZsT0ZFRVJZMlM5TDhRck5yWHZ3Z1hIN3c?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Could Stablecoins be the Future of Payments and Financial Integrity? - Wired Gov</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币支付、结算和钱包接入场景继续扩展，涉及 Stablecoin。后续关注市场叙事和后续进展。</p>
+        <p class="snippet">Could Stablecoins be the Future of Payments and Financial Integrity? Wired Gov</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 28.84</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>Cointelegraph</span>
+          <span>2026-10-01 21:30</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">LATAM stablecoin liquidity may depend on few providers, investor says</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注供应、流动性和市场份额。</p>
+        <p class="snippet">Researchers in a Latin American stablecoin ecosystem report warned “fragility in the system is concentrated in its thinnest layer,” with just 16 of 494 companies focused primarily on wholesale liquidity, treasury and credit.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 27.48</span>
+          <span>@Cointelegraph by Felix Ng</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Circle|USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 08:57</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPNU1zd041UEc3MHctclJ6ZWlHbS1aU3o4YnVPbzBFRXdIUEVLTm5NcHhxVG91WE9vRXpqTXNaVU9mTkJmUVhBU21FOGE1RTVhc3NVMWJiYkdOZ3pLb1NITVlhWG9ReHZzWWo3RmZBZ1dwOXpkS0Y4NFhMTlk1VnUtOHNBV2ppTGJZc21XbnBB?oc=5" target="_blank" rel="noopener" title="中文标题：USDC 生态和 Circle 业务动态受到关注">Circle mints 750 million USDC on Solana in 24 hours - KuCoin</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDC 生态和 Circle 业务动态受到关注，涉及 Circle、USDC。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">Circle mints 750 million USDC on Solana in 24 hours KuCoin</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span>
+          <span>score 27.39</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 08:56</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxN3Z2dm05dm9oTTRXOXZlUEpNOF9YeVRXV0lxT0ZQUU5TUjdFRjB6Nnl6Y01USl90Wm84Zy1PZkFMOVprUk5ueldadEEyYmVwbWNFbVN0Q2Y?oc=5" target="_blank" rel="noopener" title="中文标题：USDT 供应和 Tether 市场地位受到关注">Convert 1 USDT (Tether USDT) to USD (United States Dollar) - Bybit</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDT 供应和 Tether 市场地位受到关注，涉及 Tether、USDT。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">Convert 1 USDT (Tether USDT) to USD (United States Dollar) Bybit</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 27.37</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 08:41</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rbWhGRjZHNW9qLUg1QV8yeVl3NVREMU0wTkFaaUI1VDdEbktnMVB3b2FQenFQUnJUVTR3dmZGcW5SM3d5eGtXTmw1Qk5oY1hlWHBzRzBfbWY?oc=5" target="_blank" rel="noopener" title="中文标题：USDT 供应和 Tether 市场地位受到关注">Convert 1 USDT (Tether USDT) to RUB (Russian Ruble) - Bybit</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDT 供应和 Tether 市场地位受到关注，涉及 Tether、USDT。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">Convert 1 USDT (Tether USDT) to RUB (Russian Ruble) Bybit</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 27.22</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 08:23</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mT0NuTkNGWlpUdkROSGQwbWRVWjBOcGM3YXhzNHp1bG9za0x5THMxNUVCeUVKYllBV2pNYllhVWF2VHNWal9qLVlkVTdNN3FoaVlWU3JVLXk?oc=5" target="_blank" rel="noopener" title="中文标题：USDT 供应和 Tether 市场地位受到关注">Convert 1 USDT (Tether USDT) to NGN (Nigerian Naira) - Bybit</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDT 供应和 Tether 市场地位受到关注，涉及 Tether、USDT。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">Convert 1 USDT (Tether USDT) to NGN (Nigerian Naira) Bybit</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 27.03</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 08:07</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xSF9zeGs1cHk5WmhERDV1ejhySlE3RkszMFUzZzVFdFBhdWRGUG5FOWNrOEpySUVvb1RCVmgzYlFUQThpM1V2SFlEeks5VjlzUmItMjFTY3Y?oc=5" target="_blank" rel="noopener" title="中文标题：USDT 供应和 Tether 市场地位受到关注">Convert 1 USDT (Tether USDT) to VND (Vietnamese Dong) - Bybit</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDT 供应和 Tether 市场地位受到关注，涉及 Tether、USDT。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">Convert 1 USDT (Tether USDT) to VND (Vietnamese Dong) Bybit</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 26.86</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 19:13</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXdhVGh3dnVJejE3SlVIT2hJcEdGR0hLbzJwVy15cXlPRGNRWmJ4WW9jWHJRTWQxUlF5Nm5ubUVuWW1PQ1NIVFpmWEhuS1VSLU5XOWNxSWR1eUdEZThZN3M2NGs2UExyOTR2dHAtVkhWdzg2WkpDaG5iMG5LUXVScHlkNTlHeEI5bHZoNzZrSk9RaXFKdDFxQ1dPbVJyYjdVdUgwZXJjck9xYXl2dmw1a3p0VUtZVDBRWU5z?oc=5" target="_blank" rel="noopener" title="中文标题：USDC 生态和 Circle 业务动态受到关注">Lloyds, Visa settle $750,000 using USDC in live cross-border pilot - The Block</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDC 生态和 Circle 业务动态受到关注，涉及 USDC。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">Lloyds, Visa settle $750,000 using USDC in live cross-border pilot The Block</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 26.3</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 19:02</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBieFQ3Q19HU3VVNzJadlV1QUFQZDJZMTJCWXdaWHBDdDBHa3pldko0cmsyUVh4N0l0RTVXdS0wMHBMUmx0azNLdkllQzdmSEVGZ3I0M2pQQVVEZ2tWMXdpVm9VOTN3VE1pLWM0M183QkRrX2llU19Da0VrX2Y?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">Banque de France’s stablecoin guidance aims to protect Europe’s monetary sovereignty - The Cryptonomist</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注市场叙事和后续进展，后续需结合原文链接继续核验。</p>
+        <p class="snippet">Banque de France’s stablecoin guidance aims to protect Europe’s monetary sovereignty The Cryptonomist</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 26.19</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Circle|USDC" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 03:21</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNajNUeThiY0plM3NZTGN1a05WZnlUTXRSUURNbl9ZR3prZDZ3R2VFdFVqandadnBabDBSa19UbHRBYXVYZHNxeUEydjJTYXlHREUtdmM4WHVOMEd2a0IwVDk5NWl2bjFYTTdzOXBlV1ZMRTRMeUFQc2lDQ1dyTUtEU3R3Nmo2a0N0UW1TVTU2SkEyakVTVU1lY1NYeW90X2JkS2c?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关合作或产品发布继续推进">Circle launches kits for apps to offer USDC sta... - Pluang</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>积极进展：稳定币相关合作或产品发布继续推进，涉及 Circle、USDC。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">Circle launches kits for apps to offer USDC sta... Pluang</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span>
+          <span>score 25.76</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 18:15</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUo1M09KV3Z5ekhlNXQ3c0tFaTNOa0Y5NUV0NElMSDcyb2xpTGhTMnlHSmw1bkk5cGMzVzNBc3NZY2JIWkhfZnRSQnJLVTBWWHFGVlZRSkdSTjRtWlpPNVZEdWt4M19xaElSM0tlbzE3dVhnRWFWZUNWRDhoOUxGQmRORGhQU09YSGJDNjhLTWh5bjcxVmlYdmhld3BiMm45RkpCNA?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">OpenUSD joins the stablecoin race, goes live with Coinbase, Mastercard, and Stripe - AMBCrypto</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注市场叙事和后续进展，后续需结合原文链接继续核验。</p>
+        <p class="snippet">OpenUSD joins the stablecoin race, goes live with Coinbase, Mastercard, and Stripe AMBCrypto</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 25.69</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 17:55</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9pUVc0d1ZGRW9TRlZQNFhWTjJUX1EyV1VwUW95ZkxmRlFGYzd0MkkxbDJVZ1BvU1pEcHRoWDZuN3NscTZmYVozUjBDdEIzSjNFQUVJNmdrU1BOakdPd1pqYmpNRFgyQXl4MjZ2UGo0UGkzRnlJR2c?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">Sharplink CEO: &quot;U.S. Has No Cap on Crypto Exchange Ownership... South Korea Should Introduce Won Stablecoin&quot; - finance.biggo.com</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注市场叙事和后续进展，后续需结合原文链接继续核验。</p>
+        <p class="snippet">Sharplink CEO: &quot;U.S. Has No Cap on Crypto Exchange Ownership... South Korea Should Introduce Won Stablecoin&quot; finance.biggo.com</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 25.48</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 16:26</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BcWhIcFlOenRRWE9VNHJreXpmeXg0Y21pbmxwX0dmWnlZSHYwdDgwQWZfU09JclRQTEMzOTRTY0FLY08wbEhLaXgwYnhQcFk?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">The stablecoin OpenUSD (OUSD), a coalition of more than 200 companies around the world, has been lau.. - 매일경제</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注市场叙事和后续进展，后续需结合原文链接继续核验。</p>
+        <p class="snippet">The stablecoin OpenUSD (OUSD), a coalition of more than 200 companies around the world, has been lau.. 매일경제</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 24.56</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Circle|USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 04:07</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVl5TTkzQk9XanZxS1FmcEpLYV9Ucm5Nb2Fndnc2X0lOdXNkcUVIcnNMQ2lWZUh1NlI5dm5Rbzh6a1dSZGpqUDk4OHhpMFBnaXVpS3ROakJUUV9xa0NoRFlxcUVGdW5iM1paMFVLYURNU0p2Y3l3bXhzTXloX2g4aWRpZUpyc1hycVVSTg?oc=5" target="_blank" rel="noopener" title="中文标题：USDC 生态和 Circle 业务动态受到关注">AI agents hire humans to capture 3D world scans, paid in USDC on Circle&#x27;s Arc blockchain. - Pluang</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDC 生态和 Circle 业务动态受到关注，涉及 Circle、USDC。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">AI agents hire humans to capture 3D world scans, paid in USDC on Circle&#x27;s Arc blockchain. Pluang</p>
+        <div class="meta">
+          <span class="badge entity">Circle</span><span class="badge entity">USDC</span>
+          <span>score 24.36</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 15:05</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWxhSzlHSHR5aHZmdU4yVndETG5uWGtlY1lLVFpaTVpJRnVTMTlIVzVBX3l4RGF3dThrbFdYUGt4Rm4zay03ZnhuNGpENVRlbm9wRlFKVkIwUFBCUk1nTzhGRW4yQWZOSHgwQnp4R0lmY0tNZzVPVFp1SXVKd0NBY20xdlBhbi16eml3VGE5OEw?oc=5" target="_blank" rel="noopener" title="中文标题：USDT 供应和 Tether 市场地位受到关注">Binance sees a net inflow of 30.57 million USDT in one hour, signaling more funds entering than leaving. - Pluang</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDT 供应和 Tether 市场地位受到关注，涉及 USDT。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">Binance sees a net inflow of 30.57 million USDT in one hour, signaling more funds entering than leaving. Pluang</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 23.71</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 14:51</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Tc25uek4wN2c3MWEwRHFvNnRCenNlNHBGMlV6eFp4bU1JZTZKR3dYdGllb1BpSkxYc0pvWG83b0t4Rk5XNmt1bVRiS0dLZzVyOHk2WA?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">a16z Says Limiting Stablecoin Issuance to Banks Would Restrict Innovation - bloomingbit</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注市场叙事和后续进展，后续需结合原文链接继续核验。</p>
+        <p class="snippet">a16z Says Limiting Stablecoin Issuance to Banks Would Restrict Innovation bloomingbit</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 23.57</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>Cointelegraph</span>
+          <span>2026-10-01 21:30</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">Stablecoins can drain from banks and nations at lightning speed</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注市场叙事和后续进展，后续需结合原文链接继续核验。</p>
+        <p class="snippet">Highly liquid and settling 24/7, stablecoins can leave banks and countries at lightning speed. But whether stablecoins are a risk — or an opportunity — depends on your perspective.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 23.28</span>
+          <span>@Cointelegraph by Christina Comben</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether|USDT" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 01:22</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zcWtsWHBGbHZFS3JwQ0tzX0VkTkdwYzc4RmdPMHJTSTdJazJSNFJNeUNVdE9YSEhtYW1qYktsYjlIR1FYV0d6NHVoNjFyVy1YYVluY2Q3NU9pSUhXTFk3RHBWQQ?oc=5" target="_blank" rel="noopener" title="中文标题：USDT 供应和 Tether 市场地位受到关注">Tether&#x27;s USDT Flips Ethereum For First Time In 8 Years, Then Slips Back - Yellow.com</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDT 供应和 Tether 市场地位受到关注，涉及 Tether、USDT。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">Tether&#x27;s USDT Flips Ethereum For First Time In 8 Years, Then Slips Back Yellow.com</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span><span class="badge entity">USDT</span>
+          <span>score 22.64</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 10:14</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNaERYUGdhcTJLdXU3TlF0ZkRLTC1ibXp6cGxsZF82S1RlT1BkUnVRWWNaaWtYMEQ5MGlFLWRLOU9aLTcyWHBIalhVOVc2U1FRdVplMmpQVGkzMGxVLVVmVHNBOFRjY29SbnV2U1ZvU1BncjFqeGZyYk5fXzFIbm1xc1pNeTB0WlB3NUNZZ1BFQ1QzNEU?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关合作或产品发布继续推进">Bloomberg Launches Stablecoin Dashboard on the Terminal - CryptoRank</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>积极进展：稳定币相关合作或产品发布继续推进，涉及 Stablecoin。后续关注市场叙事和后续进展。</p>
+        <p class="snippet">Bloomberg Launches Stablecoin Dashboard on the Terminal CryptoRank</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 22.56</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 12:54</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5NUnRDOEh6QWx3WDJDbzJWbFREQVdBOExQSy11c0R4VHFfczU3eVpsS3p3S0xpZHhrS04yNjZOcVFKUEVlaEVyV2FXQ2VEbVdBaGRNc0c5dkVqeGtwd3JRV0tnZ2YySlRMb254c2xVYW5TNXB4c0w1MWRaUHBlUQ?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Stablecoin Payments Now: US Bank, Marqeta, BVNK - OneSafe</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币支付、结算和钱包接入场景继续扩展，涉及 Stablecoin。后续关注市场叙事和后续进展。</p>
+        <p class="snippet">Stablecoin Payments Now: US Bank, Marqeta, BVNK OneSafe</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 22.35</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 11:00</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQakpWendCd3RHSnBSTFcweTliakllUEc1dWxyZHVTZHhJalVYUHJYWFF4YVUwcFotR1N1NHlvbnhSVl90MS1WLVA2T3lDZ0FrclUxeUcwcHlKeGJvQ0xPN2hQR3piT05ZUlNZMFBtN0h2TWd1WG5pRGlkaTJMN2lGNzJZMDN3SURpaDY1dw?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Stablecoin card spending hits record $789M in September – Report - AMBCrypto</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币支付、结算和钱包接入场景继续扩展，涉及 Stablecoin。后续关注支付结算和应用落地。</p>
+        <p class="snippet">Stablecoin card spending hits record $789M in September – Report AMBCrypto</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 21.16</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 10:34</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpZ0FVcEJNU2VxV0ttQkNxMDh1VUttUndtYm1rQThudk1mLU1HZTNKRlhpTHBqdnhheHNVNDFHQWo5Wk9Td1ZKTmc5UzNZSFVTVHZSTzNn?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">Bloomberg brings onchain stablecoin data to its Terminal - Cryptonews.net</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注市场叙事和后续进展，后续需结合原文链接继续核验。</p>
+        <p class="snippet">Bloomberg brings onchain stablecoin data to its Terminal Cryptonews.net</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 20.89</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 10:26</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MUVdXM2FTaHBTWjdoMjM0MXlWd1N1cFhwUFBOSTJkM2tLbXdDWnJEWUtCUUlBUEFuVlg3YXF1TGdCOXRKVWMwdldtTU9LTjBxNHpseVR1SFZzUVFYQ2xPVXBTMWlRTjZN?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Stablecoin Payments Just Got a Bank Link: Coinbase-Citi - OneSafe</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币支付、结算和钱包接入场景继续扩展，涉及 Stablecoin。后续关注市场叙事和后续进展。</p>
+        <p class="snippet">Stablecoin Payments Just Got a Bank Link: Coinbase-Citi OneSafe</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 20.8</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 09:51</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3c5NHVPQjVTRlJ5dC1hdE9KQ19QVEE3NmYwanN1UXdTYkYtVUN4Sm5KTDQ3NXRYSmpnSDlKQ0xfT21XN2dJLUgzN0JGZzVVTEU5c1dtWG15Sl92eC1qYk90Z1lMQkdYVU5SZ2FuRWlxYy1WNlNHWURfQ0p4SERMaTctTEhWY0ZnZXlBdGFn?oc=5" target="_blank" rel="noopener" title="中文标题：USDC 生态和 Circle 业务动态受到关注">Arc Packages USDC Funding and Morpho Lending for Apps - The Defiant</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDC 生态和 Circle 业务动态受到关注，涉及 USDC。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">Arc Packages USDC Funding and Morpho Lending for Apps The Defiant</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 20.44</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Robinhood" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>Unchained</span>
+          <span>2026-10-01 22:26</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://unchainedcrypto.com/robinhood-wallet-can-now-route-stock-token-trades-through-the-arcus-exchange/" target="_blank" rel="noopener" title="中文标题：Robinhood 相关讨论集中在预测市场和加密产品扩张">Robinhood Wallet Can Now Route Stock Token Trades Through the Arcus Exchange</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：Robinhood 相关讨论集中在预测市场和加密产品扩张，涉及 Robinhood。后续关注支付结算和应用落地。</p>
+        <p class="snippet">Arcus, which counts Robinhood Crypto as an investor, has market makers compete to quote each trade in more than 190 Stock Tokens. The post Robinhood Wallet Can Now Route Stock Token Trades Through the Arcus Exchange appeared first on Unchained .</p>
+        <div class="meta">
+          <span class="badge entity">Robinhood</span>
+          <span>score 20.38</span>
+          <span>@Unchained</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDT" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>Unchained</span>
+          <span>2026-10-01 22:13</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://unchainedcrypto.com/near-intents-pledges-full-compensation-after-a-bug-lets-an-attacker-drain-3-8-million/" target="_blank" rel="noopener" title="中文标题：USDT 供应和 Tether 市场地位受到关注">NEAR Intents Pledges Full Compensation After a Bug Lets an Attacker Drain $3.8 Million</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDT 供应和 Tether 市场地位受到关注，涉及 USDT。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">The cross-chain protocol says the contract-side flaw is patched, and blockchain data shows about 3.87 million USDT left a contract it uses on BNB Chain in about six hours. The post NEAR Intents Pledges Full Compensation After a Bug Lets an Attacker Drain $3.8...</p>
+        <div class="meta">
+          <span class="badge entity">USDT</span>
+          <span>score 20.29</span>
+          <span>@Unchained</span>
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 01:09</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxQR1RkaTJXQkhteXJwamVxTXoxeF9wUDhxN3YzNnA3bkd1Z1NLNmdWb2xCWm9nNkFncmxXTFBYekJWS01oNXhWOVY1aHJBU2loNUNqbU96dEI3OE9XdHN2RXZ6bTZPVm5Ib2hRTHhka3E1NjlKZmhPQ1A3VC1WSUJHMWRXaktpZ3Zrem05MFFsWlhmNjl0LU1BWWwzR0RNLTBIbWxxTFlMT1pHVWRiS190dGhld1h3cmJRNEpVdFNVVVZpdFpQX1RiNjhVaUJ5UQ?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">Ethereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered - Benzinga</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注市场叙事和后续进展。</p>
+        <p class="snippet">Ethereum-Based Stablecoin Issuer ENA Could Surge 600%: Standard Chartered Benzinga</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 20.01</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="USDC" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 07:56</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2hQdnhOYzg2RjQ1eUc2VEI1ZFYydVhGY1hKWEN5RW9FNDVWc0V3bGotci1EZ3FLVW9Pb0d0VWRnYUc1bWI0d21KcTBOQU52M1pLMlJoNm1keVB3UHFEZ21sTXNIMUgzRjlMWVd5MUhVaVNGZllucFhTV2FqSFMtaDhhUWtKZ2d2VFhfTEpmS2NHYVlmdjJyaVN0RjVkMUY2ZWt5cGJfQmZvRkM1NnB3?oc=5" target="_blank" rel="noopener" title="中文标题：USDC 生态和 Circle 业务动态受到关注">Lloyds and Visa Settle $750,000 in USDC in Cross-Border Pilot - The Defiant</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDC 生态和 Circle 业务动态受到关注，涉及 USDC。后续关注USDC 生态和机构采用。</p>
+        <p class="snippet">Lloyds and Visa Settle $750,000 in USDC in Cross-Border Pilot The Defiant</p>
+        <div class="meta">
+          <span class="badge entity">USDC</span>
+          <span>score 19.24</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 06:30</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDNPNmNOTVFESWd3RWliMGVRSWxoTE93T2ozb2FjcTZlRnk0bndXcXB0ak5HRDRSQjZqS3h6MUJxWDhXODc1VzU5RzVmYmNQRl9seFNRRU5FVkswZDU0YkFQTVhDaGVHMWk4MEhoSWJXVlgxMVRxVGtzVkZMemFFYy15TU1wVXpoWHNLZFl1S3kwQTNtbHM2STNJZkd2dlUtM0xLbGlXczBiWDdKNk9iM3ZjcTVlVTV1TFF6Vg?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币监管和立法进展成为讨论重点">Fed releases stablecoin rules as debate flares over digital asset taxation - 디지털투데이</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币监管和立法进展成为讨论重点，涉及 Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">Fed releases stablecoin rules as debate flares over digital asset taxation 디지털투데이</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 18.34</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 05:23</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1JJa2tPTXJWVHNFajNueHlSWTJqS2lTcnNwa1VUdEYzNGlGV0RoZTFyREVJcFhSc0hfQXppV2hwYmJ0Mko0bmpDTG9GbFpSVU5JVzcwLW5uMk4yc2xZdEdDN3lGNm5yTU1LM2hZc0VXUENCQ1pjcVNYYzlCSDJzXzNORlhudkJNbjNVRkQ4Z1NGYWJIWi1fSGV6WQ?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">OUSD Stablecoin Goes Live With Visa, Mastercard And Stripe Behind It - Yahoo Finance</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注市场叙事和后续进展，后续需结合原文链接继续核验。</p>
+        <p class="snippet">OUSD Stablecoin Goes Live With Visa, Mastercard And Stripe Behind It Yahoo Finance</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 17.65</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 01:52</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOaEc0YWl3Snl0dFdYYzFrb0Y2aTJXTG8ybFFqdzlPUmNMM0Y1WVMzM3BJMW9ENzc3NGxmUTd1aDJiYWZrNkIyQlFMNVk3WElsM21mcEY5Nk9pZkRmamtSaS1tNzBoN1dRaW9OSk9kbV9BMWZYbWhTeldjWXR0djQ3Yk1mdnR3OG9OMDBaeFprTW9VVURDcGNnRUFNaWg5a1NRZkNRUzFTMGhsYy03Nl9xckV1bWo0M0pPdmtxNGItX1pobmd2WlpNbFRqVQ?oc=5" target="_blank" rel="noopener" title="中文标题：稳定币相关海外讨论出现新动态">Mastercard, Visa, Stripe-Backed Consortium Enters USD Stablecoin Market - Benzinga</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币相关海外讨论出现新动态，涉及 Stablecoin。后续关注市场叙事和后续进展，后续需结合原文链接继续核验。</p>
+        <p class="snippet">Mastercard, Visa, Stripe-Backed Consortium Enters USD Stablecoin Market Benzinga</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 15.45</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Tether" data-sentiment="neutral" data-platform="News RSS">
+        <div class="meta">
+          <span>News RSS</span>
+          <span>Google News</span>
+          <span>2026-10-01 01:35</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5RbnNPYTFoLWNxUk1VY0picUhjYTFPMGtTV2JOVVJab25LUXVsWmktNHN2LWlPdjhGUGxiTDF1cmMyeGZmTnFFeXZnS0xhWlRfa0dNZXFtQmFIeldfWEhzd0diUzZJZXhTVFU0Uk9MU2d0OVRPY2c?oc=5" target="_blank" rel="noopener" title="中文标题：USDT 供应和 Tether 市场地位受到关注">Visa, Mastercard-Backed Open USD Debuts With Equity-Sharing Model to Challenge Tether - finance.biggo.com</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：USDT 供应和 Tether 市场地位受到关注，涉及 Tether。后续关注USDT 供应和链上资金流。</p>
+        <p class="snippet">Visa, Mastercard-Backed Open USD Debuts With Equity-Sharing Model to Challenge Tether finance.biggo.com</p>
+        <div class="meta">
+          <span class="badge entity">Tether</span>
+          <span>score 15.27</span>
+          
+        </div>
+      </article>
+    
+
+      <article class="item risk" data-entities="Stablecoin" data-sentiment="risk" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>The Defiant</span>
+          <span>2026-10-01 01:27</span>
+          <span class="badge sentiment-risk">风险/监管</span>
+        </div>
+        <h3><a href="https://thedefiant.io/converge/regulation/esma-proposes-mica-rules-for-defi-gateways-staking-and-lending" target="_blank" rel="noopener" title="中文标题：欧盟 MiCA 框架下的稳定币合规项目继续推进">ESMA Proposes MiCA Rules for DeFi Gateways, Staking and Lending</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>风险/监管信号：欧盟 MiCA 框架下的稳定币合规项目继续推进，涉及 Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">The regulator also wants to bar crypto firms from all MiCA-licensable services involving noncompliant stablecoins, extending restrictions to custody and transfers.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 14.54</span>
+          <span>@The Defiant Team</span>
+        </div>
+      </article>
+    
+
+      <article class="item positive" data-entities="Stablecoin" data-sentiment="positive" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>The Defiant</span>
+          <span>2026-10-01 02:00</span>
+          <span class="badge sentiment-positive">积极进展</span>
+        </div>
+        <h3><a href="https://thedefiant.io/converge/tradfi-and-fintech/open-usd-launches-as-stripe-s-default-stablecoin" target="_blank" rel="noopener" title="中文标题：稳定币相关合作或产品发布继续推进">Open USD Launches as Stripe&#x27;s Default Stablecoin</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>积极进展：稳定币相关合作或产品发布继续推进，涉及 Stablecoin。后续关注市场叙事和后续进展。</p>
+        <p class="snippet">Mastercard&#x27;s route runs through BVNK, while Visa offers limited beta access and Coinbase is scheduled to follow on Oct. 1.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 12.54</span>
+          <span>@The Defiant Team</span>
+        </div>
+      </article>
+    
+
+      <article class="item neutral" data-entities="Stablecoin" data-sentiment="neutral" data-platform="RSS Feed">
+        <div class="meta">
+          <span>RSS Feed</span>
+          <span>The Defiant</span>
+          <span>2026-10-01 03:29</span>
+          <span class="badge sentiment-neutral">中性</span>
+        </div>
+        <h3><a href="https://thedefiant.io/news/regulation/daines-unveils-crypto-tax-bill-pairing-payment-relief-with-wash-sale-rules" target="_blank" rel="noopener" title="中文标题：稳定币支付、结算和钱包接入场景继续扩展">Daines Unveils Crypto Tax Bill Pairing Payment Relief With Wash-Sale Rules</a></h3>
+        <p class="zh-summary"><strong>中文要点：</strong>市场动态：稳定币支付、结算和钱包接入场景继续扩展，涉及 Stablecoin。后续关注合规、立法和跨境影响。</p>
+        <p class="snippet">The ADAPT Act would exempt qualifying stablecoin purchases and crypto-paid transaction costs of $10 or less from gain-or-loss recognition, while restricting loss harvesting.</p>
+        <div class="meta">
+          <span class="badge entity">Stablecoin</span>
+          <span>score 11.86</span>
+          <span>@The Defiant Team</span>
+        </div>
+      </article>
+    </div>
+    </section>
+
+    <section>
+      <h2>来源状态</h2>
+      <div class="panel">
+        <table>
+          <thead><tr><th style="width: 20%">来源</th><th style="width: 14%">状态</th><th style="width: 12%">抓取</th><th style="width: 12%">保留</th><th>备注</th></tr></thead>
+          <tbody>
+        <tr>
+          <td>Google News</td>
+          <td><span class="status ok">正常</span></td>
+          <td>847</td>
+          <td>60</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Bluesky</td>
+          <td><span class="status warn">跳过/受限</span></td>
+          <td>0</td>
+          <td>0</td>
+          <td>Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search</td>
+        </tr>
+        
+
+        <tr>
+          <td>Hacker News</td>
+          <td><span class="status ok">正常</span></td>
+          <td>0</td>
+          <td>0</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Reddit RSS</td>
+          <td><span class="status warn">跳过/受限</span></td>
+          <td>5</td>
+          <td>1</td>
+          <td>Tetrher USDT: HTTP Error 429: Too Many Requests</td>
+        </tr>
+        
+
+        <tr>
+          <td>Mastodon</td>
+          <td><span class="status ok">正常</span></td>
+          <td>0</td>
+          <td>0</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>YouTube Search</td>
+          <td><span class="status warn">跳过/受限</span></td>
+          <td>0</td>
+          <td>0</td>
+          <td>YOUTUBE_API_KEY not configured</td>
+        </tr>
+        
+
+        <tr>
+          <td>CoinDesk</td>
+          <td><span class="status ok">正常</span></td>
+          <td>25</td>
+          <td>0</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Cointelegraph</td>
+          <td><span class="status ok">正常</span></td>
+          <td>30</td>
+          <td>2</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Decrypt</td>
+          <td><span class="status ok">正常</span></td>
+          <td>39</td>
+          <td>0</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>The Defiant</td>
+          <td><span class="status ok">正常</span></td>
+          <td>100</td>
+          <td>4</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Unchained</td>
+          <td><span class="status ok">正常</span></td>
+          <td>10</td>
+          <td>2</td>
+          <td></td>
+        </tr>
+        
+
+        <tr>
+          <td>Bankless</td>
+          <td><span class="status warn">跳过/受限</span></td>
+          <td>0</td>
+          <td>0</td>
+          <td>Public RSS URL is not stable; keep disabled unless a working public feed is confirmed.</td>
+        </tr>
+        </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>Generated by free public sources. Direct X/Twitter API monitoring is intentionally excluded unless free official access is configured.</footer>
+
+  <script>
+    const entityFilter = document.getElementById('entityFilter');
+    const sentimentFilter = document.getElementById('sentimentFilter');
+    const platformFilter = document.getElementById('platformFilter');
+    const cards = Array.from(document.querySelectorAll('.item[data-entities]'));
+    function applyFilters() {
+      const entity = entityFilter.value;
+      const sentiment = sentimentFilter.value;
+      const platform = platformFilter.value;
+      cards.forEach(card => {
+        const hasEntity = !entity || card.dataset.entities.split('|').includes(entity);
+        const hasSentiment = !sentiment || card.dataset.sentiment === sentiment;
+        const hasPlatform = !platform || card.dataset.platform === platform;
+        card.style.display = hasEntity && hasSentiment && hasPlatform ? '' : 'none';
+      });
+    }
+    [entityFilter, sentimentFilter, platformFilter].forEach(el => el.addEventListener('change', applyFilters));
+  </script>
+</body>
+</html>
