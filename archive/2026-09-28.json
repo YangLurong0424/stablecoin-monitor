@@ -1,0 +1,803 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T04:52:45.868069+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "📊 Stablecoin freezes — last 24 hours",
+      "url": "https://www.reddit.com/r/u_Slow_Squash3908/comments/1wrgo48/stablecoin_freezes_last_24_hours/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-09-27T10:19:53+00:00",
+      "snippet": "📊 Stablecoin freezes — last 24 hours 🔴 1 wallet frozen · $611.0K Circle · USDC • Ethereum — 1 wallet · $611.0K 💰 Largest: $611.0K USDC on Ethereum. 📅 Past 7 days: 125 frozen · 6 released. ⏱ On TRON a Tether freeze is a proposal plus a second signature, so it is visible on-chain before it lands — median 10 minutes of warning across 1,681 freezes we timed. 🔍 Check any wallet free: omnitraceapp.com submitted by /u/Slow_Squash3908 to u/Slow_Squash3908 [link] [comments]",
+      "author": "/u/Slow_Squash3908",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 46.72
+    },
+    {
+      "title": "Alpen partners with Circle to launch USDC and C... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVJOMU1iX3BqbVJxMzBEbEhrNkI1dVBQTkEzN1JjdkExdF9aOUtpUUIybGx6bHBUZkpLVEpQekphQmNWb3F3ZWpTSGVCa1VfVVJLNko0Skc4d0JMUGNpN0lHMDBjX2RHRm00ZEZoTWtxZHJMTDdqZHo0V3dfVkxsRWFlQ3p1eGdFbmw0WHpRVQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T03:30:09+00:00",
+      "snippet": "Alpen partners with Circle to launch USDC and C... Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 46.01
+    },
+    {
+      "title": "Circle's IPO CFO walks out days after Binance bought in at 5% off",
+      "url": "https://www.reddit.com/r/theinference/comments/1ws0hhs/circles_ipo_cfo_walks_out_days_after_binance/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-09-28T00:40:13+00:00",
+      "snippet": "TL;DR: Circle's CFO, who priced its $1.2 billion IPO, is leaving in December, days after Circle sold Binance $100 million of stock at 5% off. Fox-Geen's exit was filed the same Friday co-founder Sean Neville left the board, eight days after the discounted Binance sale, which also pays Binance a monthly fee to promote USDC. Bloomberg reports prosecutors are probing Binance over Iran sanctions. Nothing in the filings ties the exits to the deal, but the stock now sits about 11% below its IPO price...",
+      "author": "/u/Cyraxess",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 45.89
+    },
+    {
+      "title": "Circle seeks senior director to grow USDC stabl... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa256dzRzS1pfVzJDRmozc1htbUdxTDE3Y0NVUEp2ZlJZUGtXd0ZmeVNlZUJMUUJTdXQxZUFXUk5ibEdlTFRscTVsXzcwQUFSbG5vMzZHMmlkeTFMMU9raXF3c1VJWlZneDhNYnYyQ21LTWxtR3ZRTzVEOVdFeXZ6ODQ1R25KamxJYWp0cGY5dGJNMWZm?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T04:34:22+00:00",
+      "snippet": "Circle seeks senior director to grow USDC stabl... Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 44.8
+    },
+    {
+      "title": "Alpen Partners With Circle to Bring USDC, CCTP to Mainnet - tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqbEFmdlNLWHJ3TzV4Rl9ET3k2NjdlTXV4UTV2aGZEQUN4TlNsSHlDTU1QcDV1WGFDT1FSQmk4U0R6Q1FueG5peUJkRXZDWHRmek01S0pfaXpka2s?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T03:02:00+00:00",
+      "snippet": "Alpen Partners With Circle to Bring USDC, CCTP to Mainnet tokenpost.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 43.84
+    },
+    {
+      "title": "Why Circle and Tether Froze Only 0.08% of Assets in Bitget Hack - memeburn.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55N3ZsN2tfUTV4Zmh0SUNvTVBaLXI2YlNpUml4UTZwTFNmc1FMQVV0emdnRG03RVFEZS1rQ2dkd3AweWZkb3lJZUhDTUJ2RlVuREp3UENsdW1EVGdONERJcg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T02:26:22+00:00",
+      "snippet": "Why Circle and Tether Froze Only 0.08% of Assets in Bitget Hack memeburn.com",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 43.47
+    },
+    {
+      "title": "Analysts: Expanded Binance Partnership Strengthens Circle’s Hand Against Tether in Stablecoin Battle - eGamers.io",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTXNSY2ZKR1ZHdWdoTk4yNE95eE9ralNIaHNJS2VmV2tyMG0yNzhoMTVKazVRMlR4eEp0WmhJbG40emNsdWwzOF90UkE3bHVCakpORUUwQzZvWnVYZGgyUm1Eem9uWGhEanVnZlhuZjdNckEtVmpTWnhYaXAwVkdOdFA4cDdNOGQyNndWRkdrNllUVjB0ODlrTHlZWDZHcWpQVTA2UVpQQ2dHaS05X1R4ZlVGSDREdG8zWUE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T09:03:42+00:00",
+      "snippet": "Analysts: Expanded Binance Partnership Strengthens Circle’s Hand Against Tether in Stablecoin Battle eGamers.io",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 41.98
+    },
+    {
+      "title": "Circle gains Binance backing in USDC-Tether race - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ndG4tXzM0X2VMejloS3lOZkNyN2M3MVdFblA0ZDhXbjVac2NtczBXWnhLRzhDVWhRTW9hR2NCZ0lOaEs3ejFQM1lOUnQzYU9DTElGVmpxS3pNbmdMQTZHdHdVYXF5S0ZGSWEtWTBOVmhMdmhoRkgzNg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T07:03:11+00:00",
+      "snippet": "Circle gains Binance backing in USDC-Tether race Crypto News",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 38.85
+    },
+    {
+      "title": "Circle CFO Jeremy Fox-Geen to Step Down After Five Years as Stablecoin Firm Enters New Growth Phase - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN20wNjFVZ2JQVUJBRHVLSkpaYjcwYjM1ODhiMV9tLXVyclVZQXp4cm40eC04ajJIaTQ2UnBpZnc4ZGNNd2FWSWdSVlBxS3RtZFBvenBDRWo4UXRVbld6SDNqakJDXzd0dzdqZFVqTV9SOC1DMUtSX1NnMjAyc1JBRFl0bHI5MkNtb0tSZTJfTkFjRzhOSXR6aTNEdll1OUY3YUx3SVBIdWpTU1R3OHY2LUVhUTFwdXlxb2lBdzBxWWNuUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T15:21:51+00:00",
+      "snippet": "Circle CFO Jeremy Fox-Geen to Step Down After Five Years as Stablecoin Firm Enters New Growth Phase Tekedia",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 38.42
+    },
+    {
+      "title": "Asia's weekly TOP10 crypto news: South Korea Calls for KRW Stablecoin Liquidity Safeguards and Hana Bank Issues $100M Blockchain Digital Bonds and Top10 News - Substack",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UOE1EUHVuSnc3SE53S1J0ZFBfaUw5bVhwYm84ZEs5UUNLdXZCMllhTzFHemg2LVBVaHc1cktZbUkxR0ZyVURWRzZhYlZEdHJBbmQ2bVRLekVZby1RT0dGWFJQalpKSkZYbnpacElXTm5xcFpNd1h5ZzU5SQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T10:10:33+00:00",
+      "snippet": "Asia's weekly TOP10 crypto news: South Korea Calls for KRW Stablecoin Liquidity Safeguards and Hana Bank Issues $100M Blockchain Digital Bonds and Top10 News Substack",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 35.81
+    },
+    {
+      "title": "Quant (QNT) Surges 87% in 24 Hours, Reaches 373 USDT - tokenpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nWXlUTms2dGJseDk2VDZhX18wR1h6Z3lsb2g3c1p4UEg3QVBXaHMwZWR6Y3NqYWpOOEJuRTdTdkNTb0MxOFhnT2ZMemw3SW80bkNnSDZYWl9oZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T23:55:47+00:00",
+      "snippet": "Quant (QNT) Surges 87% in 24 Hours, Reaches 373 USDT tokenpost.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 34.4
+    },
+    {
+      "title": "An $84 million US asset seizure just sparked a massive question for Tether - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjd4MkRZWVhBbFE0TVNOVk9mRE5mX3hJUWVaYTRVZUJEbGticHdRVjFvRmpwV0MwdzJCOFlPdWU2TDdGRERJX0hFTnR2Q2JzM19oRk9ORDdyZHBRMXY0ZDZPbE5ocXB5T3AwTGx0azhsUkc5bEVpWmZpaXZ6bldyUVpYT0txY3dXS3ZwNnVmeV8xN1Q2ZGNpSXhrenM4Ulk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T21:15:14+00:00",
+      "snippet": "An $84 million US asset seizure just sparked a massive question for Tether CryptoSlate",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 32.73
+    },
+    {
+      "title": "Federal Reserve Proposes Stablecoin Rules Under the GENIUS Act - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0xGdmFtdEptMDFhdHJrRnRGeXJSQmJEb1c2QTNoMFV3MUc1VWI1Z2xfU1RSNHhOWEs2RV8zRFh2cW9FR0JZeTM0b2RKdVRZMV9fRnhyVl9HV2d6R1RtSzRDcTFhSzE1RlhQeWJ3b3RDdXVNZFQ0WXp2Wjl6U1dqTDRIZWI?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T04:48:14+00:00",
+      "snippet": "Federal Reserve Proposes Stablecoin Rules Under the GENIUS Act CryptoRank",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 32.45
+    },
+    {
+      "title": "Circle, Nomura Plan Stablecoin FX Settlement for Japan by 2027 - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNemZzWGg0ekF3TnpLTl8waWZiZVJiNWhhZUFWQ1hVcW5yckw2bkM2NDdkQzM0dlJyQ09iVklPNVl1R2lOX0RrMXVKNnU5cjIwSkRWdmxCTUlMZFZxSi15RzhiWWwyTjlBMFdrc3FzLTdNREJOcENycHo0bEFXUmI0aHg2b3FKZ2VOT1ZVRTI2LTRBR2lHTWVIWGlJdWQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T07:31:53+00:00",
+      "snippet": "Circle, Nomura Plan Stablecoin FX Settlement for Japan by 2027 CoinMarketCap",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.65
+    },
+    {
+      "title": "XRP Faces Pivotal Week as Tokenization Hype and Tether Turmoil Converge - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnR1JlQUtoTy1Hc25lY2hSRWgtZlEtbE8tRXM0cVFPLWtkSnN3SEI0cVc1QmVQOGZ3T1k1NnFRd3AxdUt1TFNVb1NyX1dwVjhva1F5MDlOU04wU0wzNktFMEh5V1FOZ0xXWnp1QXZnVmV1UUNyMkE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T18:17:00+00:00",
+      "snippet": "XRP Faces Pivotal Week as Tokenization Hype and Tether Turmoil Converge finance.biggo.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 30.87
+    },
+    {
+      "title": "SharpLink CEO to Paul Barron: Ethereum will be the \"uncensorable neutral rail\" for AI agents — the cleanest ETH bull case yet?",
+      "url": "https://www.reddit.com/r/TradeVerseNetwork/comments/1wrc9fo/sharplink_ceo_to_paul_barron_ethereum_will_be_the/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-09-27T05:55:21+00:00",
+      "snippet": "The quote. In an interview with Paul Barron, SharpLink ($SBET) CEO Joseph Chalom said Ethereum will play \"a very important role as that uncensorable neutral rail\" for AI agents. Why the messenger matters. Chalom is a 20-year BlackRock veteran — COO of BlackRock Solutions, then Head of Strategic Ecosystem Partnerships, where he architected the firm's crypto strategy: the Coinbase partnership, the iShares Bitcoin and Ethereum ETFs, the Circle/USDC reserve relationship, and BUIDL (the largest toke...",
+      "author": "/u/robot2trade",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 30.02
+    },
+    {
+      "title": "Binance's Bold Move Shakes Up the USDC Terrain - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuTldhV3ZTOFQwY0Q5Z0JFcHJ5S3dCWExzRWZTeXg5blg5NDgtTHdQbHBVRnhIVzNZa1VFQjk3bXFncm01SFpTWmFRTHU0QUJac01jQ3JzYWMySU9Zb3pMSnRyQnYzb2c5bVdrUUNxYllsT0pFMFhLVA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T16:35:31+00:00",
+      "snippet": "Binance's Bold Move Shakes Up the USDC Terrain OneSafe",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 29.82
+    },
+    {
+      "title": "South Korea weighs liquidity rules for won stablecoins - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3RkcVFDOEpaR1RidExwR2dpN1M3MnJJd1F2WmZueEhkdjI1eGhtWWdIMnpGTGx1cldVbEVDTmpfLXRSMUVTc0NWb0pfUFg5eGotNXJPLU03Y3ExbkNfemR3bWUwV3FnbHNxTXdES2h6Nl90SEFpcUc5cWpTdUpYYg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T07:22:36+00:00",
+      "snippet": "South Korea weighs liquidity rules for won stablecoins Crypto News",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 29.06
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to AED (UAE Dirham) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xR3VWX3RSY3gyMTFyc18zZkp4NjJQU3pNY1cxRTVBckE4ZklPd3BoODdQZ055eWZyLTZFWnhpekd5TjVGa3pQS3FvVzZwX1FBNkJCMnVXUHQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T03:06:54+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to AED (UAE Dirham) Bybit",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.89
+    },
+    {
+      "title": "Visa Adjusts Stablecoin Volume Metrics, But Payment Trends Remain Unclear - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjdpNlJYTC1CZXRfcFpNbUk2M3pBcHVGc3prNW9JWGhSUHhEN1RfMzBZTXBpWXY2YlR5MUtoQ09nM0JRdEJNcVh1SDhldEo1eURBV3p6ZUdIUHBhSWFTbzBiVzhtX1B1OTdMdFhpUzB5WmpXaFZpaERldzZSX0JpZFAyX3d4ZWVuV3lpY3JmWWJsbjQ4SHQteTZSNjRSWXNST3lJMVNUdU9PUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-27T14:11:01+00:00",
+      "snippet": "Visa Adjusts Stablecoin Volume Metrics, But Payment Trends Remain Unclear KuCoin",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.31
+    },
+    {
+      "title": "Circle and Tether Freeze $318,000 From Bitget Hack as Loss Rises to $387.5 Million - FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUlaOE15Vjh2ME9TQm1RVC1aenJwN0NrQXJrSHNBM25Udy1PMENoUTNBTlJaNHFSZ3R1bXkyQVpGZzUzdUJ0enI0THNtbVFOQTIycUR1c1VzbUJ3dkx5S0VQZy13Z1JvOU9DeGU4eU41eDhPTXZ3REZnNGFiSjAzNzVRbjhsVEtXdTdpck1admxrLWs2NXlENEJxdzlsamhxZ0l4NldkYTM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T16:57:51+00:00",
+      "snippet": "Circle and Tether Freeze $318,000 From Bitget Hack as Loss Rises to $387.5 Million FinanceFeeds",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 27.55
+    },
+    {
+      "title": "Convert 1 SGD (Singapore Dollar) to USDT (Tether USDT) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0MmViV0lrNkhKWkdZR3lXSktKREUzWExaMUs5eGpwUDRtSkJVSEl6UC1zMDdFREFoUDRudmZqMmlaQy12cnBCUW5yZWxVdTFERklYYUZQTzA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T23:42:23+00:00",
+      "snippet": "Convert 1 SGD (Singapore Dollar) to USDT (Tether USDT) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.76
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to VND (Vietnamese Dong) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xSF9zeGs1cHk5WmhERDV1ejhySlE3RkszMFUzZzVFdFBhdWRGUG5FOWNrOEpySUVvb1RCVmgzYlFUQThpM1V2SFlEeks5VjlzUmItMjFTY3Y?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T22:36:33+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to VND (Vietnamese Dong) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.08
+    },
+    {
+      "title": "Convert 1 RUB (Russian Ruble) to USDT (Tether USDT) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nSHpxcUpKV1g1YWJiMkpwVmh5dkZsYlN5MGhOSW9HM29Vc0FETzZPYXZGZzRqSXJTalhHN0NiQ19zWkNlbVdMbTRMUHRmWDF1bzFnSGg3cGE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T20:15:18+00:00",
+      "snippet": "Convert 1 RUB (Russian Ruble) to USDT (Tether USDT) Bybit",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 24.61
+    },
+    {
+      "title": "Convert 1 EUR (EUR) to USDT (Tether USDT) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81VGJmUTNsY0dGZi01NmVFS19uWGRabFVIN2tQRjR2RWpScVV3TWxGQ3RTRTg3VU9jVEdLTWoydTRqMmU1NGtkQnlUSFdMald4QkJXWGcwRFQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T19:39:39+00:00",
+      "snippet": "Convert 1 EUR (EUR) to USDT (Tether USDT) Bybit",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 24.23
+    },
+    {
+      "title": "Convert 1 NGN (Nigerian Naira) to USDT (Tether USDT) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCVVFkR2daLUY0cDFBdXZ3bDFhZVNuVnpSQXNBOWNoelJ5eVJpcUp5clJtY1FqdkpoUmhLN3JJV1M3LUNMQnB1MTEza3lMdHhBellWM2ZUZkU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T18:48:24+00:00",
+      "snippet": "Convert 1 NGN (Nigerian Naira) to USDT (Tether USDT) Bybit",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.7
+    },
+    {
+      "title": "Circle Stock Eyes Comeback Past $100 as Arc L1, USDC, and Bond Yields Jump - Circle Internet Group (NYSE - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGVYVFBLVkZJdHVtbTNnSlk3OXZfNmt6cEZNUGFmZWdmQ0J6Z3pDYWpMNFlVLVFHRHdaZUNEUHBxaGFtNXVBSFBPdnQ2YmlPVkRSUnM0NzB3S1VxRzNTOVpnT0puUlJibmluaUd2R3R2R2JvWW9Sa05ITU83bXRWYTdadUhfaGo3T1hrTlhTYXBQZjFrNjFmQUhPUXJsVzVwcVJrdG5uYUlET2J2SWlOYWdKeEx3UXk3bEpzR1FWbU9nVmRCY2p3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T18:46:05+00:00",
+      "snippet": "Circle Stock Eyes Comeback Past $100 as Arc L1, USDC, and Bond Yields Jump - Circle Internet Group (NYSE Benzinga",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 23.68
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to RUB (Russian Ruble) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rbWhGRjZHNW9qLUg1QV8yeVl3NVREMU0wTkFaaUI1VDdEbktnMVB3b2FQenFQUnJUVTR3dmZGcW5SM3d5eGtXTmw1Qk5oY1hlWHBzRzBfbWY?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T18:13:48+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to RUB (Russian Ruble) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.34
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to EUR (EUR) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pQ1lmVkdMRzdZLWJjY1M1b3U0bjlNd1dyY1pUbFJyMjdGMmROa0pYanJFY3k0bWlIUkFueVVodzRPelNUSVZBdXVhcHdPTUUyWXRWQXg3Smk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T18:13:31+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to EUR (EUR) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.34
+    },
+    {
+      "title": "BlackRock sagt: KI-Agenten brauchen Stablecoins. Die Realität sagt: 5.000 Dollar im Monat.",
+      "url": "https://www.reddit.com/r/SmartMoneySociety/comments/1wrhuhw/blackrock_sagt_kiagenten_brauchen_stablecoins_die/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-09-27T11:28:15+00:00",
+      "snippet": "BlackRock, der größte Vermögensverwalter der Welt, hat am 22. September ein Paper veröffentlicht, das eine neue Krypto-These aufstellt. Der Titel: \"The Machine-Native Economy\". Die Kernidee: KI-Systeme, die selbstständig Aufgaben erledigen, sogenannte KI-Agenten, werden eigenes Geld brauchen. Sie werden für Daten bezahlen, für Rechenleistung, für API-Zugriffe. Und dafür brauchen sie ein Zahlungsmittel, das rund um die Uhr funktioniert, programmierbar ist und keine menschliche Freigabe braucht....",
+      "author": "/u/Guardian2179",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 21.29
+    },
+    {
+      "title": "Socure Brings AI Identity Checks To Circle’s Arc Onramp - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHFxZ1c5eV90TlR4Nm5mZ19DeEk2OVJhRzFUMDd6WnFBZ21lYWFoWl9NODltOVBCbm5ONzU5R1c3SDUyRGNFRzlhNEdVSUEyTDY5MjBIWHRyLXR0NmJEYUN4Qi1RSXQwOW9KR19kUWVzSHNhbzNjR0FYSUF0YXMzNjEzbzNFcDV3ekFYLU9nbW5Id3NQLWh1TWNlaG1CdnNhTlJxUlNidzdTaDR6S2ZKemVzYw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T23:30:00+00:00",
+      "snippet": "Socure Brings AI Identity Checks To Circle’s Arc Onramp TradingView",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 19.13
+    },
+    {
+      "title": "Fed proposed stablecoin rule could trigger a 48-hour liquidation run - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ21FSHEtenYzMlZ3NnNCb3d0TlU0YTB4ZjVuNGZoZkZFUDRPbHdpN2RTeU1tUmNvRjUzZGxPS0Izb1ZFcC16V1owNW8zbm5tYzU0WUo5dDI0Y3M2LXhLMWI4QWhRTmpuY01Hc1BXdG5EcUNBZ1BsSVhwQUpvcUVIa091SEdhUUxjdmoybjItMjQ1dDJWWlFwVg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-26T17:55:58+00:00",
+      "snippet": "Fed proposed stablecoin rule could trigger a 48-hour liquidation run CryptoSlate",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 15.65
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 14,
+      "USDC": 9,
+      "Tether": 15,
+      "USDT": 9,
+      "Stablecoin": 10,
+      "Robinhood": 0
+    },
+    "platform_counts": {
+      "News RSS": 28,
+      "Reddit": 4
+    },
+    "risk_count": 7,
+    "top_risks": [
+      {
+        "title": "📊 Stablecoin freezes — last 24 hours",
+        "url": "https://www.reddit.com/r/u_Slow_Squash3908/comments/1wrgo48/stablecoin_freezes_last_24_hours/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-09-27T10:19:53+00:00",
+        "snippet": "📊 Stablecoin freezes — last 24 hours 🔴 1 wallet frozen · $611.0K Circle · USDC • Ethereum — 1 wallet · $611.0K 💰 Largest: $611.0K USDC on Ethereum. 📅 Past 7 days: 125 frozen · 6 released. ⏱ On TRON a Tether freeze is a proposal plus a second signature, so it is visible on-chain before it lands — median 10 minutes of warning across 1,681 freezes we timed. 🔍 Check any wallet free: omnitraceapp.com submitted by /u/Slow_Squash3908 to u/Slow_Squash3908 [link] [comments]",
+        "author": "/u/Slow_Squash3908",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Tether",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 46.72
+      },
+      {
+        "title": "Circle's IPO CFO walks out days after Binance bought in at 5% off",
+        "url": "https://www.reddit.com/r/theinference/comments/1ws0hhs/circles_ipo_cfo_walks_out_days_after_binance/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-09-28T00:40:13+00:00",
+        "snippet": "TL;DR: Circle's CFO, who priced its $1.2 billion IPO, is leaving in December, days after Circle sold Binance $100 million of stock at 5% off. Fox-Geen's exit was filed the same Friday co-founder Sean Neville left the board, eight days after the discounted Binance sale, which also pays Binance a monthly fee to promote USDC. Bloomberg reports prosecutors are probing Binance over Iran sanctions. Nothing in the filings ties the exits to the deal, but the stock now sits about 11% below its IPO price...",
+        "author": "/u/Cyraxess",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC"
+        ],
+        "sentiment": "risk",
+        "score": 45.89
+      },
+      {
+        "title": "Asia's weekly TOP10 crypto news: South Korea Calls for KRW Stablecoin Liquidity Safeguards and Hana Bank Issues $100M Blockchain Digital Bonds and Top10 News - Substack",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UOE1EUHVuSnc3SE53S1J0ZFBfaUw5bVhwYm84ZEs5UUNLdXZCMllhTzFHemg2LVBVaHc1cktZbUkxR0ZyVURWRzZhYlZEdHJBbmQ2bVRLekVZby1RT0dGWFJQalpKSkZYbnpacElXTm5xcFpNd1h5ZzU5SQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-27T10:10:33+00:00",
+        "snippet": "Asia's weekly TOP10 crypto news: South Korea Calls for KRW Stablecoin Liquidity Safeguards and Hana Bank Issues $100M Blockchain Digital Bonds and Top10 News Substack",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 35.81
+      },
+      {
+        "title": "Federal Reserve Proposes Stablecoin Rules Under the GENIUS Act - CryptoRank",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0xGdmFtdEptMDFhdHJrRnRGeXJSQmJEb1c2QTNoMFV3MUc1VWI1Z2xfU1RSNHhOWEs2RV8zRFh2cW9FR0JZeTM0b2RKdVRZMV9fRnhyVl9HV2d6R1RtSzRDcTFhSzE1RlhQeWJ3b3RDdXVNZFQ0WXp2Wjl6U1dqTDRIZWI?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-27T04:48:14+00:00",
+        "snippet": "Federal Reserve Proposes Stablecoin Rules Under the GENIUS Act CryptoRank",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 32.45
+      },
+      {
+        "title": "SharpLink CEO to Paul Barron: Ethereum will be the \"uncensorable neutral rail\" for AI agents — the cleanest ETH bull case yet?",
+        "url": "https://www.reddit.com/r/TradeVerseNetwork/comments/1wrc9fo/sharplink_ceo_to_paul_barron_ethereum_will_be_the/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-09-27T05:55:21+00:00",
+        "snippet": "The quote. In an interview with Paul Barron, SharpLink ($SBET) CEO Joseph Chalom said Ethereum will play \"a very important role as that uncensorable neutral rail\" for AI agents. Why the messenger matters. Chalom is a 20-year BlackRock veteran — COO of BlackRock Solutions, then Head of Strategic Ecosystem Partnerships, where he architected the firm's crypto strategy: the Coinbase partnership, the iShares Bitcoin and Ethereum ETFs, the Circle/USDC reserve relationship, and BUIDL (the largest toke...",
+        "author": "/u/robot2trade",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC"
+        ],
+        "sentiment": "risk",
+        "score": 30.02
+      },
+      {
+        "title": "South Korea weighs liquidity rules for won stablecoins - Crypto News",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3RkcVFDOEpaR1RidExwR2dpN1M3MnJJd1F2WmZueEhkdjI1eGhtWWdIMnpGTGx1cldVbEVDTmpfLXRSMUVTc0NWb0pfUFg5eGotNXJPLU03Y3ExbkNfemR3bWUwV3FnbHNxTXdES2h6Nl90SEFpcUc5cWpTdUpYYg?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-27T07:22:36+00:00",
+        "snippet": "South Korea weighs liquidity rules for won stablecoins Crypto News",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 29.06
+      },
+      {
+        "title": "Circle and Tether Freeze $318,000 From Bitget Hack as Loss Rises to $387.5 Million - FinanceFeeds",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUlaOE15Vjh2ME9TQm1RVC1aenJwN0NrQXJrSHNBM25Udy1PMENoUTNBTlJaNHFSZ3R1bXkyQVpGZzUzdUJ0enI0THNtbVFOQTIycUR1c1VzbUJ3dkx5S0VQZy13Z1JvOU9DeGU4eU41eDhPTXZ3REZnNGFiSjAzNzVRbjhsVEtXdTdpck1admxrLWs2NXlENEJxdzlsamhxZ0l4NldkYTM?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-26T16:57:51+00:00",
+        "snippet": "Circle and Tether Freeze $318,000 From Bitget Hack as Loss Rises to $387.5 Million FinanceFeeds",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "Tether"
+        ],
+        "sentiment": "risk",
+        "score": 27.55
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Tether",
+        "count": 15,
+        "headline": "📊 Stablecoin freezes — last 24 hours",
+        "url": "https://www.reddit.com/r/u_Slow_Squash3908/comments/1wrgo48/stablecoin_freezes_last_24_hours/"
+      },
+      {
+        "entity": "Circle",
+        "count": 14,
+        "headline": "📊 Stablecoin freezes — last 24 hours",
+        "url": "https://www.reddit.com/r/u_Slow_Squash3908/comments/1wrgo48/stablecoin_freezes_last_24_hours/"
+      },
+      {
+        "entity": "Stablecoin",
+        "count": 10,
+        "headline": "📊 Stablecoin freezes — last 24 hours",
+        "url": "https://www.reddit.com/r/u_Slow_Squash3908/comments/1wrgo48/stablecoin_freezes_last_24_hours/"
+      },
+      {
+        "entity": "USDC",
+        "count": 9,
+        "headline": "📊 Stablecoin freezes — last 24 hours",
+        "url": "https://www.reddit.com/r/u_Slow_Squash3908/comments/1wrgo48/stablecoin_freezes_last_24_hours/"
+      },
+      {
+        "entity": "USDT",
+        "count": 9,
+        "headline": "Quant (QNT) Surges 87% in 24 Hours, Reaches 373 USDT - tokenpost.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nWXlUTms2dGJseDk2VDZhX18wR1h6Z3lsb2g3c1p4UEg3QVBXaHMwZWR6Y3NqYWpOOEJuRTdTdkNTb0MxOFhnT2ZMemw3SW80bkNnSDZYWl9oZw?oc=5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 853,
+      "kept": 28,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 8,
+      "kept": 4,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 36,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
