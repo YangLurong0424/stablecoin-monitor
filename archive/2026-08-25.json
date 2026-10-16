@@ -1,0 +1,313 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T01:38:26.647723+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+      "url": "https://www.reddit.com/r/RWATimes/comments/1vxfcou/bernstein_sees_new_usdc_growth_cycle_sets_140/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-24T21:00:11+00:00",
+      "snippet": "Bernstein expects stablecoin adoption to benefit from regulatory clarity, tokenized capital markets, crypto activity and emerging payment use cases. Bernstein analysts are optimistic about Circle's USDC stablecoin, predicting a new growth cycle driven by regulatory clarity, tokenized markets, and increased crypto activity. USDC has shown signs of 'digital dollar reflation' with a recent $2 billion supply increase, and its transaction volume share has grown significantly, surpassing Tether's USD...",
+      "author": "/u/rwatimes",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 48.67
+    },
+    {
+      "title": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
+      "url": "https://www.reddit.com/r/WhatTrumpHasDone/comments/1vx6887/how_trumps_crypto_push_is_linked_to_bessents/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-24T15:36:24+00:00",
+      "snippet": "Treasury Secretary Scott Bessent’s mission to tame the bond market could get help from another Trump administration push: crypto legislation. Last week, the U.S. Treasury announced larger buybacks of longer-term bonds. That can be funded by increasing issuance of shorter-term Treasury bills, or what Bessent, speaking on CNBC, called a Treasury twist. In that context, it is notable that Bessent has in the past talked about a big potential new source of demand for Treasury bills: stablecoins. The...",
+      "author": "/u/John3262005",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 32.97
+    },
+    {
+      "title": "Crypto Hacks Drain $15M in a Week as Maya, BounceBit, Sandbox & Term Labs Fall",
+      "url": "https://www.reddit.com/r/u_Patient_Craft2195/comments/1vx01un/crypto_hacks_drain_15m_in_a_week_as_maya/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-24T11:24:09+00:00",
+      "snippet": "From August 17–23, crypto hackers stole over $13 million across five major exploits, exposing vulnerabilities from cross-chain bridges to DeFi governance. The week of August 17 to August 23, 2026 delivered another punishing stretch for crypto security, with at least five confirmed on-chain exploits combining to drain more than $13 million in verified direct losses. The damage was spread across a cross-chain liquidity protocol, a stablecoin bridge, a Bitcoin restaking Layer 1, a metaverse token’...",
+      "author": "/u/Patient_Craft2195",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 30.87
+    },
+    {
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-08-23T15:00:00+00:00",
+      "snippet": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
+      "author": "Francisco Rodrigues",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.37
+    },
+    {
+      "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
+      "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-08-24T11:36:55+00:00",
+      "snippet": "The London-based multinational bank with $850 billion in assets announced it will distribute Anchorpoint's HKDAP to eligible clients and partners.",
+      "author": "Olivier Acuna",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.42
+    },
+    {
+      "title": "Bitcoin Stalls a Cent Below $80,000 as Altcoins Give Back Weekend Gains",
+      "url": "https://thedefiant.io/news/markets/bitcoin-stalls-a-cent-below-usd80-000-as-altcoins-give-back-weekend-gains",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-08-24T21:26:43+00:00",
+      "snippet": "Bitcoin touched $79,999.99 on Coinbase before easing, its highest level since May, while 80 of the 123 largest non-stablecoin tokens fell on the day. Total crypto market value declined even as bitcoin rose.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.1
+    },
+    {
+      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-08-24T04:45:00+00:00",
+      "snippet": "The firm raised $68 million as its revenue has grown six-fold as stablecoin payments and settlement expand, CEO Mohammad Raafi Hossain told CoinDesk.",
+      "author": "Krisztian Sandor",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 24.2
+    },
+    {
+      "title": "Japan’s SBI leads $68M Fasset round at $1B valuation",
+      "url": "https://cointelegraph.com/news/sbi-fasset-round-1b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-24T11:25:26+00:00",
+      "snippet": "Fasset raised $68 million in a Series C led by SBI Group as the companies plan a digital bank in Malaysia and to expand stablecoin payments.",
+      "author": "Cointelegraph by Yohan Yun",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.02
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 1,
+      "USDC": 2,
+      "Tether": 1,
+      "USDT": 1,
+      "Stablecoin": 8,
+      "Robinhood": 0
+    },
+    "platform_counts": {
+      "RSS Feed": 5,
+      "Reddit": 3
+    },
+    "risk_count": 2,
+    "top_risks": [
+      {
+        "title": "How Trump’s Crypto Push Is Linked to Bessent’s Treasury Moves",
+        "url": "https://www.reddit.com/r/WhatTrumpHasDone/comments/1vx6887/how_trumps_crypto_push_is_linked_to_bessents/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-08-24T15:36:24+00:00",
+        "snippet": "Treasury Secretary Scott Bessent’s mission to tame the bond market could get help from another Trump administration push: crypto legislation. Last week, the U.S. Treasury announced larger buybacks of longer-term bonds. That can be funded by increasing issuance of shorter-term Treasury bills, or what Bessent, speaking on CNBC, called a Treasury twist. In that context, it is notable that Bessent has in the past talked about a big potential new source of demand for Treasury bills: stablecoins. The...",
+        "author": "/u/John3262005",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 32.97
+      },
+      {
+        "title": "Crypto Hacks Drain $15M in a Week as Maya, BounceBit, Sandbox & Term Labs Fall",
+        "url": "https://www.reddit.com/r/u_Patient_Craft2195/comments/1vx01un/crypto_hacks_drain_15m_in_a_week_as_maya/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-08-24T11:24:09+00:00",
+        "snippet": "From August 17–23, crypto hackers stole over $13 million across five major exploits, exposing vulnerabilities from cross-chain bridges to DeFi governance. The week of August 17 to August 23, 2026 delivered another punishing stretch for crypto security, with at least five confirmed on-chain exploits combining to drain more than $13 million in verified direct losses. The damage was spread across a cross-chain liquidity protocol, a stablecoin bridge, a Bitcoin restaking Layer 1, a metaverse token’...",
+        "author": "/u/Patient_Craft2195",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 30.87
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 8,
+        "headline": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1vxfcou/bernstein_sees_new_usdc_growth_cycle_sets_140/"
+      },
+      {
+        "entity": "USDC",
+        "count": 2,
+        "headline": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1vxfcou/bernstein_sees_new_usdc_growth_cycle_sets_140/"
+      },
+      {
+        "entity": "Circle",
+        "count": 1,
+        "headline": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1vxfcou/bernstein_sees_new_usdc_growth_cycle_sets_140/"
+      },
+      {
+        "entity": "Tether",
+        "count": 1,
+        "headline": "Bernstein sees new USDC growth cycle, sets $140 Circle price target",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1vxfcou/bernstein_sees_new_usdc_growth_cycle_sets_140/"
+      },
+      {
+        "entity": "USDT",
+        "count": 1,
+        "headline": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+        "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 503: Service Unavailable"
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 7,
+      "kept": 3,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 3,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 58,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
