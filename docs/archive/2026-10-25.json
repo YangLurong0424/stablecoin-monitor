@@ -1,0 +1,904 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T04:11:23.422694+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "Stablecoin Regulation Shifts: New Reserve Rules for Business - OneSafe.io",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekc3V2xXeXJRR3R0RUc0LV9XV25icTZFdGplT3FBMklfUjU3OFRLNkE2UXlZd1JzUUtBVUxuSXZoVG55VURKVHRDcEFuZFdxaW03ek1SNElyUU0yTXRnaWl6SWpBY1BTaEl0OHVOV1AwelZVNXZFRzRuVnVwd0FXUk9XR0Y4dw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T02:29:42+00:00",
+      "snippet": "Stablecoin Regulation Shifts: New Reserve Rules for Business OneSafe.io",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 46.44
+    },
+    {
+      "title": "Stablecoin Regulation Shifts as Qivalis Gets MiCA License - OneSafe.io",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MRllPVHloVFhReXg4d04zR2Z0VGdTZ3huQlpSMGw3MHVkODVlXzNBaXJ1RVRvTDY5RGNERG1QUGVvTGJyb0owd0c2SHR3NWNfdFFVX0dvSjRvTFM1V1VybldPU2RNSG1kdFd1UFhjYTZ6WjdJeW9UeGFn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T02:07:26+00:00",
+      "snippet": "Stablecoin Regulation Shifts as Qivalis Gets MiCA License OneSafe.io",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 46.2
+    },
+    {
+      "title": "The OCC just confirmed GENIUS stablecoins can't pay you yield, so all the yield moves into the protocols",
+      "url": "https://www.reddit.com/r/defi/comments/1xe5ucl/the_occ_just_confirmed_genius_stablecoins_cant/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-10-24T11:06:09+00:00",
+      "snippet": "OCC interpretive letter dropped Oct 21 confirming permitted stablecoin issuers can't pay holders any interest or rewards just for holding. Circle and the rest keep the full T-bill yield on reserves, you get a dollar token that does nothing on its own. This pushes onchain yield into the protocol layer. If you want paid you hold sUSDe, parking in Aave, or locking a fixed rate with a Pendle PT, and the compliant stablecoin becomes a settlement venue Does this kill the reason to hold USDC directly,...",
+      "author": "/u/Bluejumprabbit",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 45.45
+    },
+    {
+      "title": "Reserve Composition and Design in Stablecoin Regulation - orfonline.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObF95UUtJM1NodkVkNGVjUmV5cW9uZnJsdDdMYjkzTVhlNmFXNzE5NWJxR19mdExJQTg5UXA3cDBNQnJBZEZDVl9vNmI5RGcxZTRxTU5xdVlqQTFxXzRwa250YlNUdnZNTWdfRDlUTmF3M2Zha3pIdFJjT2FydUhKRS0tVWVDNEFUaDZiZ2s3NTluYXVWUm55MEJn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T18:36:28+00:00",
+      "snippet": "Reserve Composition and Design in Stablecoin Regulation orfonline.org",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 41.51
+    },
+    {
+      "title": "Circle’s new USDC auctions let institutions collect the fees others pay to cash out - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa09BakVWcjhPeWtoRGtaOFY4bGpuRm44a1U0ZnhrR2pET0pnS010ZkZPWWpGVm5VQldBbkdza20zdDdTdV90R2Z6RkgxbDBTRXgxbmpyMm5Sd2tBSUlqd3NDU3g3VlJGcUVNNG1hcXBlVkVvX0tMS0RKSG80X3R4d25kWnllX3FwbFBuZEZ6UG5EVHpsZnhYYWlXZnpfVmlTbVFSb0E2NEo5cnc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T20:00:46+00:00",
+      "snippet": "Circle’s new USDC auctions let institutions collect the fees others pay to cash out CryptoSlate",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 39.88
+    },
+    {
+      "title": "Aster launches USDC-based perpetual markets for BTC, ETH, and SOL to boost stablecoin use in trading - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVd5WTNtLWlqQ3c2MjdjSjh6ZWZaRF8tVFVlSW4zdERuY2NYQXg4ZDlDYmMwSU84VDRTLUVkZDZSUGFJcmplQUxqZFlqel9TMjFPVGNVdzZjdXZyRGN3aWo2eDFGcGdFTloteGhlRzdzMHB4Nmc1ODRQZElTOS1HNzRvVXFOb1pLdUU0WFRUSWRtbG5jLXlVVkZocHNfYlVTS2NVcjB1UQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T14:29:24+00:00",
+      "snippet": "Aster launches USDC-based perpetual markets for BTC, ETH, and SOL to boost stablecoin use in trading Pluang",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 38.31
+    },
+    {
+      "title": "USDC stablecoin circulation drops by 500 millio... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOclkweS1mMUhId0RJY0tsaFJpcllMQ0dZenlBclJiUjdybUZYYm14Q1NHWm9MZzgxb1BPc3Y0UHEzOWVyYkVvZWY3bXg4OG1kekJvZXc0ZkxmS19mOWY2aDlodmxKdU5iSWJIam11TE1zck1UNmdPT1VVR3ZrZFM5TXRMSXQycG1ibTNkel9xUXd4ZGM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T16:48:13+00:00",
+      "snippet": "USDC stablecoin circulation drops by 500 millio... Pluang",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 37.88
+    },
+    {
+      "title": "OCC Stablecoin Rules: What Global Businesses Need to Know - OneSafe.io",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02VUcwTjhzaVhLOTZob00wWGhLVGtOOExlUUtWU29saU9ZTTdYbXZGNENPUXp2OFZSbVctODVta3F0aVoyMDktQUxSMFNKS2VNSE5jSEtBRnh1bFZ4d2hKMGtQaHltcEQ3ekdyRUVVc2trZFZPcmFQdA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T00:54:28+00:00",
+      "snippet": "OCC Stablecoin Rules: What Global Businesses Need to Know OneSafe.io",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 35.44
+    },
+    {
+      "title": "Stablecoin News: Morpho Unlocks Loans Against Robinhood Stock - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2p2VUJITHZtNXpZdEJXQjQ2X3RIaEJCTmZBMW9ReFNRWmFGb2libjBsLW9LVnFUNlprNm4xYkgxQzZrNXF3cjc5SThyTkZtV2FINmEzZUFrYTlFalY0ZG9kMGZJVURGSzYxeFRrcGlNRlNqM0ZvVzZUeW9ZYnlwcWt4REZYMTJkVTh1U3hGcDAtdmIteFczUnlNM0k?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T12:04:10+00:00",
+      "snippet": "Stablecoin News: Morpho Unlocks Loans Against Robinhood Stock openPR.com",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin",
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 34.92
+    },
+    {
+      "title": "South Korea’s stablecoin push raises questions about a potential crypto rally - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CdHozdWpRTjJBa0dVZUNVNVpUQU5XZldULVRoODZsbHVNRmtzZmFxU2NDNHp3VkIxejNUTlliR0taMUVWbjVZcG00X1NxaVM0N3l6ZEhUZFhrLUk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T23:11:15+00:00",
+      "snippet": "South Korea’s stablecoin push raises questions about a potential crypto rally Cryptonews.net",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.37
+    },
+    {
+      "title": "Circle Shareholder Sues Trump Over $2 Billion USD1 Deal",
+      "url": "https://www.reddit.com/r/MarketVibe/comments/1xe1h6t/circle_shareholder_sues_trump_over_2_billion_usd1/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-10-24T06:38:32+00:00",
+      "snippet": "A Circle shareholder has filed a lawsuit against Donald Trump, World Liberty Financial and Steve Witkoff over financial deals involving the USD1 stablecoin. The case focuses on a $2 billion investment by Abu Dhabi’s MGX into Binance in 2025. The deal used USD1, a stablecoin issued by Trump’s family-linked crypto company, World Liberty Financial. The lawsuit also mentions a reported $500 million deal in which an investment group linked to an Abu Dhabi royal acquired 49% of World Liberty Financia...",
+      "author": "/u/BozEx_12",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 33.22
+    },
+    {
+      "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjJxeDY0V3VqcVJhdnVlVWF2cER6QWNwbEE1dmhLZGs5WTVSbk5faFRrQ0ZLVERmdjRKMTQyYmJLWnJFZEpuLVp0TExUUFNQSFdKRmowZTFSQ1gxdjhrMi0wdzg2VFk5aVJtaXZxVjVleWJrckNwdWR2TzI1ZVNnQmZpYUl4cnlKRTVMcUZwQTZSdGtP?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-23T19:13:23+00:00",
+      "snippet": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows The Defiant",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 29.39
+    },
+    {
+      "title": "NYSE Highlights OCC's Final Rule for Payment Stablecoin Issuers - TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uX0FLd1ZJdUhaMVhiUXdOeFhsekt1emZoVGtFOGFZRmJqOG15ODVkQnMxYWFSUDNSUzZsVVVlLUpZejREeEJpejJOVEZmdHpNR3luVHBxR2xOYW8?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T05:59:28+00:00",
+      "snippet": "NYSE Highlights OCC's Final Rule for Payment Stablecoin Issuers TOKENPOST",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 28.62
+    },
+    {
+      "title": "Circle Shareholder Sues Trump and World Liberty Financial Over UAE-Linked Crypto Deals - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTFCWkhaUWdWLU1EOHdOckIwT1JYdzZ5SUtNMTZXWUEwZk1KX2FHWnNEUFhiakN3MjNIWm1mdWMwdFFwOGpqVngycExNbEhlWjJVc0xUMmh6OUxmMS1UajNkdnJiNXg1ellkNXZjY0t5TjE0Q1FYUkdrM3F5UGZlanl5NzkwRzcySHdxaTYwT3dPaGdpbjlBOU9ldlRiMjNXVFVJZWlwMEpWVEYzWWhVTA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T05:14:47+00:00",
+      "snippet": "Circle Shareholder Sues Trump and World Liberty Financial Over UAE-Linked Crypto Deals Tekedia",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "risk",
+      "score": 28.16
+    },
+    {
+      "title": "Senate Democrat probes Tether over alleged payments to ex-Trump crypto advisor - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUWZtNVlDREVUVm5sOHZZSWxhblhsQkphMlZ3UFcxZ0J1TjdHWnREbVRfaDVoOXNYVWE0Y3BFVUFlaGFzLW9DTFBxT29qSmUxNURZNmZnT0YxYU02NjVpcWw1bXFLc2xQVkl1X0RzNEt0ek9qZUl6RkhFQ3ZzdTc5VXVyZmxjaXZpeFF5VG1fZWh3cVJxY2VJWXlOSHhMYVRBT1VV?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T12:00:06+00:00",
+      "snippet": "Senate Democrat probes Tether over alleged payments to ex-Trump crypto advisor AMBCrypto",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 27.38
+    },
+    {
+      "title": "New OCC stablecoin rule resets redemptions, and banks face big shifts - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkaTRMQ1Rrak5HWkNqM0xORmxaUDEtQWZXakJrTDhmRVNPbW5nSzkwT0ZBNldfSGhnRk5tLUFMYUdGV2VzSVllR2VNNURHOWRiTEJaTnpB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T03:38:25+00:00",
+      "snippet": "New OCC stablecoin rule resets redemptions, and banks face big shifts Cryptonews.net",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 27.15
+    },
+    {
+      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-10-24T13:01:02+00:00",
+      "snippet": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+      "author": "Jose Antonio Lanz",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 26.41
+    },
+    {
+      "title": "Crypto Update: OCC Finalizes Stablecoin Rules as Remittix Plans a 20% Supply Cut, With XLM and CRO in Focus - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVzFVNmtrcnZwQVlTbWl1cnVTMmNVQTBUY0NDdnhVdzE4S3hPTVVPU2RNLWdYNGkzSmhTaWNVUGRYOUtsUUI4SmhiTDVuQkxVM01XRG9Fc29RVUN2anVSVEkzNS1CZTlhdENLb0pQUUZrZ0NwT1RHR3NIVF9NSzY1cFNNeWxXdFR0c0tocl9RZkZHRk9BRFZPdWl1aXhaYWdpblhzR0Z2ZThUMEtkZHVuVXFxZGNsWkZnS0NiNmZKVzZ3ajY1ajc2MFpIWGNORks1QTZfZmo4bVlhNklPZkh5U2o1NFJkNTh4VDg1TTZrOFQ4U0VFQ2t0ck1RdzNOYy1vMGlN?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T10:06:10+00:00",
+      "snippet": "Crypto Update: OCC Finalizes Stablecoin Rules as Remittix Plans a 20% Supply Cut, With XLM and CRO in Focus StreetInsider",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.19
+    },
+    {
+      "title": "Stablecoin Payments Get a Unified Balance Upgrade - OneSafe.io",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEZHVGk4XzFjY2VEUk1HS1VKN2MtaGdyaFAyeXh0TVVVY3I1U212STRfV0g0YjZKUDFNc21zTlhXMVdMdW9CNG0xV2lGVVl3UVh4VE5vUW5HVEZkSTFBQWpwcExtOXF3dnh3YlpCd3A3c3BTNnpwYkJmRjIwel9WN0QtSVM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T06:05:47+00:00",
+      "snippet": "Stablecoin Payments Get a Unified Balance Upgrade OneSafe.io",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 25.56
+    },
+    {
+      "title": "X100 Exploit Nets 4.85 Million USDT After Governance Takeover",
+      "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-10-24T14:58:09+00:00",
+      "snippet": "Two transactions turned treasury tokens and liquidity positions into USDT; Blockaid warned that the Ethereum attack was ongoing.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 24.65
+    },
+    {
+      "title": "Coinbase will make USDC the default stablecoin on 82 million Galaxy phones - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRGZPU0E5V1pjVC10LUltRFRQalZWVjF1V0NlSEdMZzNDdjBpc2RqN2tsWDJTMERxcEdGNkRFRm56VldxZlNtUFE1WU1ubG5qbUl6d0pGY1pnUXVWQTdGS3FZZktsQk1XeTltUWZFOF9kQ2VCdUZlQUlQejZqcy1ScFVpa0JnSnpGWFdoWk1YNWZ5cEI1V093MnZsODlGTjc3bHBpXw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-23T19:05:33+00:00",
+      "snippet": "Coinbase will make USDC the default stablecoin on 82 million Galaxy phones Startup Fortune",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.31
+    },
+    {
+      "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
+      "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-10-24T19:41:15+00:00",
+      "snippet": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.17
+    },
+    {
+      "title": "Circle internet group cfo fox-geen disposes of $1.35m in stock - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGZqdjVRQng5VFFVdFFyb3d6ZkhDdk9raWU4eVhLNm1IS3NTN1BhYlZ6S1lJQkJpYmpJaDhCVVQ5VmE0ZEVTRlhWRkNBR1g1SG43NC1WTDRiVS1zbzZsNVVBOXlpMnZRLXNFZ2VvbHNUazRkLWxLOVU3aGN5aExibUk1R3hORUpKcmhBRkxyYUltbGpRSmhxd2JXYmNaTHN5aFJUWTB6UFJFdGtwcHZkblZSZzNqYUFTbzljemV2N2Vsdw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-24T05:06:23+00:00",
+      "snippet": "Circle internet group cfo fox-geen disposes of $1.35m in stock Investing.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 23.07
+    },
+    {
+      "title": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jOElOU1hnUjdGdFpPbmtnNFFqc3VnaW9SS09pcWFzZjF0QXFIU2JfWTBmQ1licVJCZ21IaUNGZzM5SXJhQkhIWVExdW1HOXpoY3FqYWhfTQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-23T20:32:54+00:00",
+      "snippet": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 22.72
+    },
+    {
+      "title": "Third X100 Exploit Transaction Pulls 550,000 X From Uniswap Pool",
+      "url": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-10-24T15:17:43+00:00",
+      "snippet": "A different sender routed about 549,916 X and 1,909 USDT to a new beneficiary, while the affected pool held less than 200 USDT.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 21.19
+    },
+    {
+      "title": "NYSE Announces Regulatory Clarity for Payment Stablecoins - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBZWMzMGxFSWRaa0F1aTNPT2VrSTA1cHVPa1I0NXdfMUhiVUt5clVtNzZ0N0dCQ1BrMEVEUUFBeUdYWEp3aVZnZkFoenNESi1zTlQzc3dB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-23T22:47:54+00:00",
+      "snippet": "NYSE Announces Regulatory Clarity for Payment Stablecoins Cryptonews.net",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 19.13
+    },
+    {
+      "title": "Ottawa is softening its ban on stablecoin yield - The Logic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50UjVCMF9jcVlIUm1ZQ2VVeGx0ekx0YlhlZ3pJZXNvVEhXcU5qYUFWNEU3c1ljbXp2eVBvQTlMb3MtN1JTZlA5MFcxNmg1NVdlY1NYQ3B2UXdWRWFLMlloaDV4azEteFpJNFZv?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-23T22:37:00+00:00",
+      "snippet": "Ottawa is softening its ban on stablecoin yield The Logic",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 19.01
+    },
+    {
+      "title": "Ethereum Price Prediction: ETH’s Stablecoin Role Puts Yield in Focus as Remittix Earn Readies Aave, Morpho and Maple Finance Pools - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQbTV2SHl6dkZuUDI0TU5jRjFYdGpCSDE0OFYyaHpJQTRRVzNPVW9pVnltVVhnV25qOUVpbUctYlJydzV3Q3AtbC1xRlpVOG5QSkVDbWJYUERwU1JjSjFDa2djVm5kZHNMeUVROHQ5aHhFNE5Bc1hGby1pdFNfcGFIVHFOc1JFbDVsTUJOTkF0aGVZMi1fT1Z1emp0QVd2TXoySHpWT2EtTXdHaDVnYkh1RHB6aUVXOE5WTnhfRjA2d2Vmd3RLNXM0NGpwTHFHVXlWbnQ4MHFDVERTNmZTaUlieTJfTUk5d3RmZHpNVU1lSzBkQTI3Rnh6ZGJRR2NqTXNmY0lHSk5iMGp0M0NpQ3ZMZVhTbWNzTElwbDhzVlFZakJhMFBKWjk2OHVn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-23T22:12:10+00:00",
+      "snippet": "Ethereum Price Prediction: ETH’s Stablecoin Role Puts Yield in Focus as Remittix Earn Readies Aave, Morpho and Maple Finance Pools StreetInsider",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 18.75
+    },
+    {
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-10-23T17:42:12+00:00",
+      "snippet": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.",
+      "author": "Cointelegraph by Turner Wright",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 17.59
+    },
+    {
+      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUhwOUI4T2ZfZFd0V1B3N05fTjJrYnpKRWYweFVWQ1BrTEYtMFc5cDR1MFoyajN0SGVUVWF4NHdRdkZtZ0E3RzF0dVJnVHdOSDI1czZmMmlESE9QQldnVUROZXhaTjlPZDF4S3BQX0RxRi1CQmRrWXE1WnJ1TWM3V2tIM2xyUHZZYzJzMVhNN3Q?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-23T20:16:02+00:00",
+      "snippet": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm Decrypt",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 17.54
+    },
+    {
+      "title": "What Is the Tether Inquiry? Reported $6.3M Nxum Deal and Policy Risks - Bitcoin Foundation",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkNKeXNDOHlaTkF2VWQ2MVVxZ08tRGpid0E0dENuRXU0Qm9pX1JzUGViQlo4ME5KYmFyTlhVVTh5dWwzejhuRHdnaXBkNms4RFAxSzVnWnNpUkRnckZablMwazhMQTQ5bnBrclZoZFRsTU1CcXg4YXdfUUdoTWtnM2otcC1manRtN1R4Y0Yxa1BnMkdSNU9ZSWUwTXk1c19XNjEzeUVtR3psbTRUQ0ZpM0JtaUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-23T19:54:47+00:00",
+      "snippet": "What Is the Tether Inquiry? Reported $6.3M Nxum Deal and Policy Risks Bitcoin Foundation",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 17.32
+    },
+    {
+      "title": "Singapore’s BLOOM Adds Malaysian and Thai Central Banks, but MAS Names No Token",
+      "url": "https://unchainedcrypto.com/singapores-bloom-adds-malaysian-and-thai-central-banks-but-mas-names-no-token/",
+      "source": "Unchained",
+      "platform": "RSS Feed",
+      "published": "2026-10-24T03:35:00+00:00",
+      "snippet": "Mastercard, Airwallex and the World Bank Group are among the newcomers, though MAS's release leaves out any stablecoin, pilot or launch date. The post Singapore’s BLOOM Adds Malaysian and Thai Central Banks, but MAS Names No Token appeared first on Unchained .",
+      "author": "Unchained",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 17.27
+    },
+    {
+      "title": "Licensing process is key to yield in OCC stablecoin rule - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaG9TVmZETjg0ZmlMZ3hxS1I4aWhOQmZnaFQ1WGNaM3JCWVBkbU9pYzl5RHZ1S0pFejQ2R05FX3ZnUDlaWkYybDctY1lPRC13MHczMWo0aEktN3NLbC04WHp0SGZtbnBEbEU2VVd1Z25qNl9nVEJjOGo2RHNPWVRpYVluQUZaUjBfYXVhcnpIbG90VzJ3UDRv?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-23T16:38:00+00:00",
+      "snippet": "Licensing process is key to yield in OCC stablecoin rule American Banker",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 15.27
+    },
+    {
+      "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
+      "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-10-23T16:19:13+00:00",
+      "snippet": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 10.86
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 5,
+      "USDC": 5,
+      "Tether": 5,
+      "USDT": 4,
+      "Stablecoin": 23,
+      "Robinhood": 1
+    },
+    "platform_counts": {
+      "News RSS": 25,
+      "RSS Feed": 7,
+      "Reddit": 2
+    },
+    "risk_count": 13,
+    "top_risks": [
+      {
+        "title": "Stablecoin Regulation Shifts: New Reserve Rules for Business - OneSafe.io",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekc3V2xXeXJRR3R0RUc0LV9XV25icTZFdGplT3FBMklfUjU3OFRLNkE2UXlZd1JzUUtBVUxuSXZoVG55VURKVHRDcEFuZFdxaW03ek1SNElyUU0yTXRnaWl6SWpBY1BTaEl0OHVOV1AwelZVNXZFRzRuVnVwd0FXUk9XR0Y4dw?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-25T02:29:42+00:00",
+        "snippet": "Stablecoin Regulation Shifts: New Reserve Rules for Business OneSafe.io",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 46.44
+      },
+      {
+        "title": "Stablecoin Regulation Shifts as Qivalis Gets MiCA License - OneSafe.io",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MRllPVHloVFhReXg4d04zR2Z0VGdTZ3huQlpSMGw3MHVkODVlXzNBaXJ1RVRvTDY5RGNERG1QUGVvTGJyb0owd0c2SHR3NWNfdFFVX0dvSjRvTFM1V1VybldPU2RNSG1kdFd1UFhjYTZ6WjdJeW9UeGFn?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-25T02:07:26+00:00",
+        "snippet": "Stablecoin Regulation Shifts as Qivalis Gets MiCA License OneSafe.io",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 46.2
+      },
+      {
+        "title": "The OCC just confirmed GENIUS stablecoins can't pay you yield, so all the yield moves into the protocols",
+        "url": "https://www.reddit.com/r/defi/comments/1xe5ucl/the_occ_just_confirmed_genius_stablecoins_cant/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-10-24T11:06:09+00:00",
+        "snippet": "OCC interpretive letter dropped Oct 21 confirming permitted stablecoin issuers can't pay holders any interest or rewards just for holding. Circle and the rest keep the full T-bill yield on reserves, you get a dollar token that does nothing on its own. This pushes onchain yield into the protocol layer. If you want paid you hold sUSDe, parking in Aave, or locking a fixed rate with a Pendle PT, and the compliant stablecoin becomes a settlement venue Does this kill the reason to hold USDC directly,...",
+        "author": "/u/Bluejumprabbit",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 45.45
+      },
+      {
+        "title": "Reserve Composition and Design in Stablecoin Regulation - orfonline.org",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObF95UUtJM1NodkVkNGVjUmV5cW9uZnJsdDdMYjkzTVhlNmFXNzE5NWJxR19mdExJQTg5UXA3cDBNQnJBZEZDVl9vNmI5RGcxZTRxTU5xdVlqQTFxXzRwa250YlNUdnZNTWdfRDlUTmF3M2Zha3pIdFJjT2FydUhKRS0tVWVDNEFUaDZiZ2s3NTluYXVWUm55MEJn?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-24T18:36:28+00:00",
+        "snippet": "Reserve Composition and Design in Stablecoin Regulation orfonline.org",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 41.51
+      },
+      {
+        "title": "Circle Shareholder Sues Trump Over $2 Billion USD1 Deal",
+        "url": "https://www.reddit.com/r/MarketVibe/comments/1xe1h6t/circle_shareholder_sues_trump_over_2_billion_usd1/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-10-24T06:38:32+00:00",
+        "snippet": "A Circle shareholder has filed a lawsuit against Donald Trump, World Liberty Financial and Steve Witkoff over financial deals involving the USD1 stablecoin. The case focuses on a $2 billion investment by Abu Dhabi’s MGX into Binance in 2025. The deal used USD1, a stablecoin issued by Trump’s family-linked crypto company, World Liberty Financial. The lawsuit also mentions a reported $500 million deal in which an investment group linked to an Abu Dhabi royal acquired 49% of World Liberty Financia...",
+        "author": "/u/BozEx_12",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 33.22
+      },
+      {
+        "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows - The Defiant",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjJxeDY0V3VqcVJhdnVlVWF2cER6QWNwbEE1dmhLZGs5WTVSbk5faFRrQ0ZLVERmdjRKMTQyYmJLWnJFZEpuLVp0TExUUFNQSFdKRmowZTFSQ1gxdjhrMi0wdzg2VFk5aVJtaXZxVjVleWJrckNwdWR2TzI1ZVNnQmZpYUl4cnlKRTVMcUZwQTZSdGtP?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-23T19:13:23+00:00",
+        "snippet": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows The Defiant",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 29.39
+      },
+      {
+        "title": "NYSE Highlights OCC's Final Rule for Payment Stablecoin Issuers - TOKENPOST",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uX0FLd1ZJdUhaMVhiUXdOeFhsekt1emZoVGtFOGFZRmJqOG15ODVkQnMxYWFSUDNSUzZsVVVlLUpZejREeEJpejJOVEZmdHpNR3luVHBxR2xOYW8?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-24T05:59:28+00:00",
+        "snippet": "NYSE Highlights OCC's Final Rule for Payment Stablecoin Issuers TOKENPOST",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 28.62
+      },
+      {
+        "title": "Circle Shareholder Sues Trump and World Liberty Financial Over UAE-Linked Crypto Deals - Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTFCWkhaUWdWLU1EOHdOckIwT1JYdzZ5SUtNMTZXWUEwZk1KX2FHWnNEUFhiakN3MjNIWm1mdWMwdFFwOGpqVngycExNbEhlWjJVc0xUMmh6OUxmMS1UajNkdnJiNXg1ellkNXZjY0t5TjE0Q1FYUkdrM3F5UGZlanl5NzkwRzcySHdxaTYwT3dPaGdpbjlBOU9ldlRiMjNXVFVJZWlwMEpWVEYzWWhVTA?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-24T05:14:47+00:00",
+        "snippet": "Circle Shareholder Sues Trump and World Liberty Financial Over UAE-Linked Crypto Deals Tekedia",
+        "author": "",
+        "query": "Circle stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Circle"
+        ],
+        "sentiment": "risk",
+        "score": 28.16
+      },
+      {
+        "title": "New OCC stablecoin rule resets redemptions, and banks face big shifts - Cryptonews.net",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkaTRMQ1Rrak5HWkNqM0xORmxaUDEtQWZXakJrTDhmRVNPbW5nSzkwT0ZBNldfSGhnRk5tLUFMYUdGV2VzSVllR2VNNURHOWRiTEJaTnpB?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-24T03:38:25+00:00",
+        "snippet": "New OCC stablecoin rule resets redemptions, and banks face big shifts Cryptonews.net",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 27.15
+      },
+      {
+        "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+        "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+        "source": "Decrypt",
+        "platform": "RSS Feed",
+        "published": "2026-10-24T13:01:02+00:00",
+        "snippet": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+        "author": "Jose Antonio Lanz",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 26.41
+      },
+      {
+        "title": "X100 Exploit Nets 4.85 Million USDT After Governance Takeover",
+        "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
+        "source": "The Defiant",
+        "platform": "RSS Feed",
+        "published": "2026-10-24T14:58:09+00:00",
+        "snippet": "Two transactions turned treasury tokens and liquidity positions into USDT; Blockaid warned that the Ethereum attack was ongoing.",
+        "author": "The Defiant Team",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 24.65
+      },
+      {
+        "title": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits - Cryptonews.net",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jOElOU1hnUjdGdFpPbmtnNFFqc3VnaW9SS09pcWFzZjF0QXFIU2JfWTBmQ1licVJCZ21IaUNGZzM5SXJhQkhIWVExdW1HOXpoY3FqYWhfTQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-23T20:32:54+00:00",
+        "snippet": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits Cryptonews.net",
+        "author": "",
+        "query": "USDC stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 22.72
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 23,
+        "headline": "Stablecoin Regulation Shifts: New Reserve Rules for Business - OneSafe.io",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekc3V2xXeXJRR3R0RUc0LV9XV25icTZFdGplT3FBMklfUjU3OFRLNkE2UXlZd1JzUUtBVUxuSXZoVG55VURKVHRDcEFuZFdxaW03ek1SNElyUU0yTXRnaWl6SWpBY1BTaEl0OHVOV1AwelZVNXZFRzRuVnVwd0FXUk9XR0Y4dw?oc=5"
+      },
+      {
+        "entity": "Circle",
+        "count": 5,
+        "headline": "The OCC just confirmed GENIUS stablecoins can't pay you yield, so all the yield moves into the protocols",
+        "url": "https://www.reddit.com/r/defi/comments/1xe5ucl/the_occ_just_confirmed_genius_stablecoins_cant/"
+      },
+      {
+        "entity": "USDC",
+        "count": 5,
+        "headline": "The OCC just confirmed GENIUS stablecoins can't pay you yield, so all the yield moves into the protocols",
+        "url": "https://www.reddit.com/r/defi/comments/1xe5ucl/the_occ_just_confirmed_genius_stablecoins_cant/"
+      },
+      {
+        "entity": "Tether",
+        "count": 5,
+        "headline": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows - The Defiant",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjJxeDY0V3VqcVJhdnVlVWF2cER6QWNwbEE1dmhLZGs5WTVSbk5faFRrQ0ZLVERmdjRKMTQyYmJLWnJFZEpuLVp0TExUUFNQSFdKRmowZTFSQ1gxdjhrMi0wdzg2VFk5aVJtaXZxVjVleWJrckNwdWR2TzI1ZVNnQmZpYUl4cnlKRTVMcUZwQTZSdGtP?oc=5"
+      },
+      {
+        "entity": "USDT",
+        "count": 4,
+        "headline": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows - The Defiant",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjJxeDY0V3VqcVJhdnVlVWF2cER6QWNwbEE1dmhLZGs5WTVSbk5faFRrQ0ZLVERmdjRKMTQyYmJLWnJFZEpuLVp0TExUUFNQSFdKRmowZTFSQ1gxdjhrMi0wdzg2VFk5aVJtaXZxVjVleWJrckNwdWR2TzI1ZVNnQmZpYUl4cnlKRTVMcUZwQTZSdGtP?oc=5"
+      },
+      {
+        "entity": "Robinhood",
+        "count": 1,
+        "headline": "Stablecoin News: Morpho Unlocks Loans Against Robinhood Stock - openPR.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2p2VUJITHZtNXpZdEJXQjQ2X3RIaEJCTmZBMW9ReFNRWmFGb2libjBsLW9LVnFUNlprNm4xYkgxQzZrNXF3cjc5SThyTkZtV2FINmEzZUFrYTlFalY0ZG9kMGZJVURGSzYxeFRrcGlNRlNqM0ZvVzZUeW9ZYnlwcWt4REZYMTJkVTh1U3hGcDAtdmIteFczUnlNM0k?oc=5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 852,
+      "kept": 25,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 6,
+      "kept": 2,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 40,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 4,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
