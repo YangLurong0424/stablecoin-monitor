@@ -1,48 +1,34 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T04:11:23.422694+00:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T04:15:23.431297+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "title": "Stablecoin Regulation Shifts: New Reserve Rules for Business - OneSafe.io",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekc3V2xXeXJRR3R0RUc0LV9XV25icTZFdGplT3FBMklfUjU3OFRLNkE2UXlZd1JzUUtBVUxuSXZoVG55VURKVHRDcEFuZFdxaW03ek1SNElyUU0yTXRnaWl6SWpBY1BTaEl0OHVOV1AwelZVNXZFRzRuVnVwd0FXUk9XR0Y4dw?oc=5",
+      "title": "European Banking Authority Classifies Circle’s USDC as a Significant Stablecoin - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVhmYm5KRV9zQUhNdl9yTEZOUG1uUGxFSDNGUlZkTFNwSGZBenNHS0ZPWTFSTmpMMVRKa3N2Z053SXA5d1VZVndGTDBDTnZZOUNvU2diNnNkSnBxa2tDUk1UTkZmLU1fc3JEOEJQdVJ4c3NVaWYxRHMxMDRacjBOUm4yWGIxcXJ2QUU2RFdhemZ0MjVwcmhBUTl2bjBrNTRaYVN5VXJn?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-10-25T02:29:42+00:00",
-      "snippet": "Stablecoin Regulation Shifts: New Reserve Rules for Business OneSafe.io",
+      "published": "2026-10-25T20:59:13+00:00",
+      "snippet": "European Banking Authority Classifies Circle’s USDC as a Significant Stablecoin Tekedia",
       "author": "",
-      "query": "stablecoin regulation",
+      "query": "Circle USDC",
       "engagement": 0,
       "entities": [
+        "Circle",
+        "USDC",
         "Stablecoin"
       ],
-      "sentiment": "risk",
-      "score": 46.44
+      "sentiment": "neutral",
+      "score": 47.95
     },
     {
-      "title": "Stablecoin Regulation Shifts as Qivalis Gets MiCA License - OneSafe.io",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MRllPVHloVFhReXg4d04zR2Z0VGdTZ3huQlpSMGw3MHVkODVlXzNBaXJ1RVRvTDY5RGNERG1QUGVvTGJyb0owd0c2SHR3NWNfdFFVX0dvSjRvTFM1V1VybldPU2RNSG1kdFd1UFhjYTZ6WjdJeW9UeGFn?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-25T02:07:26+00:00",
-      "snippet": "Stablecoin Regulation Shifts as Qivalis Gets MiCA License OneSafe.io",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 46.2
-    },
-    {
-      "title": "The OCC just confirmed GENIUS stablecoins can't pay you yield, so all the yield moves into the protocols",
-      "url": "https://www.reddit.com/r/defi/comments/1xe5ucl/the_occ_just_confirmed_genius_stablecoins_cant/",
+      "title": "Is USDC safe on Coinbase?",
+      "url": "https://www.reddit.com/r/MadEasyCrypto/comments/1xfb1gy/is_usdc_safe_on_coinbase/",
       "source": "Reddit RSS",
       "platform": "Reddit",
-      "published": "2026-10-24T11:06:09+00:00",
-      "snippet": "OCC interpretive letter dropped Oct 21 confirming permitted stablecoin issuers can't pay holders any interest or rewards just for holding. Circle and the rest keep the full T-bill yield on reserves, you get a dollar token that does nothing on its own. This pushes onchain yield into the protocol layer. If you want paid you hold sUSDe, parking in Aave, or locking a fixed rate with a Pendle PT, and the compliant stablecoin becomes a settlement venue Does this kill the reason to hold USDC directly,...",
-      "author": "/u/Bluejumprabbit",
+      "published": "2026-10-25T19:15:00+00:00",
+      "snippet": "USDC on Coinbase is about as safe as a stablecoin gets, but it is not the same as cash in a bank. It's not FDIC insured, and Coinbase says that itself: USDC balances aren't deposit accounts and aren't covered by FDIC or SIPC. So it's really two questions. Is USDC itself safe, and is Coinbase a safe place to hold it. USDC itself is backed by cash and short dated US Treasuries, and Circle publishes the reserves, with a Big Four accounting firm checking them every month. It has still broken a doll...",
+      "author": "/u/boringpretty",
       "query": "Circle USDC",
       "engagement": 0,
       "entities": [
@@ -51,14 +37,117 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 45.45
+      "score": 45.49
+    },
+    {
+      "title": "Circle Match Gives USDC Desks A New Fee Trade-Off And A Separate Funding Balance - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xMzktNkVILU55QWQ2RWI2TUY5aTRHc3gwOVFha3U3RFJZamJlTV9qN2JhRmNXN05ndXJYbUJyS1BuTHBJa01KcXhqbFhNN0ZfOUExbUJ3MA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T23:42:14+00:00",
+      "snippet": "Circle Match Gives USDC Desks A New Fee Trade-Off And A Separate Funding Balance Cryptonews.net",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 42.15
+    },
+    {
+      "title": "Circle Match Gives USDC Desks A New Fee Trade-Off And A Separate Funding Balance: the KCEX Sunday evening board with BTC 80,101.80 and 31 perps",
+      "url": "https://www.reddit.com/r/KCEX/comments/1xfi7rx/circle_match_gives_usdc_desks_a_new_fee_tradeoff/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-10-26T00:18:18+00:00",
+      "snippet": "https://preview.redd.it/n3sra64qfpxh1.png?width=1600&format=png&auto=webp&s=4d155e092bd83dd427dd49e2230835147e4e47fd This evening's KCEX snapshot. The image is the live BTCUSDT perp page at 7:59 PM ET; the tables come from the public ticker at 8:00 PM ET. My read The board leans red and BTC sits at 80,101.80 (-0.34% vs this morning). 80,377.20 is now overhead, and it is the level that sets the tone overnight into Asia. 31 perps at a glance Coin Last 24h % 24h Vol 24h High 24h Low $RAVE.USDT 0.1...",
+      "author": "/u/Alexander-305",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 40.02
+    },
+    {
+      "title": "How $37 million stolen from Americans moved through a Bahamas bank into Tether’s USDT - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyY2x6Wmg5NGVkNmZ0YmVJNWtDM3VWcTRId3pEZmpXREhnc19kcl9lcTVyMHQteURLbHk4bGgyeG9TMHVlcW9KelQwRlJEWEJwWU5WMmU5Zl9FQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T19:07:29+00:00",
+      "snippet": "How $37 million stolen from Americans moved through a Bahamas bank into Tether’s USDT Cryptonews.net",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 39.29
+    },
+    {
+      "title": "Best Crypto Casino Reddit 2026: USDC Changes Nov 12",
+      "url": "https://www.reddit.com/r/PhilippineWatchClub/comments/1xf0xx2/best_crypto_casino_reddit_2026_usdc_changes_nov_12/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-10-25T12:20:23+00:00",
+      "snippet": "Reviewed: October 23, 2026 Scheduled for publication: October 25, 2026 USDC is entering a new regulatory chapter on November 12, 2026. The European Banking Authority will begin directly supervising certain requirements for Circle's European USDC issuer after classifying the stablecoin as a significant e-money token. For anyone researching best crypto casino reddit recommendations, the announcement is a good reason to revisit an important topic: which cryptocurrency casinos support USDC, and whi...",
+      "author": "/u/AutoModerator",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.04
+    },
+    {
+      "title": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaENhMXpMZnUxZ0Y0ZkY1cXhJMXluYzg1UWVtNWtkdWFVY0JpRXF4TmNmc0dFYWJQMXVvYVhRWlNLZUlmVWkxWmFERHNQMkVZNGJiQjFUQkNtb1c4bnpwWDVhV3lDcElDeXJaejdoUVg1SS1NbDZGLUwtV2RqOU1rT0xvaUhwd1d1MFI4OGRKemNvbVFIRlBjX2t2OGtTZzZ4?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T19:45:11+00:00",
+      "snippet": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed CryptoSlate",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 37.18
+    },
+    {
+      "title": "Tokenized Deposits vs. Stablecoins: What JPM Coin and USDC Holders Own - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2RZaWEwaWtuYlFVVFRZMWc4bXdDREFGak0zN0ExY0xfQk5waC1lU3pkdzZ3TW1WaXYwTUNXcV8yS3NYeHRnV0J3Q1lhdEVjY1hCcE5kQjR4dUxaeHpQYVAyaGlpWGFxSkNYSGwtS1JFQUwtZFo3ZGFSa2lNdFlhb3FLREg1TkdabEhxTXlyenFycDZ2amtRQ21zRzBpQXlOdkp1YlJOT25NOUVoWWIyWUZhV1U?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T14:19:06+00:00",
+      "snippet": "Tokenized Deposits vs. Stablecoins: What JPM Coin and USDC Holders Own The Defiant",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 36.28
     },
     {
       "title": "Reserve Composition and Design in Stablecoin Regulation - orfonline.org",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObF95UUtJM1NodkVkNGVjUmV5cW9uZnJsdDdMYjkzTVhlNmFXNzE5NWJxR19mdExJQTg5UXA3cDBNQnJBZEZDVl9vNmI5RGcxZTRxTU5xdVlqQTFxXzRwa250YlNUdnZNTWdfRDlUTmF3M2Zha3pIdFJjT2FydUhKRS0tVWVDNEFUaDZiZ2s3NTluYXVWUm55MEJn?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-10-24T18:36:28+00:00",
+      "published": "2026-10-25T05:48:40+00:00",
       "snippet": "Reserve Composition and Design in Stablecoin Regulation orfonline.org",
       "author": "",
       "query": "stablecoin regulation",
@@ -67,7 +156,119 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 41.51
+      "score": 33.47
+    },
+    {
+      "title": "Aave's USDT borrow rate heads to 4.19 percent: what it means for lenders - CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EWS1FTHRoWEpyM000UXRwVnotMlJkUjFKcTBuOHRoMUEtZHhlZ3l3S2p2TWtMV0RkRE5yR3lHeGh5T2E0ejhTSFZHZGVZak5zbjNMVnd5aXdOQ21mZERLdXJNZXFZdnc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T21:18:39+00:00",
+      "snippet": "Aave's USDT borrow rate heads to 4.19 percent: what it means for lenders CryptoTicker",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 33.15
+    },
+    {
+      "title": "HSBC Launches Stablecoin Amid South Korea’s Regulatory Push - Coinfomania",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPam1QT28xd240M0JIUFJqMUpTMnhDYzNlaWc2ZjFvU1g1ZXlCMHNtd0Q0bXFlRGU5dHQ1c1Q1NE54NEFPTUhWRTFITVRCa0xGeW5pbGtlUFdRVmd0MVpMOEI3Njk3cnBXc0VJT01aQlY1U1hoOUpDZ2lrVGhRZEVxMllua3JxSVdFUThF?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T17:32:03+00:00",
+      "snippet": "HSBC Launches Stablecoin Amid South Korea’s Regulatory Push Coinfomania",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 32.67
+    },
+    {
+      "title": "Stablecoin deposits in DeFi rise 560.8% in three years as lending pools log outflows - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZLTJ4d2NqR0tTNzlNdmxQczFCWW16cVJIQkJWc2N1R1hyZElTaDcweGpoM0ZuYUNZZUVyMWhWbEhreE42RFBFTmEyVTZKclpIRkJSNmZZQUFta1ZqWWItZlZfVnYtOFlQZEpYcFV0V3pJR0Nud3FvZzZB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T19:26:25+00:00",
+      "snippet": "Stablecoin deposits in DeFi rise 560.8% in three years as lending pools log outflows The Cryptonomist",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.99
+    },
+    {
+      "title": "Circle Shareholder Sues Trump Over $2B UAE Crypto Deals - Bitcoin Foundation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGVNOU5Eamp1d3RWaXo0SjdLVHdtY0otMjZuQVRLeE85TFFLbkRCWWZuSUhtT2dCc29kVHhIbHVfSVlpQndvX1dvOV9MN0Ftcm5UUlZ0OFd3d0I4NWg1MWNHWkZoTEdoLThjbkprMGlCZTBHaWM5ZVUtXzFWR1UyS1ZjdE9QUWZiVEQtN0JFV3hnc2lfSEFCa29wT1NIclJ1LVA4?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T08:44:58+00:00",
+      "snippet": "Circle Shareholder Sues Trump Over $2B UAE Crypto Deals Bitcoin Foundation",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "risk",
+      "score": 30.3
+    },
+    {
+      "title": "Solana price prediction: Samsung brings USDC to Solana - CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaDVjX0QwYW1XRnQ2aDZPejJubzhDWC12UHpUQ1dOUTNaUTlHR2IwQWxjVFcwMHFENks1Nl85NUs0NFJLTlJ2dzNURS0wUTNfWlNmV0pCSUdYdF9SbXlHYWVDamxpZjI3SnNueXBQQXFyNEs5ZzIwX01xNG9Zc1V2ak15NW9ySE04VDhPdXdta0w?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T15:23:47+00:00",
+      "snippet": "Solana price prediction: Samsung brings USDC to Solana CryptoTicker",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 29.46
+    },
+    {
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-10-26T00:13:29+00:00",
+      "snippet": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
+      "author": "Cointelegraph by Felix Ng",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.38
+    },
+    {
+      "title": "‘This Is The Blockbuster Moment’: Credit Union Leaders Warn Of Risks In OCC Stablecoin Rule - CUToday",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaE9rakNSenVVdWduRElWNnp6ckRnRHhLVkVRZ2o4N1JoUU5hb1d3MWp5R3VOUWJsdkpRTG45OTV1Qms0c04wWVdiVWU4LVBpb2REanB1djhFcUl3MzJDY3dSZHNER1BBMWtEcm1nQ2VtVlZONktpWHhqS3VJc05MbVF1Nkg5ejVuT2RDNG5KdEJGVEFUT2FlVGRtNGUyNmdyRGRSS1VpRWp1bHVXcVhmdjhoOFE3TWkzNUZIcEgwb21yc0U?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-25T12:51:49+00:00",
+      "snippet": "‘This Is The Blockbuster Moment’: Credit Union Leaders Warn Of Risks In OCC Stablecoin Rule CUToday",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.87
     },
     {
       "title": "Circle’s new USDC auctions let institutions collect the fees others pay to cash out - CryptoSlate",
@@ -84,74 +285,55 @@
         "USDC"
       ],
       "sentiment": "neutral",
-      "score": 39.88
+      "score": 24.84
     },
     {
-      "title": "Aster launches USDC-based perpetual markets for BTC, ETH, and SOL to boost stablecoin use in trading - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVd5WTNtLWlqQ3c2MjdjSjh6ZWZaRF8tVFVlSW4zdERuY2NYQXg4ZDlDYmMwSU84VDRTLUVkZDZSUGFJcmplQUxqZFlqel9TMjFPVGNVdzZjdXZyRGN3aWo2eDFGcGdFTloteGhlRzdzMHB4Nmc1ODRQZElTOS1HNzRvVXFOb1pLdUU0WFRUSWRtbG5jLXlVVkZocHNfYlVTS2NVcjB1UQ?oc=5",
+      "title": "Tether wins backing from 15 Bitcoin mining firms for AI automation tools - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKNWMtc01DdGhaaVR3Rzd4OHJ2NDE0NFV2Q215NEtVeDFxZ2hXWWw3THIweGtDNUdTSktYczI5VzNIY09ueGdWbjBNeWI4SUt4UFRMWHRUTjhLNXdpRTlRZHJIWGp6YVhUYzRQV1BXOG5EdVFsNlZacA?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-10-24T14:29:24+00:00",
-      "snippet": "Aster launches USDC-based perpetual markets for BTC, ETH, and SOL to boost stablecoin use in trading Pluang",
+      "published": "2026-10-25T06:48:00+00:00",
+      "snippet": "Tether wins backing from 15 Bitcoin mining firms for AI automation tools Crypto News",
       "author": "",
-      "query": "USDC stablecoin",
+      "query": "Tether USDT",
       "engagement": 0,
       "entities": [
-        "USDC",
-        "Stablecoin"
-      ],
-      "sentiment": "positive",
-      "score": 38.31
-    },
-    {
-      "title": "USDC stablecoin circulation drops by 500 millio... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOclkweS1mMUhId0RJY0tsaFJpcllMQ0dZenlBclJiUjdybUZYYm14Q1NHWm9MZzgxb1BPc3Y0UHEzOWVyYkVvZWY3bXg4OG1kekJvZXc0ZkxmS19mOWY2aDlodmxKdU5iSWJIam11TE1zck1UNmdPT1VVR3ZrZFM5TXRMSXQycG1ibTNkel9xUXd4ZGM?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-24T16:48:13+00:00",
-      "snippet": "USDC stablecoin circulation drops by 500 millio... Pluang",
-      "author": "",
-      "query": "Circle stablecoin",
-      "engagement": 0,
-      "entities": [
-        "USDC",
-        "Stablecoin"
+        "Tether"
       ],
       "sentiment": "neutral",
-      "score": 37.88
+      "score": 24.08
     },
     {
-      "title": "OCC Stablecoin Rules: What Global Businesses Need to Know - OneSafe.io",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02VUcwTjhzaVhLOTZob00wWGhLVGtOOExlUUtWU29saU9ZTTdYbXZGNENPUXp2OFZSbVctODVta3F0aVoyMDktQUxSMFNKS2VNSE5jSEtBRnh1bFZ4d2hKMGtQaHltcEQ3ekdyRUVVc2trZFZPcmFQdA?oc=5",
+      "title": "Dutch Central Bank Clears Qivalis to Issue a Euro Stablecoin - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjJ4amN1VTRDdkJyd3JsdVpTdU0xTVZqS3ZwaG92M0ZBcEtjdEJJaXpObHpzaUZobG44S18xWTZfOXNmS3g3dHN0TmpYbl9jWkk0TjhVTmlRSWQzc2lyWGI0bmJsUXV3M0JEajFucDJyTm1DVER2RkJ6TUljQzAtZUY4VVcwTmxFVHJ5aDJjUDAtZw?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-10-25T00:54:28+00:00",
-      "snippet": "OCC Stablecoin Rules: What Global Businesses Need to Know OneSafe.io",
+      "published": "2026-10-24T18:34:37+00:00",
+      "snippet": "Dutch Central Bank Clears Qivalis to Issue a Euro Stablecoin Startup Fortune",
       "author": "",
       "query": "stablecoin regulation",
       "engagement": 0,
       "entities": [
         "Stablecoin"
       ],
-      "sentiment": "neutral",
-      "score": 35.44
+      "sentiment": "risk",
+      "score": 21.45
     },
     {
-      "title": "Stablecoin News: Morpho Unlocks Loans Against Robinhood Stock - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2p2VUJITHZtNXpZdEJXQjQ2X3RIaEJCTmZBMW9ReFNRWmFGb2libjBsLW9LVnFUNlprNm4xYkgxQzZrNXF3cjc5SThyTkZtV2FINmEzZUFrYTlFalY0ZG9kMGZJVURGSzYxeFRrcGlNRlNqM0ZvVzZUeW9ZYnlwcWt4REZYMTJkVTh1U3hGcDAtdmIteFczUnlNM0k?oc=5",
+      "title": "Binance’s USDT outflow sets October’s hourly high at 49.9571 million - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBERmhPSHpQN1NTU2loX0t6LVlOMDBGaG5qa2lYSlY5Z3NKY0JlTVBkZHZaM1FvR04waEx0RWpXX1Q2S1RWVXFDRFFQdTAwdmIzRDhnSlRBaw?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-10-24T12:04:10+00:00",
-      "snippet": "Stablecoin News: Morpho Unlocks Loans Against Robinhood Stock openPR.com",
+      "published": "2026-10-25T00:05:45+00:00",
+      "snippet": "Binance’s USDT outflow sets October’s hourly high at 49.9571 million Cryptonews.net",
       "author": "",
-      "query": "Robinhood stablecoin",
+      "query": "Tether USDT",
       "engagement": 0,
       "entities": [
-        "Stablecoin",
-        "Robinhood"
+        "USDT"
       ],
       "sentiment": "neutral",
-      "score": 34.92
+      "score": 19.89
     },
     {
       "title": "South Korea’s stablecoin push raises questions about a potential crypto rally - Cryptonews.net",
@@ -167,186 +349,23 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 34.37
+      "score": 19.33
     },
     {
-      "title": "Circle Shareholder Sues Trump Over $2 Billion USD1 Deal",
-      "url": "https://www.reddit.com/r/MarketVibe/comments/1xe1h6t/circle_shareholder_sues_trump_over_2_billion_usd1/",
-      "source": "Reddit RSS",
-      "platform": "Reddit",
-      "published": "2026-10-24T06:38:32+00:00",
-      "snippet": "A Circle shareholder has filed a lawsuit against Donald Trump, World Liberty Financial and Steve Witkoff over financial deals involving the USD1 stablecoin. The case focuses on a $2 billion investment by Abu Dhabi’s MGX into Binance in 2025. The deal used USD1, a stablecoin issued by Trump’s family-linked crypto company, World Liberty Financial. The lawsuit also mentions a reported $500 million deal in which an investment group linked to an Abu Dhabi royal acquired 49% of World Liberty Financia...",
-      "author": "/u/BozEx_12",
-      "query": "Circle USDC",
-      "engagement": 0,
-      "entities": [
-        "Circle",
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 33.22
-    },
-    {
-      "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjJxeDY0V3VqcVJhdnVlVWF2cER6QWNwbEE1dmhLZGs5WTVSbk5faFRrQ0ZLVERmdjRKMTQyYmJLWnJFZEpuLVp0TExUUFNQSFdKRmowZTFSQ1gxdjhrMi0wdzg2VFk5aVJtaXZxVjVleWJrckNwdWR2TzI1ZVNnQmZpYUl4cnlKRTVMcUZwQTZSdGtP?oc=5",
+      "title": "Binance logs its biggest hourly stablecoin exodus of October as Bitcoin slides - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOGk1dHhOSC13TzhXS2ZaYlBwVG9ZNGRQZ0MwdElhQzVUSnVoRWI2bGEzMlEyWVJ5UDA1OVp0SE5HR3Z5X3BZNHdOQV9NNHAtRkV5NjBqT2RISXRjQ2wtVjVVOUxUOGlRNEtyY282Y2Z2TUhmVE5QWlpJOEVQVEdHcGpQZ0NPMWZGYWc2YkJEektsUXJPdVhWV2RGTG1aVVBSdTUtWWkwNGZUZw?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-10-23T19:13:23+00:00",
-      "snippet": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows The Defiant",
+      "published": "2026-10-24T17:12:20+00:00",
+      "snippet": "Binance logs its biggest hourly stablecoin exodus of October as Bitcoin slides Startup Fortune",
       "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "risk",
-      "score": 29.39
-    },
-    {
-      "title": "NYSE Highlights OCC's Final Rule for Payment Stablecoin Issuers - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uX0FLd1ZJdUhaMVhiUXdOeFhsekt1emZoVGtFOGFZRmJqOG15ODVkQnMxYWFSUDNSUzZsVVVlLUpZejREeEJpejJOVEZmdHpNR3luVHBxR2xOYW8?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-24T05:59:28+00:00",
-      "snippet": "NYSE Highlights OCC's Final Rule for Payment Stablecoin Issuers TOKENPOST",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 28.62
-    },
-    {
-      "title": "Circle Shareholder Sues Trump and World Liberty Financial Over UAE-Linked Crypto Deals - Tekedia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTFCWkhaUWdWLU1EOHdOckIwT1JYdzZ5SUtNMTZXWUEwZk1KX2FHWnNEUFhiakN3MjNIWm1mdWMwdFFwOGpqVngycExNbEhlWjJVc0xUMmh6OUxmMS1UajNkdnJiNXg1ellkNXZjY0t5TjE0Q1FYUkdrM3F5UGZlanl5NzkwRzcySHdxaTYwT3dPaGdpbjlBOU9ldlRiMjNXVFVJZWlwMEpWVEYzWWhVTA?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-24T05:14:47+00:00",
-      "snippet": "Circle Shareholder Sues Trump and World Liberty Financial Over UAE-Linked Crypto Deals Tekedia",
-      "author": "",
-      "query": "Circle stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Circle"
-      ],
-      "sentiment": "risk",
-      "score": 28.16
-    },
-    {
-      "title": "Senate Democrat probes Tether over alleged payments to ex-Trump crypto advisor - AMBCrypto",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUWZtNVlDREVUVm5sOHZZSWxhblhsQkphMlZ3UFcxZ0J1TjdHWnREbVRfaDVoOXNYVWE0Y3BFVUFlaGFzLW9DTFBxT29qSmUxNURZNmZnT0YxYU02NjVpcWw1bXFLc2xQVkl1X0RzNEt0ek9qZUl6RkhFQ3ZzdTc5VXVyZmxjaXZpeFF5VG1fZWh3cVJxY2VJWXlOSHhMYVRBT1VV?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-24T12:00:06+00:00",
-      "snippet": "Senate Democrat probes Tether over alleged payments to ex-Trump crypto advisor AMBCrypto",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether"
-      ],
-      "sentiment": "neutral",
-      "score": 27.38
-    },
-    {
-      "title": "New OCC stablecoin rule resets redemptions, and banks face big shifts - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkaTRMQ1Rrak5HWkNqM0xORmxaUDEtQWZXakJrTDhmRVNPbW5nSzkwT0ZBNldfSGhnRk5tLUFMYUdGV2VzSVllR2VNNURHOWRiTEJaTnpB?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-24T03:38:25+00:00",
-      "snippet": "New OCC stablecoin rule resets redemptions, and banks face big shifts Cryptonews.net",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 27.15
-    },
-    {
-      "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-      "source": "Decrypt",
-      "platform": "RSS Feed",
-      "published": "2026-10-24T13:01:02+00:00",
-      "snippet": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
-      "author": "Jose Antonio Lanz",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 26.41
-    },
-    {
-      "title": "Crypto Update: OCC Finalizes Stablecoin Rules as Remittix Plans a 20% Supply Cut, With XLM and CRO in Focus - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVzFVNmtrcnZwQVlTbWl1cnVTMmNVQTBUY0NDdnhVdzE4S3hPTVVPU2RNLWdYNGkzSmhTaWNVUGRYOUtsUUI4SmhiTDVuQkxVM01XRG9Fc29RVUN2anVSVEkzNS1CZTlhdENLb0pQUUZrZ0NwT1RHR3NIVF9NSzY1cFNNeWxXdFR0c0tocl9RZkZHRk9BRFZPdWl1aXhaYWdpblhzR0Z2ZThUMEtkZHVuVXFxZGNsWkZnS0NiNmZKVzZ3ajY1ajc2MFpIWGNORks1QTZfZmo4bVlhNklPZkh5U2o1NFJkNTh4VDg1TTZrOFQ4U0VFQ2t0ck1RdzNOYy1vMGlN?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-24T10:06:10+00:00",
-      "snippet": "Crypto Update: OCC Finalizes Stablecoin Rules as Remittix Plans a 20% Supply Cut, With XLM and CRO in Focus StreetInsider",
-      "author": "",
-      "query": "stablecoin regulation",
+      "query": "USDT stablecoin",
       "engagement": 0,
       "entities": [
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 26.19
-    },
-    {
-      "title": "Stablecoin Payments Get a Unified Balance Upgrade - OneSafe.io",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEZHVGk4XzFjY2VEUk1HS1VKN2MtaGdyaFAyeXh0TVVVY3I1U212STRfV0g0YjZKUDFNc21zTlhXMVdMdW9CNG0xV2lGVVl3UVh4VE5vUW5HVEZkSTFBQWpwcExtOXF3dnh3YlpCd3A3c3BTNnpwYkJmRjIwel9WN0QtSVM?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-24T06:05:47+00:00",
-      "snippet": "Stablecoin Payments Get a Unified Balance Upgrade OneSafe.io",
-      "author": "",
-      "query": "Circle stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "positive",
-      "score": 25.56
-    },
-    {
-      "title": "X100 Exploit Nets 4.85 Million USDT After Governance Takeover",
-      "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
-      "source": "The Defiant",
-      "platform": "RSS Feed",
-      "published": "2026-10-24T14:58:09+00:00",
-      "snippet": "Two transactions turned treasury tokens and liquidity positions into USDT; Blockaid warned that the Ethereum attack was ongoing.",
-      "author": "The Defiant Team",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "USDT"
-      ],
-      "sentiment": "risk",
-      "score": 24.65
-    },
-    {
-      "title": "Coinbase will make USDC the default stablecoin on 82 million Galaxy phones - Startup Fortune",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRGZPU0E5V1pjVC10LUltRFRQalZWVjF1V0NlSEdMZzNDdjBpc2RqN2tsWDJTMERxcEdGNkRFRm56VldxZlNtUFE1WU1ubG5qbUl6d0pGY1pnUXVWQTdGS3FZZktsQk1XeTltUWZFOF9kQ2VCdUZlQUlQejZqcy1ScFVpa0JnSnpGWFdoWk1YNWZ5cEI1V093MnZsODlGTjc3bHBpXw?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-23T19:05:33+00:00",
-      "snippet": "Coinbase will make USDC the default stablecoin on 82 million Galaxy phones Startup Fortune",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "USDC",
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 24.31
+      "score": 15.59
     },
     {
       "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
@@ -362,257 +381,33 @@
         "USDT"
       ],
       "sentiment": "neutral",
-      "score": 23.17
-    },
-    {
-      "title": "Circle internet group cfo fox-geen disposes of $1.35m in stock - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGZqdjVRQng5VFFVdFFyb3d6ZkhDdk9raWU4eVhLNm1IS3NTN1BhYlZ6S1lJQkJpYmpJaDhCVVQ5VmE0ZEVTRlhWRkNBR1g1SG43NC1WTDRiVS1zbzZsNVVBOXlpMnZRLXNFZ2VvbHNUazRkLWxLOVU3aGN5aExibUk1R3hORUpKcmhBRkxyYUltbGpRSmhxd2JXYmNaTHN5aFJUWTB6UFJFdGtwcHZkblZSZzNqYUFTbzljemV2N2Vsdw?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-24T05:06:23+00:00",
-      "snippet": "Circle internet group cfo fox-geen disposes of $1.35m in stock Investing.com",
-      "author": "",
-      "query": "Circle USDC",
-      "engagement": 0,
-      "entities": [
-        "Circle"
-      ],
-      "sentiment": "neutral",
-      "score": 23.07
-    },
-    {
-      "title": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jOElOU1hnUjdGdFpPbmtnNFFqc3VnaW9SS09pcWFzZjF0QXFIU2JfWTBmQ1licVJCZ21IaUNGZzM5SXJhQkhIWVExdW1HOXpoY3FqYWhfTQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-23T20:32:54+00:00",
-      "snippet": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits Cryptonews.net",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 22.72
-    },
-    {
-      "title": "Third X100 Exploit Transaction Pulls 550,000 X From Uniswap Pool",
-      "url": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
-      "source": "The Defiant",
-      "platform": "RSS Feed",
-      "published": "2026-10-24T15:17:43+00:00",
-      "snippet": "A different sender routed about 549,916 X and 1,909 USDT to a new beneficiary, while the affected pool held less than 200 USDT.",
-      "author": "The Defiant Team",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 21.19
-    },
-    {
-      "title": "NYSE Announces Regulatory Clarity for Payment Stablecoins - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBZWMzMGxFSWRaa0F1aTNPT2VrSTA1cHVPa1I0NXdfMUhiVUt5clVtNzZ0N0dCQ1BrMEVEUUFBeUdYWEp3aVZnZkFoenNESi1zTlQzc3dB?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-23T22:47:54+00:00",
-      "snippet": "NYSE Announces Regulatory Clarity for Payment Stablecoins Cryptonews.net",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 19.13
-    },
-    {
-      "title": "Ottawa is softening its ban on stablecoin yield - The Logic",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50UjVCMF9jcVlIUm1ZQ2VVeGx0ekx0YlhlZ3pJZXNvVEhXcU5qYUFWNEU3c1ljbXp2eVBvQTlMb3MtN1JTZlA5MFcxNmg1NVdlY1NYQ3B2UXdWRWFLMlloaDV4azEteFpJNFZv?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-23T22:37:00+00:00",
-      "snippet": "Ottawa is softening its ban on stablecoin yield The Logic",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 19.01
-    },
-    {
-      "title": "Ethereum Price Prediction: ETH’s Stablecoin Role Puts Yield in Focus as Remittix Earn Readies Aave, Morpho and Maple Finance Pools - StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQbTV2SHl6dkZuUDI0TU5jRjFYdGpCSDE0OFYyaHpJQTRRVzNPVW9pVnltVVhnV25qOUVpbUctYlJydzV3Q3AtbC1xRlpVOG5QSkVDbWJYUERwU1JjSjFDa2djVm5kZHNMeUVROHQ5aHhFNE5Bc1hGby1pdFNfcGFIVHFOc1JFbDVsTUJOTkF0aGVZMi1fT1Z1emp0QVd2TXoySHpWT2EtTXdHaDVnYkh1RHB6aUVXOE5WTnhfRjA2d2Vmd3RLNXM0NGpwTHFHVXlWbnQ4MHFDVERTNmZTaUlieTJfTUk5d3RmZHpNVU1lSzBkQTI3Rnh6ZGJRR2NqTXNmY0lHSk5iMGp0M0NpQ3ZMZVhTbWNzTElwbDhzVlFZakJhMFBKWjk2OHVn?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-23T22:12:10+00:00",
-      "snippet": "Ethereum Price Prediction: ETH’s Stablecoin Role Puts Yield in Focus as Remittix Earn Readies Aave, Morpho and Maple Finance Pools StreetInsider",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 18.75
-    },
-    {
-      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-      "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "platform": "RSS Feed",
-      "published": "2026-10-23T17:42:12+00:00",
-      "snippet": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.",
-      "author": "Cointelegraph by Turner Wright",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "Tether"
-      ],
-      "sentiment": "risk",
-      "score": 17.59
-    },
-    {
-      "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUhwOUI4T2ZfZFd0V1B3N05fTjJrYnpKRWYweFVWQ1BrTEYtMFc5cDR1MFoyajN0SGVUVWF4NHdRdkZtZ0E3RzF0dVJnVHdOSDI1czZmMmlESE9QQldnVUROZXhaTjlPZDF4S3BQX0RxRi1CQmRrWXE1WnJ1TWM3V2tIM2xyUHZZYzJzMVhNN3Q?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-23T20:16:02+00:00",
-      "snippet": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser’s Firm Decrypt",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether"
-      ],
-      "sentiment": "neutral",
-      "score": 17.54
-    },
-    {
-      "title": "What Is the Tether Inquiry? Reported $6.3M Nxum Deal and Policy Risks - Bitcoin Foundation",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkNKeXNDOHlaTkF2VWQ2MVVxZ08tRGpid0E0dENuRXU0Qm9pX1JzUGViQlo4ME5KYmFyTlhVVTh5dWwzejhuRHdnaXBkNms4RFAxSzVnWnNpUkRnckZablMwazhMQTQ5bnBrclZoZFRsTU1CcXg4YXdfUUdoTWtnM2otcC1manRtN1R4Y0Yxa1BnMkdSNU9ZSWUwTXk1c19XNjEzeUVtR3psbTRUQ0ZpM0JtaUQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-23T19:54:47+00:00",
-      "snippet": "What Is the Tether Inquiry? Reported $6.3M Nxum Deal and Policy Risks Bitcoin Foundation",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether"
-      ],
-      "sentiment": "neutral",
-      "score": 17.32
-    },
-    {
-      "title": "Singapore’s BLOOM Adds Malaysian and Thai Central Banks, but MAS Names No Token",
-      "url": "https://unchainedcrypto.com/singapores-bloom-adds-malaysian-and-thai-central-banks-but-mas-names-no-token/",
-      "source": "Unchained",
-      "platform": "RSS Feed",
-      "published": "2026-10-24T03:35:00+00:00",
-      "snippet": "Mastercard, Airwallex and the World Bank Group are among the newcomers, though MAS's release leaves out any stablecoin, pilot or launch date. The post Singapore’s BLOOM Adds Malaysian and Thai Central Banks, but MAS Names No Token appeared first on Unchained .",
-      "author": "Unchained",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "positive",
-      "score": 17.27
-    },
-    {
-      "title": "Licensing process is key to yield in OCC stablecoin rule - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaG9TVmZETjg0ZmlMZ3hxS1I4aWhOQmZnaFQ1WGNaM3JCWVBkbU9pYzl5RHZ1S0pFejQ2R05FX3ZnUDlaWkYybDctY1lPRC13MHczMWo0aEktN3NLbC04WHp0SGZtbnBEbEU2VVd1Z25qNl9nVEJjOGo2RHNPWVRpYVluQUZaUjBfYXVhcnpIbG90VzJ3UDRv?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-10-23T16:38:00+00:00",
-      "snippet": "Licensing process is key to yield in OCC stablecoin rule American Banker",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 15.27
-    },
-    {
-      "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
-      "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
-      "source": "The Defiant",
-      "platform": "RSS Feed",
-      "published": "2026-10-23T16:19:13+00:00",
-      "snippet": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer.",
-      "author": "The Defiant Team",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 10.86
+      "score": 12.34
     }
   ],
   "summary": {
     "entity_counts": {
-      "Circle": 5,
-      "USDC": 5,
-      "Tether": 5,
-      "USDT": 4,
-      "Stablecoin": 23,
-      "Robinhood": 1
+      "Circle": 7,
+      "USDC": 9,
+      "Tether": 2,
+      "USDT": 5,
+      "Stablecoin": 12,
+      "Robinhood": 0
     },
     "platform_counts": {
-      "News RSS": 25,
-      "RSS Feed": 7,
-      "Reddit": 2
+      "News RSS": 18,
+      "Reddit": 3,
+      "RSS Feed": 2
     },
-    "risk_count": 13,
+    "risk_count": 6,
     "top_risks": [
       {
-        "title": "Stablecoin Regulation Shifts: New Reserve Rules for Business - OneSafe.io",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekc3V2xXeXJRR3R0RUc0LV9XV25icTZFdGplT3FBMklfUjU3OFRLNkE2UXlZd1JzUUtBVUxuSXZoVG55VURKVHRDcEFuZFdxaW03ek1SNElyUU0yTXRnaWl6SWpBY1BTaEl0OHVOV1AwelZVNXZFRzRuVnVwd0FXUk9XR0Y4dw?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-10-25T02:29:42+00:00",
-        "snippet": "Stablecoin Regulation Shifts: New Reserve Rules for Business OneSafe.io",
-        "author": "",
-        "query": "stablecoin regulation",
-        "engagement": 0,
-        "entities": [
-          "Stablecoin"
-        ],
-        "sentiment": "risk",
-        "score": 46.44
-      },
-      {
-        "title": "Stablecoin Regulation Shifts as Qivalis Gets MiCA License - OneSafe.io",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MRllPVHloVFhReXg4d04zR2Z0VGdTZ3huQlpSMGw3MHVkODVlXzNBaXJ1RVRvTDY5RGNERG1QUGVvTGJyb0owd0c2SHR3NWNfdFFVX0dvSjRvTFM1V1VybldPU2RNSG1kdFd1UFhjYTZ6WjdJeW9UeGFn?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-10-25T02:07:26+00:00",
-        "snippet": "Stablecoin Regulation Shifts as Qivalis Gets MiCA License OneSafe.io",
-        "author": "",
-        "query": "stablecoin regulation",
-        "engagement": 0,
-        "entities": [
-          "Stablecoin"
-        ],
-        "sentiment": "risk",
-        "score": 46.2
-      },
-      {
-        "title": "The OCC just confirmed GENIUS stablecoins can't pay you yield, so all the yield moves into the protocols",
-        "url": "https://www.reddit.com/r/defi/comments/1xe5ucl/the_occ_just_confirmed_genius_stablecoins_cant/",
+        "title": "Is USDC safe on Coinbase?",
+        "url": "https://www.reddit.com/r/MadEasyCrypto/comments/1xfb1gy/is_usdc_safe_on_coinbase/",
         "source": "Reddit RSS",
         "platform": "Reddit",
-        "published": "2026-10-24T11:06:09+00:00",
-        "snippet": "OCC interpretive letter dropped Oct 21 confirming permitted stablecoin issuers can't pay holders any interest or rewards just for holding. Circle and the rest keep the full T-bill yield on reserves, you get a dollar token that does nothing on its own. This pushes onchain yield into the protocol layer. If you want paid you hold sUSDe, parking in Aave, or locking a fixed rate with a Pendle PT, and the compliant stablecoin becomes a settlement venue Does this kill the reason to hold USDC directly,...",
-        "author": "/u/Bluejumprabbit",
+        "published": "2026-10-25T19:15:00+00:00",
+        "snippet": "USDC on Coinbase is about as safe as a stablecoin gets, but it is not the same as cash in a bank. It's not FDIC insured, and Coinbase says that itself: USDC balances aren't deposit accounts and aren't covered by FDIC or SIPC. So it's really two questions. Is USDC itself safe, and is Coinbase a safe place to hold it. USDC itself is backed by cash and short dated US Treasuries, and Circle publishes the reserves, with a Big Four accounting firm checking them every month. It has still broken a doll...",
+        "author": "/u/boringpretty",
         "query": "Circle USDC",
         "engagement": 0,
         "entities": [
@@ -621,14 +416,48 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 45.45
+        "score": 45.49
+      },
+      {
+        "title": "Best Crypto Casino Reddit 2026: USDC Changes Nov 12",
+        "url": "https://www.reddit.com/r/PhilippineWatchClub/comments/1xf0xx2/best_crypto_casino_reddit_2026_usdc_changes_nov_12/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-10-25T12:20:23+00:00",
+        "snippet": "Reviewed: October 23, 2026 Scheduled for publication: October 25, 2026 USDC is entering a new regulatory chapter on November 12, 2026. The European Banking Authority will begin directly supervising certain requirements for Circle's European USDC issuer after classifying the stablecoin as a significant e-money token. For anyone researching best crypto casino reddit recommendations, the announcement is a good reason to revisit an important topic: which cryptocurrency casinos support USDC, and whi...",
+        "author": "/u/AutoModerator",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 38.04
+      },
+      {
+        "title": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed - CryptoSlate",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaENhMXpMZnUxZ0Y0ZkY1cXhJMXluYzg1UWVtNWtkdWFVY0JpRXF4TmNmc0dFYWJQMXVvYVhRWlNLZUlmVWkxWmFERHNQMkVZNGJiQjFUQkNtb1c4bnpwWDVhV3lDcElDeXJaejdoUVg1SS1NbDZGLUwtV2RqOU1rT0xvaUhwd1d1MFI4OGRKemNvbVFIRlBjX2t2OGtTZzZ4?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-25T19:45:11+00:00",
+        "snippet": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed CryptoSlate",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "USDC"
+        ],
+        "sentiment": "risk",
+        "score": 37.18
       },
       {
         "title": "Reserve Composition and Design in Stablecoin Regulation - orfonline.org",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObF95UUtJM1NodkVkNGVjUmV5cW9uZnJsdDdMYjkzTVhlNmFXNzE5NWJxR19mdExJQTg5UXA3cDBNQnJBZEZDVl9vNmI5RGcxZTRxTU5xdVlqQTFxXzRwa250YlNUdnZNTWdfRDlUTmF3M2Zha3pIdFJjT2FydUhKRS0tVWVDNEFUaDZiZ2s3NTluYXVWUm55MEJn?oc=5",
         "source": "Google News",
         "platform": "News RSS",
-        "published": "2026-10-24T18:36:28+00:00",
+        "published": "2026-10-25T05:48:40+00:00",
         "snippet": "Reserve Composition and Design in Stablecoin Regulation orfonline.org",
         "author": "",
         "query": "stablecoin regulation",
@@ -637,65 +466,15 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 41.51
+        "score": 33.47
       },
       {
-        "title": "Circle Shareholder Sues Trump Over $2 Billion USD1 Deal",
-        "url": "https://www.reddit.com/r/MarketVibe/comments/1xe1h6t/circle_shareholder_sues_trump_over_2_billion_usd1/",
-        "source": "Reddit RSS",
-        "platform": "Reddit",
-        "published": "2026-10-24T06:38:32+00:00",
-        "snippet": "A Circle shareholder has filed a lawsuit against Donald Trump, World Liberty Financial and Steve Witkoff over financial deals involving the USD1 stablecoin. The case focuses on a $2 billion investment by Abu Dhabi’s MGX into Binance in 2025. The deal used USD1, a stablecoin issued by Trump’s family-linked crypto company, World Liberty Financial. The lawsuit also mentions a reported $500 million deal in which an investment group linked to an Abu Dhabi royal acquired 49% of World Liberty Financia...",
-        "author": "/u/BozEx_12",
-        "query": "Circle USDC",
-        "engagement": 0,
-        "entities": [
-          "Circle",
-          "Stablecoin"
-        ],
-        "sentiment": "risk",
-        "score": 33.22
-      },
-      {
-        "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows - The Defiant",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjJxeDY0V3VqcVJhdnVlVWF2cER6QWNwbEE1dmhLZGs5WTVSbk5faFRrQ0ZLVERmdjRKMTQyYmJLWnJFZEpuLVp0TExUUFNQSFdKRmowZTFSQ1gxdjhrMi0wdzg2VFk5aVJtaXZxVjVleWJrckNwdWR2TzI1ZVNnQmZpYUl4cnlKRTVMcUZwQTZSdGtP?oc=5",
+        "title": "Circle Shareholder Sues Trump Over $2B UAE Crypto Deals - Bitcoin Foundation",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGVNOU5Eamp1d3RWaXo0SjdLVHdtY0otMjZuQVRLeE85TFFLbkRCWWZuSUhtT2dCc29kVHhIbHVfSVlpQndvX1dvOV9MN0Ftcm5UUlZ0OFd3d0I4NWg1MWNHWkZoTEdoLThjbkprMGlCZTBHaWM5ZVUtXzFWR1UyS1ZjdE9QUWZiVEQtN0JFV3hnc2lfSEFCa29wT1NIclJ1LVA4?oc=5",
         "source": "Google News",
         "platform": "News RSS",
-        "published": "2026-10-23T19:13:23+00:00",
-        "snippet": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows The Defiant",
-        "author": "",
-        "query": "Tether USDT",
-        "engagement": 0,
-        "entities": [
-          "Tether",
-          "USDT"
-        ],
-        "sentiment": "risk",
-        "score": 29.39
-      },
-      {
-        "title": "NYSE Highlights OCC's Final Rule for Payment Stablecoin Issuers - TOKENPOST",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uX0FLd1ZJdUhaMVhiUXdOeFhsekt1emZoVGtFOGFZRmJqOG15ODVkQnMxYWFSUDNSUzZsVVVlLUpZejREeEJpejJOVEZmdHpNR3luVHBxR2xOYW8?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-10-24T05:59:28+00:00",
-        "snippet": "NYSE Highlights OCC's Final Rule for Payment Stablecoin Issuers TOKENPOST",
-        "author": "",
-        "query": "stablecoin regulation",
-        "engagement": 0,
-        "entities": [
-          "Stablecoin"
-        ],
-        "sentiment": "risk",
-        "score": 28.62
-      },
-      {
-        "title": "Circle Shareholder Sues Trump and World Liberty Financial Over UAE-Linked Crypto Deals - Tekedia",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTFCWkhaUWdWLU1EOHdOckIwT1JYdzZ5SUtNMTZXWUEwZk1KX2FHWnNEUFhiakN3MjNIWm1mdWMwdFFwOGpqVngycExNbEhlWjJVc0xUMmh6OUxmMS1UajNkdnJiNXg1ellkNXZjY0t5TjE0Q1FYUkdrM3F5UGZlanl5NzkwRzcySHdxaTYwT3dPaGdpbjlBOU9ldlRiMjNXVFVJZWlwMEpWVEYzWWhVTA?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-10-24T05:14:47+00:00",
-        "snippet": "Circle Shareholder Sues Trump and World Liberty Financial Over UAE-Linked Crypto Deals Tekedia",
+        "published": "2026-10-25T08:44:58+00:00",
+        "snippet": "Circle Shareholder Sues Trump Over $2B UAE Crypto Deals Bitcoin Foundation",
         "author": "",
         "query": "Circle stablecoin",
         "engagement": 0,
@@ -703,15 +482,15 @@
           "Circle"
         ],
         "sentiment": "risk",
-        "score": 28.16
+        "score": 30.3
       },
       {
-        "title": "New OCC stablecoin rule resets redemptions, and banks face big shifts - Cryptonews.net",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkaTRMQ1Rrak5HWkNqM0xORmxaUDEtQWZXakJrTDhmRVNPbW5nSzkwT0ZBNldfSGhnRk5tLUFMYUdGV2VzSVllR2VNNURHOWRiTEJaTnpB?oc=5",
+        "title": "Dutch Central Bank Clears Qivalis to Issue a Euro Stablecoin - Startup Fortune",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjJ4amN1VTRDdkJyd3JsdVpTdU0xTVZqS3ZwaG92M0ZBcEtjdEJJaXpObHpzaUZobG44S18xWTZfOXNmS3g3dHN0TmpYbl9jWkk0TjhVTmlRSWQzc2lyWGI0bmJsUXV3M0JEajFucDJyTm1DVER2RkJ6TUljQzAtZUY4VVcwTmxFVHJ5aDJjUDAtZw?oc=5",
         "source": "Google News",
         "platform": "News RSS",
-        "published": "2026-10-24T03:38:25+00:00",
-        "snippet": "New OCC stablecoin rule resets redemptions, and banks face big shifts Cryptonews.net",
+        "published": "2026-10-24T18:34:37+00:00",
+        "snippet": "Dutch Central Bank Clears Qivalis to Issue a Euro Stablecoin Startup Fortune",
         "author": "",
         "query": "stablecoin regulation",
         "engagement": 0,
@@ -719,93 +498,39 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 27.15
-      },
-      {
-        "title": "Hong Kong’s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
-        "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
-        "source": "Decrypt",
-        "platform": "RSS Feed",
-        "published": "2026-10-24T13:01:02+00:00",
-        "snippet": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
-        "author": "Jose Antonio Lanz",
-        "query": "",
-        "engagement": 0,
-        "entities": [
-          "Stablecoin"
-        ],
-        "sentiment": "risk",
-        "score": 26.41
-      },
-      {
-        "title": "X100 Exploit Nets 4.85 Million USDT After Governance Takeover",
-        "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
-        "source": "The Defiant",
-        "platform": "RSS Feed",
-        "published": "2026-10-24T14:58:09+00:00",
-        "snippet": "Two transactions turned treasury tokens and liquidity positions into USDT; Blockaid warned that the Ethereum attack was ongoing.",
-        "author": "The Defiant Team",
-        "query": "",
-        "engagement": 0,
-        "entities": [
-          "USDT"
-        ],
-        "sentiment": "risk",
-        "score": 24.65
-      },
-      {
-        "title": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits - Cryptonews.net",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jOElOU1hnUjdGdFpPbmtnNFFqc3VnaW9SS09pcWFzZjF0QXFIU2JfWTBmQ1licVJCZ21IaUNGZzM5SXJhQkhIWVExdW1HOXpoY3FqYWhfTQ?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-10-23T20:32:54+00:00",
-        "snippet": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits Cryptonews.net",
-        "author": "",
-        "query": "USDC stablecoin",
-        "engagement": 0,
-        "entities": [
-          "Stablecoin"
-        ],
-        "sentiment": "risk",
-        "score": 22.72
+        "score": 21.45
       }
     ],
     "narratives": [
       {
         "entity": "Stablecoin",
-        "count": 23,
-        "headline": "Stablecoin Regulation Shifts: New Reserve Rules for Business - OneSafe.io",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekc3V2xXeXJRR3R0RUc0LV9XV25icTZFdGplT3FBMklfUjU3OFRLNkE2UXlZd1JzUUtBVUxuSXZoVG55VURKVHRDcEFuZFdxaW03ek1SNElyUU0yTXRnaWl6SWpBY1BTaEl0OHVOV1AwelZVNXZFRzRuVnVwd0FXUk9XR0Y4dw?oc=5"
-      },
-      {
-        "entity": "Circle",
-        "count": 5,
-        "headline": "The OCC just confirmed GENIUS stablecoins can't pay you yield, so all the yield moves into the protocols",
-        "url": "https://www.reddit.com/r/defi/comments/1xe5ucl/the_occ_just_confirmed_genius_stablecoins_cant/"
+        "count": 12,
+        "headline": "European Banking Authority Classifies Circle’s USDC as a Significant Stablecoin - Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVhmYm5KRV9zQUhNdl9yTEZOUG1uUGxFSDNGUlZkTFNwSGZBenNHS0ZPWTFSTmpMMVRKa3N2Z053SXA5d1VZVndGTDBDTnZZOUNvU2diNnNkSnBxa2tDUk1UTkZmLU1fc3JEOEJQdVJ4c3NVaWYxRHMxMDRacjBOUm4yWGIxcXJ2QUU2RFdhemZ0MjVwcmhBUTl2bjBrNTRaYVN5VXJn?oc=5"
       },
       {
         "entity": "USDC",
-        "count": 5,
-        "headline": "The OCC just confirmed GENIUS stablecoins can't pay you yield, so all the yield moves into the protocols",
-        "url": "https://www.reddit.com/r/defi/comments/1xe5ucl/the_occ_just_confirmed_genius_stablecoins_cant/"
+        "count": 9,
+        "headline": "European Banking Authority Classifies Circle’s USDC as a Significant Stablecoin - Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVhmYm5KRV9zQUhNdl9yTEZOUG1uUGxFSDNGUlZkTFNwSGZBenNHS0ZPWTFSTmpMMVRKa3N2Z053SXA5d1VZVndGTDBDTnZZOUNvU2diNnNkSnBxa2tDUk1UTkZmLU1fc3JEOEJQdVJ4c3NVaWYxRHMxMDRacjBOUm4yWGIxcXJ2QUU2RFdhemZ0MjVwcmhBUTl2bjBrNTRaYVN5VXJn?oc=5"
       },
       {
-        "entity": "Tether",
-        "count": 5,
-        "headline": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows - The Defiant",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjJxeDY0V3VqcVJhdnVlVWF2cER6QWNwbEE1dmhLZGs5WTVSbk5faFRrQ0ZLVERmdjRKMTQyYmJLWnJFZEpuLVp0TExUUFNQSFdKRmowZTFSQ1gxdjhrMi0wdzg2VFk5aVJtaXZxVjVleWJrckNwdWR2TzI1ZVNnQmZpYUl4cnlKRTVMcUZwQTZSdGtP?oc=5"
+        "entity": "Circle",
+        "count": 7,
+        "headline": "European Banking Authority Classifies Circle’s USDC as a Significant Stablecoin - Tekedia",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVhmYm5KRV9zQUhNdl9yTEZOUG1uUGxFSDNGUlZkTFNwSGZBenNHS0ZPWTFSTmpMMVRKa3N2Z053SXA5d1VZVndGTDBDTnZZOUNvU2diNnNkSnBxa2tDUk1UTkZmLU1fc3JEOEJQdVJ4c3NVaWYxRHMxMDRacjBOUm4yWGIxcXJ2QUU2RFdhemZ0MjVwcmhBUTl2bjBrNTRaYVN5VXJn?oc=5"
       },
       {
         "entity": "USDT",
-        "count": 4,
-        "headline": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows - The Defiant",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjJxeDY0V3VqcVJhdnVlVWF2cER6QWNwbEE1dmhLZGs5WTVSbk5faFRrQ0ZLVERmdjRKMTQyYmJLWnJFZEpuLVp0TExUUFNQSFdKRmowZTFSQ1gxdjhrMi0wdzg2VFk5aVJtaXZxVjVleWJrckNwdWR2TzI1ZVNnQmZpYUl4cnlKRTVMcUZwQTZSdGtP?oc=5"
+        "count": 5,
+        "headline": "Circle Match Gives USDC Desks A New Fee Trade-Off And A Separate Funding Balance: the KCEX Sunday evening board with BTC 80,101.80 and 31 perps",
+        "url": "https://www.reddit.com/r/KCEX/comments/1xfi7rx/circle_match_gives_usdc_desks_a_new_fee_tradeoff/"
       },
       {
-        "entity": "Robinhood",
-        "count": 1,
-        "headline": "Stablecoin News: Morpho Unlocks Loans Against Robinhood Stock - openPR.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2p2VUJITHZtNXpZdEJXQjQ2X3RIaEJCTmZBMW9ReFNRWmFGb2libjBsLW9LVnFUNlprNm4xYkgxQzZrNXF3cjc5SThyTkZtV2FINmEzZUFrYTlFalY0ZG9kMGZJVURGSzYxeFRrcGlNRlNqM0ZvVzZUeW9ZYnlwcWt4REZYMTJkVTh1U3hGcDAtdmIteFczUnlNM0k?oc=5"
+        "entity": "Tether",
+        "count": 2,
+        "headline": "How $37 million stolen from Americans moved through a Bahamas bank into Tether’s USDT - Cryptonews.net",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyY2x6Wmg5NGVkNmZ0YmVJNWtDM3VWcTRId3pEZmpXREhnc19kcl9lcTVyMHQteURLbHk4bGgyeG9TMHVlcW9KelQwRlJEWEJwWU5WMmU5Zl9FQQ?oc=5"
       }
     ]
   },
@@ -813,8 +538,8 @@
     {
       "name": "Google News",
       "ok": true,
-      "fetched": 852,
-      "kept": 25,
+      "fetched": 853,
+      "kept": 18,
       "message": ""
     },
     {
@@ -834,8 +559,8 @@
     {
       "name": "Reddit RSS",
       "ok": false,
-      "fetched": 6,
-      "kept": 2,
+      "fetched": 8,
+      "kept": 3,
       "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
     },
     {
@@ -869,22 +594,22 @@
     {
       "name": "Decrypt",
       "ok": true,
-      "fetched": 40,
-      "kept": 1,
+      "fetched": 60,
+      "kept": 0,
       "message": ""
     },
     {
       "name": "The Defiant",
       "ok": true,
       "fetched": 100,
-      "kept": 4,
+      "kept": 1,
       "message": ""
     },
     {
       "name": "Unchained",
       "ok": true,
       "fetched": 10,
-      "kept": 1,
+      "kept": 0,
       "message": ""
     },
     {
