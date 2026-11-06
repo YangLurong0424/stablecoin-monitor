@@ -1,0 +1,940 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T05:23:40.913252+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+      "url": "https://www.reddit.com/r/RWATimes/comments/1wwublv/circle_pushes_back_on_micas_bankdeposit_mandate/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-10-03T18:30:09+00:00",
+      "snippet": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules. Circle is urging the EU to revise MiCA's stablecoin regulations, arguing current rules exclude major global tokens. The company specifically opposes mandates for bank deposits in reserves and concentration caps, favoring more flexible liquidity requirements. Circle's recommendations...",
+      "author": "/u/rwatimes",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 60.55
+    },
+    {
+      "title": "Circle Wants EU’s 30% Stablecoin Reserve Rule Swapped for Liquidity Test - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13TkpZU3VTTC1uc1pCdFA1QnBmWHZZODBFVlU2S2gzZDBNRVoxeDVsQk80M29mc091M295THgtOVBPYlQwYW5ldFZqRkt1VThpNXI0ZWE5dVBlQXJGcDRyQ3JDN1FrelNCZTg5ZVI4M29xMTlw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T13:39:07+00:00",
+      "snippet": "Circle Wants EU’s 30% Stablecoin Reserve Rule Swapped for Liquidity Test The Cryptonomist",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 45.16
+    },
+    {
+      "title": "Stablecoin liquidity rises above $310B, boostin... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFJyZGFad1lONF90ZURkVnNjWmpwX19VQTZ2Y1FydzViLXd5UkpfSFh5WEFvcm9uQ09fMHBVRHNBVHJzSjlmOXp0V2dEaVRXTkNOWjRtNGFFQzNxTkdqT1J0V1d4QkdTeE5qZGVITVNqb1NNVGNYNE9PdF9remtSaVlteHJ1ekkzaVhyVlFldVZxVzNZRlUtYTBZU3RQZXBkalZaVHRXd3Qwb1VnbC1qYw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-04T01:25:22+00:00",
+      "snippet": "Stablecoin liquidity rises above $310B, boostin... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 40.01
+    },
+    {
+      "title": "Stablecoin market tops $310B – Can it fuel BTC’s Q4 momentum? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BVkhiVFlJb3VZNVVLV19QUWROMzZPeVhySGlsRWxxT2lVSFRndy04S3BUYVN2UHNDUlVkdUhXYk9RajQ0Slo5Z0c5eE1jLXFlc1VqLTFPTHM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-04T03:13:04+00:00",
+      "snippet": "Stablecoin market tops $310B – Can it fuel BTC’s Q4 momentum? Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 36.13
+    },
+    {
+      "title": "Ripple's Swell 2026 to Feature BNY, ICE, TD Securities and Robinhood in New York - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94UUdHY2hYUWFBcDRGVWhRelFKMmUwLTFMb1RfSUlLYnIyTklnb3VlcDZMV0RGTDJsQnF2QTNnUllJNHV6ZzE2TThHQUNHZ0pnc2dTaEctOFRLLUxibVNKczRkZTAwYk10Y0xCdXBobXc5b01qUHc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T18:06:00+00:00",
+      "snippet": "Ripple's Swell 2026 to Feature BNY, ICE, TD Securities and Robinhood in New York finance.biggo.com",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "risk",
+      "score": 35.44
+    },
+    {
+      "title": "Circle urges EU to revise MiCA rules to attract major stablecoins and ease reserve requirements. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnlxZFpZUU9Wd3pxc1FROHh4eEpnSVgzd2JPTkYxV0ZoekM4Y3BIaEtjcXVqUXZnTmFxMnplX2lDS1JtMFFPcFlJQk5BdjIwUmFnS3FwNm1Za1R0YlRCWmlmTk1OMF9taDBzbXRMSFZPQzd6Y1RSZXgyd1Vuc3RNSVBmOENHX255SjY3MnRYaUY?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T19:54:50+00:00",
+      "snippet": "Circle urges EU to revise MiCA rules to attract major stablecoins and ease reserve requirements. Pluang",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 34.07
+    },
+    {
+      "title": "Circle urges EU to ease strict bank reserve rul... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDJHYk9pZF9pWjZEVS1aaVFoX0h0eVpna0pqQ3FYejh1NGtMYXlha3Y2OC15NDMtVWRaX2RNNlBOeWlOSHRzMmgwellVNmRKUWJydVc2MUI4dWVKMEhDT3JSQ1B4TEwzcGtpMHJ4V0dzTnF1UUoxTXdEaEN1Nk5RVEVtUVZRTTBRWEczM2hHSVJHczFMX21OY2g4VWsyMjdwOFdSSjhWQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T14:35:57+00:00",
+      "snippet": "Circle urges EU to ease strict bank reserve rul... Pluang",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "risk",
+      "score": 33.25
+    },
+    {
+      "title": "XRP News: Ripple Brings BNY, ICE, TD Securities and Robinhood to Swell 2026 - Coinpaper",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlpINkRyb3RRWDZMUExxWENEYkdLYnJTQVM4aDVwMXdrZlk0eExNVzR4NWpBdVl6aEh4VF9pLThCQUpyYnZXTEJqZkNFanQzczg1dUZJd2EtUENDTkV6YVY1NGswZlpkdDM3RWtaU0xtdUhxRk45alMzR19tODQwRnlNMk1wOUlFMnlKMlg2V1RIV1M5MTNBdGdyRWhnUUY1Vnc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T13:46:09+00:00",
+      "snippet": "XRP News: Ripple Brings BNY, ICE, TD Securities and Robinhood to Swell 2026 Coinpaper",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "risk",
+      "score": 32.73
+    },
+    {
+      "title": "2027 start for the UK stablecoin regime: what the Bank of England mandate means - CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42SUNrcUJsM0o2Z2hCS21na0VzaEM1U05HYURRWHozRU5qWDFxVFd1Vm5ENU9FUFA5amZSYW00dDBaVWZsUHpfMVk2M0ZLTVN4QVZOWkhOZ2tlUW03Q2tlR2NBYjcxTWhUTHlPam84SkxMNTg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T21:20:48+00:00",
+      "snippet": "2027 start for the UK stablecoin regime: what the Bank of England mandate means CryptoTicker",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 32.47
+    },
+    {
+      "title": "EU May Block Crypto Firms From Holding Non-Compliant Stablecoins - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdV9zNVJ6SzVnM2prZWZKc1NNLXI4WUlRZnUwaTRkNGhOLXlpVmVrLWhJc0RHZlhIWklBYzRzaHdKZTB5NW5YekFPdVczOEsyc2huOVN5SzhuUnB2RGpkcS11NGdMX3NvTjl1QjlaN2ZmbXprRWkzRTJ1ZnpnUWFBdjYwYWdGcWhWTGJTdUxmcmFMM014ZkE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T19:10:26+00:00",
+      "snippet": "EU May Block Crypto Firms From Holding Non-Compliant Stablecoins Altcoin Buzz",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.11
+    },
+    {
+      "title": "Tether Price Today, USDT Rate, Chart, Market Cap, News - techgraph.co",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtRGd3VVdCdzJIdWJfRjdpYkFfWGRfZkEyOEcyeWtDTTdrTG02Nlg2aTJhLW5NT2hFMU9DMnM0aU9QRVNpNFU1SnRqUzE5VnpheFlv?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T05:15:47+00:00",
+      "snippet": "Tether Price Today, USDT Rate, Chart, Market Cap, News techgraph.co",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 29.91
+    },
+    {
+      "title": "Stablecoin Issuers Added $200 Billion in Treasury Holdings - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWFZblVWVnJhMy1PY05ZbGhGNThlRVBtdFRob2RWX1Frb041MWxOdU5SZTYzNnRHT2l1MHZmelhvajRqaWpZUDZYdVFveE1UcE1Lc3lLaThLWGZaT2ZBQkdibUtPc2lSMGlnSlJqSjh2VnBhb004dnZ5Z2J6ZTFvUVFVNWJMZTZMUFNyMw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T07:30:38+00:00",
+      "snippet": "Stablecoin Issuers Added $200 Billion in Treasury Holdings Altcoin Buzz",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 28.82
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to USD (United States Dollar) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aQkZLNzJkQTRObm9wQlVieDdjNjdOdE9CRzMweTV0YncwSVV0NWpXSzVBNG84NDZ6dl9wekJ0V19HTUhBZ0FSS1U5d2ZwOHhIQzFrUlBsQVY?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T02:25:32+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to USD (United States Dollar) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.14
+    },
+    {
+      "title": "Ripple's Swell 2026 unites top finance firms to discuss tokenized assets and stablecoins. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFl5NTl0ZWRGTENWZjNIM1ROWllYM0JNN0JBTVVUbW1FWi1IWEVKUFJjQ1Z4Q0RCUzRHUGdXblpwekpBUXFreThXcl9wRnlhUndLb2tPWVJPSzJEQUg5RXJUUVl1WXBCYUwybDl4Yl8tZXdESDNqVldWRFFCdWp5OEF5RkZkSWhmeVF0R2tVQ0VMRk5DV285OA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T14:08:01+00:00",
+      "snippet": "Ripple's Swell 2026 unites top finance firms to discuss tokenized assets and stablecoins. Pluang",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.96
+    },
+    {
+      "title": "$315B Stablecoin Supply Hits Record as USDC Gains - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdE5uMDJDWGFTVEpNWXljUEdqVTZUNzdMMDlsZFFNMS1zTzZFdmZwbngwbmo1VndJVnNtN1hHeDRlMVFUR0NLR1RPS0N6U0VLZlNZOE1DaWJaM2ctVmtZMUVCaGxJTEprLWRUS3pHcHR0NkdXR1FyVFFMQUFoajZzZm05cXEySHVKeFBkb3E1djF0MUpKNlpGeWVkQ3I?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T00:32:30+00:00",
+      "snippet": "$315B Stablecoin Supply Hits Record as USDC Gains CoinMarketCap",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.96
+    },
+    {
+      "title": "USDC Gains BNY Minting and Redemption Support - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTNNZ1d3SFdzY1FGM3E2UXJ0YV9INWtvdkJiZnJCTVhMcXg3UHdydjF4WTJxbHVUaHBYalZRTWxnY05XS042Vk5nNVd6eTUzeDV2UEJJcHBrcGhzLW9uamNnejNOamdRNnctNmNHN2NQd1JsUEprLWtrckkzakw0UGtmTGhSdjdxSTNiTVJpeUw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T04:09:30+00:00",
+      "snippet": "USDC Gains BNY Minting and Redemption Support CoinMarketCap",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 26.72
+    },
+    {
+      "title": "Stablecoin issuers have replaced 40% of China’s lost US Treasury demand - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96cXc4czA2aGZ3Mlhya2dRa0diVmlIY1E2T2xCRWVaUUFuVjdqLXRYS3FjQnB1WDNxbXYyNjhFZDVSRVNDclA4NHB1TUg3UG9SOVFvbkNzYzE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T03:16:17+00:00",
+      "snippet": "Stablecoin issuers have replaced 40% of China’s lost US Treasury demand Cryptonews.net",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 26.17
+    },
+    {
+      "title": "Mercuryo Data: Stablecoins Hit 60% of Crypto On-Ramp Value in H1 2026 - The Fintech Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTmFnZDdJOXpIVXV2MWFoRXY0RmlfR2ZRR1B1ZlRvTHQzRjA3b1RCNXhjbGNjSkExcXRqbUh3UU5zWVVtUE9lWnFVdVdhdDdrbVphd29qbEhYRk9kOU5QYkJpd2pCdkJXVnFvQi1GaS1CT0lEbEZyczlaV0xnMFRvTTA5RUxNZllROC1rc2ZURXZfaUR0ZEF6bVY4RF8?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T11:00:06+00:00",
+      "snippet": "Mercuryo Data: Stablecoins Hit 60% of Crypto On-Ramp Value in H1 2026 The Fintech Times",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.0
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to RUB (Russian Ruble) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rbWhGRjZHNW9qLUg1QV8yeVl3NVREMU0wTkFaaUI1VDdEbktnMVB3b2FQenFQUnJUVTR3dmZGcW5SM3d5eGtXTmw1Qk5oY1hlWHBzRzBfbWY?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T22:41:20+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to RUB (Russian Ruble) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 25.8
+    },
+    {
+      "title": "Convert 1 RUB (Russian Ruble) to USDT (Tether USDT) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nSHpxcUpKV1g1YWJiMkpwVmh5dkZsYlN5MGhOSW9HM29Vc0FETzZPYXZGZzRqSXJTalhHN0NiQ19zWkNlbVdMbTRMUHRmWDF1bzFnSGg3cGE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T21:59:45+00:00",
+      "snippet": "Convert 1 RUB (Russian Ruble) to USDT (Tether USDT) Bybit",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 25.37
+    },
+    {
+      "title": "EU Stablecoin Issuers Push for Dollar Tokens Despite Euro Strengthening - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXdBM3UtTkFrVUNxVHhVOGlueTU1UWdmT2NYNFpCQ19lNGJJWlkycXRBc2pfY3Vnd1dKQzlHZ3lzVjl2bWhhVHh5dnVsMjdJNkQyWl9pSkpkaWZKWWh3TE44Y3c1N1ZUeW5CZ2J2cXVsQVlKb0FYLUYzbWZrSXVpQ09HaXdnMkViRlJEVVVMckx3d0ptM2UtU0FhYk1CZ1NvaDNud09RX20?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T01:52:53+00:00",
+      "snippet": "EU Stablecoin Issuers Push for Dollar Tokens Despite Euro Strengthening KuCoin",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 25.3
+    },
+    {
+      "title": "Circle Wants EU to Loosen Stablecoin Bank Deposit Rules - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWJxVHdINEFwaUhPaG9ORDFpaVdKSzJKVjdCbElMRlpvck44MjZEQ3IxUG41R1I4YlNsQno1bnBhaEpZT2FES0NrTXlfS0JfRjF0Q3RTSkYwak9tREI0U3Mwcml3TDVPS1NHbkZRRWgxd2ZXNGc0U1U5ZkJ2SDExSldnMVpZRDJEUkE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T19:58:52+00:00",
+      "snippet": "Circle Wants EU to Loosen Stablecoin Bank Deposit Rules Altcoin Buzz",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.11
+    },
+    {
+      "title": "Ripple Adds $765 Million to Stablecoin Market Cap in Q3, Trailing Only Circle - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1QlF0eDl6Ulg2a2hZbFo3SF9TMWhkNjVWenI0VDlYVnZSbEpCTEhoTW1vNi1FNUtPQjczbnczS2s3SmVyalAzQ2JCNmhTMFVvVHNnNHEzX2Y5Zw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T18:30:20+00:00",
+      "snippet": "Ripple Adds $765 Million to Stablecoin Market Cap in Q3, Trailing Only Circle Cryptonews.net",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 23.19
+    },
+    {
+      "title": "$184B USDT Returns to Bitcoin via Tether-Backed Utexo - FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1FpSzN6WmxKeWUxN1dCbFlHR2toRnVHQ0h6d2FRT0s3T284ZUVfSFU4UnpUVFR0Y0ROVkFsQXgtZnctT3pzRGpKSEFFb2VvRTJ1MFNtNEhRcS1jRmU2OGV6YzY3NzdLbHFlU0FSbXpfUDI4SGttZzhBU1pLU1ctUjBDM3RxaHVHNkV4VnNsZFo?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T17:32:34+00:00",
+      "snippet": "$184B USDT Returns to Bitcoin via Tether-Backed Utexo FinanceFeeds",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 22.59
+    },
+    {
+      "title": "GENIUS Act stablecoin rules: status up to 2027 - CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Y2ZrRFdMaENyOXJpM1hMY0l0Z1NuMDcwdFpvTWpBWjBpeXFmZmVkZlBMVjFKbU9wRU9LWlo2a2JYSV9nWThXRGI0ekhQeXdwM3ZFY202VWJxN2tvS2laclhxVjdLTFBlNWtNMg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T21:28:00+00:00",
+      "snippet": "GENIUS Act stablecoin rules: status up to 2027 CryptoTicker",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 22.54
+    },
+    {
+      "title": "Hyperliquid’s USDC Yield Program Gets $14.6 Million for HYPE Buybacks",
+      "url": "https://thedefiant.io/news/tokens/hyperliquid-s-usdc-yield-program-gets-14-6-million-for-hype-buybacks",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-10-03T09:14:07+00:00",
+      "snippet": "The first reserve-yield payment awaits transfer to the Assistance Fund, adding buyback funding tied to USDC balances rather than trading volume.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 21.52
+    },
+    {
+      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
+      "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-10-02T18:41:17+00:00",
+      "snippet": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
+      "author": "Cointelegraph by Sam Bourgi",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 21.15
+    },
+    {
+      "title": "Thunes Adds EURC Stablecoin Prefunding to its Global Payments Network - The Fintech Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRHJKNXNwa0E4MThVSHpBY2M5ZWk2aWRabnU0MVhkZGlHUVFyUEdMZkpVNWxQRGxTR3NuVEM3TTdNNTk2NHFxMGh6T0VwbjV5UU5VMEVMZVhWUy1scGE2ODNwdk1NanRzNFpYMktzalZBLXpabHVuLXdJa1V3ZUJ3U0V5dkxCUGdicHhUd3dNYkJSQkhIbk0tdjczOXpYbVk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-03T02:00:46+00:00",
+      "snippet": "Thunes Adds EURC Stablecoin Prefunding to its Global Payments Network The Fintech Times",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 20.38
+    },
+    {
+      "title": "Mastercard (MA) Is Spending $1.8 Billion On Stablecoin Payments - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRGQ1OVNYWkVnZ3BJcG1ZaFlnQ29VUGJQR0xKRm5lZ1NkT2pHd0FKQ3V4a0V6M3p4OWpDU0c1Z3VtZ3JRbzQ1bFlCa1JyVGd1MmZLcGEwYkM3dXhOUm1ETXdNeU5tcU9BVldlV1diNk5kYUoxYTFYZnRqTUhiQ2Y5YmwyRjZZSWViWDVQMXF3Q3ppeV9uYkJOSzUzd0VJNmFyaGZTWkI0VGRsSy1wOFRoR2VxZV9YYTRNTFlnWThieHpMU2tGRjdidzFsZWtPbkdoOW1uX9IB2gFBVV95cUxOaEplc0Z5TFVOemRReTJ1OXRJcG53SGFDS1VMb3hiWDVJNzBzd0VBUlZOcDlpOEhRaHZRYzZsUkVRUXBMOGIza3k4NE9XR3hockdvaWFERFVQQnpUMkRWdmt0dWJWMDlXSWxEUlVOaFJmSWx3Vlh1aXIxaS10cUFCLWYwRlpWbUg0ejUta0VHNVhhck42SmwtRVRrZ3lhU3p3NFpaWU9rWnBSbFJNbmpnd3c1OVhNNXRoRll2VFdZcEpOUUNXZkhWbnBDdUJmZXhtaUJoRGwtdDYyUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T21:35:58+00:00",
+      "snippet": "Mastercard (MA) Is Spending $1.8 Billion On Stablecoin Payments Simply Wall Street",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 17.62
+    },
+    {
+      "title": "Utexo plans October launch of USDT on Bitcoin w... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRG5wX3NpcXlRbHJMdXF5ODhxQkVmUTFSOThoQ1RvSTAzSjBYaXdiNG9VbTRNNm00MVgxaWNQUmtwZ1RDR1NDVldxVkdhRHFLdmw5VENIOEU1cXk0WEZxbHFPTS1wZlB6bnBvV3dKTzRsbl9WY0YyNjh1NGlsRElzOXhqekRiNFFUQVM0Z0VtLWk1TmVYM3JxNHVB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T17:29:46+00:00",
+      "snippet": "Utexo plans October launch of USDT on Bitcoin w... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 16.93
+    },
+    {
+      "title": "SBI wants stablecoin QR payments for Japan-Korea travel - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90YzBGMWFIUGl0eHQ1RDE1UzlFYlhpdWdkUU9mc3BENE81LVhnR3h5SzhIVFpVQnRCMUk5V0JIbHFieWNzY2sxTDJlNjJJQWE4Z0ctZVpFNA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T18:50:28+00:00",
+      "snippet": "SBI wants stablecoin QR payments for Japan-Korea travel Cryptonews.net",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 15.9
+    },
+    {
+      "title": "Solana Accounts for 45% of Adjusted Stablecoin Volume This - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FVGZadk9VRkxXU1QzOWRqd1plZ0l6Y2JvWWRRV0d3eEFjQ3V2RzlFYUhGemdmNk5yZGFnX0p6U2YySG1Nc3FaUTc1OHE1ZFUxZWFfaFUweVl3Zw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T18:50:28+00:00",
+      "snippet": "Solana Accounts for 45% of Adjusted Stablecoin Volume This Cryptonews.net",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 15.9
+    },
+    {
+      "title": "Crédit Agricole embeds euro stablecoin compliance into EURXT’s smart contract - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wMk1kRzV2UWlRREV1SVZBbjBZd1JBQmFnN3lPRVRsX0x6VEk4dFBqMDdkX0lEWG5FUlhjeWNTblktZlVrb1FLQnJyZ0NRTzRBM2J3bG1UelhXUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T18:40:20+00:00",
+      "snippet": "Crédit Agricole embeds euro stablecoin compliance into EURXT’s smart contract Cryptonews.net",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 15.79
+    },
+    {
+      "title": "Bitcoin Tops $86,000 as Traders Rotate Out of USDT Into Riskier Crypto Bets - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Pa2J3ZzFEWGYxaXBRdmlXOXN6YmlnUTI1WURhSm1zVm5DWjkySk0xM2I4dVdsWVV4cjl5SGJpYmRBeVptUmpxMUYxa3dRWmtUeHlvV3FsZ0ZidURUX0JfTWxCUHNQWTlrc3NXQ3pUSmdEMG16WFE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T18:33:00+00:00",
+      "snippet": "Bitcoin Tops $86,000 as Traders Rotate Out of USDT Into Riskier Crypto Bets finance.biggo.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 15.72
+    },
+    {
+      "title": "Tether to Return to Bitcoin Network This Month via Utexo, Adding Private Transfers and Swaps - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtNGNWWDVKczdqa1FUMFZsWG5hb0JHR054RTRXcFkyX3JuRjFzOVc2cVEwZlhxU3NpbzhxYVQzbUVibTJfZlcyaUlkT2k2X2NXbGE5TA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-02T18:28:28+00:00",
+      "snippet": "Tether to Return to Bitcoin Network This Month via Utexo, Adding Private Transfers and Swaps bloomingbit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 15.67
+    },
+    {
+      "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+      "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-10-02T20:16:04+00:00",
+      "snippet": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
+      "author": "Jose Antonio Lanz",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 13.43
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 6,
+      "USDC": 5,
+      "Tether": 7,
+      "USDT": 7,
+      "Stablecoin": 22,
+      "Robinhood": 2
+    },
+    "platform_counts": {
+      "News RSS": 32,
+      "RSS Feed": 3,
+      "Reddit": 1
+    },
+    "risk_count": 13,
+    "top_risks": [
+      {
+        "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1wwublv/circle_pushes_back_on_micas_bankdeposit_mandate/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-10-03T18:30:09+00:00",
+        "snippet": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules. Circle is urging the EU to revise MiCA's stablecoin regulations, arguing current rules exclude major global tokens. The company specifically opposes mandates for bank deposits in reserves and concentration caps, favoring more flexible liquidity requirements. Circle's recommendations...",
+        "author": "/u/rwatimes",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 60.55
+      },
+      {
+        "title": "Circle Wants EU’s 30% Stablecoin Reserve Rule Swapped for Liquidity Test - The Cryptonomist",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13TkpZU3VTTC1uc1pCdFA1QnBmWHZZODBFVlU2S2gzZDBNRVoxeDVsQk80M29mc091M295THgtOVBPYlQwYW5ldFZqRkt1VThpNXI0ZWE5dVBlQXJGcDRyQ3JDN1FrelNCZTg5ZVI4M29xMTlw?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-03T13:39:07+00:00",
+        "snippet": "Circle Wants EU’s 30% Stablecoin Reserve Rule Swapped for Liquidity Test The Cryptonomist",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 45.16
+      },
+      {
+        "title": "Stablecoin liquidity rises above $310B, boostin... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFJyZGFad1lONF90ZURkVnNjWmpwX19VQTZ2Y1FydzViLXd5UkpfSFh5WEFvcm9uQ09fMHBVRHNBVHJzSjlmOXp0V2dEaVRXTkNOWjRtNGFFQzNxTkdqT1J0V1d4QkdTeE5qZGVITVNqb1NNVGNYNE9PdF9remtSaVlteHJ1ekkzaVhyVlFldVZxVzNZRlUtYTBZU3RQZXBkalZaVHRXd3Qwb1VnbC1qYw?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-04T01:25:22+00:00",
+        "snippet": "Stablecoin liquidity rises above $310B, boostin... Pluang",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 40.01
+      },
+      {
+        "title": "Ripple's Swell 2026 to Feature BNY, ICE, TD Securities and Robinhood in New York - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94UUdHY2hYUWFBcDRGVWhRelFKMmUwLTFMb1RfSUlLYnIyTklnb3VlcDZMV0RGTDJsQnF2QTNnUllJNHV6ZzE2TThHQUNHZ0pnc2dTaEctOFRLLUxibVNKczRkZTAwYk10Y0xCdXBobXc5b01qUHc?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-03T18:06:00+00:00",
+        "snippet": "Ripple's Swell 2026 to Feature BNY, ICE, TD Securities and Robinhood in New York finance.biggo.com",
+        "author": "",
+        "query": "Robinhood stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Robinhood"
+        ],
+        "sentiment": "risk",
+        "score": 35.44
+      },
+      {
+        "title": "Circle urges EU to revise MiCA rules to attract major stablecoins and ease reserve requirements. - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVnlxZFpZUU9Wd3pxc1FROHh4eEpnSVgzd2JPTkYxV0ZoekM4Y3BIaEtjcXVqUXZnTmFxMnplX2lDS1JtMFFPcFlJQk5BdjIwUmFnS3FwNm1Za1R0YlRCWmlmTk1OMF9taDBzbXRMSFZPQzd6Y1RSZXgyd1Vuc3RNSVBmOENHX255SjY3MnRYaUY?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-02T19:54:50+00:00",
+        "snippet": "Circle urges EU to revise MiCA rules to attract major stablecoins and ease reserve requirements. Pluang",
+        "author": "",
+        "query": "Circle stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 34.07
+      },
+      {
+        "title": "Circle urges EU to ease strict bank reserve rul... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDJHYk9pZF9pWjZEVS1aaVFoX0h0eVpna0pqQ3FYejh1NGtMYXlha3Y2OC15NDMtVWRaX2RNNlBOeWlOSHRzMmgwellVNmRKUWJydVc2MUI4dWVKMEhDT3JSQ1B4TEwzcGtpMHJ4V0dzTnF1UUoxTXdEaEN1Nk5RVEVtUVZRTTBRWEczM2hHSVJHczFMX21OY2g4VWsyMjdwOFdSSjhWQQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-03T14:35:57+00:00",
+        "snippet": "Circle urges EU to ease strict bank reserve rul... Pluang",
+        "author": "",
+        "query": "Circle stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Circle"
+        ],
+        "sentiment": "risk",
+        "score": 33.25
+      },
+      {
+        "title": "XRP News: Ripple Brings BNY, ICE, TD Securities and Robinhood to Swell 2026 - Coinpaper",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUlpINkRyb3RRWDZMUExxWENEYkdLYnJTQVM4aDVwMXdrZlk0eExNVzR4NWpBdVl6aEh4VF9pLThCQUpyYnZXTEJqZkNFanQzczg1dUZJd2EtUENDTkV6YVY1NGswZlpkdDM3RWtaU0xtdUhxRk45alMzR19tODQwRnlNMk1wOUlFMnlKMlg2V1RIV1M5MTNBdGdyRWhnUUY1Vnc?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-03T13:46:09+00:00",
+        "snippet": "XRP News: Ripple Brings BNY, ICE, TD Securities and Robinhood to Swell 2026 Coinpaper",
+        "author": "",
+        "query": "Robinhood stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Robinhood"
+        ],
+        "sentiment": "risk",
+        "score": 32.73
+      },
+      {
+        "title": "Stablecoin Issuers Added $200 Billion in Treasury Holdings - Altcoin Buzz",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWFZblVWVnJhMy1PY05ZbGhGNThlRVBtdFRob2RWX1Frb041MWxOdU5SZTYzNnRHT2l1MHZmelhvajRqaWpZUDZYdVFveE1UcE1Lc3lLaThLWGZaT2ZBQkdibUtPc2lSMGlnSlJqSjh2VnBhb004dnZ5Z2J6ZTFvUVFVNWJMZTZMUFNyMw?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-03T07:30:38+00:00",
+        "snippet": "Stablecoin Issuers Added $200 Billion in Treasury Holdings Altcoin Buzz",
+        "author": "",
+        "query": "USDC stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 28.82
+      },
+      {
+        "title": "USDC Gains BNY Minting and Redemption Support - CoinMarketCap",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTNNZ1d3SFdzY1FGM3E2UXJ0YV9INWtvdkJiZnJCTVhMcXg3UHdydjF4WTJxbHVUaHBYalZRTWxnY05XS042Vk5nNVd6eTUzeDV2UEJJcHBrcGhzLW9uamNnejNOamdRNnctNmNHN2NQd1JsUEprLWtrckkzakw0UGtmTGhSdjdxSTNiTVJpeUw?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-03T04:09:30+00:00",
+        "snippet": "USDC Gains BNY Minting and Redemption Support CoinMarketCap",
+        "author": "",
+        "query": "USDC stablecoin",
+        "engagement": 0,
+        "entities": [
+          "USDC"
+        ],
+        "sentiment": "risk",
+        "score": 26.72
+      },
+      {
+        "title": "Stablecoin issuers have replaced 40% of China’s lost US Treasury demand - Cryptonews.net",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96cXc4czA2aGZ3Mlhya2dRa0diVmlIY1E2T2xCRWVaUUFuVjdqLXRYS3FjQnB1WDNxbXYyNjhFZDVSRVNDclA4NHB1TUg3UG9SOVFvbkNzYzE?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-03T03:16:17+00:00",
+        "snippet": "Stablecoin issuers have replaced 40% of China’s lost US Treasury demand Cryptonews.net",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 26.17
+      },
+      {
+        "title": "EU Stablecoin Issuers Push for Dollar Tokens Despite Euro Strengthening - KuCoin",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXdBM3UtTkFrVUNxVHhVOGlueTU1UWdmT2NYNFpCQ19lNGJJWlkycXRBc2pfY3Vnd1dKQzlHZ3lzVjl2bWhhVHh5dnVsMjdJNkQyWl9pSkpkaWZKWWh3TE44Y3c1N1ZUeW5CZ2J2cXVsQVlKb0FYLUYzbWZrSXVpQ09HaXdnMkViRlJEVVVMckx3d0ptM2UtU0FhYk1CZ1NvaDNud09RX20?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-03T01:52:53+00:00",
+        "snippet": "EU Stablecoin Issuers Push for Dollar Tokens Despite Euro Strengthening KuCoin",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 25.3
+      },
+      {
+        "title": "GENIUS Act stablecoin rules: status up to 2027 - CryptoTicker",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15Y2ZrRFdMaENyOXJpM1hMY0l0Z1NuMDcwdFpvTWpBWjBpeXFmZmVkZlBMVjFKbU9wRU9LWlo2a2JYSV9nWThXRGI0ekhQeXdwM3ZFY202VWJxN2tvS2laclhxVjdLTFBlNWtNMg?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-02T21:28:00+00:00",
+        "snippet": "GENIUS Act stablecoin rules: status up to 2027 CryptoTicker",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 22.54
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 22,
+        "headline": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1wwublv/circle_pushes_back_on_micas_bankdeposit_mandate/"
+      },
+      {
+        "entity": "Tether",
+        "count": 7,
+        "headline": "Tether Price Today, USDT Rate, Chart, Market Cap, News - techgraph.co",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtRGd3VVdCdzJIdWJfRjdpYkFfWGRfZkEyOEcyeWtDTTdrTG02Nlg2aTJhLW5NT2hFMU9DMnM0aU9QRVNpNFU1SnRqUzE5VnpheFlv?oc=5"
+      },
+      {
+        "entity": "USDT",
+        "count": 7,
+        "headline": "Tether Price Today, USDT Rate, Chart, Market Cap, News - techgraph.co",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtRGd3VVdCdzJIdWJfRjdpYkFfWGRfZkEyOEcyeWtDTTdrTG02Nlg2aTJhLW5NT2hFMU9DMnM0aU9QRVNpNFU1SnRqUzE5VnpheFlv?oc=5"
+      },
+      {
+        "entity": "Circle",
+        "count": 6,
+        "headline": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1wwublv/circle_pushes_back_on_micas_bankdeposit_mandate/"
+      },
+      {
+        "entity": "USDC",
+        "count": 5,
+        "headline": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1wwublv/circle_pushes_back_on_micas_bankdeposit_mandate/"
+      },
+      {
+        "entity": "Robinhood",
+        "count": 2,
+        "headline": "Ripple's Swell 2026 to Feature BNY, ICE, TD Securities and Robinhood in New York - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94UUdHY2hYUWFBcDRGVWhRelFKMmUwLTFMb1RfSUlLYnIyTklnb3VlcDZMV0RGTDJsQnF2QTNnUllJNHV6ZzE2TThHQUNHZ0pnc2dTaEctOFRLLUxibVNKczRkZTAwYk10Y0xCdXBobXc5b01qUHc?oc=5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 850,
+      "kept": 32,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 5,
+      "kept": 1,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 39,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}

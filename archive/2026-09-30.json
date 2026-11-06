@@ -1,0 +1,2307 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T05:05:53.133220+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "CRCL Stock Shrugs Off Q2 Miss – Circle CEO Is Betting On Growth Beyond USDC Stablecoin - stocktwits.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTzFzZHdsSGZsTy04WmNBcUxZZXlXQ3RaRlZyNlUyMERCcFhXSHdpcTJkYmxuQ3hyRkVCakgzdnRKa2JVSE1rM0s2M3hVTFdaRnQyUl9pbHhpOVVYZUY0UkpiVUU3cy05UU9lUEJyN2pRMWJtRGstaUY0YUcwWUJCSmMwVGVnMW4xNllhNHJWNUFvV2V5QnFxd29vRUt0NnpCUk81dkRiTEozc1dySkZJS1F6WGNhT0J2NHQ4RkdYT0YwNldxZDRzMkpNRlg1UFJ1b3Rj?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T01:31:34+00:00",
+      "snippet": "CRCL Stock Shrugs Off Q2 Miss – Circle CEO Is Betting On Growth Beyond USDC Stablecoin stocktwits.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 52.14
+    },
+    {
+      "title": "Circle mints $250M USDC stablecoin on Solana, b... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDlXaGxkcFRibGpSMG5lcUN0MHJONlpGaUdTSXVkd0dlX3BEb3hvWHpGU1lla1pYUDlSZlBwNUhMTERCa00zUjdfUi1VOEVuaVBwYjZoTmxUMDBtaE1rSWVYUTFhWW5pelYxYmRsSVdJZFhiWkVlOTZyOGJDaXQ5d3Y0dTJmSUE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T02:06:03+00:00",
+      "snippet": "Circle mints $250M USDC stablecoin on Solana, b... Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 50.62
+    },
+    {
+      "title": "Senate Report Claims Iran Is Using Tether's Stablecoin To Evade Sanctions - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWlNOGVnNmE2Y043VFVmczk4WkdKNTlKU2VYSy1sNE40X2RHWjBCRVdmY1FBeWVmWUcyZUc4MUR1THdNUkFGZlozUGJ1dF9NWFNpZUZYdmkzOU5QZ1hRS0V1b1kxaExOcXFScDBTcEJRRVQ0bXhKNEJYV2RickhHZk9Sd1htYWV4R0ZfbUJ3N25iYTdnN1lGMnBKUXhBQnhTeGRSZ3FLdXNBUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T15:29:32+00:00",
+      "snippet": "Senate Report Claims Iran Is Using Tether's Stablecoin To Evade Sanctions Engadget",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 46.49
+    },
+    {
+      "title": "Senate Report Calls Tether a Lifeline for Iran’s Sanctions Evasion - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04OTVCd3JJMFVXSWdzc0ROVE5RYXRXRnVXYzlVV1ZDdnRpZXE2QTNxVHNOWUdIeW95NzhvYmJhQ25oNXZXUGh0d2V5blNWb2ZPZVA1UzhzSnZJV0dGQ3dDdXdfRWR5MGRpZGhxQXh2S0YwRWV6dU1Uc2dSUFp5UQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T02:29:43+00:00",
+      "snippet": "Senate Report Calls Tether a Lifeline for Iran’s Sanctions Evasion CryptoRank",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 45.87
+    },
+    {
+      "title": "Exclusive | Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXVHRzhGY0lDdzJJaEZlRWRHWGFkUl9MYjNRWlN2d1lzNjdMVWRtR1NQTElYVFg1RXlVUVFrWU9sanlPRTQ2VHlXTVl0Nm9GcFJRZHVja3lRVnltV3JJWmRWbnZFQk5oakFjb0lqeURDYzc2SENHNXMyM3pXNWNiT1l5dzZnTGwwbjMtZW1Oa0twOVhuN3JqTEdaVmtQVUVQdFdyMzY0YlprdkNIb1VzS09Ob1BuM3Q2WFRGWHNJLXk4Znhq?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T18:00:00+00:00",
+      "snippet": "Exclusive | Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime WSJ Tether USDT aids Iran funding, Senate report says Reuters U.S. Senate Report Accuses Iran of Using Tether to Procure Shahed Drone Parts IranWire Senate Report Says Tether’s USDT Is Central to Iranian Proxy Financing Gizmodo Senate Report Claims Iran Is Using Tether's Stablecoin To Evade Sanctions Engadget Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report CoinDesk Tether’s USDT...",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 45.56
+    },
+    {
+      "title": "US prosecutors seize $47K in Tether linked to $900K Bitcoin fraud traced to Binance account - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2U1bF9fa0hPbkdmQUJhUm9xYzA5cS0taXk1dnR5VHlqNFQ1cmtsXzFCa1VGcXhnME02WjdDaGV3aVZMMnRlUG9BLW9ZNklkMmVQczQ0c3dJZ1pHLXQ5YVJoSFR3b2ZlTXgtSWlGR3QzU181MzNvZ2NzVU8tc3FyWXh4ZjhJSkowRDlBZlJPMEdDTGFabzVpYU1RVXFFanFNLWdINkFzZjEtbXZCdWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T00:27:14+00:00",
+      "snippet": "US prosecutors seize $47K in Tether linked to $900K Bitcoin fraud traced to Binance account Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 44.59
+    },
+    {
+      "title": "Stablecoin News: Circle, Volante Bring USDC to Major Banking Infrastructure - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekk1ZXUwT0c0djJXbUx5X1E4THFxemQ0Qlo1NUJFa2dmUXBveXpmNFNjdEd2WjRoX2Izc01LU0NWdXFCLUNvZjZHbGwwRkpzSFJaZkxmdWp0dExkZUQ2SVd2Q3puSzZUSXgybUFTRGU4bFY3NTJ3dlRRaGppcUdsVHNTeXY3UVY4SndxSG1QZlp6RkNfdnp3MHFNM2J3eW1uZUxJdHBPRURnNlNfbDdqbw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T16:12:21+00:00",
+      "snippet": "Stablecoin News: Circle, Volante Bring USDC to Major Banking Infrastructure CryptoRank",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 44.44
+    },
+    {
+      "title": "Circle and Volante partner to help banks integrate stablecoins into payment operations - Finextra Research",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY0RzZHhZeFZpcjlRdklYa2JkclhMY1dZdDVtS0RBeTZYX29mQld6Nkd1SGVmRl9RZnhpSDV4eXVheXdxaTMzS0g1SzRjNFo2ajJIZnNiVmhnVk1sUFVQWnB4VU4zYWNTTDBXdU9BelBodDZsSnZaWGU4ajIwYnVhRnA0eHM3WWc0ZGJkZGo1UFU5Wmh4RzAyRk5yOU9FWlZGenVtSEI3bVlsNWZnVXRSajFiLVEzb1hDclVNQmZ3YjEzY1JtemJLdg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T00:01:00+00:00",
+      "snippet": "Circle and Volante partner to help banks integrate stablecoins into payment operations Finextra Research",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 43.69
+    },
+    {
+      "title": "Tether Freezes $550 Million in Iran-Linked USDT as Senate Report Raises New Questions - Bitcoin Foundation",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYU12VFdJbkRPRkctWDJ2QndfZzY0cTVzVDVoc2xILVhFazNZaWw2NnViczl2WWdTdF9aQ2NfaGhzdGJXTnMtMjE2dlBpUmZ0bnB6ZWxOcHZrZ0RiMDI3M1pnQlZqU0xKT1ctSE4wTERsMWZWZXh5aEg1TmlPcUI1RGZPRnlrTm1sZ3pmM0ZZSE1uY29zMWphYnBkM29rSHRxbEdQVExPT18tbUxMa1Z5N3JjeWppVzc4d0tDbXhwRzBURl9TLVo4RA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T14:14:52+00:00",
+      "snippet": "Tether Freezes $550 Million in Iran-Linked USDT as Senate Report Raises New Questions Bitcoin Foundation",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 40.71
+    },
+    {
+      "title": "Stablecoin Regulation: What the Fed’s New Draft Means - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdTZORFk4Rm5ZeFNCMTV4MkZZcVV4YWZmQTBKUXpMYkctMF90czdTS3NDRFRHV3pUaWhYT0l3THRjanB1dGJLd2ZYUFpVU0R2RXZYTEVLdTQtdW9Mc280U3hzMkN2LXo0d1llR3haRHhXRzhFb25wOVpjWFlxMTg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T02:11:39+00:00",
+      "snippet": "Stablecoin Regulation: What the Fed’s New Draft Means OneSafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 40.68
+    },
+    {
+      "title": "Stablecoin Regulation: Fed's 2-Day Payout Rule Explained - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sdDBUQV9JOGNheHJ5QjF1RUtkNDZ6M2dqRFRQRkxSY3hqVENXWnN3VHg0VjJ0UjI5U0J6ZEpsN0tjTE8wMmI3VkwwQkhiMG9ENk5fdEtISllzWWwxTmZVMkF4aGl6SDM0SjBsaEVSRndQaTJIM3c?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T01:57:37+00:00",
+      "snippet": "Stablecoin Regulation: Fed's 2-Day Payout Rule Explained OneSafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 40.53
+    },
+    {
+      "title": "Circle Integrates USDC Workflows Into Volante's Banking Platform - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ3JIUmtuRnl3SkJ6dWFFUEc0TThaNjlaZTBjcnQ3bzZBOERUdHpRNV9JY0hGb3I2YVFZU3FvUGZJVHJLZHB6Rl9ZODY3eWtKNHVfM3BnR0VmT3FrY3QxRVprRWVqanVKVUFKU0VSZDloXzJrQzdqVlBCaUJHU0ZVRG1EcnJYOEVtNGlvYTNFU3RULTY2MWJRTGtyQ0RkOXM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T18:43:02+00:00",
+      "snippet": "Circle Integrates USDC Workflows Into Volante's Banking Platform KuCoin",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 40.38
+    },
+    {
+      "title": "Citi-Coinbase Deal: Next Step in Stablecoin Regulation - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kNmhXYXZHWTBiQklhU3NkZVFrTkpUSGZWM01lMzhCLTdHa2dDM2o5NFNnWldORUQxZGdNVVBlamlCcjlwdlFmQ1RWcU1qaXczQmpWTUptT3p3X1hwY0k5a2N3d3dCV1VMQk5fQ1ZFNklGRUM4QS01TFd0YjU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T00:52:26+00:00",
+      "snippet": "Citi-Coinbase Deal: Next Step in Stablecoin Regulation OneSafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 39.85
+    },
+    {
+      "title": "The Morning Risk Report: Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ1R6WlFQNF9YNDZrUS1jVldCWkxaaHFCME1Xb3BKZXFnS3NrMVk2SUVkVkRGblVhaWVneHBqT3hfc3BkZThxNzFrM2trcWd0S2FwLW1QUi1tOWxPajgyRVplbVJKR1FucEk1eHBFbWhGbzlZQndrRVZBUnBRTG1BUFhLNGRGX0MwN3lrWDBOVWJZalJnYmo1WXhkQ0V6NV9NZXJqQUdEOXFscGJrU2l0cTFYUlRyMHhBS1MzcVVxanBCUDdmRU1RUF8tRzBOT1VNcDZCeEw4bmZwWUN2cDRpX1g3YzYwU0V5dDVr?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T11:22:00+00:00",
+      "snippet": "The Morning Risk Report: Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime WSJ",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.91
+    },
+    {
+      "title": "Circle Expands Institutional USDC Push With Volante Technologies - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdFQ1UmFneHJuckl2TGY5WDR1SU54UzEzQmVibEd5R1pMVkYzLXAtanhtSk5VTGlKWVl3dGJXaG9QMWNyYXlPNE12NjBZMlFxcWV2Mmhiekl0UFExTUZiNWk4bFlXMkRVb0lLM2REaTFuX1lpNG1uelBqNVNOWGllcUJjWFNWUm10WXhFRV9kUGVyRjFCeWZhb3YteU85aVZ0ZlZtUi1aU0ZqbThHdDVNelFEcFczUTdnbW9pQw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T16:04:00+00:00",
+      "snippet": "Circle Expands Institutional USDC Push With Volante Technologies TradingView",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 38.73
+    },
+    {
+      "title": "Tether Freezes $550 Million in Iran-Linked USDT as Senate Probe Turns Up the Heat - CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0VVWnVBbFY0ZEU4NW15VE1mZ2c1d3FYMjVNODBoVW1TdHFScHFBaXFfWlJOQTBLWmVlWGlKQXRDT0IwY3NoOEFOZFhXclhKc3IwWjV0ZUpYY3pwcDhjTmV4UDNwTEJVWDU0Z2l1RmRTZTRxVmR1N3A0N01UZlkydzVoSQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T10:45:43+00:00",
+      "snippet": "Tether Freezes $550 Million in Iran-Linked USDT as Senate Probe Turns Up the Heat CryptoTicker",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 38.53
+    },
+    {
+      "title": "Circle Brings USDC Workflows Into Banking Platform Used By Major Institutions - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSmZ5SGVNNjNQaF9rb2l5cjhpZmpWTzVyYVBKZ1g1NE9mc3U3eVRaVkoyZEhUam8yMFlCeXY5ZER5ck5JdjBEbDBOYzNDbW91a3dIcWpCMmhsVk1ENTlGTld3aFJYS0owQmVwSXVKNTRXdzgzQlVrOUlBWWp5azNzRDJpU2U4TUJ5b29tT3NTcjdqNmhLVVB4US1YUW9aQ082cUhqMlFZSmtPbm0xN0psa1JVNlQtQzE2YktILW54U2VDYloyVjVaZnRfMDRGaS1B?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T18:30:00+00:00",
+      "snippet": "Circle Brings USDC Workflows Into Banking Platform Used By Major Institutions TradingView",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 38.37
+    },
+    {
+      "title": "FINANCIAL TECHNOLOGY—Treasury issues Stablecoin Certification Review Committee interim final rule - VitalLaw.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRmpndkFscHZscHoteThHRGdTRHRuc2JYTG52VHd1SlhfZWxjVE03Rl81QmlCektwR0FSUklTVThUeUgwd0dVM2kwdTI3cDJQTlJucllmN3dMMjVfazViZ0Z0U1RiaUg1b0JEaEtIUXdNSFJhTlhreHpNY2E0blVTNFpEQ2pDaVZiSk9zbU1PSDQyak9UZlNsU1ZQRTJoV1FyeHZwWWNUOXRPMEtlVGotQVlKb0VleXBlN3dvOTRNbnV3blFOa3JKYU9TTHhaWmVETmhWQVpPa29hRnBLN3VkajRIODZKeTU3dTQ3TzlZcjEzWGJ5NUNyQw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T22:19:14+00:00",
+      "snippet": "FINANCIAL TECHNOLOGY—Treasury issues Stablecoin Certification Review Committee interim final rule VitalLaw.com",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.26
+    },
+    {
+      "title": "Tether Says It Helped Freeze $550M in Iran-Linked USDT - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1JBbXllTHlnYXREZmk0OGxUQl83YzhBck5iYjFpRkJUTHh4RFZTSXhzam1zdUxLaHdua01nWVprUlRlTmZkNGYyNXNVZXB2dU5aWXFyUFk3MGw1QkN1M0RHMlBkazJXekdfaUdmSDJCbzlsWG5mZmMzTGowc1BLbTgwck41RUJ6?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T10:11:31+00:00",
+      "snippet": "Tether Says It Helped Freeze $550M in Iran-Linked USDT CryptoRank",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 38.18
+    },
+    {
+      "title": "Binance Pay Launches USDT Payments at PayPay Merchants Across Japan - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hWlVGNHpLTjg5UFY2Xy01UUpSaTFXYVVvQ1dLRVRKckZ0Y1Qzb0hhRmJORERQWmQ1b29KMjRaMnhzdDNJOTFzXzdkcmJUdmVMWjMyM2FzOVlpQkhuOUt4bkVueU9aQlIyNlpyZGNZbXZJRU84dGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T03:05:00+00:00",
+      "snippet": "Binance Pay Launches USDT Payments at PayPay Merchants Across Japan finance.biggo.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 38.11
+    },
+    {
+      "title": "84% of Iran-Linked Crypto Wallets Used USDT: Could Tether Face a MiCA-Style Crackdown in the US? - CCN.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXRfcVowakJnVE1DYXRhOUlMTlU5YTUyczdneDdIOVl6azFwTWd1Q1k2YVFENUVhYlB6a1I4MGZ6cmRRVHhvS1JhLTF0VXlkTlFJUS1DdEk1cG96dVloTktwekpubmVaVnpmcGZDMFhrbmpqczhPd0hmNGlfTjRZbUE2dw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T09:19:25+00:00",
+      "snippet": "84% of Iran-Linked Crypto Wallets Used USDT: Could Tether Face a MiCA-Style Crackdown in the US? CCN.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 37.64
+    },
+    {
+      "title": "Tether Freezes Nearly $550M in Iran-Linked USDT in 2026 as US Crackdown Expands - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUN5U2Zvam9RcWxrYVM5NTZOLURFQ0NwandwMTA5SzRJcE5pSkdkVXVWMGZNLWVoT2VDbFpKZjNsaDd1RGxabFRFaVJaSzdGQUZYWklGUjdwaTRGd1B5a29oeWd2Sm5Yc3kwT0tGbmJYYXE2Z2FRbzNSUlMzbFdycFJiQllzRWpld1R4cEVEN0R6N2lEU0x0NVFJSUtGVmdOelF3b20xcw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T06:10:00+00:00",
+      "snippet": "Tether Freezes Nearly $550M in Iran-Linked USDT in 2026 as US Crackdown Expands CryptoPotato",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 37.54
+    },
+    {
+      "title": "Binance sees $46M net outflow of USDT stablecoi... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTgteEd4cmdocEJIbkhaakp2bzc0ZEhtVEVmR29GMjhJRndHSWJ3YjExVzhkTmRUNHEwTV9ZbDQxRHI3YWtNNll4b3VLM0lQN3VRLXpXbUZVZm9GUmczS2gzUFNLTDFHbF9idl80dmZLdXFCaDJZeGYzM3FDY29id0dpQTlfX2ctUXBuMWQwRTkwSG9sMTJ5cA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T04:56:45+00:00",
+      "snippet": "Binance sees $46M net outflow of USDT stablecoi... Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 37.4
+    },
+    {
+      "title": "Tether freezes $550M Iran-linked USDT – Why enforcement is in focus - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVWFucUxBMmZkSFZsNUJmYnJjNzJadUpRb0hFMDUtUUF6Z2FWOXlLZ1VGaHc2RkZYWlJ6RUItSThpbXZIS2tEbklBQVNGaDBTSldoeHMxYzNPbk55RkxJSGh0aUhBbFZLOG1oSFgyb2ZRMXE2TzFJdGJlZFRtTENpMlpPTlVKVkFtX1hmTmEyZTZ4eXVJ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T08:30:11+00:00",
+      "snippet": "Tether freezes $550M Iran-linked USDT – Why enforcement is in focus AMBCrypto",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 37.12
+    },
+    {
+      "title": "Taiwan's MAX exchange adds native Aptos USDT su... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlRsNXhrajhjdlhKaTFwRjczT0VDUkxQUkxrczg2U3RscXRzb1ZLdnRaR2R2aDV5Mi1MeUNwb0tzdjBPeWRHU3lxVW44Rk1DcmpnX1puS0RtVjZRWTZ6RjNVZnlteFZDR016TURrREJ3ZlVPa2xMMmxRX280NE1KbGVwVTFkaHJSbEp5NDNyNUFrZWtha0FqT2lwaw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T04:25:14+00:00",
+      "snippet": "Taiwan's MAX exchange adds native Aptos USDT su... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 37.07
+    },
+    {
+      "title": "Has Tether's USDT become Iran's shadow bank? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWJtM09Fc1g2dndjckVqOWVGX0hXSzR0TWU1ejZkTWsyektrVHNyNnRBNzV2LW1HOWo0S2dneUZGZExpQV9rV3FEeEV3NU84R2NnQm9IYjJGMlhGR1RRVXlCb2diVU1mQnZFX3NRTUg0cThmOEh3SzZWdlhsWDBOMHByakJRUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T15:48:39+00:00",
+      "snippet": "Has Tether's USDT become Iran's shadow bank? Yahoo Finance",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 36.69
+    },
+    {
+      "title": "Has Tether's USDT become Iran's shadow bank? - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGVLNHB6NmFaVkZvXzNXcGZ0RURubndiLUpTYXpoekozVmRhbTRaYTR1R2dFX1VqTm9GZ2ttdlhEX1Q0Qi1YcDN1WUJ1NXNZQllhbFhuUWZndGdmVy1BeWNDeG1VMnNEVFlVMEp0UVNtWEFMYXMya1hiRzA1cXFOWWc2akhqZE5uaU13REVfWmhyV0owaXc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T15:48:39+00:00",
+      "snippet": "Has Tether's USDT become Iran's shadow bank? Yahoo! Finance Canada",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 36.69
+    },
+    {
+      "title": "$4B returns to stablecoins: Is ‘liquidity’ crypto’s Q4 catalyst? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jVXJJVENERmFOUVItRFBOS3d1ZklCWWtwTXlsemxhRlZKRmJzODhDQzh3V1ZaOGxMNUtIRHVsd3B4TGdWOW9LZ1I1aE9BYjdQQ0dDeEdvOVE0dmM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T18:58:37+00:00",
+      "snippet": "$4B returns to stablecoins: Is ‘liquidity’ crypto’s Q4 catalyst? Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 36.17
+    },
+    {
+      "title": "Stablecoin Issuer Tether Faces Probe Call Despite $550M Iran Crackdown - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10V3l3aU1YemdGWjQ2d2lIcWtIazF6X3JzUXA5VF92bjlVX0JuMV9TLXNlTW5EUGdtaFM2b2o0dGVmZWhlTkJiMzZEa2ptNXVqWUFDaE5ibWU4cXJlR3EyOWpIQWhhN0U?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T06:57:52+00:00",
+      "snippet": "Stablecoin Issuer Tether Faces Probe Call Despite $550M Iran Crackdown Yellow.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 36.16
+    },
+    {
+      "title": "Stablecoin demand for U.S. Treasuries to hit $400B by 2030: San Francisco Fed (USDT-USD:Cryptocurrency) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnJ6M0VEWUN6ajJfWFpRRHAzeDFJNHdJcXpVb0JERTVvMDFGUlh3YVJWMGtFUmJWZHhVWnI1Z19CVmFXdkRZQ1paYjRDMTNVd1dHbXZCYngtOGZ1VjhqbWkyMXNaTl9jUDZKcmpWQVZiMS1NdTFNbXVFdWdPOUU1b2g1TEtRc0M1Nnl5bjJFSGZZSWVFT0llZzhXTHM0QTRyaFd2QUVUamgxa3NXcEg0Vg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T14:42:06+00:00",
+      "snippet": "Stablecoin demand for U.S. Treasuries to hit $400B by 2030: San Francisco Fed (USDT-USD:Cryptocurrency) Seeking Alpha",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 36.0
+    },
+    {
+      "title": "Binance Pay Adds USDT Payments at PayPay Merchants in Japan - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OMTh3Qm1kLWZDeTktNW5SYnYyOGxwQl9XbV9idldEQU5ZMTVMX1lsWjdKSWcxRmJDQ1dQb0YtTFM1WWJzRjFGYjdTYzA0U0N1YkUyZg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T02:34:26+00:00",
+      "snippet": "Binance Pay Adds USDT Payments at PayPay Merchants in Japan bloomingbit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 35.92
+    },
+    {
+      "title": "Tether Says It Helped Freeze Nearly $550 Million in Iran-Linked USDT - thedefiant.io",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTWRhQUEwNmF0VXVCWWdGVzg5dWd1QUJZT01XWDVQcHJhTEw3eWdXVEdITG9PYTNWQzh2Nlg1UFJ0VkdaZ3hiUFVtQk13TnpQNFZFNExkMEMzdTJFTlhSY1Zjek9qb054QW5WaU9jSjkyRmxVeHhwdXRYVk9sc1RNdDhUZGwyaG1ES0N3c3JXZ2VLSUxjSnU3VjJwTmwwOEoyQzFjVEtFQ1k?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T06:30:16+00:00",
+      "snippet": "Tether Says It Helped Freeze Nearly $550 Million in Iran-Linked USDT thedefiant.io",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 35.87
+    },
+    {
+      "title": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0tvcm9QU01SS1FZSXJOblducTFFTjdkV3BtbldzcE1GQzRIYmdMTXRZMkppbGxBYzBXT1ZWR1VsQzFXMU0tMDRGX0pzVkpmbWNPSm9NU0Jxb3V4QjI3MlBPeWtwU3hWSVkzQUJETzdrd05WX3ZpUkdic01POGRUR3NVUFZJZVM2SElHR0RoVnpfT3V6UG1BY2phYkFWZnVxRnlqYWRpUWRfMGduRE8yT0JaT21FanhJdW5UYUh5Rm1zbUFDelpUbQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-30T02:25:00+00:00",
+      "snippet": "Binance Pay lets visitors spend USDT at PayPay merchants in Japan TradingView",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 35.82
+    },
+    {
+      "title": "Tether’s USDT Faces Senate Scrutiny Over Iran Crypto Transactions - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUG1HdDA5VTVZTXVnU2tOZjhPR01NaTVwVkozeDlScHhxOXNBZXNtVGt2dVQwOWNKSmRONjI4Z3hCVGc4VzlLNU9ocW1IN1BabEVJTGd1U29wMU04RjRFdVc5VjFoY1dBY0p4VTJjNW1EUGtvNjQ2MUE0a1VLWlMwVllZQ0dmSlI3MnExMnQ3Wm53Qkt2ZUM0cnJ6MExqcEJ2MkFBTQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T13:47:51+00:00",
+      "snippet": "Tether’s USDT Faces Senate Scrutiny Over Iran Crypto Transactions CryptoRank",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 35.43
+    },
+    {
+      "title": "Tether claims $550 million in Iran freezes, but $35 million slipped past Senate - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMDBVSFRRbkVNdDBEdC1uS1BvUjJhOXJXbXBNUjVDbDZlVXpXV2pGekNHZW1FRVh3T2FsNWpRYWtuMnlUSEJwVGFCci0yOC0wZWM0ZXhKbGFwNVZHVkRWbzcxMzRRM2F4UmJHWnBRMzNMeERHWFdKT3ZybWlTZHc2YnZRM3NuMWhhODRrWkJ4d1VFTWJZX01fWkROaUVsbzE3a1JR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T17:30:12+00:00",
+      "snippet": "Tether claims $550 million in Iran freezes, but $35 million slipped past Senate CryptoSlate",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 35.25
+    },
+    {
+      "title": "Tether says it helped freeze $550M in Iran-linked USDT this year - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRE8xY0lYWkVfbkNSM2xyaDY5WDAyZndJSDNhU2pvX0E0cVRvaHJYcHhVc3hyMlB6R0M4LThxcnIwT29EcWFFLUNmSEs2THQweG1Ld1ZEd0F4OVEyZ19iUVZqSGVHdTlHQTgwb0dPR1BXWVZYTjE1NTVaUlhNUHJRSlZwS3FGSzJCR2lTWGtTaUtGYnl3MDI3MlZGR1pWWHZJcFV4VG5JTkNFVHhHc2l3U29fRkNDOURaS3VtWHlBLS1la0p4Qmc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T05:29:00+00:00",
+      "snippet": "Tether says it helped freeze $550M in Iran-linked USDT this year TradingView",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 35.24
+    },
+    {
+      "title": "Aztec Labs Relaunches zk.money Privacy Wallet On Ethereum With DAI Stablecoin Deposits: how 11 outlets framed it - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQeEVsOV9IVUc0ZG5NYkxQSWktc1gtcHBWTkF2dFc5YWtENFNfYVdvZ0xwVHVuNlZ6T0NicHJBbXpDNXhReVRvUjUwczhOcnd4TTgzRDdKcENTc3BYLXEtVjNCdEJKTFVWa0Z4dGFVdDBhOHBZUm5PVTdCcy1kbkxXWWZqMVY3QmdKaU02R1lEMFVrOWRIMXg0dERuY1JEb1o4ek5hbm1ZRHB2dDNkR1NRM01NZlJwdW9aVzZGU1VReUlVUVpISll2bkdCSjRNWHBqcDR4bjQ1RFROR0tpUkxTQkhwSVpubDVMZ3c?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T22:02:26+00:00",
+      "snippet": "Aztec Labs Relaunches zk.money Privacy Wallet On Ethereum With DAI Stablecoin Deposits: how 11 outlets framed it NewsCord",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 34.96
+    },
+    {
+      "title": "A Senate Report Says 84% of Iran-Linked Crypto Wallets Used Tether. Is USDT Safe to Hold? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdTl0b0tJSnc2ZHV0TG5KclpuV29XVW9kMXVxT0JuQ1lIYkN1ZXRGWjVNT0ZOLU56VGxqS0NHblJVVFNKN1JvN1dJM3MydUw1T2dCWFdHSWFYU0VOTDFrOXo1bW1LaUtPUUo4X3Bvc09uWXM0Rm00NkV3cHhUbWtReWYteHNsbGgxdXFNdXVuS3BmaUF5dXdBOHJoSk5DNzJqcHQ0ZkFWaTBEcTd2TW1VY3VDb0pqaVJQU1gxSDVoUUtHTjdRODNnYVAzQjh6U1pHZ0lYc3NXR2ExMVBhSHc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T12:00:00+00:00",
+      "snippet": "A Senate Report Says 84% of Iran-Linked Crypto Wallets Used Tether. Is USDT Safe to Hold? 24/7 Wall St.",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 34.31
+    },
+    {
+      "title": "BNB Chain adds 985K new stablecoin holders in a week, outpacing all top blockchains. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlVpNGZBOUJGZWVZRXZ1MWNWd0pzMU1EdDRPYTU5N1RITENWQjRmSDRzVDJUQTFCZHNxZHZ6T053SkIyWmd1RktsemVaSTZsM0o4X2plRU9ORmVadGR6U1U5bmNZVU1nZ0ZaUHoxLWhzaHE0OEI2WklwWG9Bd1lhUEx5cEJ5R0N3Y1pUQWlKc2NoSlBsSWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T22:49:44+00:00",
+      "snippet": "BNB Chain adds 985K new stablecoin holders in a week, outpacing all top blockchains. Pluang",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 33.58
+    },
+    {
+      "title": "Citi and Coinbase Launch Bank-Grade Stablecoin Payments - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVNzNVpORFpZZnZKbi1zZTNwTDNCa0FxYmN0WXh0UWF4OFp3MWFkaUtDazZDZmFmSWM1V1lxQkwzRG9LMFZkMzNHTlJXd0ZYUWdaT20tSmVEN0RWWWc2R19SdHhJc19tbG5lOG9fNEVkWk1peGpHYVBqWEY4X3lxaDdXQnJlRGtkOXhNbFlFVDI?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T18:36:35+00:00",
+      "snippet": "Citi and Coinbase Launch Bank-Grade Stablecoin Payments OneSafe",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 32.81
+    },
+    {
+      "title": "Citi and Coinbase: stablecoin accounts via a bank - CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0YnNwYklRbXNRRm1WbzVyRTE2UFNJOUMyLXU2bG1hMDBCbFBrVVAyS20wZUlLRzR3NE03ZDlyTGVKbTF6SkNOdTNBaTZaMGVFWWM3X1JuY3prOFhJTGdiekhBVFk3NVNZSEJnVQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T21:15:22+00:00",
+      "snippet": "Citi and Coinbase: stablecoin accounts via a bank CryptoTicker",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 32.59
+    },
+    {
+      "title": "Tether issues nearly $495M in new Tether Gold (XAUT) tokens backed by physical gold. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXhoYUpiWS1rcU1BVk1QZlJqNGk5Z2hkVUUtRDN1ZWc2RWJGNHhNNF9hOHNseXBhV3RMUkUxbDZZUXBRTmlrQTZsX0JLZkFzRnlCalFOa0phcDdlemxGUVUwN3JGYmRCMWZlaElVU0o0ZGJmZXFfTl9hX3lLa2MzVHUzX01QQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T13:02:47+00:00",
+      "snippet": "Tether issues nearly $495M in new Tether Gold (XAUT) tokens backed by physical gold. Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 32.46
+    },
+    {
+      "title": "Senate Report Says Tether’s USDT Is Central to Iranian Proxy Financing - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjU5ZzVSMFhCMVRvU2MwSlljVFN3ZDUzaGd0cFR0UFFteHdUdEo5RXh0dXpaZVVoQkc4TVpJLVF3ZlFHOUNIdzdBR21INUVvZl9PeUtIcGFGb1BJdER4aFFRVW1GeUg5LTVfZW9KZnlrZTdWYVR1T29LSENOOGx4Ni1jNDh6cDRuTVFqRHJpRi1nTVhrRUdxZi1GS0IzQnExU2c?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T09:00:49+00:00",
+      "snippet": "Senate Report Says Tether’s USDT Is Central to Iranian Proxy Financing Gizmodo",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 32.44
+    },
+    {
+      "title": "Fed Proposes Detailed Stablecoin Rules: 1:1 Reserve, 2-Day Redemption, Weekly Reporting - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEY0SVB6dXQ3V2cwQ3pTcTQ1dWZZMXlodE4xY05COUltaEljNldUcHFaeGJhczBwMzdyRjJEdHFycXNHc21lQnFQVXJRT3MxUkxKSkZCRUp0dTc2MDk5VGZtTFpsejhaVURiZjg1S1kyOEdQYnV2RTF1ZVNOaWY0QUVEcThNUFJfajdaa1BVN1I2NVRrQ0x0NzJNbUFIa0xVWEp2ZUJBWDcxSl9RdVBaZFlqcjExWEhlTGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T04:37:42+00:00",
+      "snippet": "Fed Proposes Detailed Stablecoin Rules: 1:1 Reserve, 2-Day Redemption, Weekly Reporting KuCoin",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 32.2
+    },
+    {
+      "title": "STABLECOINS | ‘USDT has Become a Significant Financial Lifeline Within Iran’s Shadow Banking Network,’ Says a Senate Democrats Report - bitcoinke.io",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPemVYcWlUTzlDUm8tQ1Nza1RqcnYxcDNtNDFkOW9PZEk5V3pMSU8zRU5PZ2RPVDhfUUpIbVkzRnNNMGJuZ0lxWE9mRUNmTnljWHZJejVzUkFtSVNVNy1nU1pURnB1N1g0cFc5eHNEbVpZSVIxVV9ERGJnZzkxSDdLOXByMlpHT3h1eUFfTnE0WWdxNk9rSnJ5U3RYYw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T08:00:15+00:00",
+      "snippet": "STABLECOINS | ‘USDT has Become a Significant Financial Lifeline Within Iran’s Shadow Banking Network,’ Says a Senate Democrats Report bitcoinke.io",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.81
+    },
+    {
+      "title": "Senate Report Ties 84% of Iran-Linked Wallets to Tether's USDT - Bitbo",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45VFpCRl96LUd1amZnMHZtVTJOM3RLSmw0M1NFc0E5OXdHNkpJd1J5aHBDa2RoT21JeFNKYTB5ZFk5bjZjWk5sREhmNjR3M1J6RHQ1NE1zUGhaUDJh?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T08:00:00+00:00",
+      "snippet": "Senate Report Ties 84% of Iran-Linked Wallets to Tether's USDT Bitbo",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 31.81
+    },
+    {
+      "title": "Fed guarantees 2-day stablecoin payouts, but $76B remains blocked - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHhWVmM2emJKSUg2WUVFR2JxUGtjYjdKOXlPUnNHZ0tTTGdLTWtUWG84UW1ZaE0zZ212aEIxaURiQV9FRUxsQ2h5QXJmczF3SERqWDdNMnQ0dHRpbFhWb3BUWWs1cmcybGh2amhQS1duTXdDQVRsNEt3N1pIenNWLS1STEZfWG8wQ2hDZXRLNmt6UQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T19:50:36+00:00",
+      "snippet": "Fed guarantees 2-day stablecoin payouts, but $76B remains blocked CryptoSlate",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.71
+    },
+    {
+      "title": "Tether Faces Senate Probe as Iran-Linked Wallets Put USDT Under Scrutiny - Bitcoin Foundation",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlNfakNVaEZiZzlYUzNNNm5ydHhIQUprUzhSOXB3V0lqZldXYjJwRmlsR2hUcnFaMm40LVFpTGs3VzZRU09TS3haQkFGSkFIZ2FFOGtPVHRNSVh3dEJxLTBTSGdlbTVUZXhaMVg5MXBNdDN4TkpzMjlBbS1VekhpaDNiRVhTcGRfWFdfaTdpaFRDVWh1N3B0MTdMUDRnYWp2eTBKZ29Fb1prdTRhTGp3RWNCdkVLQ0t2NmFXZA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T07:41:09+00:00",
+      "snippet": "Tether Faces Senate Probe as Iran-Linked Wallets Put USDT Under Scrutiny Bitcoin Foundation",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 31.61
+    },
+    {
+      "title": "Coinbase Teams Up With Citi on Fiat-to-Stablecoin Business Payments, Wins CFTC Clearinghouse Approval - blockhead.co",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVpocmFxSGZjRm1NaDM1UFBoUldRdzc2Q0dNXzNnaDhQLW9xZXlCekxJVGhIRmdtVWtoQXpyZk51VnAtLWRDcEhPOER2TkRaeFV4VmpMMFFOMUNEUzZqOFg2UG1yWFNKNWhoeFZXYUlUcnNNbFFGTWVfMmo0WkQ1UDlSbGNQbDFwME1WaVp5VU9hbEZfUFJablRzTzg4YVo4bFlIQTRPZWNZRGdRUkdxbUVlZVJLc0JQMXgwbENxOWtTdjl2UmQxc05DY3VXNU9Jd1Zz?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T08:18:00+00:00",
+      "snippet": "Coinbase Teams Up With Citi on Fiat-to-Stablecoin Business Payments, Wins CFTC Clearinghouse Approval blockhead.co",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 31.37
+    },
+    {
+      "title": "Illinois draft crypto tax rules detail DeFi, stablecoin treatment",
+      "url": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-09-30T04:29:28+00:00",
+      "snippet": "Illinois’ draft rules spell out how its 0.2% digital asset transaction tax would apply to stablecoins, DeFi platforms, crypto bridges and self-custody transfers.",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.18
+    },
+    {
+      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+      "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-09-29T23:00:00+00:00",
+      "snippet": "The brokerage is expanding its trading hours and adding leveraged crypto products and automated trading tools to attract more active investors.",
+      "author": "Helene Braun",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 30.99
+    },
+    {
+      "title": "Tether Says It Froze Nearly $550M in USDT Linked to Iran in 2026 at Direction of US Authorities - FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaV9EU1Bsb0tqVXg5eWFLWjlCRkVObkhTYi0xaWJVRS1Jbk1WTXVPNzJ5VGFMdHZPZHJjd2lDdFdkZXB2c3RJNFBYbHJfTGNaMkUwTDJvVERCbjQxc3NLbVd5MC1oT0UtRW9TZm9pZnFVUDhLaTlNRDA2YkFUNEd0V3BlbHc2bk5xV0RSeWNsQW02Z3hVbk9wazd4aGlsSVpTMUM1cXlZZlV0YWxOdXp5dVJOTUUwcTlkMFp2Nw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T05:47:56+00:00",
+      "snippet": "Tether Says It Froze Nearly $550M in USDT Linked to Iran in 2026 at Direction of US Authorities FinanceFeeds",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 30.43
+    },
+    {
+      "title": "Volante and Circle partner to bring USDC payments to banks - IBS Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeDI5Q3A1R3lsc2hGY0lMRFlmX1QtLWNud09oN25ad2pzWHRUb05zanJpdDVoUEZNeE4zYTYwUkVzUGFGVmExclNSNHNCeDlOTF9tZzcxS0NKZzBjVVRCdWxrNzBjalRfZ2hZOEdrNlg4UkJSaE9nSmhnaURhM2dVQm4zYllHdzV5WjlwTkhqWFJSTm96ZjNFbjRnOEhUQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T05:10:23+00:00",
+      "snippet": "Volante and Circle partner to bring USDC payments to banks IBS Intelligence",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 30.04
+    },
+    {
+      "title": "Sen. Blumenthal Urges Treasury and DOJ to Investigate Tether Over Iran’s Use of USDT - unchainedcrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmVPdloyeWxpZ3pRMHdTNUZRdkFOSzdURkZWbjhrVnNzWmRuVUZ3cEhZUk92b3BWaFJKY1hNbk9CUldScENkWUJPLWRjRkdUM0piVllsdkxaa2RmR0VHWTkxVmR0NWdydk1QV2QyY09Xa1BlT01Ub3g1VkdkZFdlYTF2MWlLTTRPMXJ5TnJhdElpa2E1eE1id2F1N3UtSkh6dm9UZ1paNTRqRDVzZGk1Qw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T21:06:18+00:00",
+      "snippet": "Sen. Blumenthal Urges Treasury and DOJ to Investigate Tether Over Iran’s Use of USDT unchainedcrypto.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 30.0
+    },
+    {
+      "title": "Web3 Payments in Africa: Kora's Stablecoin Move Explained - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GUTItT0txWXRaWFRyN1RqbEdDczFUREpDMG1fQ1RzdjcxY2o4OG1qR2pneHg5UkRSWVRVdG1VZ2F3WlAxSDl6MDg5SHZyc1VkZHRXSU1GMnBhcTJzbk1MUXl2Rm5EQjNzcjVIdjk2Z2ZuUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T16:31:35+00:00",
+      "snippet": "Web3 Payments in Africa: Kora's Stablecoin Move Explained OneSafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.64
+    },
+    {
+      "title": "Tether faces Senate scrutiny over Iran-linked USDT - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95WG5LVVA4cWthT0lBRjBlQklwSmRBeFNHOTNlVlpQQTUwSlRGMjZlWWppdTZrTVBFWl95b29vdXduZVNhcmF2NWlCN0FNajZGZGotVTBoS0M3cUdYVW5aRDFKaDlPTzdENFVlOWROMGNpR1NkUkFTZEc4dw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T04:29:00+00:00",
+      "snippet": "Tether faces Senate scrutiny over Iran-linked USDT Crypto News",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 29.61
+    },
+    {
+      "title": "New Open-Source Stablecoin Tracker Maps Global Usage and Regulatory Rules Across 200 Jurisdictions - FF News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWh6NGlsYUJCNUN3YWcyYmFXbkk2MElFemFaSEphdThQRlkxRVlTWnVDbW9rai0xVXp6TlJsYXUxNWxQaVc5ZTlpOWpud1FteVBHc2xCNm9kVDd2Z2RlbW9HNTVUSk9RbEJDYmM1cVdxQUVkR0ZVT0k1YVh5RHRSektnLXEyQVNvVE5wcEVZdENPNzhwUnNrWjhSaVROZmZyTFZGeF8yaDl3NmJFQXZ3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T16:15:30+00:00",
+      "snippet": "New Open-Source Stablecoin Tracker Maps Global Usage and Regulatory Rules Across 200 Jurisdictions FF News",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.47
+    },
+    {
+      "title": "Tether Helped Freeze $550M in Iran-Linked USDT, Reveals $4.9B Total Freeze - Coinpedia Fintech News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSi1oYmhvbEtjX255bDM0czRZQkstcUFhRjI2dVFTWjBEVUhfSTA1SFRjcjFId0dUVVptaV9xcVo5X3hZeUQzY1g4TG56VE5GX3VaY1pPWEh6SnpoempZT0diVEZTNTVyX0JJNnRUU0gzUnlyMjA4OFYwZVFzdk93a3p0NXVNenBGcWVpQng3NkRUaEhNRW1Fa3VtWlZVMWhY0gGmAUFVX3lxTE9uMWNJZHNjd042NzZHUHIwNXppRnM2SEdzZnRqNUFQd0JQQ2FhMWpCYmxzeWdKRG0zMjBxZXlyMjhBTVNnMDhMLVJTQVMzUnFnYTgzM1E3T1lQeTlxd0xkOV8wV2s0Nk1JU0dITXhMSzJXZzlEU0ZyUUROM3J6cE11WmstZkdzRDBob2xjaEFvZ1hfeDROSzhtTWY1cVlLaTVNWFVzMWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T19:59:18+00:00",
+      "snippet": "Tether Helped Freeze $550M in Iran-Linked USDT, Reveals $4.9B Total Freeze Coinpedia Fintech News",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 29.3
+    },
+    {
+      "title": "FIS Expert: UK Stablecoin Success Hinges on BoE and FCA Regulatory Coordination - FF News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbTBzcko5V1lEY3hKVURDVUJUQUk0RnNDOXFPdmVrTi0yNnBSVW5zSEVnOHdMZEVNdjE5SzVaS2VYcW82anByWS1IQnphR3ZPUTRJRFh5ZkxTU3lKTzZHY1dzY1JFVm56QjVfb0VwNlVZNXZuWlFFSWhkYlpFTEFXOWNrLVlTNHZJbnJvT0t0TUY3b2Npd2liQUl6MGdDQm9scXFXSnBwT2M?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T15:51:46+00:00",
+      "snippet": "FIS Expert: UK Stablecoin Success Hinges on BoE and FCA Regulatory Coordination FF News",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.22
+    },
+    {
+      "title": "Kora Adds Stablecoin Payments for African Merchants - Tech Labari",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZEtjN2t1TVR2N1pZRFpCeVB5bE9xVEIxdHFaTy1EQnlDV2hTZ0l2ZUxnMXRfTXVmOU54cGt4ajZqT3BBcGhlTjZHa0ZHcHRwZjc3eDUyRFJYcElBRjNSSmgwOWF3UWNIYzVrZXBKSHJJOVFwRHE0eTVfZDE5cmNkTA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T15:51:20+00:00",
+      "snippet": "Kora Adds Stablecoin Payments for African Merchants Tech Labari",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.22
+    },
+    {
+      "title": "Report: 'Rampant' use by Iranian regime of Tether crypto to bust US sanctions - gulfnews.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVURsZmtydkgyWDBVZURkdVZ3T01WRE43eGlXSFJhaFRZd0Fmb2FTOURndWctSFRWaDF3MV9JQ2VfTHVIcFNzMno3SExhSmlkOEdTc3VKTW5fdzczWkpQVTRjdWRGSnIwNGN3UFh2ek9hTUp2VmFTYzdQRS1VMU5BUDVSeXZuVERjdFY2MjFRVUx0NHRyMldSSlpxS19Nd9IBrgFBVV95cUxNcGhNMGRjbWFKQTB5UUNZWXgxZG9Lc000VExkTWNFdmQ0RlVzZVREci1Nbk9UTUVnOHNzTUZqcWRmM09nS0M3alRzTGdHcU1MOWdSZF9QMWRPbGFDYlZwSEdHbVlJZ1NqaEtPaVduRGlGS1hBV0Mxb0FvYUtmVlJnN1J0dWtGZGJHaFF4b2pEZVBTQmVGSUJSRk1YaG1ETE1RMm5aWW9RUzZUcUlabUE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T23:14:02+00:00",
+      "snippet": "Report: 'Rampant' use by Iranian regime of Tether crypto to bust US sanctions gulfnews.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 28.83
+    },
+    {
+      "title": "Bybit adds Tesla, QQQ and four more tickers to TradFi Perp Options and launches 70,000 USDT trading challenge - Finbold",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTTM0VG1oZWU4YnMyNWMxUko3MmZiZDVJSG1mQ2ZuVmNqV0VrdWJ6UXJ3OXZVWDZ3Qmc1ZzdaekJ2Nk9VZnFNRUlQNWJMMnhnZWNReDVyb1FObTZOTDFWT0V6VTdKUkQ2T0hERUdycnVIUlAzazNQenlhaVRvMElDakI5VWtweDhJSktxN3VGOFZmTnNoNnhqd0c0ZjJ1SlN5M2U2SnJHRV91ZFJrNnlxa1RFdHlmWUgyS1dUTTZuMGI4aU9STkFj?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T11:37:15+00:00",
+      "snippet": "Bybit adds Tesla, QQQ and four more tickers to TradFi Perp Options and launches 70,000 USDT trading challenge Finbold",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 28.45
+    },
+    {
+      "title": "Why USDC Adoption Is Rising in 2026 Markets - thecanary.co",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHBYdUs2VS1IV29CamEyWUlIU3BiSU9nUHA2ZDNlVThERllYUEp0dGlJZVM3VzV1WGstTEFDRVBmaVg3OXpuZ3BIdl96SDk3ay1kdWpSTl9EeEtrZ1BTanZ1QnVoLXBvdXYzUFR2RDJ0TTUwQ3o0M2ozcjFxVlNvUUdjZ0RMa3JJd256YzdnOWZ4UDVPSGNiTGprcG0?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T11:25:40+00:00",
+      "snippet": "Why USDC Adoption Is Rising in 2026 Markets thecanary.co",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 28.33
+    },
+    {
+      "title": "Coinbase Deepens Citi Tie-Up to Scale Stablecoin Payments - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUXhSZ1hFVmRTZmpLODJFNk93UWgwWEU1OWV5OXZIb3FHZ09YQkUxNlR2dTk4ekRDNC0xVWJ2NHI3Qm03S19vWlhpcHVGazhDVTJldGk5LUJQcDFoYVBBLXhsWmc0M3BVY1NUblBYbWJfYjFxSHhZeGNyUU9jcDQ0d042bzV3TWlibHFiT3dxQTM1UnBTSGt2VnBNd2szRkVPY3FHZnFpeGJId0dlczlSTDNPaw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T14:21:00+00:00",
+      "snippet": "Coinbase Deepens Citi Tie-Up to Scale Stablecoin Payments TradingView",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.28
+    },
+    {
+      "title": "U.S. Senate Democrats Say Tether Helped Iran Evade Sanctions, Urge Probe of AML Duties - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15dms1dnpFVXQyZWZyeDlmQmh4ZU5Sa3gxMXZLd0dOcTA1eTN6RGY2ZEJZSFJocXQ5NnBMbW9TRENhYVhyMVlWeEJGZ05PbnRzbl90dw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T22:19:52+00:00",
+      "snippet": "U.S. Senate Democrats Say Tether Helped Iran Evade Sanctions, Urge Probe of AML Duties bloomingbit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 28.27
+    },
+    {
+      "title": "Volante and Circle partner on stablecoin payments for banks - portalerp.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcWRWdkdSaC1vZWhINDNFTkxHZUhuSXpCcmlxaDlQREV0dlNVcFp0LWRiWXp3cF9za0YwTGZZXzVnS3NYY0dzTFY4ZFlURmlFTXBMYy1YNTNpZFZCbEd6MG9ucGRhSWFPc1lCd2VSc25YM1NvVkRhLWRieE5lTTAtc0xzY1pnT1VFcUhlUDRxbllBelU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T02:17:28+00:00",
+      "snippet": "Volante and Circle partner on stablecoin payments for banks portalerp.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.24
+    },
+    {
+      "title": "Tether's Stablecoin Is Iran's 'Lifeline,' Senate Report Says - Law360",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVZic2xFMWpiWFFwWUtRU2tNZEdBTDVLLU45RjlOYkg5TTQydktpeXRrbkhwQUVmeG1qLWVnS01qUjNQaUxXWjhheWY0YnZJTk9ZdVRGYTdIY3hPTHNSRUQyNEVqNXljNE5WWmtSVGVjS19aclZPTHF5VUlDM3UzWlN5VnJBVl93aU8tZ04xbkluaXBpV3Bha2NseGtad9IBVkFVX3lxTE10Z1dqdC1TTTZyb0kyMmN3UHNwM2pFZWt4cTg2Rmp2OGlBdUZqajB4MTVIU3U3dV9DcWN4dGNRZl94aFFrMGxoREs1VU0yWV83SG1MN3lR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T02:11:26+00:00",
+      "snippet": "Tether's Stablecoin Is Iran's 'Lifeline,' Senate Report Says Law360",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 28.18
+    },
+    {
+      "title": "StableChain, STABLE Token and the Future of USDT Infrastructure - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTV5d2d0WmVqNGlJa3ZNT2hZWUg3QUpfcmxtaV9LV0tGQWd6cUpLajd1SVVoaW9hTVpiQ1kwQlR6MWFCbG9ZYmRhbmcxM2RqUFptVHdzSlgyUEtwVjN5LWwwYTJFdDR6cWJFQVdYOU55ME5jT0xXZ09qOG5yUzlCcE1CQjBQUENRMS0ySnFVSlk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T14:00:02+00:00",
+      "snippet": "StableChain, STABLE Token and the Future of USDT Infrastructure Tekedia",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.06
+    },
+    {
+      "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
+      "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-09-29T21:46:03+00:00",
+      "snippet": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
+      "author": "Decrypt Agent",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 27.83
+    },
+    {
+      "title": "What Apple Pay Teaches Us About Stablecoin Adoption | by Alex Kozenko | Sep, 2026 - DataDrivenInvestor",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNmgtSWFiUjljRm9ZSUJqNkRvQl83d2VwdXF5aVZvdy1FdDhVLTBxcjRyYjRwa3JMbEhXdkFoX3lFSjFiTDk5VThuVm40SE9BREJnT2RSSGxpMzRpODIzX1BQRkdHeEhkaFhqVHlzbkhSVGFOLUpGOVcwLV83cGhBYm4yRU1ONGlvTDRxemlhMDBzaGtIdnctN01qSy1xWUttdmFDRA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T10:31:30+00:00",
+      "snippet": "What Apple Pay Teaches Us About Stablecoin Adoption | by Alex Kozenko | Sep, 2026 DataDrivenInvestor",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 27.76
+    },
+    {
+      "title": "U.S. Senate Probe Says 87% of Iran Terror-Finance Wallets Primarily Used USDT - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYdk9UcGp6ZmNxUmZvQ0Y5SjFKQUwtcnBGajRlY1pEa181U2FLZDBYdGI2d0dETFVuMGNEYk8wbFJOMlFxclZYMTBaUWd3VXB3TUtIUw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T13:10:14+00:00",
+      "snippet": "U.S. Senate Probe Says 87% of Iran Terror-Finance Wallets Primarily Used USDT bloomingbit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 27.54
+    },
+    {
+      "title": "South Korea’s FSC Seeks BOK, Finance Ministry Participation in Won Stablecoin Legislation Through Interagency Consultative Body - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRVBoZFBNbll3a2RiendiYk1XemZabkhaa3Rlc21IeEFUT2oxUFFEalhOeFRHdUZCMzZlVUFMVF9WNmJXUzdwZnRCNk5ldFB0WmxiVg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T05:08:13+00:00",
+      "snippet": "South Korea’s FSC Seeks BOK, Finance Ministry Participation in Won Stablecoin Legislation Through Interagency Consultative Body bloomingbit",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 27.52
+    },
+    {
+      "title": "The Last Mile of Stablecoin Adoption Runs Through the Checkout - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Xa3E2TFljX1Rac1ZCMUZBUDFkTWdyU0x2aFYxN2tpaTNfX1NTOV9nYzA5NGQwdXFldWlINEFIb0VhZ3FrVjlWLTZkeUhaTmVKazFVRjRWMmNUSF9rMWJVWlpMX25iZW1ic2Qycg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T10:05:00+00:00",
+      "snippet": "The Last Mile of Stablecoin Adoption Runs Through the Checkout BeInCrypto",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 27.49
+    },
+    {
+      "title": "Circle x Volante: USDC Embeds Directly Into the Plumbing of Global Banking - forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMk1EeDh4VDZiclRpOTJIRUFPS0xwdWcwdnhrTFV1MWN1Y3VBUWFkSTNsYmVBSll6NzNpV3l5VXF0ckhnUC1tR3BONk82QkhKOVF5NjJ5RUt4dTNDV3hxVnJaYWdESEdIcXB6Tng2WkptM1kyWWhSMG40Rld2b0JvV3NtUWdlWW5wQWk3WFp4Z0l1NmtVbjVjcGw5MA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T00:58:00+00:00",
+      "snippet": "Circle x Volante: USDC Embeds Directly Into the Plumbing of Global Banking forkast.news",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 27.41
+    },
+    {
+      "title": "Tokenized securities and stablecoin projects ad... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFluMWFiY3pfZTcxdXR3NXdSMHE1aTF0N05NYVFqY2hRbDR1dzQ1azYyUklBR3BxY0Vva1FsUFpnR285a0xuamllNGluc1ZaTlZVTHdCa0dreDdQalVZcnEzQUR2bEdfMUxKSk56WjUyaUpjVVFMQ0hnR3lUajVyLTF0aFNVYnZNWXdQTzI1dm5NNmRCR1RPRU1sZnkwc2tPNUtodA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T04:46:15+00:00",
+      "snippet": "Tokenized securities and stablecoin projects ad... Pluang",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 27.29
+    },
+    {
+      "title": "US Senate report calls USDT a financial pillar of Iran — Jerusalem Post - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0FNZjlOckpzZXNhQ2VmRVNmNGRlRnBVRm5sZlM5cWQwelpIaVU2UWVBN0hXMm80MGNjVjVySWNyRnlhLW1ISW15UDFNc2EzU0x0WXJSR2RveEtsWFc2UEJfSlNGYXhvV0ZBaXVZUUh0MkI4bjRYTEVKUGJLYTdYbEdJREtnYUpEV1labWNLcUVTUmUtR0kwVms4SEJDT2c?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T12:02:40+00:00",
+      "snippet": "US Senate report calls USDT a financial pillar of Iran — Jerusalem Post UA.NEWS",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.84
+    },
+    {
+      "title": "Why Is Everyone Talking About Circle Internet Group Now? - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNek1mSjNVQU9lRElQemViZU1QanRBOWFtS0ZJNi1SUFg3VDl6RDlZNF9IUlQweHQzOGVWcThYa3dsM1ppeVgxRGFSajRFdGRCck1feTdHSmN4VGRKWFdRdGRpMEEwYV9mWFl3MjVXRTJfQkhyUlozNEhzc2JzWk5EcWhEc25ycnRreC1tVlg4c2tUWXFKVlAzT1Y5aG5RUGpHaDEtc1dEc1VYM1B4ZWt2U0hLc2dXN0tHY0hyNFEyUDFrVjI5YkMteTRLR0hEeVE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T11:57:32+00:00",
+      "snippet": "Why Is Everyone Talking About Circle Internet Group Now? theglobeandmail.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 26.78
+    },
+    {
+      "title": "Senate Probe Finds Iran Relied Heavily on Tether to Dodge Sanctions - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX2s0RDNUaW5mLWZHbzBrRER4cE5ISkNyMVhtek02WkRWd2c5TjJvajV3ZFFPcFI0aF9ra3R6YXdHTHI4VE5GUVVmd0RzTWpBTGw2Ti0zRTR2TnJuSGxudTdSTHlHWjRUSmVidnR2WGJ4Wld0elZCR192NHpVRWx1Y2R4WDJEYVI2T0kzM2dSSjlkaGE5aGFlZ2I0X0w?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T19:55:22+00:00",
+      "snippet": "Senate Probe Finds Iran Relied Heavily on Tether to Dodge Sanctions Benzinga",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 26.76
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to NGN (Nigerian Naira) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mT0NuTkNGWlpUdkROSGQwbWRVWjBOcGM3YXhzNHp1bG9za0x5THMxNUVCeUVKYllBV2pNYllhVWF2VHNWal9qLVlkVTdNN3FoaVlWU3JVLXk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T23:10:12+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to NGN (Nigerian Naira) Bybit",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.29
+    },
+    {
+      "title": "Why is Circle Internet stock gaining today? By Investing.com - Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLXpSbFF6YnBpcmpHcmNSTXVhYmwyNFFxbURKbU9LRHI0RFhoNnExQjNXcDY4M1VzMkJKT0ptWVBReFFSNk9QN1gwbWE3anNLTnlLdnZ3ak1pa3c3NVFRS1lrcmhSVVZkTU4tOWVUWDZmUUo0UVF3VmNEUUlWRlVlUXRyYk1fTzMtZ0pRWm1iRjJiczFrRjJULWE3OUMwYk9seU51ZkZn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T10:45:17+00:00",
+      "snippet": "Why is Circle Internet stock gaining today? By Investing.com Investing.com Canada",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 26.03
+    },
+    {
+      "title": "MoonPay Launches South Korean Entity, Focusing on Infrastructure Over Won Stablecoin Issuance - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGZUtCeUhRRjJMeGJNdGU0NEpUeWQxM2VhSG56eXltRDZDV2RhRU95Vk9hSWVOdDFfRk1FWTZtVFhUUkxtMmpfMHpPbjJ6ZWo3ZW1UVmtOQUI3VlVaOW5hc2hybEtpNmJPWDdPcm1WNWQwNjNfanc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T07:36:00+00:00",
+      "snippet": "MoonPay Launches South Korean Entity, Focusing on Infrastructure Over Won Stablecoin Issuance finance.biggo.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 25.93
+    },
+    {
+      "title": "Circle's Arc Goes Live With KuCoin, Binance and Kraken as Stablecoin Rails Go Mainstream - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcEtweU95MmVhc29ReDRweklXUWdhOHhFWjBtTWNNNXFaWnVDYlluUTZLZ3Y4Rk1uN0dIc3RBOXJHREhTa0o2Rmt3Tm1VNkNTUmp3SVY5cnFlSlFlQkVXZ0xlRVd3ZGNKTXZqVm11TTRGenNxcjdWY1JqUTkzSW5iV2QwcmV3aHY0T3FQRHFZc01ITUZyY1F6VVFTbl92WFFXVmMwWDhhOW9uWGVvV0E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T22:33:32+00:00",
+      "snippet": "Circle's Arc Goes Live With KuCoin, Binance and Kraken as Stablecoin Rails Go Mainstream HackerNoon",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.91
+    },
+    {
+      "title": "Aztec Revives Its Private Payments Wallet, Capping Every Transfer Below $2,500",
+      "url": "https://unchainedcrypto.com/aztec-revives-its-private-payments-wallet-capping-every-transfer-below-2500/",
+      "source": "Unchained",
+      "platform": "RSS Feed",
+      "published": "2026-09-29T23:39:30+00:00",
+      "snippet": "The relaunched zk.money hides balances and recipients for stablecoin payments, and it goes live before a fix for a critical proving-system flaw Aztec disclosed in August. The post Aztec Revives Its Private Payments Wallet, Capping Every Transfer Below $2,500 appeared first on Unchained .",
+      "author": "Unchained",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 25.9
+    },
+    {
+      "title": "Coinbase Now Owns Every Layer of Its Derivatives Stack After CFTC Approval",
+      "url": "https://decrypt.co/379516/coinbase-now-owns-every-layer-of-its-derivatives-stack-after-cftc-approval",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-09-29T09:38:57+00:00",
+      "snippet": "Coinbase Clearing will take USDC as collateral and settle around the clock, though margined products stay with partners.",
+      "author": "Decrypt Agent",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 25.77
+    },
+    {
+      "title": "El Salvador Launches a $2 Remittance App That Settles in Stablecoins",
+      "url": "https://unchainedcrypto.com/el-salvador-launches-a-2-remittance-app-that-settles-in-stablecoins/",
+      "source": "Unchained",
+      "platform": "RSS Feed",
+      "published": "2026-09-29T23:18:43+00:00",
+      "snippet": "Sivar, built by Coinbase-backed Modveon under a five-year deal with El Salvador's Bitcoin Fund Management Agency, settles transfers from the U.S. in a stablecoin on Base. The post El Salvador Launches a $2 Remittance App That Settles in Stablecoins appeared first on Unchained .",
+      "author": "Unchained",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 25.74
+    },
+    {
+      "title": "Binance Just Invested $100 Million in Circle Internet Group. Here's What It Really Means - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS0dhYlVwcVk1aWNRN0NXUEZ3TWpVNFVOTklhajNrRHEzMV9nZ2QxTGIyY0ZIZldTNGZsQTBGcEVXcVVjN0VFempBRXhXaXFPbHMxSWtLX1dsbTNOZ1V0RFRzRmkxdFFJLTlIeTBOaGZxSHpxaFdHQ042aU1nbGxBdUd5MXYzc05vekhxTmd3TS0zaFYxeFduaw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T10:15:00+00:00",
+      "snippet": "Binance Just Invested $100 Million in Circle Internet Group. Here's What It Really Means The Motley Fool",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 25.71
+    },
+    {
+      "title": "Senate Probe Says Iran Moved $7.8 Billion in Tether to Evade Sanctions - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rV0t3UUNuVEsyN2dVdVhndnlNV1BRY1dlX2JZNERGWEowTy1LNWdHN01Pa01UOFJVYS1iWTE5MkxKdkFuYTIxSjVnbjZ2cWlJTGU2eWVFaVZWUEtJMmJvZmFGWHdNSlpLOTVIcXFuZHNweE5WWGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T18:06:00+00:00",
+      "snippet": "Senate Probe Says Iran Moved $7.8 Billion in Tether to Evade Sanctions finance.biggo.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 25.62
+    },
+    {
+      "title": "Senate report accuses Tether's USDT of aiding I... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZm44NVpWdk11NUx1dGI0UFdEM2diR0F1Mi00dzNpTGVqLXNPRng4VkY5QUhTOTlzeUR0UENjU1A4cWRUbWswWXNWRHQ1c0hhWG1uQXZNWjBKMVhOclc5eVRmUFd0UmxSbjZiSE9QbWZhU3BkUHF5UDd6Mnl2Z0JpTTNUTlF2b3YwTEFCTmRGZ3NMbmpv?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T22:05:32+00:00",
+      "snippet": "Senate report accuses Tether's USDT of aiding I... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 25.62
+    },
+    {
+      "title": "Fed Stablecoin Regulation: What the Proposed Rules Mean - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FY3hPa1A2c250UVhNZVFMOUREbDhBLXRfWE55Z05CVVdrM2xCUC1zMkNpOE9Jb0c3bGhVZEgxc2g0ekNLZzlLZS1xR09rb1NZN2c0dzU1RFJQUllmT1FjR3JzU2M?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T02:00:11+00:00",
+      "snippet": "Fed Stablecoin Regulation: What the Proposed Rules Mean Binance",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 25.56
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to EUR (EUR) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pQ1lmVkdMRzdZLWJjY1M1b3U0bjlNd1dyY1pUbFJyMjdGMmROa0pYanJFY3k0bWlIUkFueVVodzRPelNUSVZBdXVhcHdPTUUyWXRWQXg3Smk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T21:50:54+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to EUR (EUR) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 25.46
+    },
+    {
+      "title": "South Korea's FSC to Include Bank of Korea Joint Consultative Body in Stablecoin Legislation - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14V19rMnlqUDJBbTd1ZzRUUVBkSHFrVWEwdXF3U3VZbUd3NjU0cEw1Q01rYkpQNkxHLVU4bS1JenRqb1RkNXdZLUZEdWF6di1VRUVlZFBIcjlsQ3ZycmdlQWM3T0xNdXhlUEJBb05Eel93ZGd3aFE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T01:25:00+00:00",
+      "snippet": "South Korea's FSC to Include Bank of Korea Joint Consultative Body in Stablecoin Legislation finance.biggo.com",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 25.19
+    },
+    {
+      "title": "Binance BTC, ETH Holdings Fall, While USDT Stays Elevated at $38.1 Billion - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JZmFXMFh6S0dzWnVHMWFkZlFNTGhwWTRwMVQ3d19sbXJIZmF4bjRuTEFoa1JVeHFEUjgyRUNtdWZMWUJtWC1zM2dGX3d4cGRIaFE4Rw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T09:20:08+00:00",
+      "snippet": "Binance BTC, ETH Holdings Fall, While USDT Stays Elevated at $38.1 Billion bloomingbit",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 25.14
+    },
+    {
+      "title": "Democrats slam Tether’s ‘pervasive’ role in Iran shadow banking - CoinGeek",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWJNeHdqd1RnMDdjSDBlUmVpZkhONkpCS0RWa28yNTVCTHpabEM3c090VXh3cUVaMlFfWmNad0lySXhkTEtWRlRqcDBYOXVFY0hVbk4xc2lYSF9MdDYxbzF1V2ZhUVo1ZUQtRlVaSm1kcmZYZHkyMzlLZENJVlB3NFQ5X1RFNzN2?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T09:00:00+00:00",
+      "snippet": "Democrats slam Tether’s ‘pervasive’ role in Iran shadow banking CoinGeek",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 24.93
+    },
+    {
+      "title": "Volante Technologies partners with Circle - Asset Servicing Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTENTbzUtT2FlOU1xY3dMU0htdlFwTjZhMUg2MlRNQmRhOGJ3ZXJiaTdVQ0JRSTZHYWdpS3dDSFkzRHhfRDl0ZUkxcjJnR1dzOGpTaDNjMG1vaFYxTUVqQ08tdUlSbXVxaXk5bmxEWnBhOVB3Q29EeHFiRzc1TG84U0E4bnFGTGlWcFN4RU1hRkpLX1h6?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T08:25:17+00:00",
+      "snippet": "Volante Technologies partners with Circle Asset Servicing Times",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 24.57
+    },
+    {
+      "title": "Robinhood Begins US Crypto Perps Rollout With Up to 10x Leverage",
+      "url": "https://thedefiant.io/news/cefi/robinhood-begins-us-crypto-perps-rollout-with-up-to-10x-leverage",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-09-29T23:30:02+00:00",
+      "snippet": "The eight-contract lineup offers no-expiry trading through Robinhood Derivatives and Bitstamp, with broader access planned in the coming months.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 24.48
+    },
+    {
+      "title": "Convert 1 ARS (ARS) to USDT (Tether USDT) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iQmRBTnlSUU4xaXpEeXJEaEZDWExtVUhycDNYRUM5MUFXY2pQSjRfekFEQ2hkTlRmRGNxWFVNY0YtSkhWbDNteXlqT3QwTGZRVHlqZUV6WkU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T19:42:18+00:00",
+      "snippet": "Convert 1 ARS (ARS) to USDT (Tether USDT) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 24.12
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to ILS (Israeli New Shekel) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11encyQnExRHRFaHZXdE5ndnhaajF6QmF4RlliVmZ1OE5WdE9aNGZoVDBxV2E5NXlKRnpOalpNOW5KYWktWGpSR0xITGhsLTdQYnNRR0oyYnk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T19:30:12+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to ILS (Israeli New Shekel) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 24.0
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to USD (United States Dollar) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aQkZLNzJkQTRObm9wQlVieDdjNjdOdE9CRzMweTV0YncwSVV0NWpXSzVBNG84NDZ6dl9wekJ0V19HTUhBZ0FSS1U5d2ZwOHhIQzFrUlBsQVY?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T19:20:40+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to USD (United States Dollar) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.9
+    },
+    {
+      "title": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says - The Block",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNHp6S2duZUQyWjlrRHZsZXI4UUVmQ2N1ZmU1SkpoaGxTTjBWNlZpdVg5cmFaTDFjbUxLZU5kYUJ5MnE1V3ZTUkZGTkhGbGY3WW50bVpkV0txVGZoVUZDdTVnOGxnSkFORGR2bGh3bFFUMWtJeHU2MzJYTmdUVkN2cHdnMVdOUEpPUWR1SU9LN3IwMm0zTHhyN3AxaEx0REJWTG5hYmE5UFllUjdxTFQteEpyWlM5ZTI2TlpuOS02Q0FpaGRXZnlv?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T19:10:42+00:00",
+      "snippet": "Tether’s USDT at center of Iran’s shadow banking network, new Senate Report says The Block",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.8
+    },
+    {
+      "title": "CRYPTO CRIME | Iran Shadow Banking Network Relies Heavily on USDT, U.S Senate Report Finds - bitcoinke.io",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MZHVjcU40X0szWmV0VC1HS2JNNVkwc2lCYUVSQ0dxOGNWaFh6N25QMm15d2Q3UTZnQ213NE5aa1ZXbkhVM29JVkVNQUJ0MnZZVDM3ME4zWHZyeVpjS0ZKM0RrLUFNM0JZZDg1b2FWYVhrdU43ZmNVa1kzcXgtZjA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T06:00:59+00:00",
+      "snippet": "CRYPTO CRIME | Iran Shadow Banking Network Relies Heavily on USDT, U.S Senate Report Finds bitcoinke.io",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 23.07
+    },
+    {
+      "title": "BlackRock Sees Stablecoins Powering AI Agent Payments",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/blackrock-sees-stablecoins-powering-ai-agent-payments",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-09-29T20:15:04+00:00",
+      "snippet": "The asset manager points to tiny, round-the-clock payments for data and computing power, while traditional checkout systems retain a role.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 23.02
+    },
+    {
+      "title": "Circle executive says stablecoin restrictions could cost the US $1 trillion - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0hnYjc2MDdFaF9GTUExZUQxckJyTHVHc2JVcE04QzhZenFfNHRkblE2TzdRS0szbFFZaXc1NkxndXRQc1ItOXV0d0tMX2dUNFdFM0R0cVhUOURGTzdHVktlRXRMbTh3VlMxSWQ4Q3FnYm1lVDFZMUtRaVdva0hNeQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T17:54:17+00:00",
+      "snippet": "Circle executive says stablecoin restrictions could cost the US $1 trillion Crypto News",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 23.0
+    },
+    {
+      "title": "Tether USDT aids Iran funding, Senate report says - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVV5aTNFWWZfZE9iTWZYdUk5YzA5NnZTWGpFZjZpUS1abG5yZ0JMbHBfM2kzbjM1MlNsejJLWm9CcXdJR2s2Yll2bEltQ05xclZfRG9wbDRtUlIwc1RqLWtFR2Y3MXBkbjktSXprSHdfVi1XQXhkZTd5Und2NlhPOE9kRV9VVlA5dlMwNFVZdGhiSUFBMzE4UjNfUlRPSlhaSmlSMHg4VDVDQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T17:32:00+00:00",
+      "snippet": "Tether USDT aids Iran funding, Senate report says The Straits Times",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 22.77
+    },
+    {
+      "title": "Report: Tether Emerges as Key Tool in Iran’s Shadow Banking Network - israeldefense.co.il",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uQkJDRUR6UklTU3VSMV81UUVpZ3RMZ21rY2w5bklWVGR5R1lIamFjQ3dLX2RvT1JVeTU0dVVTSUctb194THhJb21FblNZNXZnQTZUSmVmT1k?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T05:29:00+00:00",
+      "snippet": "Report: Tether Emerges as Key Tool in Iran’s Shadow Banking Network israeldefense.co.il",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 22.74
+    },
+    {
+      "title": "US Prosecutors Seek Forfeiture of 110,270 USDT Linked to Text-Message Scam - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvb3BRc0hpcXlvTUdaNXBRWnlXNkZxYUxkTmFONXBNUzF1S2pPSmxBRkM3Y1FzS0NHd0k0eFA0MHFpa0ZtamdWLW44NmVIOWF4T3FISg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T20:41:22+00:00",
+      "snippet": "US Prosecutors Seek Forfeiture of 110,270 USDT Linked to Text-Message Scam bloomingbit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 22.24
+    },
+    {
+      "title": "Tether and Senate Democrats Clash Over Iran's Shadow Crypto Network - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XaXhES2RQbThiYWx2S1ZWRjEwMldTX1QtVy1paGdKRk1BbThaaXZ5d2lLN1JocWEtTWJ6dFlobktoaGlUNy1rWkpGZjhVZTVrS1ByMTY0RjA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-29T04:02:22+00:00",
+      "snippet": "Tether and Senate Democrats Clash Over Iran's Shadow Crypto Network Cryptonews.net",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 21.83
+    },
+    {
+      "title": "Morning Minute: Citi and Coinbase Just Made Stablecoins Invisible",
+      "url": "https://decrypt.co/379526/morning-minute-citi-and-coinbase-just-made-stablecoins-invisible",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-09-29T12:05:18+00:00",
+      "snippet": "Plus, crypto majors rebound as oil and yields fall and Saylor’s Strategy returns to buying Bitcoin.",
+      "author": "Tyler Warner",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 21.49
+    },
+    {
+      "title": "September 2026 Global Regulatory Brief: Token securities, stablecoins and tokenized bonds - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeDFreEVEUUxpUDh4QVVpWjVUalhydUUteUNNdlRlVDBoRm5kSUpkd2lWd3VNZFdNSENfSWVRR0hSM1VCckVmNUFxb1FmWktNOHNJYmZic2tnSzNaa3gwQU5ubHJ6RG1rZ1ZORFZiUHEySldzekJMZkFwX0dZblhIQjFYTmU2SWdGaDFVVUlmYUtDUDZGNVI4aGZJQ3ZYU05BQXpxZ0FyU0hyMTdiNjA5Z29ENWNrTXRVd2Nya0tvSV9YTHFQYkVMQTRqTWRyVlZpV1VOMjVOZnZybGVKLUhYSg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T18:36:48+00:00",
+      "snippet": "September 2026 Global Regulatory Brief: Token securities, stablecoins and tokenized bonds Bloomberg.com",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 20.94
+    },
+    {
+      "title": "Stablecoin Regulation: How the Citi-Coinbase Deal Changes the Game - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGNjLUtqc3hld1cxbkxJZkcySEc1enh2bFFuLTUtZEM3bUk0RXMxV25td0NYR3pDVXp5cGJ5N2xkZlNzb3FwLVQxb2FsOEg1UzNhSkNSa2dNN0tmeHo3WEhRSWlNcnota05od1RaOWNNd1ROeU1oQ3hWdzVLdTFsR1FMT19waVk3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T18:12:58+00:00",
+      "snippet": "Stablecoin Regulation: How the Citi-Coinbase Deal Changes the Game OneSafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 20.69
+    },
+    {
+      "title": "Why Tether's Iran problem is a bank partner problem - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDFISHhNb0h5dm9EMDBIbWlFVERuRV9oUmpxMnZvRUtEc2x3ZlprRGJvRXd1Ri1GNW9fYmNyYllwcmlFLWF4Y1JoYzFLSnRVN2RCdHFPeVFzZURRcEpJMmlpU3dGb1ZndTJmaHJ6aEcxd0FMcUtLSFphaHh5S09SaG8tUHVpTUpoa1Z2d0ZrMA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T21:54:00+00:00",
+      "snippet": "Why Tether's Iran problem is a bank partner problem American Banker",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 18.0
+    },
+    {
+      "title": "USDC Highlights Earning Opportunities, Says NEAR Protocol - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0bkRrR3h5RVltUzlFendzcGVvY1VjMlUySkw2UFVQNHdyZS1QQzhUdW1ZYUI0N0lMR3hPSThCdGJncEVlaWRXQ2h6RGQ5c2tCUnJyQll4dkQ1Rnhx?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T21:48:01+00:00",
+      "snippet": "USDC Highlights Earning Opportunities, Says NEAR Protocol Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 17.93
+    },
+    {
+      "title": "USDC Borrowing Surges to $150M as Market Activity Picks Up - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzTEFxTnR4VTEyeDctcDhRRVRSb2RhcFlaQlo1TWZxLWdhR2tBMnIyOVpSZ2RsOUdicjdDMXMzNFc1SnJ5NTkxOUZuS25NU3M5bkpxYg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T21:32:58+00:00",
+      "snippet": "USDC Borrowing Surges to $150M as Market Activity Picks Up Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 17.78
+    },
+    {
+      "title": "Bybit accepts Franklin Templeton tokenized funds as trading collateral",
+      "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-09-28T18:02:54+00:00",
+      "snippet": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
+      "author": "Cointelegraph by Sam Bourgi",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 17.29
+    },
+    {
+      "title": "Circle CFO to step down following $1.05B IPO - CFO Dive",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnVXV3EyWFhsb2Z6R2NYSFlDa1hzclpEbEZhdGNvdTV1NkN5ZWhuNWFiOEVNVy0xdjV2M3lSbmhLdE5XMkljN0hadzNaeW9JTFB0c0pQb01tNUQxRGZHTThvX3FvTGduYUphUDI0V0VTT3VpLXNlS1p1NW5Ndm9nbVFFbkh3RWp3Vk1hZjY5NVdtWjVaMTFFUm9B?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T20:37:41+00:00",
+      "snippet": "Circle CFO to step down following $1.05B IPO CFO Dive",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 17.2
+    },
+    {
+      "title": "Senate Democrats say Tether fails to Block Iran-Linked Wallets - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHpBdDB1VW9ZMEVUMEFNbjZtdEFWeUp5YWIzQVhTUldESVBTV3Q5QUE4UkZ0cE9NYl92dUJiYXd4bHhjU01rWFYxWWpuYU5FY1JsVVVucWRNTXc4SmZZQS13cWhNZU04UXFhcHltN1lTcTdHR3gyWW5TdTF1cWFocUlUeUd6LThoQlJTRkI3Qlo4b28?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T20:36:01+00:00",
+      "snippet": "Senate Democrats say Tether fails to Block Iran-Linked Wallets Altcoin Buzz",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 17.18
+    },
+    {
+      "title": "Roundtable 100 analyst reveals Circle’s surprising jump despite beaten-down stock - roundtable.io",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1hJZDFIYklfV1VMT0JURDRTUnhaUVV5am5nX1MwSjJVRHYwcFhLX0t1YnJFZjJra3RDVmdPYjJTOWU5QTdSTTY5ZlEtY3hMNXpsVmVJR2NJSWRyUXZJazZkOVJ5YVlMQVI3R3dCQlZBSkpkaml1NXZHRElqVTA5X094MXEzMDhqU25FN0FfVGlDODJPRjJZT19qcDY3N05LYk9vTlRaZm9WVnZG?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T20:26:24+00:00",
+      "snippet": "Roundtable 100 analyst reveals Circle’s surprising jump despite beaten-down stock roundtable.io",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 17.08
+    },
+    {
+      "title": "Circle CFO exits by year-end after leading $1.2B IPO - Dealroom.co",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmNJU2lQM0VTYUxhXzdocUtxaEZ4S2pZWndobEluUFVFSW51MUFmRnhTaHpLRWEtQ3VzMkxrb1cwb2FUNzlpQXkwWkR3NFFpaktDQVVOMHUtTldSMER6ZnRkUnlsWTRfTTBsRXBIdlRzNnBhSnN0R0doUWFyT3Z1WGlSSHZpcGZLZUtIUTF3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T18:55:51+00:00",
+      "snippet": "Circle CFO exits by year-end after leading $1.2B IPO Dealroom.co",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 16.14
+    },
+    {
+      "title": "Resistance to dollar stablecoins may limit $1 t... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblF5VzZHZDRXYm9QTWVrQm9tZmFUb3Zhdkc4Y09hb2hVSC1DUHlnQ3lPaFYteFpwek0xbnQ5MDJNYmh0NGlYaVZRZXRkdjNtbjZDd0tyVzFYRl8tNUxuS2ZkeG42dk1BX0w3VEJiYXZoUE5nbXZ1Y2tYc19LN05NQ3UyNzdHRmxIOTl6UVg3OUhvelUtTWFnbENYN0N3MjNJMlo4?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-28T18:06:11+00:00",
+      "snippet": "Resistance to dollar stablecoins may limit $1 t... Pluang",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 15.62
+    },
+    {
+      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase—Without Touching Crypto",
+      "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-09-28T20:36:03+00:00",
+      "snippet": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
+      "author": "Decrypt Agent",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 13.75
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 19,
+      "USDC": 12,
+      "Tether": 45,
+      "USDT": 42,
+      "Stablecoin": 49,
+      "Robinhood": 2
+    },
+    "platform_counts": {
+      "News RSS": 108,
+      "RSS Feed": 11
+    },
+    "risk_count": 38,
+    "top_risks": [
+      {
+        "title": "Senate Report Claims Iran Is Using Tether's Stablecoin To Evade Sanctions - Engadget",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWlNOGVnNmE2Y043VFVmczk4WkdKNTlKU2VYSy1sNE40X2RHWjBCRVdmY1FBeWVmWUcyZUc4MUR1THdNUkFGZlozUGJ1dF9NWFNpZUZYdmkzOU5QZ1hRS0V1b1kxaExOcXFScDBTcEJRRVQ0bXhKNEJYV2RickhHZk9Sd1htYWV4R0ZfbUJ3N25iYTdnN1lGMnBKUXhBQnhTeGRSZ3FLdXNBUQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-29T15:29:32+00:00",
+        "snippet": "Senate Report Claims Iran Is Using Tether's Stablecoin To Evade Sanctions Engadget",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 46.49
+      },
+      {
+        "title": "Senate Report Calls Tether a Lifeline for Iran’s Sanctions Evasion - CryptoRank",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04OTVCd3JJMFVXSWdzc0ROVE5RYXRXRnVXYzlVV1ZDdnRpZXE2QTNxVHNOWUdIeW95NzhvYmJhQ25oNXZXUGh0d2V5blNWb2ZPZVA1UzhzSnZJV0dGQ3dDdXdfRWR5MGRpZGhxQXh2S0YwRWV6dU1Uc2dSUFp5UQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-30T02:29:43+00:00",
+        "snippet": "Senate Report Calls Tether a Lifeline for Iran’s Sanctions Evasion CryptoRank",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether"
+        ],
+        "sentiment": "risk",
+        "score": 45.87
+      },
+      {
+        "title": "Exclusive | Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXVHRzhGY0lDdzJJaEZlRWRHWGFkUl9MYjNRWlN2d1lzNjdMVWRtR1NQTElYVFg1RXlVUVFrWU9sanlPRTQ2VHlXTVl0Nm9GcFJRZHVja3lRVnltV3JJWmRWbnZFQk5oakFjb0lqeURDYzc2SENHNXMyM3pXNWNiT1l5dzZnTGwwbjMtZW1Oa0twOVhuN3JqTEdaVmtQVUVQdFdyMzY0YlprdkNIb1VzS09Ob1BuM3Q2WFRGWHNJLXk4Znhq?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-28T18:00:00+00:00",
+        "snippet": "Exclusive | Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime WSJ Tether USDT aids Iran funding, Senate report says Reuters U.S. Senate Report Accuses Iran of Using Tether to Procure Shahed Drone Parts IranWire Senate Report Says Tether’s USDT Is Central to Iranian Proxy Financing Gizmodo Senate Report Claims Iran Is Using Tether's Stablecoin To Evade Sanctions Engadget Tether is a ‘lifeline’ for Iranian regime, Senate Dems say in new report CoinDesk Tether’s USDT...",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "USDT",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 45.56
+      },
+      {
+        "title": "US prosecutors seize $47K in Tether linked to $900K Bitcoin fraud traced to Binance account - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2U1bF9fa0hPbkdmQUJhUm9xYzA5cS0taXk1dnR5VHlqNFQ1cmtsXzFCa1VGcXhnME02WjdDaGV3aVZMMnRlUG9BLW9ZNklkMmVQczQ0c3dJZ1pHLXQ5YVJoSFR3b2ZlTXgtSWlGR3QzU181MzNvZ2NzVU8tc3FyWXh4ZjhJSkowRDlBZlJPMEdDTGFabzVpYU1RVXFFanFNLWdINkFzZjEtbXZCdWc?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-30T00:27:14+00:00",
+        "snippet": "US prosecutors seize $47K in Tether linked to $900K Bitcoin fraud traced to Binance account Pluang",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether"
+        ],
+        "sentiment": "risk",
+        "score": 44.59
+      },
+      {
+        "title": "Tether Freezes $550 Million in Iran-Linked USDT as Senate Report Raises New Questions - Bitcoin Foundation",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYU12VFdJbkRPRkctWDJ2QndfZzY0cTVzVDVoc2xILVhFazNZaWw2NnViczl2WWdTdF9aQ2NfaGhzdGJXTnMtMjE2dlBpUmZ0bnB6ZWxOcHZrZ0RiMDI3M1pnQlZqU0xKT1ctSE4wTERsMWZWZXh5aEg1TmlPcUI1RGZPRnlrTm1sZ3pmM0ZZSE1uY29zMWphYnBkM29rSHRxbEdQVExPT18tbUxMa1Z5N3JjeWppVzc4d0tDbXhwRzBURl9TLVo4RA?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-29T14:14:52+00:00",
+        "snippet": "Tether Freezes $550 Million in Iran-Linked USDT as Senate Report Raises New Questions Bitcoin Foundation",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 40.71
+      },
+      {
+        "title": "Stablecoin Regulation: What the Fed’s New Draft Means - OneSafe",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdTZORFk4Rm5ZeFNCMTV4MkZZcVV4YWZmQTBKUXpMYkctMF90czdTS3NDRFRHV3pUaWhYT0l3THRjanB1dGJLd2ZYUFpVU0R2RXZYTEVLdTQtdW9Mc280U3hzMkN2LXo0d1llR3haRHhXRzhFb25wOVpjWFlxMTg?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-30T02:11:39+00:00",
+        "snippet": "Stablecoin Regulation: What the Fed’s New Draft Means OneSafe",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 40.68
+      },
+      {
+        "title": "Stablecoin Regulation: Fed's 2-Day Payout Rule Explained - OneSafe",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sdDBUQV9JOGNheHJ5QjF1RUtkNDZ6M2dqRFRQRkxSY3hqVENXWnN3VHg0VjJ0UjI5U0J6ZEpsN0tjTE8wMmI3VkwwQkhiMG9ENk5fdEtISllzWWwxTmZVMkF4aGl6SDM0SjBsaEVSRndQaTJIM3c?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-30T01:57:37+00:00",
+        "snippet": "Stablecoin Regulation: Fed's 2-Day Payout Rule Explained OneSafe",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 40.53
+      },
+      {
+        "title": "Citi-Coinbase Deal: Next Step in Stablecoin Regulation - OneSafe",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kNmhXYXZHWTBiQklhU3NkZVFrTkpUSGZWM01lMzhCLTdHa2dDM2o5NFNnWldORUQxZGdNVVBlamlCcjlwdlFmQ1RWcU1qaXczQmpWTUptT3p3X1hwY0k5a2N3d3dCV1VMQk5fQ1ZFNklGRUM4QS01TFd0YjU?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-30T00:52:26+00:00",
+        "snippet": "Citi-Coinbase Deal: Next Step in Stablecoin Regulation OneSafe",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 39.85
+      },
+      {
+        "title": "The Morning Risk Report: Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ1R6WlFQNF9YNDZrUS1jVldCWkxaaHFCME1Xb3BKZXFnS3NrMVk2SUVkVkRGblVhaWVneHBqT3hfc3BkZThxNzFrM2trcWd0S2FwLW1QUi1tOWxPajgyRVplbVJKR1FucEk1eHBFbWhGbzlZQndrRVZBUnBRTG1BUFhLNGRGX0MwN3lrWDBOVWJZalJnYmo1WXhkQ0V6NV9NZXJqQUdEOXFscGJrU2l0cTFYUlRyMHhBS1MzcVVxanBCUDdmRU1RUF8tRzBOT1VNcDZCeEw4bmZwWUN2cDRpX1g3YzYwU0V5dDVr?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-29T11:22:00+00:00",
+        "snippet": "The Morning Risk Report: Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime WSJ",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 38.91
+      },
+      {
+        "title": "Tether Freezes $550 Million in Iran-Linked USDT as Senate Probe Turns Up the Heat - CryptoTicker",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0VVWnVBbFY0ZEU4NW15VE1mZ2c1d3FYMjVNODBoVW1TdHFScHFBaXFfWlJOQTBLWmVlWGlKQXRDT0IwY3NoOEFOZFhXclhKc3IwWjV0ZUpYY3pwcDhjTmV4UDNwTEJVWDU0Z2l1RmRTZTRxVmR1N3A0N01UZlkydzVoSQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-29T10:45:43+00:00",
+        "snippet": "Tether Freezes $550 Million in Iran-Linked USDT as Senate Probe Turns Up the Heat CryptoTicker",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 38.53
+      },
+      {
+        "title": "FINANCIAL TECHNOLOGY—Treasury issues Stablecoin Certification Review Committee interim final rule - VitalLaw.com",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRmpndkFscHZscHoteThHRGdTRHRuc2JYTG52VHd1SlhfZWxjVE03Rl81QmlCektwR0FSUklTVThUeUgwd0dVM2kwdTI3cDJQTlJucllmN3dMMjVfazViZ0Z0U1RiaUg1b0JEaEtIUXdNSFJhTlhreHpNY2E0blVTNFpEQ2pDaVZiSk9zbU1PSDQyak9UZlNsU1ZQRTJoV1FyeHZwWWNUOXRPMEtlVGotQVlKb0VleXBlN3dvOTRNbnV3blFOa3JKYU9TTHhaWmVETmhWQVpPa29hRnBLN3VkajRIODZKeTU3dTQ3TzlZcjEzWGJ5NUNyQw?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-29T22:19:14+00:00",
+        "snippet": "FINANCIAL TECHNOLOGY—Treasury issues Stablecoin Certification Review Committee interim final rule VitalLaw.com",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 38.26
+      },
+      {
+        "title": "Tether Says It Helped Freeze $550M in Iran-Linked USDT - CryptoRank",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1JBbXllTHlnYXREZmk0OGxUQl83YzhBck5iYjFpRkJUTHh4RFZTSXhzam1zdUxLaHdua01nWVprUlRlTmZkNGYyNXNVZXB2dU5aWXFyUFk3MGw1QkN1M0RHMlBkazJXekdfaUdmSDJCbzlsWG5mZmMzTGowc1BLbTgwck41RUJ6?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-29T10:11:31+00:00",
+        "snippet": "Tether Says It Helped Freeze $550M in Iran-Linked USDT CryptoRank",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 38.18
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 49,
+        "headline": "CRCL Stock Shrugs Off Q2 Miss – Circle CEO Is Betting On Growth Beyond USDC Stablecoin - stocktwits.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTzFzZHdsSGZsTy04WmNBcUxZZXlXQ3RaRlZyNlUyMERCcFhXSHdpcTJkYmxuQ3hyRkVCakgzdnRKa2JVSE1rM0s2M3hVTFdaRnQyUl9pbHhpOVVYZUY0UkpiVUU3cy05UU9lUEJyN2pRMWJtRGstaUY0YUcwWUJCSmMwVGVnMW4xNllhNHJWNUFvV2V5QnFxd29vRUt0NnpCUk81dkRiTEozc1dySkZJS1F6WGNhT0J2NHQ4RkdYT0YwNldxZDRzMkpNRlg1UFJ1b3Rj?oc=5"
+      },
+      {
+        "entity": "Tether",
+        "count": 45,
+        "headline": "Senate Report Claims Iran Is Using Tether's Stablecoin To Evade Sanctions - Engadget",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWlNOGVnNmE2Y043VFVmczk4WkdKNTlKU2VYSy1sNE40X2RHWjBCRVdmY1FBeWVmWUcyZUc4MUR1THdNUkFGZlozUGJ1dF9NWFNpZUZYdmkzOU5QZ1hRS0V1b1kxaExOcXFScDBTcEJRRVQ0bXhKNEJYV2RickhHZk9Sd1htYWV4R0ZfbUJ3N25iYTdnN1lGMnBKUXhBQnhTeGRSZ3FLdXNBUQ?oc=5"
+      },
+      {
+        "entity": "USDT",
+        "count": 42,
+        "headline": "Exclusive | Senate Investigation Finds Rampant Use of Tether’s Stablecoin by Iranian Regime - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZXVHRzhGY0lDdzJJaEZlRWRHWGFkUl9MYjNRWlN2d1lzNjdMVWRtR1NQTElYVFg1RXlVUVFrWU9sanlPRTQ2VHlXTVl0Nm9GcFJRZHVja3lRVnltV3JJWmRWbnZFQk5oakFjb0lqeURDYzc2SENHNXMyM3pXNWNiT1l5dzZnTGwwbjMtZW1Oa0twOVhuN3JqTEdaVmtQVUVQdFdyMzY0YlprdkNIb1VzS09Ob1BuM3Q2WFRGWHNJLXk4Znhq?oc=5"
+      },
+      {
+        "entity": "Circle",
+        "count": 19,
+        "headline": "CRCL Stock Shrugs Off Q2 Miss – Circle CEO Is Betting On Growth Beyond USDC Stablecoin - stocktwits.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTzFzZHdsSGZsTy04WmNBcUxZZXlXQ3RaRlZyNlUyMERCcFhXSHdpcTJkYmxuQ3hyRkVCakgzdnRKa2JVSE1rM0s2M3hVTFdaRnQyUl9pbHhpOVVYZUY0UkpiVUU3cy05UU9lUEJyN2pRMWJtRGstaUY0YUcwWUJCSmMwVGVnMW4xNllhNHJWNUFvV2V5QnFxd29vRUt0NnpCUk81dkRiTEozc1dySkZJS1F6WGNhT0J2NHQ4RkdYT0YwNldxZDRzMkpNRlg1UFJ1b3Rj?oc=5"
+      },
+      {
+        "entity": "USDC",
+        "count": 12,
+        "headline": "CRCL Stock Shrugs Off Q2 Miss – Circle CEO Is Betting On Growth Beyond USDC Stablecoin - stocktwits.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTzFzZHdsSGZsTy04WmNBcUxZZXlXQ3RaRlZyNlUyMERCcFhXSHdpcTJkYmxuQ3hyRkVCakgzdnRKa2JVSE1rM0s2M3hVTFdaRnQyUl9pbHhpOVVYZUY0UkpiVUU3cy05UU9lUEJyN2pRMWJtRGstaUY0YUcwWUJCSmMwVGVnMW4xNllhNHJWNUFvV2V5QnFxd29vRUt0NnpCUk81dkRiTEozc1dySkZJS1F6WGNhT0J2NHQ4RkdYT0YwNldxZDRzMkpNRlg1UFJ1b3Rj?oc=5"
+      },
+      {
+        "entity": "Robinhood",
+        "count": 2,
+        "headline": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+        "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 843,
+      "kept": 108,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 5,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 2,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 36,
+      "kept": 4,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 2,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 2,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
