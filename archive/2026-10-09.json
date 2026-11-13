@@ -1,0 +1,2340 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T05:39:15.791420+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "USDT vs USDC: The Trust Game Behind Two Dollar Stablecoins",
+      "url": "https://www.reddit.com/r/SimpleSwap_io/comments/1x0kho8/usdt_vs_usdc_the_trust_game_behind_two_dollar/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-10-08T07:19:01+00:00",
+      "snippet": "Two assets, one target price, and two different answers to the question: \"Why should I believe this is worth a dollar?\" Here is how USDT and USDC differ in reserves, reporting, liquidity, and real-world use, and what those differences mean in practice. Reviewed by: Rick Cramer, Head of Analytics at SimpleSwap USDT (Tether) and USDC (Circle) are both designed to stay at $1. USDT is the largest and most-traded stablecoin. As of October 8, 2026, CoinGecko reported USDT's market cap at about $184.0...",
+      "author": "/u/SimpleSwapExchange",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Tether",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 54.83
+    },
+    {
+      "title": "💳 Open USD Is Live: Visa, Mastercard, Stripe, Coinbase, and Shopify Now Co-Own a Stablecoin",
+      "url": "https://www.reddit.com/r/kava_platform/comments/1x11h4c/open_usd_is_live_visa_mastercard_stripe_coinbase/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-10-08T20:14:13+00:00",
+      "snippet": "Open uSD (OUSD) was launched on September 30 across Ethereum, Solana, Base, and Tempo. The five initial partners hold equal stakes and have invested over $1 billion to seed liquidity. Users can mint and redeem OUSD at parity and without fees via Stripe, Visa, Mastercard, and Coinbase. Unlike Tether and Circle, where reserve income goes to the issuer, OUSD shares this income with distributing partners. Stripe is adopting OUSD as its default stablecoin for business services. Visa, Mastercard, and...",
+      "author": "/u/cameron_kavalabs",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 54.79
+    },
+    {
+      "title": "Polkadot launches OpenGov-based USDT-collateral stablecoin dotUSD - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcjV2M2ZIY29kY05aUTEtY3MyUWJtSDdqV3hzVFg4MmVIQTJDSU90SVhxbHhKTGE5b3poY0gwdVZJNjhmYUFGamowcUtsMEJMblg5Mm10aDVsalFqQWEySlNUd0UyMU5pMVBqSWZzeVhpWXRQdmRYem5CZkg3Y1ctYnQ5U1BoQXlyazQtWVMyMDItbGFVaUhKWFI3aHFJcDNtLURhUTZVM0RRdEY1R001MQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T03:01:46+00:00",
+      "snippet": "Polkadot launches OpenGov-based USDT-collateral stablecoin dotUSD 디지털투데이",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 45.23
+    },
+    {
+      "title": "Tether and Kazakhstan explore launching tenge-backed stablecoin - Kursiv Media",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDVrM1M4bmNQNFd3c1Bndnd5QXJvemFycW1LdC1MbXNFT1dhelNVTVlxSDJqT0lWc1A4a21ncWxQTzY1dHVaRExYRkk1cmZPam55czBfNGVmSkMwVUZ4di0zSGliaUhLOE0xZEN3Smo5LXJWX3RNRmJYUkhmdWVqeFhuS1hLZmQ0cVVudFBsQ1NkU0RZOXhjclBOc2lqVFFYYjFXcHJKY0MxNjJvTGw3alJB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T21:10:18+00:00",
+      "snippet": "Tether and Kazakhstan explore launching tenge-backed stablecoin Kursiv Media",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 41.57
+    },
+    {
+      "title": "SAP Pay Integrates USDC Payments via Circle Mint - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVNHQk8yRF9xUnlYZHFmRWEyMnROd1NjMmQzdHFwajdjSFItb1QwNUhCTjM1X2p6aG13Z0Q4UnNXaF9vQnJpUmpnb3NHd3JRaU9qbHVMVWJaU2hPSnF1QldBaXVOWUE2Tk5TM05ZWjNZQkdMbUV5aU9weGxyeVVDZl9mOV92a3p5R0E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T20:53:09+00:00",
+      "snippet": "SAP Pay Integrates USDC Payments via Circle Mint KuCoin",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 41.39
+    },
+    {
+      "title": "ESMA gives EU crypto platforms 3 months to drop non-MiCA stablecoins such as USDT - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY3hSOE8xazBBTjJ4TUMtQXo3YWpyOGlwcEtWaXJtTE9XYXI0SGVjYWxDaTlFYXJFTHVteTVtU3dvWmxUdVE1MVMzazVqczJSaTlPNktkZkFWSGNMQU5aTGlzTFlkZmxaM3ZTd1hCb1ZIRHpyMXM4cUpFTjJGcHNtdm9CLWlBRTFEVzJsNnRyOTBJMG1HNDMtcjdQTVR2QXVyU2o0MlhKU3BZVy1IcDROcE5WYTJuaFlXd2IxUzdnc2JTakpCdnlmYlRyRS0yUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T15:23:26+00:00",
+      "snippet": "ESMA gives EU crypto platforms 3 months to drop non-MiCA stablecoins such as USDT CoinDesk",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 41.08
+    },
+    {
+      "title": "CRCL Stock Shrugs Off Q2 Miss – Circle CEO Is Betting On Growth Beyond USDC Stablecoin - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTzFzZHdsSGZsTy04WmNBcUxZZXlXQ3RaRlZyNlUyMERCcFhXSHdpcTJkYmxuQ3hyRkVCakgzdnRKa2JVSE1rM0s2M3hVTFdaRnQyUl9pbHhpOVVYZUY0UkpiVUU3cy05UU9lUEJyN2pRMWJtRGstaUY0YUcwWUJCSmMwVGVnMW4xNllhNHJWNUFvV2V5QnFxd29vRUt0NnpCUk81dkRiTEozc1dySkZJS1F6WGNhT0J2NHQ4RkdYT0YwNldxZDRzMkpNRlg1UFJ1b3Rj?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T08:23:11+00:00",
+      "snippet": "CRCL Stock Shrugs Off Q2 Miss – Circle CEO Is Betting On Growth Beyond USDC Stablecoin Stocktwits",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 41.08
+    },
+    {
+      "title": "Circle, Coinbase Stocks Slide As US Banks Step Up Stablecoin Push Ahead Of CLARITY Act - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMzI4UDNrR1lnT0wyVEJEZnppMWQzbjJOc010dVhoNGU1Y1I4M2lCMXJUc2JRN1FDa0RTVHYtRUplbk4xcC0xam1ZZW5JOWV5ajhiUlZpSEphdTVGTHJFcHd4UlJ4dmpRbjNOQV9fUnhpc2VNdGU2UEg0RUczeVE1OTczbU1EN1lpOHNlbTE4V2pDTWhmWlNBaXZLcEtSUmRfMUNwdE1jdFAwMDBjNDlXM09GczZHNVFxY2ZiNjdPWFZwZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T22:27:59+00:00",
+      "snippet": "Circle, Coinbase Stocks Slide As US Banks Step Up Stablecoin Push Ahead Of CLARITY Act Stocktwits",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 40.5
+    },
+    {
+      "title": "Senator probes Tether's USDT links to Iran sanc... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzFRV0FSUWNSbTRTVlNIMmlneVUwT255bTBEM0c0enNCYmpZYWFJUjktanpNVlJlWjc3NEJ1VnZ3ZVRSek1zQjVqNDBnZHptaXVqNkhPbGNHTkpFS1oyRFk3X1gzMWptU0x5aVNxLVk3NU1hZWkwcnVCQXlScXhSVnpMbUkwYks3T1BGckNvcWdVdWcya2JMODVocXZYQVB2OFE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T21:44:22+00:00",
+      "snippet": "Senator probes Tether's USDT links to Iran sanc... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 40.05
+    },
+    {
+      "title": "Senator demands records on Cantor Fitzgerald's ties to Tether amid scrutiny of USD₮ stablecoin. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGtfdURFbGQxRTg3MnhhOUxTWkU2VWRaamV4bVpFS1BDcFRMMDNWM2Vxa0pBRFRjRk1UZ2pQQ1VoRVF3cnU0MGgtdU1ZZHFFWjF0TWx6WW9ETTFqOUt3eTBHeXpYZ2Y2QUFuT193ak9iN2c5OWp4U2M4THR3WnRtZ3VrME9IUTFFY05oRmJGTjZRUm5OcUE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T21:44:21+00:00",
+      "snippet": "Senator demands records on Cantor Fitzgerald's ties to Tether amid scrutiny of USD₮ stablecoin. Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 40.05
+    },
+    {
+      "title": "EU Gives Crypto Exchanges 3 Months to Drop Unauthorized Stablecoins: What Happens to USDT? - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FdUZKVWFWWUpua19GWVF3R19SSFJTTjB2MEtEVjFXQXJzRHJHOUJ6SWhPekpKZTNPRjduQzBMZXpsQ0Z0TW9JdmpJTW1zaTJ2QTJYTlZwd3ZqNlVqellRcXJ3bHl3U1VneDZXZHpUV1JqcXh4YS1ZN3ZfMA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T21:00:00+00:00",
+      "snippet": "EU Gives Crypto Exchanges 3 Months to Drop Unauthorized Stablecoins: What Happens to USDT? BeInCrypto",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 39.59
+    },
+    {
+      "title": "SAP Pay adds USDC payments, with Circle Mint access required - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa0FXQ0tPSm5oS3RGMVFNYWNiQXFLRnhwREZlOXdBRlJZeTYxbFRsY2ZYLWlPRzZMeUtSdWdqQ2szanJway10R0VUM1pIY3lvMEZJV1BiNmpWV2NnblVCWF8zX1luaWxjSVVaV3NISktaeEZtSlk3VlF6Q1FLTlVld3lSYTFLVkhQUk9naDhCYXo?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T20:40:19+00:00",
+      "snippet": "SAP Pay adds USDC payments, with Circle Mint access required CryptoSlate",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 39.38
+    },
+    {
+      "title": "EU Stablecoin Regulation: 2027 Compliance Deadline & Actions - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TVGhkY24tWThLRGNJUnJYbjNURXJZTlBHU3BVR0VkdHo4OTRudTFkZlI2MkxNNko1SG80MjNta3dHZHdZYnpvODk3dUd4TldqZnZVd18xeWNQbk5RV2dVdjVXNXdBdUY5WGlQQkJkMUNTVmU4?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T00:06:56+00:00",
+      "snippet": "EU Stablecoin Regulation: 2027 Compliance Deadline & Actions OneSafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 39.03
+    },
+    {
+      "title": "The Freeze Button Is the Product: Dollar Stablecoins as a Geopolitical Protocol - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUJlWkpwSDF5MVpkS0ZxU29ZTDZQcjM2V0ZRUTRUejJ4MnJiNzFxd0pIYWNWUnBlcWNHMmE5MFZiT1hOWUVsNlhlRXd3cDNkTDYybnNpWVZGTlJHcmNfYWFPM1NQRmV3SUFJejNmLWVBVnd6ajE2LUc0bnMxNUtWVlBCblI4eDBjQ2ZxUDNjSjl2OVJHOUV4aUt4cDRMbDdQcGtJ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T00:05:36+00:00",
+      "snippet": "The Freeze Button Is the Product: Dollar Stablecoins as a Geopolitical Protocol HackerNoon",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 39.02
+    },
+    {
+      "title": "Tether News: Payments Company Seeks Millions After USDT Freeze as Remittix Tests Stablecoin Transfers - TechBullion",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFB1RnhCZ0VpN1R4N0xWUEtRZkk2Mk9SMk5oZTdOa1Btd09MTVZ4TzJvb01iTFJDU1NQeC1KdDktYmhjbHBqd3RoSDVvZl9GU01URU9SbktZU3lxb0dyWks0bEZQbVRBREdYaGFiRkN1aFpoMk5hQlBqXzdXdjBJb0IxS2NmaHRCdHM4MkctZEx3dWdON2M2NWpXUEZocFMzNHRzdFB3SG9sT0R4UkVMSXJsZk9jV1NTUndSWjlWTENrenc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T00:00:59+00:00",
+      "snippet": "Tether News: Payments Company Seeks Millions After USDT Freeze as Remittix Tests Stablecoin Transfers TechBullion",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.97
+    },
+    {
+      "title": "USDT stablecoin share in Asia-Pacific payments drops from 98% to 91% as rivals gain ground in 2026 - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeW1wSllNQ0VIOFRPTDRycVE0a3liUm1sZXBGRVQxU1dHSkV6RjhGcXd1S2g3Rk5ZN0ZWZGNfeC1MMEpOMEthNF9CR2lNZHNDRWFyTnloTUJ2QUFETi15aHFMb2w3eTIxd29qY1ljSkJzRlI2WnNfUDRySWIwUmZBSjY0SFk2NW0wMVVQTg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T19:26:30+00:00",
+      "snippet": "USDT stablecoin share in Asia-Pacific payments drops from 98% to 91% as rivals gain ground in 2026 Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 38.61
+    },
+    {
+      "title": "USDT's share in Asia-Pacific stablecoin payments falls to 91% as compliance-focused coins gain ground - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEVqMFNhSzhjajhuUko4Mm94TWVHYlh2bE1ZWUwyaW15azZpUDVVYllnemNVWm8xTlYtZ1NhUVhoWGVZQkNmRlF4VlpvdW1MUElzOXFyVFJueURWOHlwTURZclRrZnZiQ05nRVZ2ZnhEM2gxdWtFQ3FhbkNWaFRfMi1pdmN4c1cx?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T19:26:29+00:00",
+      "snippet": "USDT's share in Asia-Pacific stablecoin payments falls to 91% as compliance-focused coins gain ground Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 38.61
+    },
+    {
+      "title": "USDT’s grip on Asia-Pacific stablecoin payments loosens to 91% - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82cnBObHhxcV9jMGRpa1k3UVBPWl8yVERRb1FBcTZhdm5NbnZ3NXNRY01VbXZZTUpaRTZ2Uy1nOWI4QjZsTDhHMmN0QTc2SWtWVDJiR3E0Q2RaejNfNERVUFJhYXFGSzZNaktwNFpZWkhDeHU2SHlmRVR4eTh3eGs?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T19:09:54+00:00",
+      "snippet": "USDT’s grip on Asia-Pacific stablecoin payments loosens to 91% Crypto Briefing",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 38.44
+    },
+    {
+      "title": "JPMorgan Chase (JPM) Puts JLTXX On Ethereum As Stablecoin Reserve Rules Near - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXo5UTlXVW5HYVhQNVdpT3pWQW44VUZDcUpyT3NJQU9DMmV1MWVzdkM0Q2VXTW5nNTlMQjVlT0t3NjJYcF9nLXZndkxYTXFUUGtnTldya2pzTldQeE9qbmpTOVktcnpLSFlKOWhkcmJydmFWR3pVWWRGNW9BVTlLZ1h1NFZMdDZ0bHFsZGF4ZGdveWw1cFJkc01YcUxkZU5QMjgxZ1RoczFBY3VWX2RYeDhGVzhmMi1GSzZLbXFlNGpFbWV5WnfSAcsBQVVfeXFMUFV6YVA1RVZWSzBmZ3NDTlNHc2NqYWplUmNWU1NYQzVWWGJMRkdXMmNNcF9TMW93dmF4dFpsRDdzQlR0Q1NIeDg0R0J5eFpxcEp1RkNRRlJHOGpvWFlkdXhoaGtkb2ttVnYyckNZbkNaSWVqbDZIaDViYXdjcy1YMUY4VlZGSzNDdWhKZGxyLXZtVC1lOW90RVhYdkxGV0lERm5DcXRsU1ExSDFoajFnOUU4aUU0LTd3cnV5X2d4TmNUeFZ0ancxSlVwdVE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T22:38:35+00:00",
+      "snippet": "JPMorgan Chase (JPM) Puts JLTXX On Ethereum As Stablecoin Reserve Rules Near Simply Wall Street",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.11
+    },
+    {
+      "title": "INSTITUTIONAL | Circle Brings its USDC, EURC Stablecoins into SAP Enterprise Payments Ecosystem - BitKE",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EbTZwUjhFUENYVUJwTVNEZzhKTk1lNjBkSUVNWFBIR2ktN29Gczl5VjlfSElJZjVIa3JTUndrcUZpUVFocXMybFIwZ0F5VW14eFJKZENlR0swNVBZcGJKLVVoY1hpVkowR1Q2NmpnM29ZQlJoWTRLdW5ieU9CVXc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T06:00:13+00:00",
+      "snippet": "INSTITUTIONAL | Circle Brings its USDC, EURC Stablecoins into SAP Enterprise Payments Ecosystem BitKE",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 37.71
+    },
+    {
+      "title": "Kyrgyzstan Winds Down Gold-Backed USDKG After UK Sanctions",
+      "url": "https://thedefiant.io/converge/regulation/kyrgyzstan-winds-down-gold-backed-usdkg-after-uk-sanctions",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-10-08T21:01:55+00:00",
+      "snippet": "Holders can request fiat or USDT as the project prepares to retire its tokens, but the shutdown documents leave the gold reserves’ disposition unspecified.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 37.52
+    },
+    {
+      "title": "Stablecoin Regulation: EU Deadline and What’s Next - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSE9Sd3VmcFVSeF9rMDJPSjk4STBQb3pmQy1DRExlWDAtbEJlWEdfTk1aWFZaMGxvTGtjQ3VxeVdaNGw5Y0xaMFZPZ3U2NGhkRnk4anhNeFhTeTdDSkdYYU9wMy05VWhGNUg3UnVHcUJzMWFWT3U3dnRicUVaSmlORFpn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T21:26:55+00:00",
+      "snippet": "Stablecoin Regulation: EU Deadline and What’s Next OneSafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 37.37
+    },
+    {
+      "title": "Samsung wallet embraces stablecoins with USDC transfers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEFsbjBvMzM5T0dMR0JFRVFMWFBrN0lNY2hZYzV4aEJUejVJdnFqakhCMVlEbkNhVXZlVGxBbjI0OXF5S2NJWGliRXZuaEJmSnhzMGhDRDBoQmtZTTh0N3IxYUg5NEF2My1zaHFQNkhUa1c1VW4xdnpuRUFDb25kMFRubURDMVg3S3BtSVc2YzFvVGtDVk5HV2huUXlSQnR0ZUN0SA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T17:00:00+00:00",
+      "snippet": "Samsung wallet embraces stablecoins with USDC transfers Yahoo Finance",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 37.09
+    },
+    {
+      "title": "Blumenthal Wants Cantor Fitzgerald’s Tether Files, Cites $10B Stake Estimate - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01OWZWUnpQSGtDRjlWM1VJM1dRTFk2QU4zczJENTBsT2FGektPQVExeE9FWmFuTUFEcGtYblBMNjJxTExzRUxVOXhJTUNlVW55NGYzMDlxSDRMODNEMjhQYjI4eGxGMHFQcTNVVzhmRTd0clJRd2xhNlBMYw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T04:46:28+00:00",
+      "snippet": "Blumenthal Wants Cantor Fitzgerald’s Tether Files, Cites $10B Stake Estimate Yellow.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 36.95
+    },
+    {
+      "title": "Armed men steal $820K in Tether and valuables i... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qYTVtYnFTWHZlUjRKb3BuMEQ5cDhBVVl3VFV4X25lOExLajFDYTlfZ0JnVjRkUkk3VFBFbFBaeExSSUFiMGphWXFPVkI0dGViWVlCN25keHROS2V4Ul9TY1k3cm82bGhPT3FYMDZnM2NiVXN4dDlJUTB3bm5sUm8?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T04:05:21+00:00",
+      "snippet": "Armed men steal $820K in Tether and valuables i... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 36.52
+    },
+    {
+      "title": "Samsung Wallet Adds USDC on Sui for Galaxy Users in US - Blockhead",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTWJpbmVkTFVNMi1YSkZOT2V0Mk1wdkFuUVNzdnhkaHhJUlpWNHdTVk9WSVV2amhsNm1pa1VFTVBKX3FieWdkYXRKeEFtdkFSX0VxT29PQnNITEtTQWRWVTU5Q2JHUlFFNkRQOW9tR1V6Rl9RVHlSRjV2LTZ1a3BDTEtIaE8ySExacWJBUHN3clZzNXlhSHc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T04:03:21+00:00",
+      "snippet": "Samsung Wallet Adds USDC on Sui for Galaxy Users in US Blockhead",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 36.5
+    },
+    {
+      "title": "EU Stablecoin Regulation Tightens as Crypto Firms Face Deadline - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYk9NSlMxX2w2SS02LVhvZWhuUE1HODdoaWEyem5ZRXNfeHEzYWM0V0lZWlFBTUNKM3A4NkUzcWp2cjZOY1kxQThpa1lFYTNCWFUwX2dVbmNRT1pQTTVhQUJjMVV6SnpOWU5UdDJReklMR25ISXFPNm5oeUF2Rkt4cXFMS2JKNzZOb19OWEp2Z2FxT0FPclEyZTNydm5uUUI4cV9n?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T19:39:46+00:00",
+      "snippet": "EU Stablecoin Regulation Tightens as Crypto Firms Face Deadline CryptoRank",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 36.25
+    },
+    {
+      "title": "EU bans Tether's USDT on licensed crypto platfo... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNTQ2XzVlRnpVbF9aN0hHS0tLbHIzVE1tNWlMQm1ubi1jSTJITjhNcEMtZDVNSnpKeUxFTnk2WmJIVHBxU193cF9NSndRcEJoSmZRdXJTT0J0NnM0Q0NLRERGQVllbkZuNnVEMzVfTXByQ3c3MFRoMjI3R25QS0ZldHRWeWZZSkFsekduVWM1TVRIVFFGTzVWQW0tWnFCT1pMaEQ1dXdGVVV6WmVNMjZCSg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T12:35:37+00:00",
+      "snippet": "EU bans Tether's USDT on licensed crypto platfo... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 36.21
+    },
+    {
+      "title": "Cantor Fitzgerald Faces Scrutiny Over Tether Connections - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lREtyZl9fWWJTd0xfSFM3QUEyMl91S0hyVV9IX1I3bFhxN3dtVTZwaU00RUxZMGgzaGtXaWFzU2FDMjI4RWo0aDZCQXNKRkpmdVFCVEtnZGdpSmFPeGpvRzR2UmNuckVDR0x5d3R3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T03:32:01+00:00",
+      "snippet": "Cantor Fitzgerald Faces Scrutiny Over Tether Connections OneSafe",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 36.17
+    },
+    {
+      "title": "82 Million Galaxy Devices Will Support USDC Transfers This October - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pMXh5a3VlYk81ZTZTVXRCSWhOT2sydWh6YmEwbTVjSGlfNjJxakJmbnBCMXNTMGRYLTdrajBYclQxR2xVTkdUV1o2Z2RsMnhYY3ktMkJocw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T02:56:22+00:00",
+      "snippet": "82 Million Galaxy Devices Will Support USDC Transfers This October Cryptonews.net",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 35.8
+    },
+    {
+      "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+      "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-10-08T15:23:26+00:00",
+      "snippet": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.",
+      "author": "Olivier Acuna",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 35.49
+    },
+    {
+      "title": "Tether News: $2.76M Frozen-Wallet Lawsuit Erupts as Remittix Tests Stablecoin Payment Rails - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeXdRaEl6YmpQeUNEVjY0THhncHJZa2NNdzR5ZHdhZEVOQkU2bVBpY2VSRTlKMmtwT0lXNjJlOXc1MUhBRm5Xby1OMHk1QS1FRnQtbk9ITGJFbWFvTXRFMHQ0N21WVGxFaWc5RWpQeDNnTFMyY1FubVI3dEkyNmdtSWZjN2JncDJQUUJtbVI4RnlIdjFYVHlDZHlab0N6cXpMLWJibHNFQWYtcWR1UE5pN1M0VGZJYVNsUDlwWGtMUVVkbFBaMTJ0RnA5RXJGbE9Gc1dVcFdpMVFJZUtXZndleEgxY29tVXVmUC1r?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T06:23:40+00:00",
+      "snippet": "Tether News: $2.76M Frozen-Wallet Lawsuit Erupts as Remittix Tests Stablecoin Payment Rails StreetInsider",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 35.46
+    },
+    {
+      "title": "Circle to Integrate Stablecoins Into SAP Enterprise Systems",
+      "url": "https://www.reddit.com/r/CoinsPaid_Media_Host/comments/1x0qo3s/circle_to_integrate_stablecoins_into_sap/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-10-08T13:16:55+00:00",
+      "snippet": "Circle and Tereina will integrate USDC and EURC into SAP's enterprise payment infrastructure, allowing customers to send and receive stablecoin payments directly through familiar business applications without using separate crypto payment platforms. Details on the website: https://coinspaidmedia.com/news/circle-integrate-stablecoins-sap-infrastructure/ submitted by /u/Sir_Cryptoid to r/CoinsPaid_Media_Host [link] [comments]",
+      "author": "/u/Sir_Cryptoid",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 35.31
+    },
+    {
+      "title": "Cantor Fitzgerald faces Senate Democrat’s questions over Tether ties",
+      "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-10-09T00:46:27+00:00",
+      "snippet": "The letter follows a report by the Democratic investigators last month alleging Tether’s USDT has become a key tool for Iran’s shadow banking network.",
+      "author": "Cointelegraph by Felix Ng",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 35.23
+    },
+    {
+      "title": "Conduit sues Tether over $2.76M frozen USDT: ‘No justifiable basis to withhold money’ - AMBCrypto",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOERSVkh2ZHZ2djQxMlpkN21WLWtwbGFOYlRrLTdURlhVN2d4NGstSFNZRXNqcUFvT29xOXVnR3h3SDN5ajRxNTBXVmVKQkZBX1FrbWhtSDRaNm9nSGhaN21wZGJsTE0zWFU0dTVVcFdhOU1KcmJ3Y3BuaFZqd0d5YzVUbzUzbG1xTDYyc0RReGxKM2tyVzBLdGNvdW9JUnFqWEYydW9hSQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T06:00:38+00:00",
+      "snippet": "Conduit sues Tether over $2.76M frozen USDT: ‘No justifiable basis to withhold money’ AMBCrypto",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 35.22
+    },
+    {
+      "title": "Extended shifts settlement from Starknet to Arc, users must convert/withdraw USDT and wBTC by Oct 21. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUtOZDZOQkJEVFRxUU5hYkpNSTgya0p0WUVkNEtmdGNKbmNVdUtIOW8wNHJ3TGhnTlVMX1QtMjBoQ3ZGeVhzc1NHRzRVNHdHc0JvN3AzRG9XUHlYOW90OU9kTzRWMmFycDBQQnpmUlMwNkVHUGVfSml1WXdESlJKTTFOUWc1aUdpa3JQdTVnZjdmMHFINFhUYnZGSHZsQlFHdXJ3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T01:48:35+00:00",
+      "snippet": "Extended shifts settlement from Starknet to Arc, users must convert/withdraw USDT and wBTC by Oct 21. Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 35.09
+    },
+    {
+      "title": "Circle reports $14 trillion-plus in USDC activity as volume grows 151% - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43d3l4RzlKTFdlMWZWSVc5cDdyTXZxMDV6SE5Zc1YwOF92cjU1SUp5MHJxRUlUVEhuNXV5b0JuZUFDTXZKNlZIaDh2OVJSeUc0SHpudlkwOGF2aVJVNjhzTzByUW1QOWM3TlBIdk5nUFlqdDJNTHJsVk1R?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T13:39:48+00:00",
+      "snippet": "Circle reports $14 trillion-plus in USDC activity as volume grows 151% Crypto Briefing",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 35.0
+    },
+    {
+      "title": "Polkadot Launches USDT-Backed dotUSD Under OpenGov - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVTRSSGZNeUFNbHZ4bi1BUWFLZ2FKVl95bEJudkk1VlBqYzh0N2tVLXRYWV9NVTVINE1MRGlsNGVYTktocVVfdmxRaGozQjFWVm9SMllkQWRmYjNXT09FNU5iek51VUpPcVdxZThobEFnbmIwV29fUFN6OEd1cFBmMVI2ZnJIQ0VYOVE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T22:07:40+00:00",
+      "snippet": "Polkadot Launches USDT-Backed dotUSD Under OpenGov The Defiant",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 34.67
+    },
+    {
+      "title": "Coinbase to power USDC as default dollar stablecoin in Samsung Wallet - FX News Group",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaGxseFVOak16N0F4ZmhTMmg0eXI1U3ZKWk1kN3ZvUVhfc1I2Rkc5RkdkQUFuOV9NWkp2X1B0YzV4Q2xIUTdRbGU1MnFDR2hzVVZzSW44cE1Vc0RnZXhYNGhEUW0zMWhEa3VweHk0Y21HLUpWWGNjTl9RaDM1RFREYndvOGF0ekpWcTBXU1pJWjBMbFQtbjlpbFpLYTROZlZ2WUdvc2pjOHhUOEZIMy1yTjdUeVNLbXd4OWQ0RQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T13:03:13+00:00",
+      "snippet": "Coinbase to power USDC as default dollar stablecoin in Samsung Wallet FX News Group",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.62
+    },
+    {
+      "title": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYU1CYWZ6UC1FRWJOZnR0UmxpbjFYeWdScFVtZXJVdENrdEJIRUw2M0RPdFBYX2R0U0xTVThHT0dhSW4zTGloWl9rUDIxZ1E4bkkyUDlRRWpBS0o4N09VS0V3VzJNU3puVDZ6cXVMakUzWm9Kd0lrV0NfY2kwdWZPeDdJVkVjS1pDSWhZTWU4bEVETE9kQ2xHS0lwOEhwVTIwM1lzUUswNDdzcVBxNWZMbmNIc1BCeTY4QjR2TTRhZUVCbFJQYU9R?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T00:46:00+00:00",
+      "snippet": "Cantor Fitzgerald faces Senate Democrat’s probe over Tether ties TradingView",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 34.44
+    },
+    {
+      "title": "Samsung Wallet Brings Solana USDC Transfers to 82 Million US Galaxy Devices, With Payouts in 60+ Countries - https://genfinity.io/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHVtSVV5ejgzVms1ckxITk9JMExCc2RPZVdWRjh0YWNPbXRSaWtaSDJGX0o4WmdjNTlQZmpweU1WYkpkU245OUttd3FFWDVBR3FnYXh5OTJJbUNFcGxDOENEUnpxLWVsd2hGN2ZtVGpiTW9TMTFpcE9qMTlEclFTR1JJUUVfazBpcXFLQXZHTEdYb3k2d2RtM1ZiNHV3SVZLMTRldGRfRGQ5endq?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-09T00:00:43+00:00",
+      "snippet": "Samsung Wallet Brings Solana USDC Transfers to 82 Million US Galaxy Devices, With Payouts in 60+ Countries https://genfinity.io/",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 33.97
+    },
+    {
+      "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-10-09T04:21:36+00:00",
+      "snippet": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.",
+      "author": "Shaurya Malwa",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 33.75
+    },
+    {
+      "title": "Sui: Integrates Circle's CCTP V2 for native USDC transfers - 08 Oct 2026 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObGdZY0oxTHNlc0xBSjdwVS1vN01TQWRTdXEzVGxlRi0wR1NwZ1ROSjBLVFNvVlZsRFBFci1tNHd6ZndWWjdWRF9DZWJRY2VBT1pLMGxuTWxUSXhzbmctOVA5b2hNY3gydGdaMk5IMGVUbDIwT28tZnQyZ1hnX2dCamVPT3BXcUhING5oMHRhcHRXUUowOXZ1c1F6RVBIV1lwelJNZjZZLWN1eFZzSThibFpYMjU3YTB4X2pDTGNsQ0VlZ2RGelR2VUZFRFpOZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T08:00:12+00:00",
+      "snippet": "Sui: Integrates Circle's CCTP V2 for native USDC transfers - 08 Oct 2026 TradingView",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 33.34
+    },
+    {
+      "title": "Polkadot Launches DotUSD Stablecoin On Mainnet As DOT Price Falls 4.69% - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjlycjdYSUlScFBDUW83b3JpRnV3SVNGazRkTWctWFVOX3dFMWxUcmI1WlRGZEhEOTlRZkMzbWxRYVVBdTBGay1RdDliV05oa09PY3p5emNsbjVBX0x5cnJibDNQZnFzMElRcmVjMGJha3VrM0lSeENMVlpkd2ltOS1HbngxWjN6Um1VOTI4V2h4X0ZLVmlxRjI0X2I5THkyZG1fOHpnaw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T19:43:46+00:00",
+      "snippet": "Polkadot Launches DotUSD Stablecoin On Mainnet As DOT Price Falls 4.69% KuCoin",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 33.17
+    },
+    {
+      "title": "Samsung Electronics Integrates Coinbase Stablecoin Service, Enabling Over 82 Million US Galaxy Users to Transfer USDC - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2pWSjVmZ05QZ0VJS1E0emxxajR5NmhGWkZFQmowc0Q1ck1Pa09fV0dIMEpMNDBab3pNb2Fpd044aTFYSVp4dHVwX2dlVEp1Qkg0Umc3UTNKLTVjcF81ek1PWkM3Q0ZvdzR5VHl6MHVhTTgxb1BPaTExRVJONnF1WGNDS0xSODRraWV2SGN1eEZhZVhrUDFsSmRsdlFRc1p5RnM0bWZzSXlmUWxYMWIwaFNpdjFYSTQyUkE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T07:33:53+00:00",
+      "snippet": "Samsung Electronics Integrates Coinbase Stablecoin Service, Enabling Over 82 Million US Galaxy Users to Transfer USDC TradingKey",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 33.06
+    },
+    {
+      "title": "Samsung to offer USDC transfers in Samsung Wallet for U.S. Galaxy users, supporting Sui and Solana - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ1RWM0NYM1hKbWZtdlozSjVTanNWZUJaQUhYZ0RtSWMyYUhZYjNuSnFOTXp5SGs4VlV2OWhacFA5djJSOEI3RW5yaE1pTm54WURCYWM1YUktSGpQUFMzbzRDdnN0VUlaVER5Z0plMVdiOGc1ZENnZUpTSFlJSzFydnptNUxqNHd3ZnVOZGxkNXVPM1d3dTVuYlp3Rk1ZQzd4VTBuU29kcm8wTk9uREJ5UGlDU2tmbGZJU0hKMFlTZVRIci15X3B3bGE0MHFndG9mNjBwd3hieng?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T22:23:59+00:00",
+      "snippet": "Samsung to offer USDC transfers in Samsung Wallet for U.S. Galaxy users, supporting Sui and Solana 디지털투데이",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 32.96
+    },
+    {
+      "title": "USDT Frozen: What Tether's Clause Allows - CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KVHMwSmh2M2RGTXVpRkNUMVpfUmh4YzR0eE5hYXFCdWZEMWJjalpGTWI2N3o1VTF4UmxhSllKY0t5b0tMVGExelpGVVFaT3ZISE1xdmJIVWVGc0o1Nk12ZmRtVVZNckg0ZGdnNEo5RWJfYjQwNEphQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T09:31:25+00:00",
+      "snippet": "USDT Frozen: What Tether's Clause Allows CryptoTicker",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 32.41
+    },
+    {
+      "title": "Senator Blumenthal probes ties between Tether and Cantor Fitzgerald - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uOTBFTDNqMDVoN0F5VThxSlpwUU9aZnZNMXFvbnlrSkdnQlVzaGJnZXEycUFtMHpEbnNWZlpJUThNeURUWERubU96Ymc1R3dFbzM2bTNNX1F2YzZQVm5jMk02cFlBUW4zZ213VDVNVDQ3aklfaUJDdlZB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T21:30:14+00:00",
+      "snippet": "Senator Blumenthal probes ties between Tether and Cantor Fitzgerald Crypto Briefing",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 32.4
+    },
+    {
+      "title": "Samsung Wallet will soon get stablecoin support in the US - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY29aMldzUS1KS2ZJaV9Kb1YwM09ZQXFmUXpINHVRR3FISHgwMFh1Q25JTEo1ZDdjOFFjREpHS0ludXctSzNlamlFQ2dFNldXRWdCak5iblc1OERmMldzRTdpelhvX0diblZ1c2ktY0dkNjRVajRxWWstNnc5OG5tZ0pvTXM1ZkRjQnc4RXBKYw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T21:28:00+00:00",
+      "snippet": "Samsung Wallet will soon get stablecoin support in the US Neowin",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 32.38
+    },
+    {
+      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObDBQa00waWRuT3A3TXNvazBCTUx5Z1F3R2NRbS0yR2NtTkdaTG5IUDhMUDFGQ2piU20xYUtUZ19JU3EzaTlZbmhmOVpIMmVuRG1KaXZrNEVpRlRTNzI3M0RzU2VoTW5VNEV3QzZJTWZUU3RqYnQ4d3dsNWRIbzFaSnNlNm1JMkR3dTJSTF9QMktqWl95bG8wek9iTWhzXzhLcXQwMTBwcURTQm9VSkh3RV9JUmNkYVREWno2bUFPWE13emJzdFE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T21:22:58+00:00",
+      "snippet": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether CoinDesk",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 32.33
+    },
+    {
+      "title": "Circle stock slips after US jobs data: Is $81 within reach? - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iUUQzcGk3b1hISWxVeFdCa2ZNXzE2ZmRRSTRJcEgxcEV0SW9obXk3Wm9wcGVDbktHM0RuS0h6VzZmdHRMN081Rm9nd1lXdHZGOVRBMGxBelNDNUpaOGdFU0tCVXE3cW5XVHc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T21:19:57+00:00",
+      "snippet": "Circle stock slips after US jobs data: Is $81 within reach? Crypto News",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 32.29
+    },
+    {
+      "title": "ESMA sets USDT deadline for January 8, 2027 - CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wb0g3dGFybUpqVzlBeEllQ1BXMWtQTmtzZ2NfdE9vVWlSNWt2eVJLaEt6bG82QnBLcmE4NHdaekRUMWVPZGxWZDlrOXozUHl1TWl2Zm9wMFBFdXBvUDZIZUQ1YktxN05nU3J6VThlTQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T21:14:45+00:00",
+      "snippet": "ESMA sets USDT deadline for January 8, 2027 CryptoTicker",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 32.24
+    },
+    {
+      "title": "Stablecoin payments hit 82M phones: Samsung-Solana deal - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pMnZjUnhyZl90QnVwd0FCWW1XWEdZMFE5SnNTc1c0ZUhMVTMxOXdWREZCZkZmamZTNDBIRmRrb1czYVBwZ0JvcUgyNzVRM3Uyblc1U1hyN1ZJVkpxNHhxWXBySV9JeHdTMnN0V2M0OA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T20:56:53+00:00",
+      "snippet": "Stablecoin payments hit 82M phones: Samsung-Solana deal OneSafe",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 32.05
+    },
+    {
+      "title": "Samsung Wallet brings USDC stablecoin integration for US Galaxy users - SamMobile",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjRYU3B4NXk4d2RROHc1c2F1RXVtS01aQTZuXzJwb3cyaWl4dnluNi01bkFwS2pfT3lYbWhISG1HM2MtSUFMTF9Fc2pfVmhfbVVISFhKblVPRUlTZHczTmdaVGJSSjl0Q0lhOGFVNUQ2TldqMDAtS3VUMm9QenY5VzdyNE8?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T05:49:00+00:00",
+      "snippet": "Samsung Wallet brings USDC stablecoin integration for US Galaxy users SamMobile",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 31.97
+    },
+    {
+      "title": "Samsung gives its payment app a stablecoin-friendly tweak - American Banker",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNUFXZmk5TWljakRTbXAzekh3elhuNkJqeUlKZVdyZVhPOTFucjRxQUR3Q3FYcEV0T2VtaTdmWm5ySjFPaDRMYkVyUGRveUxNYmVJb2N0dVdhMUFCMm1XZ2Z6WFVaMXR2QkhxVS1MbWUycUtIdzdvU2s1M0ppNnowRWFRWVY0SjEzZC04bEIwMDk0QTRKandCaE14SkVJblBtZ1QyRU1TblE4MU9sWVc0?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T20:48:00+00:00",
+      "snippet": "Samsung gives its payment app a stablecoin-friendly tweak American Banker",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.96
+    },
+    {
+      "title": "Samsung Wallet to Offer USDC as Default Stablecoin via Coinbase - FintechNews CH",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWFdpTnBrbndKNUpvZ2RLc0hpbkd1cE9ialRyWGFtS3oweHNDRTUtVXIwSHkxWkF0UmV0VE04eEt0R2NtM2RvT1l6Q1hXRm1WeVJYWDNNeHFXX09rS2N4LXprS3dUN016MG14RFJYWWtzU3ZzSzNfN1hXOUh4N2FybThFMXlEWEU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T08:47:15+00:00",
+      "snippet": "Samsung Wallet to Offer USDC as Default Stablecoin via Coinbase FintechNews CH",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.95
+    },
+    {
+      "title": "Solana: Samsung brings cross-border USDC payments to Galaxy devices - 08 Oct 2026 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV1Q2ZEo1aVdRQkVodVF0R2xkS2NFeElNSFlFZGZnVUhxWThrQzNGbjNZRlhIX2NfMlRiYlBFRWdmREo2VDlhN25qQjB6bVNxMHpjVjM3eHB1cnFCVEl3V2V5TTE4ZGh4QXZaZHJEeGRyTXo3SlBsN0dlYlNYU08tSi1ZNlVOblV2OUtydFhJa3d5ZkJ2ckNOM050elFNRFVvUTl4bGhPSDBkTzBWTFN2U3FSLUZ1OUwwVTBldlotQVIxeWxxM1o0WEhCQ2pqaFB5eXE1Rk1tcHEyQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T20:00:13+00:00",
+      "snippet": "Solana: Samsung brings cross-border USDC payments to Galaxy devices - 08 Oct 2026 TradingView",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 31.46
+    },
+    {
+      "title": "Samsung Wallet stablecoin brings USDC transfers to 82M U.S. Galaxy devices - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHa1dVOUFaeVRJaDFOV0pwTW9TMkR5N1dNR1lXcmtZMktFN2FncmcxQmUxVEpxWThJc1ZiMXFvUUJ4dHpjSjhRbDVGMzBhSG1Xa2ZjM2JfNk1VWlZWd0JabDRnQnYyWjBULXh1MFhpTUxmN3J2dmhqRQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T07:25:23+00:00",
+      "snippet": "Samsung Wallet stablecoin brings USDC transfers to 82M U.S. Galaxy devices The Cryptonomist",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.1
+    },
+    {
+      "title": "Coinbase and Samsung Team to Bring Stablecoins to Digital Wallets - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUZpektjZTBGUW0xSERqdzFvc254V3BYU2JZT1Fod0x1NnZXbWlMeUNtdGs4cEY1cXFGRWpxNVczWDFQZmh5cmY1R0VFWi1rTGdodGhoakV1R1pLNDluTHVtSi1fQlZlV3NYaXdoYTFsblRVNE9JOVEwZ3FrWXFmbXBOQnc4elRrM2xQeUFzZGNjUmwxNWpPVW9VRzZ3bnN4bVpYNmZJYlJuZGR4VWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T18:31:36+00:00",
+      "snippet": "Coinbase and Samsung Team to Bring Stablecoins to Digital Wallets PYMNTS.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.54
+    },
+    {
+      "title": "Coinbase to custody USDC as Samsung Wallet's default stablecoin - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3BCbU1zbWREd3BIamhJWGVBWGs2TXB5bzZwa0VKTDFOelgzM0JyYzgyTEpsNDQ0VVNXUEFvZnFZcUt3aXk3Q2FDbV9lcUp2ZzZRcWtuTHNJSElZeEpFSVFLcHRwX1dsOUxSeF9YS3Q3T1Z6UlRSQzNnZHpMM3dYbzNqWHRMWFZBRjlOb1JiUGVkQXFIMWtKUjBjZkpXT1ZNT29kSXpSSXlGMWhKTXA5bnBCa3ZpdVVqX0RYeVAxVnpQckNJ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T06:24:00+00:00",
+      "snippet": "Coinbase to custody USDC as Samsung Wallet's default stablecoin TradingView",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.46
+    },
+    {
+      "title": "EU to Phase Out Unauthorized Stablecoins Under MiCA by Jan. 8 - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VYk1zbnA0bHh5RzFjY0RUMHZNNXppZWJzN1IyaTRBNldOM3pOYkdlLWRscHpUcFBKQlNXR0xpanNVQXh3UGNScm0xdF9PYURxY3I4dg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T10:11:30+00:00",
+      "snippet": "EU to Phase Out Unauthorized Stablecoins Under MiCA by Jan. 8 bloomingbit",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 30.33
+    },
+    {
+      "title": "A small open-source UI for moving USDC from Polygon to Stellar through Circle’s CCTP (no bridge fees)",
+      "url": "https://www.reddit.com/r/Stellar/comments/1x0y6wi/a_small_opensource_ui_for_moving_usdc_from/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-10-08T18:10:34+00:00",
+      "snippet": "I built this for myself and figured it might be useful to someone else here: https://usdc.eww.monster The problem it solves: a lot of exchanges, pools and fiat on-ramps I use don’t withdraw USDC to Stellar. Polygon is usually on the list and is the cheapest mainstream EVM network, so I withdraw there and then move the USDC to Stellar. The bridges I found for the Polygon to Stellar step (Allbridge and the like) take their own fee. Circle’s CCTP does the same thing 1:1, burn on Polygon, mint on S...",
+      "author": "/u/Alex0007lolpvp",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 30.26
+    },
+    {
+      "title": "You Can Soon Send USDC Stablecoin Directly From Samsung Wallet in the US - SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwSmI2RUszRDA1NU5fZE96U1dEaTduNEpmODRzMTltX2E1bUczU25FRVpTTFFDYV9vTVRfWmM0SllWXzFpT1lSU3c0bzBERXloS01JVGdSSkN3aFpUUnp0Zl8tUnRrR2lmOHQxdktzaDdxQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T05:48:38+00:00",
+      "snippet": "You Can Soon Send USDC Stablecoin Directly From Samsung Wallet in the US SammyGuru",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.09
+    },
+    {
+      "title": "Samsung Wallet USDC Transfers: How the New Feature Works - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nclhsMXI0a2xxRzJQRVdwck9wT2VhWDdVdmNkOXFhblBfYlpZR3g0enpWX2NXenU2Wk1zemFaU0c5WjhRMnRZVVFoOUxaMnVFRWhLS0JhM09jbTVyZTlFTGR0SWlCZGF4Qk93ZldDRmdaVU5MaENnZi1JNnI?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T17:41:20+00:00",
+      "snippet": "Samsung Wallet USDC Transfers: How the New Feature Works TechRepublic",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 30.02
+    },
+    {
+      "title": "Samsung Wallet to enable USDC stablecoin transf... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSU50Vk1rcmE3TVFod1k2S1pqMWR1S1g2SnZ5MF9nZ3VRZUxzZW91NUJtc3RKUjMzcGw1cmJ1bl9KTmQ0TnVQeWlGd3NZLWU1Rlk0OExwQXBRSkRyeWEybzZxbGhIMWJ5RXRpVWU5b2xKYUJLSFFic0Z0ZlJzTkhsNjA4Ri1PdFZYSXEyZkhxS3VZeWptNWZHSkt4YVVDbGtMMnVPaV9n?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T05:17:41+00:00",
+      "snippet": "Samsung Wallet to enable USDC stablecoin transf... Pluang",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.77
+    },
+    {
+      "title": "Tether(USDT) Stock Price Today | Quotes & News - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNc3E5Um9OYjVzNFdvUXpneE9oZHQ3WmtBU2tNVXBpOVJGNlljRkdCWDBaMHRmT0tKODhrRXFKd3drR1RuTTlKRUNxVGYtUHhmQzVyNWc2NGs1ejNBSHRqNjRGNVZnY1c4YkVnMjVYTHVFNDVPVzhsVzY4TlpMZWphVEtPd3ppZmIySXRsUXVsbm1nSFpkVV9IZGNrc0pndmdBcW9TYkJ1dEw4M0QxQ05IR0RZSnVHMHAxaFBfS2lKdjBtVFU3aGxPU1doY2VmUk50U1hPZGptMGxFUVRwU2sybW1UckR3OXVVeWhaMGJMYjZoX1hoVnp0MnV0Q2Q0ZFNDdXlwdnJQWlNTMGw1SG03dHpRaUZqUjlPb0ZDWGhucw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T05:08:00+00:00",
+      "snippet": "Tether(USDT) Stock Price Today | Quotes & News Moomoo",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 29.67
+    },
+    {
+      "title": "Samsung taps Solana and Sui to launch zero-fee USDC global remittances on 82 million phones - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2JoTWZaRWZMcFhPLTR3MHB0WGZpWW5xUzEyOVI4ZmJDWEU0TnZmU2VWUDNqZTBXY1FlMHNXWGI5N3FJeHNxcDN6NDN6WjhQV0NyZXpVU1RiN0g0V0FzQzl0ODNtN2tpanpQOVppNzNwcnVLVVFUYXVzUnB5UFZaTzgxRHpPQV9SOWtiZ0gybmROYURyUUtUWVo3NV90cnZDeW4wTTF0YTJaV1NB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T13:53:35+00:00",
+      "snippet": "Samsung taps Solana and Sui to launch zero-fee USDC global remittances on 82 million phones CoinDesk",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 29.52
+    },
+    {
+      "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+      "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-10-07T19:46:04+00:00",
+      "snippet": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
+      "author": "Jose Antonio Lanz",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 29.05
+    },
+    {
+      "title": "Coinbase And Samsung Bring USDC Directly Into Samsung Wallet - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMTRGTktLX0xDQVZmZ2JXdmZ6TmMxRjJScFNtQ2pOOGtHSjFyam9jMk85czVCZnBqeVRmOVpsWWdTeEdNTnBYNnVBYXJFLTFuYi0zMmZLMm11dC14R19KODZsTW5JWUNTSnB5T3NDeUlZQVVjNFhOenYtRU96bkpDSTVsM1VUVWdPZkprZ2hJWG1adG8wSDIxQnZwSk15ejlwSXFzd2d3TXpiQkVza3dJakZaay1TNWN0YlE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T16:00:00+00:00",
+      "snippet": "Coinbase And Samsung Bring USDC Directly Into Samsung Wallet TradingView",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 28.96
+    },
+    {
+      "title": "150 million USDT moved from Aave to Spark Savin... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNGZVYnFDQmhHaFdKY1hHQldnM2FHNHZ2X0hydHowNVZtck1QUFN5clUxRGduNnN1b3ZENnhRM2dLMXZhbDlRMEh4bF9jUEFRNGs0U0l5NVlkMnVTTUVqWGF4aTR4TDhYOFBlUmdkMkRqX2kzalB4cDU0TDNuSnNueS1oMmYxQXBDRVdJcnJCV0lSa1k?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T15:55:44+00:00",
+      "snippet": "150 million USDT moved from Aave to Spark Savin... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.92
+    },
+    {
+      "title": "Solana Price Forecast After Samsung Stablecoin Partnership With SOL - CoinGape",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUZRa2NzcVM3MjlFSExOdTYwa2hYb0xtYzFqa1RYaklBa1Joa3E5UGpmbjdQT0tuS29lWGNlYTFZbWlXdmEzbUxIRGFpT3dPQU1ROVZIeWpkNWxBUjhIOUNoM0xuQ0s1TEo3SThza1pibzAzNmdJUmpJZk5oWlF5UXEteUlEalh3N0Y2NkZZY3hud0k1X2ticERBaWN2UQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T12:41:30+00:00",
+      "snippet": "Solana Price Forecast After Samsung Stablecoin Partnership With SOL CoinGape",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 28.77
+    },
+    {
+      "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+      "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-10-07T20:48:34+00:00",
+      "snippet": "The partnership with SAP-backed Tereina will let businesses send and receive Circle’s stablecoins from within the financial software they already use.",
+      "author": "Cointelegraph by Nate Kostar",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 28.43
+    },
+    {
+      "title": "Convert 1 SEK (Swedish Krona) to USDT (Tether USDT) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55MzctMmdRSEF5RE9uZ1lNbDBTUklsNUlhcUpFbV96bjJZbUFhUEpHajhVU3QyNTF6UkpqWm9YOVlFN01wOXRvSnZpV3FYOEprTEdWSUUzb3A?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T02:55:13+00:00",
+      "snippet": "Convert 1 SEK (Swedish Krona) to USDT (Tether USDT) Bybit",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.29
+    },
+    {
+      "title": "USDC to be default stablecoin on Samsung Wallet in the US from late October 2026 - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlc2QnRQVTRjM0Zsa2UzdWpSdXdVdjZPNkxNWnFsUldyM3RaeG9tWmpQTzExdnNaM2VwVlp0dmJZeWpCMjJHX0RaUE5ZU2d3TnJfRW1ENVZNNUtjNU9wbUtCSDFQclFQZ1NCeU4zVHRtRW5oVEZrNkxsTmMzVE9nXzdITHc2eThiSTRpek0xbTltQVJEQnE0N01XTHJoNXhPVDRVemdlaw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T02:23:42+00:00",
+      "snippet": "USDC to be default stablecoin on Samsung Wallet in the US from late October 2026 Pluang",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.96
+    },
+    {
+      "title": "Wallet Shifts 150 Million USDT From Aave to Spark Savings",
+      "url": "https://thedefiant.io/news/defi/wallet-shifts-150-million-usdt-from-aave-to-spark-savings",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-10-08T15:26:51+00:00",
+      "snippet": "Aave’s Ethereum USDT reserve showed $169.54 million in available liquidity on Oct. 8, after withdrawals coincided with double-digit borrowing rates.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "risk",
+      "score": 27.8
+    },
+    {
+      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
+      "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-10-08T22:35:00+00:00",
+      "snippet": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea’s $450B crypto economy is the largest in East Asia.",
+      "author": "Cointelegraph by Andrew Fenton",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.78
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to TRY (Turkish Lira) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ucm9obVc4ZGdmX0dnOHBIa21VQjJGNi1vRFJMdWNteHhEVThkRnV4QzgyNkYyMldtVUt4VFIyRkxUS25zU25haW1QYzNqLWJQNE9sc3Nsb2s?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T01:42:01+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to TRY (Turkish Lira) Bybit",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 27.52
+    },
+    {
+      "title": "Circle Seeks to Integrate USDC, EURC Into SAP Corporate Payments - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ybnRRdzFqcWI1b2RyXzJOM0U0SVVJWU1Gek5lVjNKSjVzVFBLdVhIOXoyM2pIV1FqeWpLUmNPNXVqUmNsVGxqcTFVLTZ5TEg2Y0M4Rg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-07T22:33:28+00:00",
+      "snippet": "Circle Seeks to Integrate USDC, EURC Into SAP Corporate Payments bloomingbit",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 27.43
+    },
+    {
+      "title": "Samsung: Integrates SUI USDC into Wallets - Blockchain News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ra0NuZkN0UjI4ek8tcGNTOFJrUnBYWVA1ZWNtMzBjRmFmOTU4cWNTVEJsWDVXeFlSR2c2dzRZQVZFYU1GRDZSSlFCRy00NFVMT0NnQW1SV0hBcVVPZkRhTWJJQVFJcjk3TzdaMjNiZDh1RmoxUkFSY2JwOW9Sc2c?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T10:30:00+00:00",
+      "snippet": "Samsung: Integrates SUI USDC into Wallets Blockchain News",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 27.4
+    },
+    {
+      "title": "Samsung taps Solana to bring stablecoins to 82 million devices - TheStreet",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1ZobjFPZ0Y3aWMzYkxsLTBzblJ1Vy1uNjgtM2IzS0xLdGdYVFM3bjJyQ3RYTW0teGVOTTNjZ0ZYUzJyVlhfV01TLXRfQmlYVnpBd3F1dF90ZHkwd2RzbWhzWG45eGctSmJPNERjZUxpbmNuNXVySlNfczVwNzQ5a0dsclZkOHowT2pGN243U29uSVprM19TMTFjZ1J1NXc5NHUyWWlB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T13:27:46+00:00",
+      "snippet": "Samsung taps Solana to bring stablecoins to 82 million devices TheStreet",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.38
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to ILS (Israeli New Shekel) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11encyQnExRHRFaHZXdE5ndnhaajF6QmF4RlliVmZ1OE5WdE9aNGZoVDBxV2E5NXlKRnpOalpNOW5KYWktWGpSR0xITGhsLTdQYnNRR0oyYnk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T00:40:44+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to ILS (Israeli New Shekel) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.89
+    },
+    {
+      "title": "Samsung Brings USDC to Galaxy Wallet Users in US With Coinbase-Backed Launch - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM053V1RMRF9qVE9uZXlDSW0zLWI3S3BGeW1GM3RxaHRhTGpkRFFEeUFwUmtGeG41TS1oYjdGRXl5RVpGd1NwRWRuTjFxX1N4NHk0elVER1RNVnBfaVk4aTdoUEVIV3hWUE9lOVdlY2ptdzN6cmNMQ1JsOTNqMU45OC1JbnA2dGlnbHloZ0hZNTdPUjc1MFdGM202S293VWZUSTBsWVFRRXNyazlTU1UwTHFHY0g0THllSENzZU8telVwdHQ1MHNDWEFCa09fb05iaFNwVQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T09:40:30+00:00",
+      "snippet": "Samsung Brings USDC to Galaxy Wallet Users in US With Coinbase-Backed Launch Benzinga",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 26.88
+    },
+    {
+      "title": "Samsung Wallet to Launch USDC Transfers in the US in Late October - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zQ3diLWxHbDlNUWk2RVdXWC0zOVNVRE5Fdmg1ZXFiejVBek5kRVZXQlRTZmdfRGNad0xYSXNLVXFIdVhBcDFLdnk3aXI4ajczNUxCSQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T09:33:26+00:00",
+      "snippet": "Samsung Wallet to Launch USDC Transfers in the US in Late October bloomingbit",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 26.81
+    },
+    {
+      "title": "Samsung Galaxy Phones Announce Solana USDC Integration for Effortless Payments - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QY21JYjRxcHVoMDJKOVJScE9TZURRNkVrdnBLak1vRExUU0FRb2VkdTlPS25sZnZhcXY3MjFOWTg0TldPNGZYYktrb0dEbG55Q1FlOTFFc2w5Z1hfVnlKZDZraGtPbDZEQmVwQWIyaGZPQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T09:21:52+00:00",
+      "snippet": "Samsung Galaxy Phones Announce Solana USDC Integration for Effortless Payments OneSafe",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 26.69
+    },
+    {
+      "title": "Circle Brings USDC, EURC to SAP Customers through SAP-Backed Tereina - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWw3TUhpXzlxcjJjaUgtNTZyZmdLaVFGV2lfQzh5empZSW5IaU4zQVcwVmtHZEc3ZWlGclA4WFhlV0VSZXNhWVJIOGd2R3dRVWwzYTkxS2VSdjJxWW1fV1RoXzY4WXdSMFRCdmE3VndyUW43Ti1tUjdtYVZoTGxqc1h0Q0JuWVg1Q2hITHpocUl3aWp4?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T00:16:31+00:00",
+      "snippet": "Circle Brings USDC, EURC to SAP Customers through SAP-Backed Tereina CoinMarketCap",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.63
+    },
+    {
+      "title": "Circle Stock Drops 5% Amid SAP Pay Stablecoin Partnership Announcement - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMXhJTElMYlM4bkxCWndxSmNiRkJpRlNPZ2JWZGlvVWVVU3Y4OS00TGlPQ2JvdzFZbFBOTlJ1XzRhekk3YWIxSTIwNzJOUVo2Wjk3NHVydmNZU3htWTZmYzlWNXo1allGbmJVUjFsRE16XzRuUUd3eFZVY0ItREhrbTNMcDBKTllxRW5QOXRDM3ZyNkxvWWtnWjlYMjlDaThtdjlsby1R?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-07T21:13:54+00:00",
+      "snippet": "Circle Stock Drops 5% Amid SAP Pay Stablecoin Partnership Announcement KuCoin",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 26.61
+    },
+    {
+      "title": "Samsung Wallet to Launch Sui-Based USDC Transfers in the U.S. First - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lLVg3SHJMUVhmSG84Y1FVVWVfazk2M2Zxd1pmNzlocWVrOWVtakxZN0I2TzFpdDJoZ2RPdFVBaUpFaW5mR3lFeEpRWDdZd3BfSVpTQjJJaVhaVHFselVtYVpfNm9uUDVZd19teWNJUElxU2pBX0E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T09:05:00+00:00",
+      "snippet": "Samsung Wallet to Launch Sui-Based USDC Transfers in the U.S. First BigGo Finance",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 26.51
+    },
+    {
+      "title": "Samsung Adds USDC Cross-Border Payments to Galaxy Wallet for 82 Million Users - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zdEMxSWxndnVUdkZlZy1wV1k4azRScGlITnRsdWlXbkRqdXZZVEZfZzU0SkxuREl4cWZWazBveHhKV1U3cHRSWnBGT25tdUtZVmlYSlF0dTVoekdIWkxMenJQVmJDVERJZXlNSDc0TVRHQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T11:58:07+00:00",
+      "snippet": "Samsung Adds USDC Cross-Border Payments to Galaxy Wallet for 82 Million Users CryptoRank",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.44
+    },
+    {
+      "title": "Sui’s CCTP V2 Supports USDC Transfers Between 30 Blockchains - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2cTIwNm5sUVZLSnRLcDRXMUg0UzNhQWRIYmFNUDQteFNEZy0zX21zaHZKSVRfc05nVDYyX2M3WTFnVThqMDBtMFZKS3JVTzgtYTZEYWZtN0FpUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T11:46:03+00:00",
+      "snippet": "Sui’s CCTP V2 Supports USDC Transfers Between 30 Blockchains Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.32
+    },
+    {
+      "title": "Kyrgyzstan Withdraws USDKG Stablecoin Amidst Regulatory Storm - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ05sdHZBb1pnM2h1VEZVdUE0YTZZc0thSG51cEtqWml5ZnhZVFlHTWdTNGxMMUQ1aWNKbUtETlhTX210QzhIV2VMak9kajVJS01RSlpteWRDMG1MczBkanRkdFRLS2lKUWVwR0c4c3dxZUVpRjNnb3plczQ3N3FNQVNVY0RFM0MzZGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T11:41:53+00:00",
+      "snippet": "Kyrgyzstan Withdraws USDKG Stablecoin Amidst Regulatory Storm OneSafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 26.27
+    },
+    {
+      "title": "Bastion Selected as One of Samsung Wallet’s Stablecoin Partners, Providing Regulated Infrastructure, Custody, and Cross-Border Remittances - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPYTR3LWpTR1RLMHQzNEZFVVpDZC10X3VMemRzUjFlODZ6b3htcFpYMXRia1ptUGg2NUFwb1lhV2NJOThBYjFsVm5ZbUtEZ3JHaWp2Q0o0U0NnV1Jac0tIVXdpOTI1Wm5tXzJ2SjVUZFNIeHNsRHVoLVZfaEhrbWpDOGdHS0VGc1VIQkF2dDF6bmNSOWNDNlVKNkRUV1FCaFBQekkxcGJLU1g1MGd6MENGQmNDUW40UXR2NEMxX3YwSUI0NnNpdHJlUktYaF9hM09TZmtMMkVxdjNEY2xCZlFpQ1hUallyb2RLNmo2OGdheEsyUlhYbFJzYVBWLWNSbTZjRS1sM1puV0l0dVRtdVhSUlUwaTRCQmNDbDl3NkphMThFbW9Fc251SmExZXA5cnloaFR5Z0lB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T03:38:46+00:00",
+      "snippet": "Bastion Selected as One of Samsung Wallet’s Stablecoin Partners, Providing Regulated Infrastructure, Custody, and Cross-Border Remittances StreetInsider",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 26.24
+    },
+    {
+      "title": "AguilaTrades Returns After Six-Month Hiatus with $499K USDC - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tMlhxYWRWQXFENU5PUWpqcElyY3lFUmUzR1R5bmVqRHJkWVpEWFFYSEczSjhiWFhHenlTb0dKeVZUdDVKV1RzYkFwVnp0Q1I4eUctWXNkUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T11:35:53+00:00",
+      "snippet": "AguilaTrades Returns After Six-Month Hiatus with $499K USDC Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.21
+    },
+    {
+      "title": "Convert 1 USDT (Tether USDT) to GEL (Georgian Lari) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ydTBUS001LVNOY1lwWkh5XzdiT0xnN25NWHpzZ2h2eUJLRDg3N2FnVXhqMFBaa05FNW1Fc1l5ZGxGU1pYaFd2c000Ym5RM0hlMzNCNDJndno?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-07T23:21:17+00:00",
+      "snippet": "Convert 1 USDT (Tether USDT) to GEL (Georgian Lari) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 26.06
+    },
+    {
+      "title": "Samsung Wallet Taps Solana for USDC Transfers on 82M US Galaxy Devices",
+      "url": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-10-08T09:05:50+00:00",
+      "snippet": "Users can send USDC across borders from late October, three months after Samsung teased stablecoin support without naming a blockchain.",
+      "author": "Decrypt Agent",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.72
+    },
+    {
+      "title": "Samsung Wallet Adds USDC Transfers to 82 Million Galaxy Devices in U.S., First Step Toward Full-Service Financial Platform - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByeGVDeWJPc1l6dUVsNVFwdHlzMzVQRkU4Unh5YnhlQzd4WXh4R3diaTVLTlBTMzMxRjlUWkVxRV95UjNWaE9YeklUWGNBYnpUXzBiNG1EWGRTT3gyby1SNmh2bTIyZkhOeDlJaDJvX2kybGd0ZVE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T10:35:00+00:00",
+      "snippet": "Samsung Wallet Adds USDC Transfers to 82 Million Galaxy Devices in U.S., First Step Toward Full-Service Financial Platform BigGo Finance",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 25.58
+    },
+    {
+      "title": "National Bank of Kazakhstan, Tether, Alatau City Authority Study Tenge-Pegged Stablecoin And Tokenization - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOV015ckpDVGV6ZnNJaC1FYm5xbEc3NVlEMFhZcjltTVd2TEpHQjlncWw0MDBNZzhYYWY0QUh1dWt4bFBuWkR1ekdkWGwxQjFmY2tya3BVNXlPaDlTWmx4QTVINHFFWXFuMVc0YWlWUTlqbVJwZXZvdmFJWFJUelBoeEIxVGg1S1UxcFk1cVNiQlotYjZYOVFRVWlOZF9nNmExcHpaLVZzbloxRGREcWtqVW8wMGFWTF9YY2NRdm1YQk5uNUxlVlg4Ymp2WUQ4LVBJQzFpZDRjN09hWkZjS0ZVSWtpZ2RIeVU4VUE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-07T22:23:20+00:00",
+      "snippet": "National Bank of Kazakhstan, Tether, Alatau City Authority Study Tenge-Pegged Stablecoin And Tokenization NewsCord",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.45
+    },
+    {
+      "title": "Samsung Wallet Adds USDC Remittances - Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ma05IQjI1bUt6ZllTTm1vQUQyWWcxRTBVNnRMZVFXZ05rVlN5bExaV0N5ZWRCYlZ0eGhWNm9PQ1VYQ01RSGRaZWZVTkwtbjN4NkoyM0ZxclNGTm5VeFlUU3dZSUVPZDhFQUdpT3NnSV9UamQz?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T10:05:21+00:00",
+      "snippet": "Samsung Wallet Adds USDC Remittances Businesskorea",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 25.27
+    },
+    {
+      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+      "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-10-08T09:42:04+00:00",
+      "snippet": "ESMA said EU crypto firms should halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 25.22
+    },
+    {
+      "title": "Circle Wins U.S. Trust Bank Approval As Stablecoin Competition Intensifies. Shares Jump After OCC Green Light. - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWU3cnd1c29JYXVVQjJyb1hIb0RmUWUxbk5zVlpjc21qTEJ4WlZkb3hxYklpeHhhanF1MThLbndFeU1KVDZ2cVZFUTVoRWMxYV96d3hleTkybE1talBxblAwTVFlWGhGZnZaaVI2RkpBdnJmZXdlZzEwMjQ0b1d6d3Z0aWh3SUNTMlVqYzEwa0x3NHNITHp0b1Q5cy0wbUVSNV8zbVNRTmFubFFGeUN6SjRuMVhZYXMtbF9VcnRoMXI?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-07T18:45:00+00:00",
+      "snippet": "Circle Wins U.S. Trust Bank Approval As Stablecoin Competition Intensifies. Shares Jump After OCC Green Light. International Business Times",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 25.05
+    },
+    {
+      "title": "Polygon Adds TRON Support for Cross-Border Transfers and Stablecoin Payments - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2IxQmFRSzM1cXRTZi1OSFRjeGRuUmVwVmRNQ2dkazZlTmhTb1lEM0pOT1lTMTY0c2lWb0pIS2Rod3EzWEVNcVdqYmQ3V0xNai1JZEdLMEZJd0hZQ1k3c2dCWVFGQVFWREE1bHlkM1FHM2w1d0NXVU9COExYM2JBMEhmZjFXdjlSaEg3MzB1QzRLZkpmeHFZOGgwUmFXUGtoa2hJZTR3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T09:31:14+00:00",
+      "snippet": "Polygon Adds TRON Support for Cross-Border Transfers and Stablecoin Payments Altcoin Buzz",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.91
+    },
+    {
+      "title": "Circle Stock Drops by 5% as Company Announces SAP Pay Stablecoin Push - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1VVeVBpaUpxLWNCcllpY3BiNC05X2x4a3N2M2lIUklJRlJDcUNrQ1J5ZjN3aVRYMHA0QzRleVc3TFpkUEg4VlU3Q0lmMml4RXV4QU5SYTJOdVE4X2h4TnNrTnZRQXdja2NoZlgzNzRiUFRVWXIyN2FtbGFJbWp0Z1FneWlBTFJqZTBTQ0k5akdybTBaMU9xcjVlNFF1Ni1kU19KS1ZMMmdJdw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-07T21:21:36+00:00",
+      "snippet": "Circle Stock Drops by 5% as Company Announces SAP Pay Stablecoin Push CryptoRank",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.81
+    },
+    {
+      "title": "Solana Price $115.23: Samsung Puts USDC on Galaxy - CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcG12VHQ3amN0cXhLT0d2V1NoSGt0Z0ttV1Z5WkF5ZEdBeUtReU56RTR3TVFJVGNxcDhiUzVudEdmYm51SFMwZTJZNl9qVTVNbllSb3ZKWk9IQjdCVEhwb3FkZjh4TWNTc3dlYk1VZ0x3TTc0TVhpTk5haUN3QS1US2VDRjc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T09:18:37+00:00",
+      "snippet": "Solana Price $115.23: Samsung Puts USDC on Galaxy CryptoTicker",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 24.78
+    },
+    {
+      "title": "TRON integrates with Polygon's Open Money Stack to simplify global USDT stablecoin transfers. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDNxQmRQRDZKbEVCaXEtT1Jwam5vaEJoUXRnLVhMY2dtTUVxX0U4eEt5V3NmeTZ6R3FmRjdWd29GTHM1WURnWXVPWHhIOGZJUGNBSl9OY1JDYzhHeTIybjZYVXRVdGtkZmV5ajFIWlFOc3RjNk5yNW9jUUxfRGxKZ3Q5QUtkQ2dQcnlSdXJrY0VrMVNnZDRiM3hEOFdKQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-07T18:04:58+00:00",
+      "snippet": "TRON integrates with Polygon's Open Money Stack to simplify global USDT stablecoin transfers. Pluang",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 24.64
+    },
+    {
+      "title": "Coinbase Brings USDC to Samsung Wallet for 82M+ Galaxy Users - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQXY0VGt5czNkTTNVdVdEOXdsczlEZzVheHBGVkVycUJCNDVDZklISlhhSk5NcGVUSDI3cmh3WU5STmgzVFNoUXJ0T1c2QUZKei1uS3EwV2d0ZEEyX3RWUGtTYVVPX2VVbWM4Yno3RjZ0Ny0yREdtcmJfbGRVMmdjaE9kMG9LSlZJdTdmMzAzR09VWjRLcERUU0lnT2pZdw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T08:57:31+00:00",
+      "snippet": "Coinbase Brings USDC to Samsung Wallet for 82M+ Galaxy Users CryptoRank",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 24.56
+    },
+    {
+      "title": "Samsung integrates USDC to overhaul cross-border remittances for 82 million Galaxy users",
+      "url": "https://www.coindesk.com/tech/2026/10/08/solana-partners-with-samsung-to-integrate-usdc-in-82-million-phones",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-10-08T08:39:23+00:00",
+      "snippet": "Eligible users will be able to send USDC abroad or send local-currency payouts to bank accounts in more than 60 countries, starting late October.",
+      "author": "Olivier Acuna",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 24.15
+    },
+    {
+      "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
+      "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-10-08T11:36:25+00:00",
+      "snippet": "The company's HOME token gives eligible investors exposure to a vault of U.S. home equity lines of credit starting from 1 USDC and targets a 7% annual yield.",
+      "author": "Olivier Acuna",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 24.12
+    },
+    {
+      "title": "Tether Signs MoU With Kazakhstan’s Central Bank to Explore Tenge Stablecoin and Tokenization - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS0pIMWNmOElPeUtib0YzQ09EYlBmekt0QzdvWGFwRnJoWnlGTlFpOWtDWHdJUk1SVVpIYUhHVWdXQXQtdldzYnh3QTJVWmJCX1lCVC1BLU1fbFgtSVdvYk9mVjFJUnN1bTJWRnQ3S3hkNUUxY1Ric1RQY29FMmpMNUFKR2VTZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-07T20:03:23+00:00",
+      "snippet": "Tether Signs MoU With Kazakhstan’s Central Bank to Explore Tenge Stablecoin and Tokenization CryptoRank",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.0
+    },
+    {
+      "title": "Samsung enables Solana-based USDC payments on 8... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmQ3l5ckFNd09DeW5IZnAtM1RuQ1FtQmFOaFh6SFBGVmdQUk5TOHY0dWJ3c0Q0MFlKLVdxU1BlTXQtWDc5dEU4UG9TdEFvRGFUVFZkTU5JRXc2TlB3U3d0ZzZnMHAwbmtVZEtEVEg1OEhOQ2l2clF1Sw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T07:44:44+00:00",
+      "snippet": "Samsung enables Solana-based USDC payments on 8... Pluang",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 23.8
+    },
+    {
+      "title": "Roblox Tokenized Stock - Robinhood Exchanges - Buy, Sell & Trade RBLX - CoinCodex",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWYVdBRjhfNG9IRTRJNXdrTnR6Q0hTY1pXcmZ1bkFFbzdtb0UzYmJfbW5PV1JIX2t5UEhSRTJjWkpWV242c1ZPMGQzUXZPeFJSTk5NVllUY2diNURheFRsdU1Hb0pRZ1YxRjY3V3pmTW1FdXRtWDVUYUl4eVg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T07:39:45+00:00",
+      "snippet": "Roblox Tokenized Stock - Robinhood Exchanges - Buy, Sell & Trade RBLX CoinCodex",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 23.75
+    },
+    {
+      "title": "Intel Tokenized Stock - Robinhood Exchanges - Buy, Sell & Trade INTC - CoinCodex",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xRTBJQVBlTU51TUl4NUpCbXdkdDdKek1QdmI3NmFyNzdpNFlacW1Md1piYzBHdUtEWEtKaUJYNXdTRjVlbDVCMDdtbldBNlpyWF95U0Ztd0Z5a3M3U19NV01qUVBtX19fSXExUmV3VU9UcFctamF4VHBBZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T07:39:44+00:00",
+      "snippet": "Intel Tokenized Stock - Robinhood Exchanges - Buy, Sell & Trade INTC CoinCodex",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 23.75
+    },
+    {
+      "title": "AMD Tokenized Stock - Robinhood Exchanges - Buy, Sell & Trade AMD - CoinCodex",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCaEV0c2kzU2NGbTV1NjkwTkljcHVNWEZqbTRMaXpxMTBTRzhwNzFvWktsQWtVeWd6VGQyWEUtekFNdW01YlpJVl9lMlpaWHBZMmdmRkkyZTZ5ODBxM2xHRFpDcXowa3pxZHBsTVo5dXdNdEZLdmsxRA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T07:39:44+00:00",
+      "snippet": "AMD Tokenized Stock - Robinhood Exchanges - Buy, Sell & Trade AMD CoinCodex",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 23.75
+    },
+    {
+      "title": "Samsung Wallet Brings USDC to 82 Million US Phones, No Crypto App Needed - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0SGEwdVlyVTBtdXBCaFd0b09YSDZLTVhDc3QzeVEtb3lYV1l4VzZQLURLTGZqTlNBS0ZpdVBheTNpUFctVDdTSVhQUG1IeUlSb2FMdHVpYUVZc2lfOTZkWTRxWVNzN2s0U2l5V3pQV09iQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T07:24:00+00:00",
+      "snippet": "Samsung Wallet Brings USDC to 82 Million US Phones, No Crypto App Needed BeInCrypto",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 23.59
+    },
+    {
+      "title": "Samsung partners with Solana to integrate stablecoins into US Galaxy devices - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFcxMFFpcnRZbE9sQWJ6X2JKTlJXeE5PMW5xSk5mZHA5UGlPSm9iRGlsNjVhV2ZHZkRlRVZPQ1hTTS13aF83RzNQNUw1R0ExeVlVZDBXU0c1Zk9oeWhLTGlUc1JBVnk5MUZZanBzNFl5UzlmeHh1UVQtMEY1bjN2YTNaTFd5SGhUWXdJNC11TnNCOWJqTG1uNlBocVVsOGZ3dVM4LThyNXhhMWZhampsYVZnQmJVQmoxRFZpcmY0V2tYVVNKRHJiUUM1R0RVbEpaMFE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T03:37:37+00:00",
+      "snippet": "Samsung partners with Solana to integrate stablecoins into US Galaxy devices FXStreet",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 23.1
+    },
+    {
+      "title": "Samsung Wallet to Add USDC on Solana for US Transfers in October - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV0pkLXhCeVE3YVBadF90Q3VEZjBlWTVyWE10akQ4b3VKdnBKUVZENjhsS1lYX2xYTnBUZlZoUkxhVDFkQXlwemdFTUl5SnN4V2RkZTlLS3ZVSUs1dHFYNENEN21UckZOWUl1NU1CTWRmZS1JUkRSZjR6RmJZRWoyR3NzUVhnVzhPd3U3V1E5dVE2Qm1BUkE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T06:36:59+00:00",
+      "snippet": "Samsung Wallet to Add USDC on Solana for US Transfers in October Altcoin Buzz",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 23.1
+    },
+    {
+      "title": "Circle Pushes USDC and EURC Into SAP's Enterprise Payment Network - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OVy1fcVlRaWNCcmg1cE00OFRkUF9DVWNOWE5rY2g5aVBBQmhZZC1oT1Z4RmJjRkdXSEVFejNiSVRWLVBWdF8xUTd4clh5U2RiQUV1aDVBYV9tUWRjUWZIRGxnaDBoMnpjM3NWR2wtQmdnLUQwSWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-07T18:05:00+00:00",
+      "snippet": "Circle Pushes USDC and EURC Into SAP's Enterprise Payment Network BigGo Finance",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 22.76
+    },
+    {
+      "title": "Samsung to launch USDC transfers on Solana for US Galaxy users - The Block",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRU5sSjBQZTRvUmVsV1M4SWNhSHpzUEZFcVJoa3pPQXBnY0xKc0RQUE43cGVCN29GUDZZbDNQZVJCSGc5Sl8tT3BfRko1V3BVZjhGaFZqSXlsSllqbjcwSEo4cTlMbHlZZHFKT2tFa01vQVVMZ0IwS2NBR3pIbXJlQ2FnOHdIVWh0blQ3S24zZEpLQWdWbmlMNElMcjRsbDQ0ejRxeFRwdWxibU1xejBpcm9rVEp4Y1JCSEE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T02:50:00+00:00",
+      "snippet": "Samsung to launch USDC transfers on Solana for US Galaxy users The Block",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 22.61
+    },
+    {
+      "title": "Samsung to Roll Out USDC Transfers on 82 Million Galaxy Devices in Late October - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aazRHNGV2R2w2UF9oZTBFZjAxSzMtR3ZYMzlpVnpLOEdJRTU5WnppYzFFQjdsd21IcDd2cExveGxmTDQwWWxONjViZmRDN19hRm8xSDRjU0V4Y1lubXZjUEdfV0VQZW1yd1otN1NkOXN1N0V0LUE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T05:35:00+00:00",
+      "snippet": "Samsung to Roll Out USDC Transfers on 82 Million Galaxy Devices in Late October BigGo Finance",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 22.45
+    },
+    {
+      "title": "Polygon Open Money Stack adds TRON support for USDT payments and payouts - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmNiMWVhTjRhc2FZQVFQSDlycGRQUlJsNFpLVGdKTDhGUjlHbEswRnpIMDZCZ0VzNzQ2a1dNU09SbDFrMEExNGh2NWVHSHZjLXFRQ21LcmFzRS1TeFNzNVE3WXVFOGQ3alNaNXBLRlJOV09nY1Iwcy0tN0VCYjFHSXJJbkZoNkVfNHNHd29RS19ZU1owNkdpeA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T04:49:00+00:00",
+      "snippet": "Polygon Open Money Stack adds TRON support for USDT payments and payouts Crypto News",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 21.97
+    },
+    {
+      "title": "Samsung Wallet to introduce USDC transfers across 82 million US Galaxy devices - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdlo1ZnVyQ1ZwM2VSbVFKZlVBcUdEYmVyZlBGWG0xNEtEOVBBMkxBVTBVYzNMX0hCcURFX0h4NUM5S3FRY21HT2hYMlhjYUpMd01XV2xvZjZnUGZMN05kcG82TWVFanF0T3ZCZGJPbUFMMW5tUW9kRVVoRkExSmtpMmRndmtCZlRoZkJfak9lS3dkWll1bXlzWWRmbzdUR08w?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-10-08T04:29:00+00:00",
+      "snippet": "Samsung Wallet to introduce USDC transfers across 82 million US Galaxy devices Crypto News",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 21.76
+    },
+    {
+      "title": "The three questions to answer before you move your stablecoins anywhere.",
+      "url": "https://www.reddit.com/r/Nexo/comments/1x0qd37/the_three_questions_to_answer_before_you_move/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-10-08T13:03:14+00:00",
+      "snippet": "Most stablecoin yield content starts with rates. That’s the wrong place to start. Before comparing numbers, three questions shape whether stablecoin savings make sense for you. 1. How long can you leave the funds untouched? Flexible Savings give you access at any time. Fixed-term Savings commit your funds for one to twelve months in exchange for a higher rate. The honest test: what would actually happen if you needed the money tomorrow? If the answer is breaking the term, flexible is the right...",
+      "author": "/u/NexoFinance",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 21.7
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 19,
+      "USDC": 52,
+      "Tether": 25,
+      "USDT": 27,
+      "Stablecoin": 57,
+      "Robinhood": 3
+    },
+    "platform_counts": {
+      "News RSS": 103,
+      "RSS Feed": 12,
+      "Reddit": 5
+    },
+    "risk_count": 18,
+    "top_risks": [
+      {
+        "title": "USDT vs USDC: The Trust Game Behind Two Dollar Stablecoins",
+        "url": "https://www.reddit.com/r/SimpleSwap_io/comments/1x0kho8/usdt_vs_usdc_the_trust_game_behind_two_dollar/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-10-08T07:19:01+00:00",
+        "snippet": "Two assets, one target price, and two different answers to the question: \"Why should I believe this is worth a dollar?\" Here is how USDT and USDC differ in reserves, reporting, liquidity, and real-world use, and what those differences mean in practice. Reviewed by: Rick Cramer, Head of Analytics at SimpleSwap USDT (Tether) and USDC (Circle) are both designed to stay at $1. USDT is the largest and most-traded stablecoin. As of October 8, 2026, CoinGecko reported USDT's market cap at about $184.0...",
+        "author": "/u/SimpleSwapExchange",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Tether",
+          "USDT",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 54.83
+      },
+      {
+        "title": "💳 Open USD Is Live: Visa, Mastercard, Stripe, Coinbase, and Shopify Now Co-Own a Stablecoin",
+        "url": "https://www.reddit.com/r/kava_platform/comments/1x11h4c/open_usd_is_live_visa_mastercard_stripe_coinbase/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-10-08T20:14:13+00:00",
+        "snippet": "Open uSD (OUSD) was launched on September 30 across Ethereum, Solana, Base, and Tempo. The five initial partners hold equal stakes and have invested over $1 billion to seed liquidity. Users can mint and redeem OUSD at parity and without fees via Stripe, Visa, Mastercard, and Coinbase. Unlike Tether and Circle, where reserve income goes to the issuer, OUSD shares this income with distributing partners. Stripe is adopting OUSD as its default stablecoin for business services. Visa, Mastercard, and...",
+        "author": "/u/cameron_kavalabs",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "Tether",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 54.79
+      },
+      {
+        "title": "ESMA gives EU crypto platforms 3 months to drop non-MiCA stablecoins such as USDT - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY3hSOE8xazBBTjJ4TUMtQXo3YWpyOGlwcEtWaXJtTE9XYXI0SGVjYWxDaTlFYXJFTHVteTVtU3dvWmxUdVE1MVMzazVqczJSaTlPNktkZkFWSGNMQU5aTGlzTFlkZmxaM3ZTd1hCb1ZIRHpyMXM4cUpFTjJGcHNtdm9CLWlBRTFEVzJsNnRyOTBJMG1HNDMtcjdQTVR2QXVyU2o0MlhKU3BZVy1IcDROcE5WYTJuaFlXd2IxUzdnc2JTakpCdnlmYlRyRS0yUQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-08T15:23:26+00:00",
+        "snippet": "ESMA gives EU crypto platforms 3 months to drop non-MiCA stablecoins such as USDT CoinDesk",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "USDT",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 41.08
+      },
+      {
+        "title": "EU Stablecoin Regulation: 2027 Compliance Deadline & Actions - OneSafe",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TVGhkY24tWThLRGNJUnJYbjNURXJZTlBHU3BVR0VkdHo4OTRudTFkZlI2MkxNNko1SG80MjNta3dHZHdZYnpvODk3dUd4TldqZnZVd18xeWNQbk5RV2dVdjVXNXdBdUY5WGlQQkJkMUNTVmU4?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-09T00:06:56+00:00",
+        "snippet": "EU Stablecoin Regulation: 2027 Compliance Deadline & Actions OneSafe",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 39.03
+      },
+      {
+        "title": "The Freeze Button Is the Product: Dollar Stablecoins as a Geopolitical Protocol - HackerNoon",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUJlWkpwSDF5MVpkS0ZxU29ZTDZQcjM2V0ZRUTRUejJ4MnJiNzFxd0pIYWNWUnBlcWNHMmE5MFZiT1hOWUVsNlhlRXd3cDNkTDYybnNpWVZGTlJHcmNfYWFPM1NQRmV3SUFJejNmLWVBVnd6ajE2LUc0bnMxNUtWVlBCblI4eDBjQ2ZxUDNjSjl2OVJHOUV4aUt4cDRMbDdQcGtJ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-09T00:05:36+00:00",
+        "snippet": "The Freeze Button Is the Product: Dollar Stablecoins as a Geopolitical Protocol HackerNoon",
+        "author": "",
+        "query": "USDC stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 39.02
+      },
+      {
+        "title": "Tether News: Payments Company Seeks Millions After USDT Freeze as Remittix Tests Stablecoin Transfers - TechBullion",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFB1RnhCZ0VpN1R4N0xWUEtRZkk2Mk9SMk5oZTdOa1Btd09MTVZ4TzJvb01iTFJDU1NQeC1KdDktYmhjbHBqd3RoSDVvZl9GU01URU9SbktZU3lxb0dyWks0bEZQbVRBREdYaGFiRkN1aFpoMk5hQlBqXzdXdjBJb0IxS2NmaHRCdHM4MkctZEx3dWdON2M2NWpXUEZocFMzNHRzdFB3SG9sT0R4UkVMSXJsZk9jV1NTUndSWjlWTENrenc?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-08T00:00:59+00:00",
+        "snippet": "Tether News: Payments Company Seeks Millions After USDT Freeze as Remittix Tests Stablecoin Transfers TechBullion",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "USDT",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 38.97
+      },
+      {
+        "title": "JPMorgan Chase (JPM) Puts JLTXX On Ethereum As Stablecoin Reserve Rules Near - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXo5UTlXVW5HYVhQNVdpT3pWQW44VUZDcUpyT3NJQU9DMmV1MWVzdkM0Q2VXTW5nNTlMQjVlT0t3NjJYcF9nLXZndkxYTXFUUGtnTldya2pzTldQeE9qbmpTOVktcnpLSFlKOWhkcmJydmFWR3pVWWRGNW9BVTlLZ1h1NFZMdDZ0bHFsZGF4ZGdveWw1cFJkc01YcUxkZU5QMjgxZ1RoczFBY3VWX2RYeDhGVzhmMi1GSzZLbXFlNGpFbWV5WnfSAcsBQVVfeXFMUFV6YVA1RVZWSzBmZ3NDTlNHc2NqYWplUmNWU1NYQzVWWGJMRkdXMmNNcF9TMW93dmF4dFpsRDdzQlR0Q1NIeDg0R0J5eFpxcEp1RkNRRlJHOGpvWFlkdXhoaGtkb2ttVnYyckNZbkNaSWVqbDZIaDViYXdjcy1YMUY4VlZGSzNDdWhKZGxyLXZtVC1lOW90RVhYdkxGV0lERm5DcXRsU1ExSDFoajFnOUU4aUU0LTd3cnV5X2d4TmNUeFZ0ancxSlVwdVE?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-08T22:38:35+00:00",
+        "snippet": "JPMorgan Chase (JPM) Puts JLTXX On Ethereum As Stablecoin Reserve Rules Near Simply Wall Street",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 38.11
+      },
+      {
+        "title": "Kyrgyzstan Winds Down Gold-Backed USDKG After UK Sanctions",
+        "url": "https://thedefiant.io/converge/regulation/kyrgyzstan-winds-down-gold-backed-usdkg-after-uk-sanctions",
+        "source": "The Defiant",
+        "platform": "RSS Feed",
+        "published": "2026-10-08T21:01:55+00:00",
+        "snippet": "Holders can request fiat or USDT as the project prepares to retire its tokens, but the shutdown documents leave the gold reserves’ disposition unspecified.",
+        "author": "The Defiant Team",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "USDT"
+        ],
+        "sentiment": "risk",
+        "score": 37.52
+      },
+      {
+        "title": "Stablecoin Regulation: EU Deadline and What’s Next - OneSafe",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSE9Sd3VmcFVSeF9rMDJPSjk4STBQb3pmQy1DRExlWDAtbEJlWEdfTk1aWFZaMGxvTGtjQ3VxeVdaNGw5Y0xaMFZPZ3U2NGhkRnk4anhNeFhTeTdDSkdYYU9wMy05VWhGNUg3UnVHcUJzMWFWT3U3dnRicUVaSmlORFpn?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-08T21:26:55+00:00",
+        "snippet": "Stablecoin Regulation: EU Deadline and What’s Next OneSafe",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 37.37
+      },
+      {
+        "title": "EU Stablecoin Regulation Tightens as Crypto Firms Face Deadline - CryptoRank",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYk9NSlMxX2w2SS02LVhvZWhuUE1HODdoaWEyem5ZRXNfeHEzYWM0V0lZWlFBTUNKM3A4NkUzcWp2cjZOY1kxQThpa1lFYTNCWFUwX2dVbmNRT1pQTTVhQUJjMVV6SnpOWU5UdDJReklMR25ISXFPNm5oeUF2Rkt4cXFMS2JKNzZOb19OWEp2Z2FxT0FPclEyZTNydm5uUUI4cV9n?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-08T19:39:46+00:00",
+        "snippet": "EU Stablecoin Regulation Tightens as Crypto Firms Face Deadline CryptoRank",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 36.25
+      },
+      {
+        "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+        "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+        "source": "CoinDesk",
+        "platform": "RSS Feed",
+        "published": "2026-10-08T15:23:26+00:00",
+        "snippet": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.",
+        "author": "Olivier Acuna",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 35.49
+      },
+      {
+        "title": "Tether News: $2.76M Frozen-Wallet Lawsuit Erupts as Remittix Tests Stablecoin Payment Rails - StreetInsider",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeXdRaEl6YmpQeUNEVjY0THhncHJZa2NNdzR5ZHdhZEVOQkU2bVBpY2VSRTlKMmtwT0lXNjJlOXc1MUhBRm5Xby1OMHk1QS1FRnQtbk9ITGJFbWFvTXRFMHQ0N21WVGxFaWc5RWpQeDNnTFMyY1FubVI3dEkyNmdtSWZjN2JncDJQUUJtbVI4RnlIdjFYVHlDZHlab0N6cXpMLWJibHNFQWYtcWR1UE5pN1M0VGZJYVNsUDlwWGtMUVVkbFBaMTJ0RnA5RXJGbE9Gc1dVcFdpMVFJZUtXZndleEgxY29tVXVmUC1r?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-10-08T06:23:40+00:00",
+        "snippet": "Tether News: $2.76M Frozen-Wallet Lawsuit Erupts as Remittix Tests Stablecoin Payment Rails StreetInsider",
+        "author": "",
+        "query": "Tether USDT",
+        "engagement": 0,
+        "entities": [
+          "Tether",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 35.46
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 57,
+        "headline": "USDT vs USDC: The Trust Game Behind Two Dollar Stablecoins",
+        "url": "https://www.reddit.com/r/SimpleSwap_io/comments/1x0kho8/usdt_vs_usdc_the_trust_game_behind_two_dollar/"
+      },
+      {
+        "entity": "USDC",
+        "count": 52,
+        "headline": "USDT vs USDC: The Trust Game Behind Two Dollar Stablecoins",
+        "url": "https://www.reddit.com/r/SimpleSwap_io/comments/1x0kho8/usdt_vs_usdc_the_trust_game_behind_two_dollar/"
+      },
+      {
+        "entity": "USDT",
+        "count": 27,
+        "headline": "USDT vs USDC: The Trust Game Behind Two Dollar Stablecoins",
+        "url": "https://www.reddit.com/r/SimpleSwap_io/comments/1x0kho8/usdt_vs_usdc_the_trust_game_behind_two_dollar/"
+      },
+      {
+        "entity": "Tether",
+        "count": 25,
+        "headline": "USDT vs USDC: The Trust Game Behind Two Dollar Stablecoins",
+        "url": "https://www.reddit.com/r/SimpleSwap_io/comments/1x0kho8/usdt_vs_usdc_the_trust_game_behind_two_dollar/"
+      },
+      {
+        "entity": "Circle",
+        "count": 19,
+        "headline": "USDT vs USDC: The Trust Game Behind Two Dollar Stablecoins",
+        "url": "https://www.reddit.com/r/SimpleSwap_io/comments/1x0kho8/usdt_vs_usdc_the_trust_game_behind_two_dollar/"
+      },
+      {
+        "entity": "Robinhood",
+        "count": 3,
+        "headline": "Roblox Tokenized Stock - Robinhood Exchanges - Buy, Sell & Trade RBLX - CoinCodex",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWYVdBRjhfNG9IRTRJNXdrTnR6Q0hTY1pXcmZ1bkFFbzdtb0UzYmJfbW5PV1JIX2t5UEhSRTJjWkpWV242c1ZPMGQzUXZPeFJSTk5NVllUY2diNURheFRsdU1Hb0pRZ1YxRjY3V3pmTW1FdXRtWDVUYUl4eVg?oc=5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 855,
+      "kept": 103,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 10,
+      "kept": 5,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 4,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 4,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 37,
+      "kept": 2,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 2,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}

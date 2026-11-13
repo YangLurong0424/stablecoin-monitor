@@ -1,0 +1,1865 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T06:41:45.489940+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "US court files civil forfeiture case involving 225 million USDT stablecoins linked to Tether. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KMDNtS0lrTmtZcmx0TnZtTWpWRUVrR0pOV3BUdUhmUXpEWmpoVFZlbGRBQm54U0ZqRmp3MlUwaF8wZXdOM3I4eEFnSlpQeFZBRWxIR09BZVpFc2NkYUgzWDQyNHhUUHBiTXVpMUhGMGFmMTU4aW03T3VBM1FjUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-29T01:08:11+00:00",
+      "snippet": "US court files civil forfeiture case involving 225 million USDT stablecoins linked to Tether. Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 49.02
+    },
+    {
+      "title": "U.S. Banks Move Into Stablecoins, Challenging Tether and Circle - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0xKOUNYSVBwRlZFNzhnZ24zam9rRURHSlJWQl9QS0M0R3NrY3Z4Q3pwSGFfd1RfZTBUaU9NQ3BaX1JiX2hVa3NHYVlfNXVaeUNGTlN4Qkl0Z2Rhc0FQWnBTOFBRSWJsZlE2Rk9GOU1UNENEZVZmQ0ltRVlzcXZhUThoRzlaTUVfYllzRmRRdFFZeFFFX29nYkhPRHZsWHRDc3pveg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-29T01:00:05+00:00",
+      "snippet": "U.S. Banks Move Into Stablecoins, Challenging Tether and Circle Seoul Economic Daily",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 48.94
+    },
+    {
+      "title": "Aptos Integrates Circle’s CCTP V2 for Seamless USDC Transfers - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50ZG5EQUhweEtmN1JsRU1yd2JmQlFQUEhnT1dQRW4wemtBeDJ6SjBqOUtqSkVRQVZMbVpCd2h0ZmZocjdtT0l5WXpNR3dqaTFFR3dhY0VTUmMtMWVB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-29T04:53:25+00:00",
+      "snippet": "Aptos Integrates Circle’s CCTP V2 for Seamless USDC Transfers Cryptonews.net",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 45.74
+    },
+    {
+      "title": "Full Circle: USDC Stablecoin Issuer Becomes Chelsea's New Shirt Sponsor - Finance Magnates",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFBOblBtUFhSTVB4NGVqV0VUV2xYcHJjYS1fN1JLbmhJS0VnOHZXZTF5MnQ2UDlSYllOZWFnNUdZeE85WF9ETUsyWlBOX3F1eHYySHBNN3JMZ1hKbmcyQXIxN3hPX001a2NPeVRMcUNwT3pZcGlfZk5OcndOeUNUZy1nQy1fR0s5Q3p6aW9pcmJXaGVGanJfNVVLTVpYWHVDbjJsZEFn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T11:41:18+00:00",
+      "snippet": "Full Circle: USDC Stablecoin Issuer Becomes Chelsea's New Shirt Sponsor Finance Magnates",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 45.62
+    },
+    {
+      "title": "Would you buy shippable goods from a small local business if you could pay in USDCx?",
+      "url": "https://www.reddit.com/r/cardano/comments/1w171xz/would_you_buy_shippable_goods_from_a_small_local/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-29T00:00:02+00:00",
+      "snippet": "The idea: customer signs the USDCx burn in their own wallet, Circle's xReserve redeems it to USDC, a licensed off-ramp deposits USD in the business's bank. The business never holds a wallet or touches a token. I took this to Catalyst and it was archived — no first-two-weeks activation plan, and I claimed a maturity level that didn't hold up while still hiring the integration dev. Both fair. I can still validate the technical path myself on Circle's testnet, and I'll open-source the harness rega...",
+      "author": "/u/TheGridOutreach",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 43.65
+    },
+    {
+      "title": "Aptos upgrades USDC transfers with Circle's CCT... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcm5HNlBKRE9pVUI2LW1nQ1NoRDZQZUVscTRwUHIzM2l6M1VCX1dDLWk5WjhiMFU0azBUVnN3Qy0yaEY4TjZkTWVkS2RhT3ptT2pzQlZEd1AtT2c4bUtrTE8za3QtUDIyQkd4ci16WU1yS1RsMkhwT2Zmc1cyV3lfcUJBbURET0doUS1yZlBsUlZmdw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-29T01:30:02+00:00",
+      "snippet": "Aptos upgrades USDC transfers with Circle's CCT... Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 43.62
+    },
+    {
+      "title": "Aptos integrates Circle’s CCTP V2 for rapid USDC transfers - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04Z0ljZFFmVEF1eHpjN2NjOWlCRjM4NVRGRWdDZnBkNW8zb09UZlRMM0FBdEtTQ25NbTA2UFdoQUJHLUpSYUpzcnQ4aEFFT0NZS1BzSzVIZURSQTJ0NTg3N0U0TVFlNmJiZTZXdFI2YnU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-29T01:28:04+00:00",
+      "snippet": "Aptos integrates Circle’s CCTP V2 for rapid USDC transfers Crypto Briefing",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 43.6
+    },
+    {
+      "title": "Chelsea FC Announces Circle USDC Jersey Sponsorship For 2026/2027 Season Against Brighton - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeHlMYVBkanJxemJxTmJhOHhYelptUFVkVDctS2hsUF93aU5xd1hGMDNDOWFoYVlwT0xVaDhOZ2tmdUZJLXJVQmZaVFhhd1JQUDdGRzVzbHZ4R0NodjRZRkh5TktjZi0yT1IzX290WEh1cV94ZzFGNXhySGFucU1pOUNaVXV6dXN2Wkdxb1FNNnE3TXU1Q3RfOGVHaG9lNFpPRWNzSExObUoxWUVabDFGcXNOSEYyR1dVVHFzYTRKZ250ZFZVTXRmYzJ2Vm1tZzRyWF9iTExpU2J1VGtGckZHLUYxczlSdk5m?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-29T04:18:45+00:00",
+      "snippet": "Chelsea FC Announces Circle USDC Jersey Sponsorship For 2026/2027 Season Against Brighton NewsCord",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 43.51
+    },
+    {
+      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+      "url": "https://www.reddit.com/r/RWATimes/comments/1w0yoso/chelsea_fc_gets_a_stablecoin_sponsor_after_uk_fca/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-28T18:30:13+00:00",
+      "snippet": "Stablecoin issuer Circle signed a deal with Chelsea FC after the UK’s Financial Conduct Authority sent warning letters about “questionable sponsorship deals“ involving football clubs. Circle, the issuer of the USDC stablecoin, has signed a sponsorship deal with Chelsea FC. This partnership comes after the UK's Financial Conduct Authority (FCA) warned football clubs about questionable sponsorship deals with unauthorized financial firms, including crypto companies. While Circle UK is authorized b...",
+      "author": "/u/rwatimes",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 41.4
+    },
+    {
+      "title": "USDC gets promoted to the Premier League with Chelsea main shirt sponsor deal",
+      "url": "https://www.reddit.com/r/RWATimes/comments/1w0wmnu/usdc_gets_promoted_to_the_premier_league_with/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-28T17:15:18+00:00",
+      "snippet": "Circle becomes Chelsea's principal and front-of-shirt partner for 2026/27, putting USDC branding on the men's, women's and academy kits. Circle has secured a prominent shirt sponsorship deal with Chelsea Football Club for the 2026/27 season, featuring USDC branding on all team kits. This partnership aims to significantly increase mainstream global exposure for the USDC stablecoin by leveraging Chelsea's international football audience. The deal is primarily a brand placement initiative, with no...",
+      "author": "/u/rwatimes",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 40.78
+    },
+    {
+      "title": "Circle secures USDC as Chelsea FC's front shirt sponsor from 2026/27, a Premier League crypto first. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnhRM01VNVpQUlFnNm1VS3BOUmp2NnQwSXVQcWpZWE5lTVFXYW5DZHUwdVNsaFpzbmJRVENNRGJfRjN5cTBjMW0yZlYwanpRZkNocFBsWHZDS0hMVG9RVG5aVFc1c0UxUW5NbUhWWmwyMGxXTVVpLTZjUEhkSmlEcEhVWEdKS3ZGc240UzVLYWpieXVQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T12:25:31+00:00",
+      "snippet": "Circle secures USDC as Chelsea FC's front shirt sponsor from 2026/27, a Premier League crypto first. Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "risk",
+      "score": 38.58
+    },
+    {
+      "title": "Chelsea Football Club announces Circle Internet Group as Principal Partner. what do you think of the new sponsor? Also... how do you rate the actual shirt with the Circle logo on it? 👀💙",
+      "url": "https://www.reddit.com/r/NortheastBlues/comments/1w0oap0/chelsea_football_club_announces_circle_internet/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-28T11:45:58+00:00",
+      "snippet": "Chelsea announce Circle as new front-of-shirt sponsor from 2026/27 Chelsea have announced a new landmark partnership with Circle Internet Group, with Circle becoming the club’s new Principal Partner and front-of-shirt sponsor from the 2026/27 season. The Circle and USDC branding will appear on the front of Chelsea’s men’s, women’s and academy shirts. Circle, founded in 2013, is a major player in the digital-asset space, with USDC — a regulated stablecoin designed to allow fast, 24/7 global mone...",
+      "author": "/u/Davy_wavey",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 38.03
+    },
+    {
+      "title": "Circle partners with Chelsea FC to feature USDC on men's, women's, and academy shirts from 2026/27 season. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMFhiaU1GbFVFWFdZZDF0QkwwMGNkVTV6ZE1aQ0NnVjd2WDNLUXlMYVlodDc2ZUQxdWMwUDFNNjV3bkFidEtpbmQ5ZUY4eUxIelFta2U4M3NJTWhjRlZsQjVyRmk1M2xnT2lSYnc4ZDBTczB6YjRTLUFMVUM4YnFzZlBoQk9BbVkzRXdUa2E4b1RJdzNXUk94eDF2eHJGUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T19:26:03+00:00",
+      "snippet": "Circle partners with Chelsea FC to feature USDC on men's, women's, and academy shirts from 2026/27 season. Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 37.96
+    },
+    {
+      "title": "Circle Adds Native USDC, EURC and CCTP Support to Plasma - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdW1yS3hzZzJ5Slp5dlJhU2tHVlNCSWpTWmdKMTkybWI3QzJLM1NhS3hTN2NPSi1ITUdUQ1dRZUNYNWE2OWpJbGF3aUh1VkFQaHBLRlJSaTdTemFkZjkwYTlNZUVtN2dpcU15RUVCOWhxR1Z0TWdEcmtXcE4yQjd4dEw4TTJEZEI0S2lzTjAtaGFYM3l0dnE3ZE8ybkpmbW8?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T18:34:50+00:00",
+      "snippet": "Circle Adds Native USDC, EURC and CCTP Support to Plasma The Defiant",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 37.42
+    },
+    {
+      "title": "Circle Cryptocurrency USDC Sponsors Becomes Chelsea Sponsor - WIN.GG",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EWG9yWGJBLXE5R0xGYmZLazBfelV2eWpqR2c1b2RnMFpiMlk3aUZmLTJzOUs3THpkRk9rdjRpT3J3RERpa3M3bXNZOWw1QjRFNDEtbU1CYkdxUWlaSjFGMHdxNHMzaXJS?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T17:30:59+00:00",
+      "snippet": "Circle Cryptocurrency USDC Sponsors Becomes Chelsea Sponsor WIN.GG",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 36.76
+    },
+    {
+      "title": "Tether Warns of Market Disruption as EU Exchanges Begin USDT Removals - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUk9TdjdPNXZBc1ZBaVNaSVFOaGxhZzRnS19jQlFQQ0lHWUVfcExGdXBWb0E1Y1QydXQ2dDNyamxBZGlZam4zNW9xanRTNmIyUVdwM21acExEc2ZudUU3a190UEVKQlMtQjlqVFNLek9idkpkQVNRUXRVVXZUamNWQlRlay1pTElPZUZ4OTYwZVhXODFIc2I5OHlGMENXZGVGdEc2bVRTWDBnQkVs?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T16:34:52+00:00",
+      "snippet": "Tether Warns of Market Disruption as EU Exchanges Begin USDT Removals Yellow.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 36.17
+    },
+    {
+      "title": "Circle Puts USDC on the Front of Chelsea’s Shirts in Principal Partnership - CryptoPotato",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNczdDejB1OFA4bVpVMWFGWm5LWGdEWngycXVybmxoM08xOFUyQmVOcWcwTFg3VUhhYy1WNWxEdnZpcXh4a3E5MFR3akd2QXpDeEpUQzk5WkUyUFdFSFJ0RzQ5MHpSZzdBLWlnWGdsOEttOFFwN2llanVHYlNsUEUtcVFjVVhJb0h0QThWczI1eDdfTHIzZ0hHZUdzRUxwRlda?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T13:23:00+00:00",
+      "snippet": "Circle Puts USDC on the Front of Chelsea’s Shirts in Principal Partnership CryptoPotato",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 36.05
+    },
+    {
+      "title": "Stablecoin Payments vs. Tokenized Deposits: The Real Story - OneSafe.io",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jUkNZdWdkLUFQcVhHaHlocmFQYmNKRjhYTFpoOGRQNTA2bVJfbkpnc0UxTXhIZWg1Q29xeEphUDE1ZXIyUkdRU1plUkEzN28wVG5IVFpPbkcwS0tmT3ZJLW5DZmpZOEY0OEZHTFkwMDluYkdHZkxFMw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-29T03:27:06+00:00",
+      "snippet": "Stablecoin Payments vs. Tokenized Deposits: The Real Story OneSafe.io",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 35.47
+    },
+    {
+      "title": "Chelsea Football Club And Circle Internet Group, Inc. Announce Principal Partnership To Bring USDC Brands To Chelsea FC Shirts - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONlhzYkpyNmFXNi1iQ3hVc29MSzlDX0pnSmYtY3RNdW1DRlBVNW5kemVtay14OTBHeG1ULUdsb1YzSHRxVVlWbmVYMUFhZGY5X1kzd3Y1aTl3T3Z3bkdCTkwwZ2NkdDQtSHVTVks4aXphaFhUTzNPVUN2ZXh4aThzLXljVVhMX1I1YVRPTElCOFFOT244VVh4anpIcnRWOEsxQ2N5UkczOEh0M1RGelAxSmlCSlJjU1NlQzZ6WGQtYjFTcWRWWG9rT2hlWWtoZWF0TVQzcWFUZng2aXRvZDM1Y2NQUkg4QQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T12:20:40+00:00",
+      "snippet": "Chelsea Football Club And Circle Internet Group, Inc. Announce Principal Partnership To Bring USDC Brands To Chelsea FC Shirts marketscreener.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 35.4
+    },
+    {
+      "title": "Circle Stock Rallies Intraday on Chelsea Deal, Rally to Sustain?",
+      "url": "https://www.reddit.com/r/RWATimes/comments/1w19bey/circle_stock_rallies_intraday_on_chelsea_deal/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-29T01:45:15+00:00",
+      "snippet": "Key Insights: Circle stock recovered from an early decline after Circle announced a major sponsorship agreement with Chelsea Football Club. The shares surged from about $90.50 to $96 during Thursday’s session before closing near the previous day’s level. The partnership will plac... Circle's stock experienced intraday volatility, rallying significantly after announcing a major sponsorship deal with Chelsea Football Club, which will feature USDC branding. Despite the positive news, pre-market tr...",
+      "author": "/u/rwatimes",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 35.03
+    },
+    {
+      "title": "Circle partners with Chelsea FC to feature USDC branding on shirts from 2026/27 season. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOVlBOTlvd0JnaFdNbkpuQjFCNy1mdjkxQWd5R3JYSkdYaDVxMjM2Um50eHJ6ckVsbkVPUHZ4aDhPYU4xeU5VTjRSOURpeTh4SFZmVTNTZFJlU0lKcWFKSHYybDh0bk50VWNhSFM5SUtYekpCRWJyZXJtLUh2UDYyZVpPNWFyR0U?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T14:27:55+00:00",
+      "snippet": "Circle partners with Chelsea FC to feature USDC branding on shirts from 2026/27 season. Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 34.85
+    },
+    {
+      "title": "Circle Becomes Chelsea’s Principal Partner in New USDC Shirt Sponsorship - FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3pybVNpVVYxOW90ejRidWxGYUxhLWM1dUY5ejdPRzVlZ0VtbVlNZkhIMXg1eF84bEZjRkMwbHN4MTZrZEtvdEJHc0FjSkNsZk82ckViX254MjZyODlRT2NKbDkzb2MxaC1QR2FWMFNuMW95Yy16OEhPdm1qUEZMTUxDYmh0d0VUMkx1Q2ZkaElOMmV6aU53R3Q0eHVndw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T14:14:38+00:00",
+      "snippet": "Circle Becomes Chelsea’s Principal Partner in New USDC Shirt Sponsorship FinanceFeeds",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 34.71
+    },
+    {
+      "title": "Chelsea names Circle front of shirt partner in USDC sponsorship deal - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT2dEMlVqbFZMZXpJdGpLZnVtUkstcG5feW9weWEtdGdxWTd4YkFqa3AxZGJUSHM5NmFxMkY3SFVEcUlrdXNqUzFPbUpOeXU1YmhNb1djV2Q0VExmd1RIMEI4TG5VMi1IZy14N2N5YzlBQmFJUUNYeHE1QXFIUTRaWUNBU1UzajhXU2ZKSFlNbWZGRE0?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T14:11:27+00:00",
+      "snippet": "Chelsea names Circle front of shirt partner in USDC sponsorship deal Crypto News",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 34.68
+    },
+    {
+      "title": "Chelsea Football Club announces Circle Internet Group as Principal Partner - Chelsea Football Club",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjNsMW1XblZqQ2xvaFhzbVM1b1dsNW03aURtR0x5RkNVbVpWcGNualNEZTF0bXd2QVl4NGtLam5fOEMyVTFtbC1nSnpsaExqcUltRjBIaTNSdUFsbUdBOU91d3RrSy1UTnZQS0ViZmRpdVpaaFQ4dzVrU3pMQmk4T3JrcWZDYW1fWmtHMGhya3lEazh3djd6MnpsMzhid2VMTFhFR01vdjVWSF81ZjRhRFFrM0hYcTg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T11:00:00+00:00",
+      "snippet": "Chelsea Football Club announces Circle Internet Group as Principal Partner Chelsea Football Club Chelsea Football Club today announced a landmark partnership with Circle Internet Group, Inc. Circle Internet Financial Circle's USDC takes over Chelsea's jersey in Premier League first sponsorship deal CoinDesk What is USDC by Circle? Chelsea to debut new shirt sponsor vs Brighton London Evening Standard Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC The Block Chelsea Sells S...",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 34.56
+    },
+    {
+      "title": "Chelsea announce their new front-of-shirt sponsor, which is a digital stablecoin, USDC, by Circle 🔵",
+      "url": "https://www.reddit.com/r/u_bighillz01/comments/1w0u2cz/chelsea_announce_their_new_frontofshirt_sponsor/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-28T15:41:07+00:00",
+      "snippet": "submitted by /u/bighillz01 to u/bighillz01 [link] [comments]",
+      "author": "/u/bighillz01",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.49
+    },
+    {
+      "title": "US files civil case targeting 225M USDT stablec... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV1k2VXhpWGdtN3FPUmhveUZmZG5MR2JvNjdjY0ZMdV9JbVh0eUZkWkpsUmlzc1lwZHhHUVd4M0VYX0podkJ2RmFMekZyU3BBZ0ZrRURRdnl5cDdCb3ZrZy1jaWpSWFJsUEI2THJwRnN4MGQyS0JXcEt5SXpTRkdHSWJBbkY3V1V3d2tPNkJB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-29T01:45:30+00:00",
+      "snippet": "US files civil case targeting 225M USDT stablec... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 34.41
+    },
+    {
+      "title": "Circle partners with Chelsea FC; USDC brand to appear on team jerseys starting 2026/2027 season. - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWVhxQ0szaFc3RkNBTnBTMEJmcmVWZktEREd3WHkwU3NCNkdyMzdmcDZPWXFDd3R1bWZEUHBBOG1TVFRvSXNkYU5JcHY4ZG9DckdLVnpKdWRBUFpWdklteDN6azFPcGZ2QlkyZW9kMVdMeGZyYmNNckJDS0xlTmtlWGJ0dmVWY094d2hGRUtWbGJMLXhiWjZnYTRB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T13:27:09+00:00",
+      "snippet": "Circle partners with Chelsea FC; USDC brand to appear on team jerseys starting 2026/2027 season. Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 34.22
+    },
+    {
+      "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-08-29T06:42:10+00:00",
+      "snippet": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "risk",
+      "score": 34.2
+    },
+    {
+      "title": "Circle Stock Surges Intraday on Chelsea Partnership, Faces Premarket Pressure - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzNsNEhjenVnMTV2WlVDS0JJZ3NNX2hnUEFObG9xUk5vMDRvNktHMk5fUnlPYmlDU0NieEJEMi1uOVRoZ0RfM1I3M0lwb01HLTl1Z2dIR281RzM1S0dPelhRaWZZUGZPaFRycWJJYVhhSHNhQ1MtOEdyY3JwS190cFVVT2t0OEVMNTMxY0ZGb2JtdnlwQkRCREhMbUNNNllabUVpb2NTOVhWM2dvYXhJ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T22:23:30+00:00",
+      "snippet": "Circle Stock Surges Intraday on Chelsea Partnership, Faces Premarket Pressure KuCoin",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "positive",
+      "score": 34.18
+    },
+    {
+      "title": "U.S. Court Filing Involves Approximately 225,364,961 USDT - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0tEVWRGV2lCZVk0VlZlLW00RVowd1FfT1paQnQ0T2ZSMjJTMUZKTzl0R3dfSTlvS1BpNlVIY29ISllPVXU4ZzhoWFZuanlmSUhYUFFSU2YtUG9NdFRFN3VOWnJfWlZReWRMM1lZTkYxcmRBazE0UEl4UWNpVGFzSW9RVjMweDh0VlJpVEIwc1VaeGt4?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-29T01:15:45+00:00",
+      "snippet": "U.S. Court Filing Involves Approximately 225,364,961 USDT KuCoin",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 34.1
+    },
+    {
+      "title": "Chelsea FC Signs Circle as Principal Partner for USDC - CryptoDnes.bg",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrM3N1MnM4bEMtd004THcxSUxweGVqSXBMYVlZWHJ0MkVQVWVKZXlNYkFRanA5ODNQTFlLTUZQQVVFWHhzMkdmYlRMY1pMd3pMMDBOSGN5YThXcy10WHdLbF82NDhOR01oYndua2JLbTNLelkzVWc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T13:02:07+00:00",
+      "snippet": "Chelsea FC Signs Circle as Principal Partner for USDC CryptoDnes.bg",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 33.96
+    },
+    {
+      "title": "Circle Becomes Principal Partner of Chelsea FC, USDC Brand to Appear on Jerseys - CoinGape",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmtuaHZkdkYyVjVrTDJpeEZRZi1iY1VJVkJSLU5IUzZvbGdRZjRnQ2M1RURDWGtxUUNsczdvRTIyNUNOQTBnaWNFbFkwazcwelFqQV92YUhJaWEwRTFEN2lma05ERDdSbEJmX01KQWFCVHBwSWl3RXhMVjhPT0puRVNOZE85WURuM0ZsamZRU1ZrY1VIaVZaLW0xR2U5aFhOM1E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T12:56:26+00:00",
+      "snippet": "Circle Becomes Principal Partner of Chelsea FC, USDC Brand to Appear on Jerseys CoinGape",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 33.9
+    },
+    {
+      "title": "Chelsea bring Circle's USDC on board as front-of-shirt sponsor - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjRjY21yTDluQXRDcEIzSW9tam14YUNyX3ZzWk1hc1hDdy1NOEszY2lpQ016M3l0MWhmWm5NYmQ0WXNNSHpPdWF3aFRXYmczOHFpdHdzTlZOVEctWWE4Yll4d0tHNi04MjhMWkJTTEg0SEZ0WnNITElDMjBGVERUQ2lzNGN6OGhUSHBUd2hmUkgzUHdrTUEzaUV5VXZrN19JYUg5ajZGaFQ0NjVINkk4VkVPQk5Gbk0?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T12:34:00+00:00",
+      "snippet": "Chelsea bring Circle's USDC on board as front-of-shirt sponsor The Straits Times",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 33.66
+    },
+    {
+      "title": "Circle USDC Valuation Growth Fuels Market Confidence - The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YZDVBVlc0V1l1OUN5VFZkRXQ2Smd0MmF2LTBiazNrV09aeVlxZUt6VlpjYWtJM1VIUG5RRU56TVN5cUVZT2pUQ05wMDBrRWY0aTJZRTdYOGkzVEVSRGVILWJNcDFrUTYwNVE1V1hUR1UzLXhiRGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T09:29:04+00:00",
+      "snippet": "Circle USDC Valuation Growth Fuels Market Confidence The Cryptonomist",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 33.61
+    },
+    {
+      "title": "Chelsea finally found a shirt sponsor and fans already want the blank shirt back",
+      "url": "https://www.reddit.com/r/HisenseFootballZone/comments/1w19dib/chelsea_finally_found_a_shirt_sponsor_and_fans/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-29T01:48:02+00:00",
+      "snippet": "Circle and the USDC logo are officially on the front of Chelsea’s men’s, women’s and academy shirts. The club gets the commercial deal it wanted; fans get a giant logo across a clean blue kit. Sponsorless shirt or sponsor money which one are you taking? submitted by /u/linus_Sam-0107 to r/HisenseFootballZone [link] [comments]",
+      "author": "/u/linus_Sam-0107",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 33.55
+    },
+    {
+      "title": "Soccer-Chelsea bring Circle's USDC on board as front-of-shirt sponsor - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV1BUMWdvVXltc0hfbjJ5YlBQTy1BRmxrRnk4Um1CZUgtOFk2TlhIOGEwN0dPYXVUd1ViU0hOVW9aajg4SklNeExVR3Njeld4cEQycFJ4RjZmSzhkTHl2TDl6WDBJeWpIZm9QNWRGck9OX3BqTXZnXzA2VnpFQk5rNkliWDVER216Tmd3ZDNFZ0I1XzB1UzNhNzF5MjJORFB6YlZKMUJyZy1idVpsNE5JVTZFdFU1R1ZXQUtkX1FRNEIxTkM4TXfSAcsBQVVfeXFMTjUybll6RDZGdUhWVk5xdGJLakFSUE5NNGJTclA2ZWNzVFhEMjhZTDBRMmtVZ1RNeTZtMVpLcE9qYlNQanpVVGgwU1FBcHlYLWRrTk5xTEg0X0dlQkhVVEUwRGJlUlF1VUNpSzJuRnhJdnRpQlFOcllxdHA5NWVoN1NiZHhDWG1OeE9RMFltRUtqQzRCV3QybTNlX01sR1hWZERPdnlFQVNPc2IxREE3NURqMlVWX08zdXlrRkdXeXIxNkROaHc4c3hQUU0?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T12:05:10+00:00",
+      "snippet": "Soccer-Chelsea bring Circle's USDC on board as front-of-shirt sponsor Devdiscourse",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 33.36
+    },
+    {
+      "title": "Circle Partners With Aleo To Launch Privacy-Focused Stablecoin USDCx - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGw4bk5VUldmU3VIUDljSGI3VHNvR0s1VTdBV1kwTlZONEY2MFBaaVVfTllweUxoZEJsVklaU0hwUi1TdEY1NVpsRmQ4M0JERVVaaEp0U0RBTFlQS21vMTVBZ1lWYlhUSk9IVTR1V2p5QmoxNDBpRjZPVTcxMmphZWdFYUtMODhhN3d3M2ppbGo2QzlnNF9TOG9sN1dFc1g2U3ZkQ0l3Rnhnem8?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T08:27:33+00:00",
+      "snippet": "Circle Partners With Aleo To Launch Privacy-Focused Stablecoin USDCx Yellow.com",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 32.97
+    },
+    {
+      "title": "Chelsea FC and Circle Bring USDC Brands to the Global Game - Eagle-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYWJDMlB4cDZXYnoySTI5NHBlUExtdk1CV0paaUFTRFN5eldYd1hjTERULTM1VEt3TnN2MW82a0dCS2JlekZJX3ExTW81M3F2dDNRWUJTQW9RajhGdHlXeTZtQ1oyX2RTQk9iUDBzbjJ3WDcxM3BZYzAta3M1UFBGZHJpZkJYbUlFQUZkTm5EVlpUeW5JTENkLUh4cm9vQm1PM0FJSWlpME5mQmhvSWNoZC1NSEx2X2dxTS1WX3BPSHZ2cHdpV21wWmllLW1tOGpuZkJBTkhQSTdxbndX?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T11:02:36+00:00",
+      "snippet": "Chelsea FC and Circle Bring USDC Brands to the Global Game Eagle-Tribune",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 32.71
+    },
+    {
+      "title": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC - The Block",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTjBFNW03RHlnczJCOERWWlQxY1AtNUJzRGxuaUtUNVo0WUVmaHVhVWNUbmxQVjNYMzA3VzBzWHd6NkswQWVWZmxRNllRTEFpRDFud0k4cjA0N18tcUluRlgxM1o3YzFhS0FjRG9KYmhQandSVUpwMlBFaU5BVFUtaC1rampLTnhDWXhoUkhaM3p0NW1Xc244ZlF1ZDNZOUtJLWxRR2FDMTBTX2ExU2txa1NNNUx1UTJTdFVBQnJ3MWktSVE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T11:00:00+00:00",
+      "snippet": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC The Block",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 32.69
+    },
+    {
+      "title": "Circle gives legacy USDC apps 95 days before old cross-chain transfer routes stop working - CryptoSlate",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVlotLUVtR0xCd0pxQms4bVJDVEpTUXhHc191bUVXZUF1QUJHZWQxaGZmdVo1a1U2UlFQUTVuNmVrZ2pPNTUzNGo1elB0X010Mi1sRmkzZTZpaUZJYjdsSlZvMUxmcVptckpCYklGczhXc0lKc19yaVN5cHNHZTdYdXQxWV9Ec045VXpSQkxVQUI2RVdPQUxvaDVrNG01SHVFV0p4aDkteUhDQlNPZ2NPUjl3bTg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T10:30:12+00:00",
+      "snippet": "Circle gives legacy USDC apps 95 days before old cross-chain transfer routes stop working CryptoSlate",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 32.38
+    },
+    {
+      "title": "Why Is Circle Internet Group (CRCL) Sponsoring A Major Football Club? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU3B4S0Q1M1NjbUo4ZjVWTmRidm1aTDV0MnNWZFdmWFFNamZTREFRNXZxNlVrcmZjdU1PcU5wX3RsdXNkUlpwZEwwU29qcGNYX2hPSjFoSGhuQjVNb3I3cVduazZCc28xemsweno3SEpOd1JEZ29TUUVmN2M0LVNWblNuZ0lKcThSOTdJRUtqb1pXYVdrQzVyLXk2SEJlaFhzeHBhNFNpMXdFbmJzVG5GWmlCV292V3VlUnNtUk1ta3dtUkdMb3RLVlVaZnZaZzF5Zi1hVNIB2gFBVV95cUxNRjZHWUtxbUlGSVlpdTA0Z1MwNFJlMlZENGYwQy1mMjQ4bDJJQVpERFhnS3VzM3VncElKeG1FblFRV05MRFhyOHNqTW9DMWpNUTNmc1hpYmNlcm1iRnJ3OGVqWE0tdWxoZS0zM2FTdXIwQ1I1TjNaUHhHVDNBTG9wUjBXbVRTZjB3TW9nemR4TWEzdldTaWdvWHdMcWpKNWN0NjBWWkV5YUMyQVk5d2FSZ3VQUWxXVVNnWV8xMTVyRVVjSElZNERLeEdOa08wMUJjUzFpa2lLMzh6QQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T21:37:39+00:00",
+      "snippet": "Why Is Circle Internet Group (CRCL) Sponsoring A Major Football Club? simplywall.st",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 31.83
+    },
+    {
+      "title": "Circle and Coinbase Shares Slide as Banks Move to Kill Stablecoin Yield - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkh1V3d6Wnhmb2FVTWlsbng2M2luYl9qRTA3cGRCN1NadUVQbklGSDdScjdPQ3RTTGlRbXZDWExBYUpyM18yOVpwUXBaVlJ3ODFfU1ZSbjA0RE9fQWEwdE5XYkgxekxBRkdES1ZaTl9LMi1hTzlwZnB3MndsU1ktSmFXeFY1LV9RWmY0ZWpKQ3BHMUtRNTZkbUpxUXhBVnZh?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T09:01:43+00:00",
+      "snippet": "Circle and Coinbase Shares Slide as Banks Move to Kill Stablecoin Yield Startup Fortune",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 31.45
+    },
+    {
+      "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
+      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-28T14:53:40+00:00",
+      "snippet": "Bitcoin’s $80,000 rebound lifts crypto stocks as Circle, Strategy and Solana show how capital markets, stablecoins and onchain growth are driving crypto’s recovery.",
+      "author": "Cointelegraph by Sam Bourgi",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 31.08
+    },
+    {
+      "title": "Twelve Major Banks Are Building a Stablecoin on Public Chains. That Changes the Competitive Calculus. - forkast.news",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0gzdEJ0UTQ0ZEhHUmMtOTM0aFpUdGRaZXlSWVMxU0lmUURFRkpFUHdjOUJGYlhheUk4elFvTnk1ZnVtTHhZS3lybW5USUtHYlpjaDNqYWxidFlIUE85bktMemMtU3dHWmFSZkYwemktVFFoejVCZUN6YV9mUzZkZFdOMUozb3VhLVBUX0dRd0tkWDRmZkhvcG12Rjh4R2k4UzhzZVRNNGd6QnFHQ0ZmSlBCaW5jZ3otY1hTamtR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T20:11:56+00:00",
+      "snippet": "Twelve Major Banks Are Building a Stablecoin on Public Chains. That Changes the Competitive Calculus. forkast.news",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 30.93
+    },
+    {
+      "title": "Ethena’s USDe Tops $320M in Eight Weeks, Captures 42% of Robinhood Chain Stablecoin Supply - The Crypto Basic",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDl1dkpEQUs5OExPRFRGbU5lSnNWQVh6YWlfZ0ZicWhpYkVDRXdWc2U1bmMzRjk2ak1MSW9Ra3B3c1hFcVU1SEJlQkNVRjdVMnNxMUhFUkxSZUlQQ3NjVU8tSkRIN1ZMVXhjYlFPenhodlNfUjdnT3ltQk5IS3B3Sk44SW95RnNmV1pXZU5rcmxKQlB5aUV6Tk5xMGtUUXY0OXpkYll4aDZMRXBudmZ3MF9jb0ZLN0xPRWJ3SUxNN0NzTE0?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T08:06:21+00:00",
+      "snippet": "Ethena’s USDe Tops $320M in Eight Weeks, Captures 42% of Robinhood Chain Stablecoin Supply The Crypto Basic",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin",
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 30.88
+    },
+    {
+      "title": "Plasma: Native USDC, EURC, and CCTP go live - 28 Aug 2026 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSnZFVGZQd09PQ0xhTi1iQmdCSXZpbnNEZC00clNjb0ExM1FaaE1yUmlCNDF1Zk5OUV82Ql8wOXBMbVVKU3MtTWpTY0VPbUFISDRPSWJCckUyVHZTQnJnYndOUjZ3UGV6eHBQc0E0dXYtQ1R2ck1LOUd3di1idmpNTE5lc0JkTTRoNUh2OUVaM3laYU9RMmZYdTFBTFdOTmk5eUROY28tbDIzS2l4dE5jbnF6MjE4SGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T20:00:40+00:00",
+      "snippet": "Plasma: Native USDC, EURC, and CCTP go live - 28 Aug 2026 TradingView",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 30.82
+    },
+    {
+      "title": "Revolut Launches EURR Stablecoin To Contest With Circle In Europe - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelQ5eDhrLUhCY3BQVk02LXJneXY5WUpsUzktRzYtYUlBTkpuU2Joc3dKOHkxMmFab2w2aTNhMGVZTm0yelBQd015NkdLR1d1ZlZYcVhvVGR6N3cxQ01xUFB6YTlSMk5FVk9YNkZSVXZ4Rmp4SnhiYUpmTi1VMFZrRVpRRlZ5S2RKTnFXc2szMWk4aEhLY1VYRkdjWElidERFc1pxeGhB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T04:35:20+00:00",
+      "snippet": "Revolut Launches EURR Stablecoin To Contest With Circle In Europe CryptoRank",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 30.55
+    },
+    {
+      "title": "Circle's USDC takes over Chelsea's jersey in Premier League first sponsorship deal",
+      "url": "https://www.coindesk.com/business/2026/08/28/circle-s-usdc-takes-over-chelsea-s-jersey-in-premier-league-first",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-08-28T11:09:27+00:00",
+      "snippet": "Financials were not disclosed, though reports from earlier this year suggested Chelsea was targeting 65 million pounds a year ($88.3 million) for the sponsorship berth.",
+      "author": "Jamie Crawley",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 30.16
+    },
+    {
+      "title": "$320M: Ethena’s USDe Dominates Robinhood Chain’s Stablecoin - Coinfomania",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVnNPbGxDSjFZN2lwLTdPelNabDh1LUlidkFBQVNiUWliazlPTnN4aXZZV0JUVWVsTGFVZkJIRWFoMGtzSnhnaWdncnVQeWMtZHlWYkdPZDhrMWRSRXdNTVhDNkk1OHFXbFpoSEpxbUlTUzRMUXRuSHlvOEhPcmp2TE55RHk0X2c?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T06:37:01+00:00",
+      "snippet": "$320M: Ethena’s USDe Dominates Robinhood Chain’s Stablecoin Coinfomania",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin",
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 29.95
+    },
+    {
+      "title": "Where to Buy USDC in 2026? (Freshly Updated Guide) - The Ritz Herald",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02OFJVTzJ6ZUZYZlVYYUpWVTM4eDdIbTcwME1MajVSUElRSUcwRFBRTlNjcWxKbmY1TWtuMzNFQXRxU1NmWW5VNHEwblNDNnA0MnY3YUIyMnlzN09tejZvaTFST0QxZXd2V1VmMVppZ1BaMFhWMUV2NjdiQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T18:33:38+00:00",
+      "snippet": "Where to Buy USDC in 2026? (Freshly Updated Guide) The Ritz Herald",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 29.91
+    },
+    {
+      "title": "Chief Commercial Officer at Circle is a Die-Hard Chelsea fan. LETS GO !!!! $USDC",
+      "url": "https://www.reddit.com/r/chelseafc/comments/1w0yjhj/chief_commercial_officer_at_circle_is_a_diehard/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-28T18:24:36+00:00",
+      "snippet": "submitted by /u/MoreFaithlessness954 to r/chelseafc [link] [comments]",
+      "author": "/u/MoreFaithlessness954",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 29.85
+    },
+    {
+      "title": "USDC and EURC Go Live on Plasma Blockchain, Enabling Cross-Chain Settlements - blockchain.news",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45bEU4TlE3cDBraDk4a201RUJHMGVmX1hfWE5LR20wNUNOS0tLT2JhRzQzLWlCNU9GOXdFWkxzcHZYd0xPQjl0QkQ2aV91eWo2bmUwSG9nNjQ5SUh6Y3BHQ2s4SQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T17:55:26+00:00",
+      "snippet": "USDC and EURC Go Live on Plasma Blockchain, Enabling Cross-Chain Settlements blockchain.news",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 29.51
+    },
+    {
+      "title": "Chelsea’s ‘borderless vision’ key to Circle deal - businesscloud.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFU1cGdIRVlXa2U5UVBsUURYdi1Xckd2RGY5TnRmQ0kzaVIxTVhtcXhSX0owdXIwS2RZYTFlSE40Qzc5TnZxU1BZZEZrQmJ2NXJoYTUtcFVrOF83OWFYaTlNYUE1c012THVid09ENURySGpmeE9qbm5YUkFUTVdBaXVFaEJfUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T17:41:37+00:00",
+      "snippet": "Chelsea’s ‘borderless vision’ key to Circle deal businesscloud.co.uk",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 29.37
+    },
+    {
+      "title": "Circle economists argue digital finance could strengthen dollar dominance - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oSzl3OWMweU1LeENQdFNlWW95MDFEWG1tMFdPN1l6X25xSE5KTFAwWXk3Y1EzS3JSSWxjY21YcVBMb3ZGdDk5ejFLUVYzb0tIaUpvdTdnQXh5M1BTS1gyRlB5QWp1RVVjMGYwRUc3dWVZb0ZBSTRkWTkyU0V6MDA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T16:37:03+00:00",
+      "snippet": "Circle economists argue digital finance could strengthen dollar dominance Crypto Briefing",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 28.7
+    },
+    {
+      "title": "Convert 0.1 USDT (Tether USDT) to CHF (Swiss Franc) - Bybit",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zbHNrSmJkaE04dVA2OWFheDZZdUpObURzdlJGMk9GRkpXM0xNSjBvSlZhRWJNTWduVTFEaWJhRm5RbWNMMzZINUZ6UC04V0VjVVA4TVozcm4yYzNHbHc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T04:05:00+00:00",
+      "snippet": "Convert 0.1 USDT (Tether USDT) to CHF (Swiss Franc) Bybit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.36
+    },
+    {
+      "title": "USDC becomes Chelsea FC's main shirt sponsor st... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ09qTE9VYWJWaXBGamhSQ2pVd2hGX2pmQ1JyZ1N6WHRqT3BMX1J5Tm9BRk9uMndDeERrczgwMFFrWnk1ZGRGRDB2Y3dYanRDeDJ1ZExYZ0FfTFJ0aU4xcURWUHg5MjlTWmxaMEFLLUVQdDJlT3VLeUpaUXRoeGUxakUwOE4xaldLMUxIc3lVd2N5N0RhLThjZ0NxZHluaF9yQlN1R1R6aw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T15:46:23+00:00",
+      "snippet": "USDC becomes Chelsea FC's main shirt sponsor st... Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 28.17
+    },
+    {
+      "title": "Chelsea end shirt sponsor search but will Circle be a long-term replacement? - SportsPro",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSzlJZ194emNiQ0hHNjZLdXA3S2lKcWNDbmxPQmctWXBDeFVzOUZHdEpPa2Jsc0xySzJWZWk1RFFreE1aUTFWaU11aDc4OXVNUE1UTGVDUVlHMG5tZjUyYTYtNWlBM0R6T0hoN04tb3BDYTBwVnlJVF8wVEZYbERHTVZmRDloc3MwX0ZrU0lLdUpONmdqTk5iNVl3WW5rcGktUmFybElFb0dTaTl5?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T15:45:59+00:00",
+      "snippet": "Chelsea end shirt sponsor search but will Circle be a long-term replacement? SportsPro",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 28.16
+    },
+    {
+      "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+      "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-28T16:17:09+00:00",
+      "snippet": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
+      "author": "Cointelegraph by Nate Kostar",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 28.13
+    },
+    {
+      "title": "Circle Becomes Main Sponsor of Chelsea - ForkLog",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Qi1NZXZPd0piM1NPWF95dlRfQXJ6ZEttaU5kREFwU3p0RE9JVnZRRnJJdGIwQjB3MHhBVDc0bEoyTXdFcHRxdXlpOGh1SjhseEhzMmNxc1ZRaHV6YnMzNjVCWDNIeTVnZnRsRWNENA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T15:00:00+00:00",
+      "snippet": "Circle Becomes Main Sponsor of Chelsea ForkLog",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 27.69
+    },
+    {
+      "title": "Chelsea Agree To Shirt Sponsorship Deal With Circle - RealGM",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTlJPR0J2aFVVWXJ1azloWl9iTjRKNGt5OEpEYXRyeVVnRWdNbkxmTG51aTNkNFRoTEUtdnJHTVRfZm8wSUJpYjJEWVE4dTVwLWtDSFRfZWEyVE1TcXFqNlZCSHVIeXphVi1hMGR6bmRidHFCZFI5TGpiZG9zUlNXemhzZDN3QWxtQ1I1ZWJIZko3U093bnc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T14:31:05+00:00",
+      "snippet": "Chelsea Agree To Shirt Sponsorship Deal With Circle RealGM",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 27.38
+    },
+    {
+      "title": "Chelsea Football Club today announced a landmark partnership with Circle Internet Group, Inc. - Circle Internet Financial",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDh3MmdJWFgzQ21RZTJjWVh5NGF1UTh6STJ4dmh6TjgyRnFZamNCSXV2ZFZBRGZmWHprSFlEUnNkSk1YNE5SeFdGUlp1bVdIS1pfLUVzNGFCMXRDV3J1UHUzeVlseXdWRWs3UHgtcUZkNXk1Qy1HWnc0bVlPeEFSU0JTdHA4SnllVWhsaHk1QVh4SW5N?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T11:08:26+00:00",
+      "snippet": "Chelsea Football Club today announced a landmark partnership with Circle Internet Group, Inc. Circle Internet Financial",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "positive",
+      "score": 27.15
+    },
+    {
+      "title": "BIS flags stablecoin group activity risks, but OCC charters tell a broader story - ledgerinsights.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeVJSS3BLNzZEc1hqSzBtaWlHbDlvSUwwenA3eEpxZ1lzcDZfS0N3V2NBZ3BMUFhnSGYtUGhoV2tuUHFXYURCV3ZKeTBjeVJVbzRqeUJPOTZHazZ5c1BmQ2dfUnFjMkdFR21aMURrUjdFcll6Y2RwYUVCZW0wcXlVUTRIeXd1el9OMUp1OW9fNUctYWJnc0VVNHAwb09qQ0s3SFczOUNLYlNVdVZsRnExaQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T13:57:40+00:00",
+      "snippet": "BIS flags stablecoin group activity risks, but OCC charters tell a broader story ledgerinsights.com",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.04
+    },
+    {
+      "title": "[Markets] Circle’s USDC Becomes Chelsea FC’s First Premier League Shirt Sponsor",
+      "url": "https://www.reddit.com/r/CoinTickerNews/comments/1w0ocjo/markets_circles_usdc_becomes_chelsea_fcs_first/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-28T11:48:29+00:00",
+      "snippet": "submitted by /u/coinwatch to r/CoinTickerNews [link] [comments]",
+      "author": "/u/coinwatch",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.55
+    },
+    {
+      "title": "Chelsea announces Circle as front-of-shirt sponsor - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd2tNd3k3UlctTDY1QzVFMG1KblJ1cWJNN1k1UFA2M3ZqOFdwbE41NTRaaE0zTnpzdkVobFgyVGVlTDBuTFVFZk12djdEOGlmcXUyXzJIY3lsaTFFQ2RsYTF1dGRKd1gzTi14UDl3X1dnWEpxVXEtWlJvaDk2NkZrWE8tRHlhaV94OHgxUjhoR3Y?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T12:48:57+00:00",
+      "snippet": "Chelsea announces Circle as front-of-shirt sponsor UA.NEWS",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 26.32
+    },
+    {
+      "title": "🚨BREAKING: Chelsea announces new front of shirt sponsor!!! ✨",
+      "url": "https://www.reddit.com/r/NortheastBlues/comments/1w0nqbu/breaking_chelsea_announces_new_front_of_shirt/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-28T11:17:58+00:00",
+      "snippet": "From 2026/27,USDC by Circle becomes our new Principal Partner and Official Front-of-Shirt Partner across the men's, women's and academy teams. submitted by /u/Davy_wavey to r/NortheastBlues [link] [comments]",
+      "author": "/u/Davy_wavey",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.3
+    },
+    {
+      "title": "USDC: Chelsea finally agree shirt sponsor deal – with US financial platform firm - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUlJNllERnJfMEdab3BJU29GQmJ2dFpnLUlhdFBYdVNmZW82ajZVLVNCTGRSa1hDRFFoal8zb2FuTGEwRWJteWdlZUFxeTRnQVRoc3V1NlBvbm4tcXpyc3lZWUdVX0lHY3diSHlwd3pwN3lOTGMwUWdia1NwNjVnNEhYZWlPejBCbUM0OEtaUUJ2WUlLQ1VoTDhn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T12:38:00+00:00",
+      "snippet": "USDC: Chelsea finally agree shirt sponsor deal – with US financial platform firm The Independent",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.21
+    },
+    {
+      "title": "What is USDC? Chelsea's new shirt sponsor explained - Insider Sport",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56dkxkbllzekhHdHlKTVdtWldtSEhMU3NCdG5LQ0RTdFZnRnByMXJlVFBVaG9hbk04Qjh2TF9KZ2FmTnVYUzRMZDl6eEU3bDB3cFRZUXA1a3FXVVJraURBRFp1eVc1S3VNdnhzOXZfcndVWjczS1BocjVaSmFvOXfSAYQBQVVfeXFMUDVqTS02WUFjdU4yTUMxZUhLNmJqRzlySmd4Mk9vNFZXYXFTMHlIaG1Pdm1GamNReWVsTXZObGJXV1FzRTlyUkZsRm5SbVdCVV9HTWFTc1JMOUlOVHBWUHhkV3k3M3lVV2YyM3dOdlhmTk5lZWNXaVh3dVozeWZWTUZ0RFJf?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T12:37:48+00:00",
+      "snippet": "What is USDC? Chelsea's new shirt sponsor explained Insider Sport",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.2
+    },
+    {
+      "title": "Chelsea Announce USDC as New Front-of-Shirt Sponsor From 26-27 Season - Footy Headlines",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzVUcS1NZWRaRjFmVEJDbnhqRnd1VW5KZ2E5Q01yZ3Vsb3dMT2hhUlhWdWNxZnllNi1Uaks0T19KMjdtdVBLZU1SZVJqZU00bzEyRWdCTlg3Q3lCYjFlRDFFaVB2S1ZhUGc2Y05LbWJGV181NVNKd1lmbnBoZVpWVUkyWThFd1RfZFVWcnJXcTF4WTVRTGZkMk0zUFJNRmxlenRkSWtsU2c4X2xsWnVYWUhiQzV1a1E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T12:30:00+00:00",
+      "snippet": "Chelsea Announce USDC as New Front-of-Shirt Sponsor From 26-27 Season Footy Headlines",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 26.12
+    },
+    {
+      "title": "Chelsea announce one-year front-of-shirt sponsorship deal with financial platform firm Circle - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlVsOXZxNWNqc2ZpVm9qRS13Qy1qV2k0QjYzUHh4X0dIVzFmQTMyWHlfT1d6TzJQU1JqbV9WTk9PSGYyRnE1SlpHVzl3SFRJZXhhNElkM1h4RU5EeFFJUG9iVEo1SjNmVEdrRDZQQnJlUTd3RjBlTVRpUFkza2FrZHU5T25ReEIyd3JlMkhn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T12:06:00+00:00",
+      "snippet": "Chelsea announce one-year front-of-shirt sponsorship deal with financial platform firm Circle The New York Times",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 25.87
+    },
+    {
+      "title": "Chelsea announce new shirt sponsorship with Circle - BBC",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSm5JSndrSVBSREJPakxjTDhWSUVUYzdMZ3JlUHNPM1B0UTR4Wl9zVmVwNFdrOTNySkVGczAzSXppZGY1WDFieW9JMDJIV3diNmFzVEU4dHVMcGJnVkZxWjluR1RiT1F1c1E3NFUzVzB3NmhwZ3Zva0tRbkdQUGliX1JWZ3h5WUpzSDkyWEg3a3N6LU82S3VKT0dYeFdaWUNfSlRtaDV5QXFDdG1BdnpIWnplQktrMGpBS1JINHZFWElOZWgxdEgtSVdyVGlIQUJlTVdiUGpxLU5xa2YxYWVpVm5YbE1xQUlRUlE5amtiRlM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T11:44:30+00:00",
+      "snippet": "Chelsea announce new shirt sponsorship with Circle BBC",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 25.65
+    },
+    {
+      "title": "Big-spending Chelsea sign up crypto firm Circle as shirt sponsor - City AM",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkxSSS11VUs5Z1VXV3pIYXVIcDFfcHI4NktNcUN1YURfbVV5d1ZwbjhSM0hXRXEzak8zU09sNVh4VXlPTldYaGwyXzlUR0hjdHlzbzBKY1dRMkxobVI2eFVrbEt3cjhMTnlrYkdRVS0xV0tBbEZVTkdqMjFWdUd0dmZZa0ZpNUlSZllMdmg2M2VWUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T11:41:11+00:00",
+      "snippet": "Big-spending Chelsea sign up crypto firm Circle as shirt sponsor City AM",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 25.61
+    },
+    {
+      "title": "Circle Signs Front-of-Shirt Sponsorship Deal With Chelsea FC - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zRGxicFlVOWlCMExxS1lva0R1Q1ZHUGZjUUk0MkxBZTNPdmF0UmlaZTE1VFUyVUdkcWFKdmNscndhTmlCS0lqLS1IN1EwOGZ4Q0szTw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T11:21:29+00:00",
+      "snippet": "Circle Signs Front-of-Shirt Sponsorship Deal With Chelsea FC bloomingbit",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 25.41
+    },
+    {
+      "title": "Chelsea reportedly in talks to feature USDC logo on team shirts - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAteHJfM3ByVF9reXcyWXV3Y1hJNjZjTkRBVHNxZEtoMkJJdkFGSldzdHY5cnY0VnpYalFhWG1LZElSTFZHTWhjUkpLYVdPOUVrTDJ3STN5ZC1hNklqS0l6eVNrWkhfSGJxZGNEc3JPS0Y?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T11:00:48+00:00",
+      "snippet": "Chelsea reportedly in talks to feature USDC logo on team shirts Crypto Briefing",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 25.19
+    },
+    {
+      "title": "Bank Plans on CLARITY Act Send Circle and Coinbase Shares Lower - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDgtb3lmN0tXQlR3aXNVNDI1Z09weVpyZDFiUzBmY1J2aTdobEF2clJ4YmZiWnZLc1kteVpnbWFHTUJVNHV3YWpKZTBDR2puZk1mWEotM1VrUHE3cXY2VFBtc1ZaUGtsWWpNMXRkYjc1bWtYaDI5ejdVQnVIUFpyN1c3eWZVX1E3MmgtWDQzM1pnRFV1WVhn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T09:11:59+00:00",
+      "snippet": "Bank Plans on CLARITY Act Send Circle and Coinbase Shares Lower Yahoo Finance",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 24.06
+    },
+    {
+      "title": "Coinbase Fall on Bank Stablecoin Plans Before CLARITY Act - Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbm5mWnRYSnpoSnFIZWFkN1NGOGlZQlktUWhQNVpqSFZhNXRINHFxSlVIekFralJWcHAydkYyOW9MXzNEanhjZjMtQUVRZkR6Q1BUNGtGeEcxRWFpRmJoSFhCY1NLa1JHRDBIZHc4VTFSRW41ekxhRktqckYzVkhEMlhyNE4?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T09:11:59+00:00",
+      "snippet": "Coinbase Fall on Bank Stablecoin Plans Before CLARITY Act Cryptonews",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 24.06
+    },
+    {
+      "title": "Margex Launches Competitions Mode Featuring Weekly Fantasy Leagues and 10,000 USDT Rewards By Chainwire - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZXdxZS1GNl90Y3pMV2ZTS19wRXJ6YUhleTl0djItRGg1elJrTEVFekNmamtfTmFDRENWTmhvYXRyUlpNRUllV3lHRFUyUDg1R2wtR2JIWFlrMXdCakVLRmpkNTJlREgyWWJMcjBTM0xxTTRUQW9MMGZ1UWYxX1c2Qk1qS19YbjVvYUZVd0xXdDBXU3FQeTVGQmgzVERvYXlYdjdjdG5iTVh2M2VKQmVDWnpsWi1sc2x2UkRLZlNFLXJvSjhYbmhEX0NQekZFal9vdEJSYmlXSVA2TFc0SG1CMk9R?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T06:06:36+00:00",
+      "snippet": "Margex Launches Competitions Mode Featuring Weekly Fantasy Leagues and 10,000 USDT Rewards By Chainwire Investing.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 24.0
+    },
+    {
+      "title": "Dunamu and Visa Partner on Stablecoins, AI Payments and Global Remittances - DailyCoin",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGxwZUR1aEFuZF9XVE16SllFVXMzdWxmb2k1dUh0SXp2c05BVGVQbXRPNUJITVBTNkRfTTB5LTlyazg0YWdBM0NFNkR6eHcyMHcwYjMySy1nLXRSTU1sWHlxQ0t6ek9mdFNUZVR3UmRZeS14Ti1OQ2dreXFQcmZQT3pnYw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T09:00:11+00:00",
+      "snippet": "Dunamu and Visa Partner on Stablecoins, AI Payments and Global Remittances DailyCoin",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 23.94
+    },
+    {
+      "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+      "url": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-08-28T12:18:31+00:00",
+      "snippet": "The Japanese financial giant is acquiring a 20% stake in the Indonesian online brokerage to build a cross-border, blockchain-based settlement network.",
+      "author": "Olivier Acuna",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 23.92
+    },
+    {
+      "title": "Ethena's USDe Tops $321M On Robinhood Chain Just Eight Weeks After Launch - Bitcoin World",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWDNWcUNFalJaajU4azIyNkRPTGJGWmRLWjA4dC1CMGg5NmZlTzl2ZFlpcXZFNzBXZjZjQWg2dUNiOVFheGJKSlY0ZEwtU2FQUFFtbHljSURmVFFWTzN3TUc1eTFULUpwd0E?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T05:55:11+00:00",
+      "snippet": "Ethena's USDe Tops $321M On Robinhood Chain Just Eight Weeks After Launch Bitcoin World",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "positive",
+      "score": 23.89
+    },
+    {
+      "title": "Latest International Business Machines Corporation Tokenized Stock (Robinhood) News and Social Media Feed - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUdVTUtKXzQ0bTlMUVB0U1NVSzlFZ1I3Sy1qNzY1aXg1cGFCUngxVEZmdVdiY2hMUnpwZmhKOVk4VG1GcE41NG5TT0pHdDlBVzRfcWw1a2hYc2hiRE9taVgzWEdicktOSGV4V2VKaU5uc3RuMjI1VmF4NlptT3J3aGZuN25PM2VSdlo0X2F6Y1pYbXBYWkNHMlVKYmc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T07:45:18+00:00",
+      "snippet": "Latest International Business Machines Corporation Tokenized Stock (Robinhood) News and Social Media Feed CryptoRank",
+      "author": "",
+      "query": "Robinhood crypto USDC",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 23.16
+    },
+    {
+      "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
+      "url": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-08-28T10:21:47+00:00",
+      "snippet": "Following a deal with Shinhan Financial, the global payments giant is widening its footprint in Asia’s major crypto hub through South Korea's largest exchange.",
+      "author": "Olivier Acuna",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 22.8
+    },
+    {
+      "title": "Stablecoin Payments for B2B: Inside Korea’s New Pilot - OneSafe.io",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QQ2toNl90emlISkJkc3puNlpVbWVyNjhsM0ZKdWw5RkxWRDZuai13eTFsMTVvbXF0TUlBdVV4dWVyTnh0TmdIbU1qVFJxRFJEd1prUW1qS2YzV2lidnlROTZDMTJMTDFXRU9YZjN1NGQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T06:36:29+00:00",
+      "snippet": "Stablecoin Payments for B2B: Inside Korea’s New Pilot OneSafe.io",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 22.44
+    },
+    {
+      "title": "Ethena’s USDe Supply on Robinhood Chain Surpasses $320 Million - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXcmRHMVNia1lVUzNaV3RfYWp1M3A2Szlvbm5IRUZFYWFUR2VNUzFLTmEtV0NCYWlzUkpta05JYXh0QmNrcDBESGJ4czVHZUdNNUxlWA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T06:00:13+00:00",
+      "snippet": "Ethena’s USDe Supply on Robinhood Chain Surpasses $320 Million bloomingbit",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 22.06
+    },
+    {
+      "title": "Circle Internet (CRCL) Rallied After the White House Crypto Summit. Can Regulation Fix its Rate Sensitivity? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXFYOGpaOE1EYnp3YVRzVTBPRnMwZEMwOEw2cnZiWEg4YzZJQTM2UklWODdRektVRVE5YmFYQjd2YnZjaHVxUTNwUkJOQlBpNUtTWnYwUUliSXE5Z0Y0dmg5SHk1eWEyR1ZjQlNVdTBMLU44YzdnV0lfM1R1aHpEZC1rLVhOZUVKeHlINkpwM1doSjJqVmtlZHR3R0hYS1FL?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-27T21:28:38+00:00",
+      "snippet": "Circle Internet (CRCL) Rallied After the White House Crypto Summit. Can Regulation Fix its Rate Sensitivity? Yahoo Finance",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "risk",
+      "score": 21.73
+    },
+    {
+      "title": "BTC/USDT Trading Guide: How to Buy and Sell Bitcoin with USDT - timesdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVURudzB3bFpEUno3TFhQVTRnRHhZLTMwY21hZDFqdXBfdEZlV1psN3ZQT3B2dks5Q3h5UUZzNGM5eGdJMVVNaEY2eTNSSmNlczdlZFdQZkMwb2p3M3IzSHdwaWlWZm1Wb1EwaF9HYmpIRGxZb0R6emhCcjR2cWNtb3l6dGN4alJmTzFQS05jTUExbS1OVC11bkEwOWFvTmdWSXhQeXk5T3NWYUFwMnppLURIV21acFNtV0pJb05ZU1hUVjlKT1k3bVpyZjZsVjlBbjBaREdkOG5DS29EbEUtQw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T05:00:00+00:00",
+      "snippet": "BTC/USDT Trading Guide: How to Buy and Sell Bitcoin with USDT timesdaily.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 21.44
+    },
+    {
+      "title": "[Nizaar Kinsella] Chelsea a front-of-shirt sponsorship deal with Circle Internet Group. It is said to be in line with market rate, with the Blues having asked for around £50m for their FOS sponsorship, though figures th...",
+      "url": "https://www.reddit.com/r/chelseafc/comments/1w0o322/nizaar_kinsella_chelsea_a_frontofshirt/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-28T11:35:35+00:00",
+      "snippet": "submitted by /u/arvi_1301 to r/chelseafc [link] [comments]",
+      "author": "/u/arvi_1301",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 20.44
+    },
+    {
+      "title": "NEW FRONT OF SHIRT. Welcome to Chelsea, TeamUSDC by Circle. From 2026/27, Circle becomes our new Principal Partner and Official Front-of-Shirt Partner across the men's, women's and academy teams. Bringing together the g...",
+      "url": "https://www.reddit.com/r/chelseafc/comments/1w0nmpd/new_front_of_shirt_welcome_to_chelsea_teamusdc_by/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-08-28T11:13:01+00:00",
+      "snippet": "submitted by /u/Western_Height_1021 to r/chelseafc [link] [comments]",
+      "author": "/u/Western_Height_1021",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 20.26
+    },
+    {
+      "title": "Cash App Brings USDC Payments to 25% of Its 60M Users - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qQnZRbUlVX2NodHFFT2tuRlhNNTZ3QkpjaW4wdjg5NTFNcDg0cnAweG54Y2ZFclBxV0RjNEpFUnZhS2hyMWoycGxUdHdLcW43VE9JeWhRem56VS1SZ09JdElVeTBhYUVfNXQzUXZnbVE5RjIzWjRrSVh0WGw3UQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-28T02:48:23+00:00",
+      "snippet": "Cash App Brings USDC Payments to 25% of Its 60M Users CoinMarketCap",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 20.06
+    },
+    {
+      "title": "Visa works with Upbit parent on stablecoin payments, AI commerce",
+      "url": "https://cointelegraph.com/news/visa-dunamu-stablecoin-payments-ai-commerce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-28T07:41:15+00:00",
+      "snippet": "Visa and Dunamu will explore stablecoin payments and remittances, with Open Standard’s proposed OUSD among several projects under review.",
+      "author": "Cointelegraph by Helen Partz",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 19.42
+    },
+    {
+      "title": "The Foreign Owners Behind Trump’s $4 Billion Stablecoin Bank - BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oaThfTmpCRmtXVlRJeTZhS3dIajhkZzdCbE9pS1N5UzMtRlFJYU53ZURrWnV2YzJlN0ZHbHQxSW54TG9ZV3VTa3BNLVhvM0h1Z1p5eHUzRE5TOHdTLXZSU19lOW1QQ0llZEFSWkhzZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-27T22:50:00+00:00",
+      "snippet": "The Foreign Owners Behind Trump’s $4 Billion Stablecoin Bank BeInCrypto",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 17.58
+    },
+    {
+      "title": "How Stablecoin Payments Work: A Guide to Blockchain Settlement - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjM0WlFsa1plOTBtb1h1bHQwZFhjdW0zTHZJbGViOXo2NmFZWUNzSGRLMG5CYjFpMldaTWF1Ykc2M2h3UUNiTTJYZmJTLXhnMjlLWnNpc25MTlVybmtIXzltWTBWbFI2NlVPR3JHZEJYWlNfT3NDOTZQWDZ3WUZEZDFNWF9qb2JmUGNxLTNLZExxUHVNYjF6anBDSjMxRzRP?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-27T19:42:18+00:00",
+      "snippet": "How Stablecoin Payments Work: A Guide to Blockchain Settlement CryptoRank",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 15.63
+    },
+    {
+      "title": "272M USDC Moved from Coinbase Institutional to Coinbase: What It Means - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZQ2ZhQlhBaTNQYUZuTEh4QllYbDBNWUVJQUFJckY1Nm9oM1hqNHRERFNtSWNnR3ZiNkp6bDdiUDZna1E0V182Mm52UVpkMjIwejlDTjNVVQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-08-27T19:03:24+00:00",
+      "snippet": "272M USDC Moved from Coinbase Institutional to Coinbase: What It Means Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 15.22
+    },
+    {
+      "title": "Trump cost investors $4.7B through crypto ‘schemes’: Public Citizen",
+      "url": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-27T19:22:14+00:00",
+      "snippet": "While investors in World Liberty Financial‘s USD1 stablecoin “haven’t suffered major losses,” many lost billions of dollars in other Trump ventures, according to Public Citizen.",
+      "author": "Cointelegraph by Turner Wright",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 12.95
+    },
+    {
+      "title": "Mirae Asset lays out crypto, stablecoin, tokenization plans for Digital X",
+      "url": "https://cointelegraph.com/news/mirae-asset-lays-out-crypto-stablecoin-and-tokenization-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-08-27T19:00:00+00:00",
+      "snippet": "The South Korean financial group plans to build a $109 billion digital asset business spanning crypto, stablecoins and tokenized assets, according to The Korea Times.",
+      "author": "Cointelegraph by Nate Kostar",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 12.76
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 58,
+      "USDC": 45,
+      "Tether": 4,
+      "USDT": 7,
+      "Stablecoin": 27,
+      "Robinhood": 5
+    },
+    "platform_counts": {
+      "News RSS": 73,
+      "Reddit": 12,
+      "RSS Feed": 9
+    },
+    "risk_count": 9,
+    "top_risks": [
+      {
+        "title": "Full Circle: USDC Stablecoin Issuer Becomes Chelsea's New Shirt Sponsor - Finance Magnates",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFBOblBtUFhSTVB4NGVqV0VUV2xYcHJjYS1fN1JLbmhJS0VnOHZXZTF5MnQ2UDlSYllOZWFnNUdZeE85WF9ETUsyWlBOX3F1eHYySHBNN3JMZ1hKbmcyQXIxN3hPX001a2NPeVRMcUNwT3pZcGlfZk5OcndOeUNUZy1nQy1fR0s5Q3p6aW9pcmJXaGVGanJfNVVLTVpYWHVDbjJsZEFn?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-28T11:41:18+00:00",
+        "snippet": "Full Circle: USDC Stablecoin Issuer Becomes Chelsea's New Shirt Sponsor Finance Magnates",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 45.62
+      },
+      {
+        "title": "Would you buy shippable goods from a small local business if you could pay in USDCx?",
+        "url": "https://www.reddit.com/r/cardano/comments/1w171xz/would_you_buy_shippable_goods_from_a_small_local/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-08-29T00:00:02+00:00",
+        "snippet": "The idea: customer signs the USDCx burn in their own wallet, Circle's xReserve redeems it to USDC, a licensed off-ramp deposits USD in the business's bank. The business never holds a wallet or touches a token. I took this to Catalyst and it was archived — no first-two-weeks activation plan, and I claimed a maturity level that didn't hold up while still hiring the integration dev. Both fair. I can still validate the technical path myself on Circle's testnet, and I'll open-source the harness rega...",
+        "author": "/u/TheGridOutreach",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC"
+        ],
+        "sentiment": "risk",
+        "score": 43.65
+      },
+      {
+        "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1w0yoso/chelsea_fc_gets_a_stablecoin_sponsor_after_uk_fca/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-08-28T18:30:13+00:00",
+        "snippet": "Stablecoin issuer Circle signed a deal with Chelsea FC after the UK’s Financial Conduct Authority sent warning letters about “questionable sponsorship deals“ involving football clubs. Circle, the issuer of the USDC stablecoin, has signed a sponsorship deal with Chelsea FC. This partnership comes after the UK's Financial Conduct Authority (FCA) warned football clubs about questionable sponsorship deals with unauthorized financial firms, including crypto companies. While Circle UK is authorized b...",
+        "author": "/u/rwatimes",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 41.4
+      },
+      {
+        "title": "USDC gets promoted to the Premier League with Chelsea main shirt sponsor deal",
+        "url": "https://www.reddit.com/r/RWATimes/comments/1w0wmnu/usdc_gets_promoted_to_the_premier_league_with/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-08-28T17:15:18+00:00",
+        "snippet": "Circle becomes Chelsea's principal and front-of-shirt partner for 2026/27, putting USDC branding on the men's, women's and academy kits. Circle has secured a prominent shirt sponsorship deal with Chelsea Football Club for the 2026/27 season, featuring USDC branding on all team kits. This partnership aims to significantly increase mainstream global exposure for the USDC stablecoin by leveraging Chelsea's international football audience. The deal is primarily a brand placement initiative, with no...",
+        "author": "/u/rwatimes",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 40.78
+      },
+      {
+        "title": "Circle secures USDC as Chelsea FC's front shirt sponsor from 2026/27, a Premier League crypto first. - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnhRM01VNVpQUlFnNm1VS3BOUmp2NnQwSXVQcWpZWE5lTVFXYW5DZHUwdVNsaFpzbmJRVENNRGJfRjN5cTBjMW0yZlYwanpRZkNocFBsWHZDS0hMVG9RVG5aVFc1c0UxUW5NbUhWWmwyMGxXTVVpLTZjUEhkSmlEcEhVWEdKS3ZGc240UzVLYWpieXVQ?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-28T12:25:31+00:00",
+        "snippet": "Circle secures USDC as Chelsea FC's front shirt sponsor from 2026/27, a Premier League crypto first. Pluang",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC"
+        ],
+        "sentiment": "risk",
+        "score": 38.58
+      },
+      {
+        "title": "Chelsea Football Club announces Circle Internet Group as Principal Partner. what do you think of the new sponsor? Also... how do you rate the actual shirt with the Circle logo on it? 👀💙",
+        "url": "https://www.reddit.com/r/NortheastBlues/comments/1w0oap0/chelsea_football_club_announces_circle_internet/",
+        "source": "Reddit RSS",
+        "platform": "Reddit",
+        "published": "2026-08-28T11:45:58+00:00",
+        "snippet": "Chelsea announce Circle as new front-of-shirt sponsor from 2026/27 Chelsea have announced a new landmark partnership with Circle Internet Group, with Circle becoming the club’s new Principal Partner and front-of-shirt sponsor from the 2026/27 season. The Circle and USDC branding will appear on the front of Chelsea’s men’s, women’s and academy shirts. Circle, founded in 2013, is a major player in the digital-asset space, with USDC — a regulated stablecoin designed to allow fast, 24/7 global mone...",
+        "author": "/u/Davy_wavey",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle",
+          "USDC",
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 38.03
+      },
+      {
+        "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+        "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+        "source": "The Defiant",
+        "platform": "RSS Feed",
+        "published": "2026-08-29T06:42:10+00:00",
+        "snippet": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
+        "author": "The Defiant Team",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Circle"
+        ],
+        "sentiment": "risk",
+        "score": 34.2
+      },
+      {
+        "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+        "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "platform": "RSS Feed",
+        "published": "2026-08-28T16:17:09+00:00",
+        "snippet": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
+        "author": "Cointelegraph by Nate Kostar",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 28.13
+      },
+      {
+        "title": "Circle Internet (CRCL) Rallied After the White House Crypto Summit. Can Regulation Fix its Rate Sensitivity? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXFYOGpaOE1EYnp3YVRzVTBPRnMwZEMwOEw2cnZiWEg4YzZJQTM2UklWODdRektVRVE5YmFYQjd2YnZjaHVxUTNwUkJOQlBpNUtTWnYwUUliSXE5Z0Y0dmg5SHk1eWEyR1ZjQlNVdTBMLU44YzdnV0lfM1R1aHpEZC1rLVhOZUVKeHlINkpwM1doSjJqVmtlZHR3R0hYS1FL?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-08-27T21:28:38+00:00",
+        "snippet": "Circle Internet (CRCL) Rallied After the White House Crypto Summit. Can Regulation Fix its Rate Sensitivity? Yahoo Finance",
+        "author": "",
+        "query": "Circle USDC",
+        "engagement": 0,
+        "entities": [
+          "Circle"
+        ],
+        "sentiment": "risk",
+        "score": 21.73
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Circle",
+        "count": 58,
+        "headline": "U.S. Banks Move Into Stablecoins, Challenging Tether and Circle - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0xKOUNYSVBwRlZFNzhnZ24zam9rRURHSlJWQl9QS0M0R3NrY3Z4Q3pwSGFfd1RfZTBUaU9NQ3BaX1JiX2hVa3NHYVlfNXVaeUNGTlN4Qkl0Z2Rhc0FQWnBTOFBRSWJsZlE2Rk9GOU1UNENEZVZmQ0ltRVlzcXZhUThoRzlaTUVfYllzRmRRdFFZeFFFX29nYkhPRHZsWHRDc3pveg?oc=5"
+      },
+      {
+        "entity": "USDC",
+        "count": 45,
+        "headline": "Aptos Integrates Circle’s CCTP V2 for Seamless USDC Transfers - Cryptonews.net",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50ZG5EQUhweEtmN1JsRU1yd2JmQlFQUEhnT1dQRW4wemtBeDJ6SjBqOUtqSkVRQVZMbVpCd2h0ZmZocjdtT0l5WXpNR3dqaTFFR3dhY0VTUmMtMWVB?oc=5"
+      },
+      {
+        "entity": "Stablecoin",
+        "count": 27,
+        "headline": "US court files civil forfeiture case involving 225 million USDT stablecoins linked to Tether. - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KMDNtS0lrTmtZcmx0TnZtTWpWRUVrR0pOV3BUdUhmUXpEWmpoVFZlbGRBQm54U0ZqRmp3MlUwaF8wZXdOM3I4eEFnSlpQeFZBRWxIR09BZVpFc2NkYUgzWDQyNHhUUHBiTXVpMUhGMGFmMTU4aW03T3VBM1FjUQ?oc=5"
+      },
+      {
+        "entity": "USDT",
+        "count": 7,
+        "headline": "US court files civil forfeiture case involving 225 million USDT stablecoins linked to Tether. - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KMDNtS0lrTmtZcmx0TnZtTWpWRUVrR0pOV3BUdUhmUXpEWmpoVFZlbGRBQm54U0ZqRmp3MlUwaF8wZXdOM3I4eEFnSlpQeFZBRWxIR09BZVpFc2NkYUgzWDQyNHhUUHBiTXVpMUhGMGFmMTU4aW03T3VBM1FjUQ?oc=5"
+      },
+      {
+        "entity": "Robinhood",
+        "count": 5,
+        "headline": "Ethena’s USDe Tops $320M in Eight Weeks, Captures 42% of Robinhood Chain Stablecoin Supply - The Crypto Basic",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDl1dkpEQUs5OExPRFRGbU5lSnNWQVh6YWlfZ0ZicWhpYkVDRXdWc2U1bmMzRjk2ak1MSW9Ra3B3c1hFcVU1SEJlQkNVRjdVMnNxMUhFUkxSZUlQQ3NjVU8tSkRIN1ZMVXhjYlFPenhodlNfUjdnT3ltQk5IS3B3Sk44SW95RnNmV1pXZU5rcmxKQlB5aUV6Tk5xMGtUUXY0OXpkYll4aDZMRXBudmZ3MF9jb0ZLN0xPRWJ3SUxNN0NzTE0?oc=5"
+      },
+      {
+        "entity": "Tether",
+        "count": 4,
+        "headline": "US court files civil forfeiture case involving 225 million USDT stablecoins linked to Tether. - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KMDNtS0lrTmtZcmx0TnZtTWpWRUVrR0pOV3BUdUhmUXpEWmpoVFZlbGRBQm54U0ZqRmp3MlUwaF8wZXdOM3I4eEFnSlpQeFZBRWxIR09BZVpFc2NkYUgzWDQyNHhUUHBiTXVpMUhGMGFmMTU4aW03T3VBM1FjUQ?oc=5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 852,
+      "kept": 73,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 16,
+      "kept": 12,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 3,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 5,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 37,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
