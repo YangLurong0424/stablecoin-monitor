@@ -1,0 +1,1134 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T04:09:38.409339+00:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "title": "Circle Says It Won’t Rush to Reverse Arc Transactions Even After USDC Hack Worth Hundreds of Millions - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3alFDSHJWZ011MWVBXzdjc29SZWhiaXc1LUs5THJzN3NUOWo5NUhKbzVIZlZNQlh1NUp5TkdRQ3hTbjNCSllvbWRUTkN6dGQzVlVEaA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-19T00:49:29+00:00",
+      "snippet": "Circle Says It Won’t Rush to Reverse Arc Transactions Even After USDC Hack Worth Hundreds of Millions bloomingbit",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 42.91
+    },
+    {
+      "title": "CRCL Stock Rallies As Bitcoin Strengthens And USDC Adoption Grows - StocksToTrade",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGpVZWRZelk3Z0NHZERLaWNVdlpKTDRwWHhDLWtRT0pUa3hEYmFFRTZabG02cWhIX3MzRXEyQVpmaF9VYTZqczBrWllKZUZqUHl0NjJEUGYwdW1DbVdVTUxOMUpId2daMEF5UTFzQS02SzJkbzBBUTRIaGtZSW4wTHRYVDA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T20:49:00+00:00",
+      "snippet": "CRCL Stock Rallies As Bitcoin Strengthens And USDC Adoption Grows StocksToTrade",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "positive",
+      "score": 42.28
+    },
+    {
+      "title": "I went looking at Arc because I assumed it would be boring institutional stuff",
+      "url": "https://www.reddit.com/r/CryptoInvesting/comments/1wk6qgi/i_went_looking_at_arc_because_i_assumed_it_would/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-09-19T00:03:14+00:00",
+      "snippet": "I finally went looking around Arc today because everyone kept talking about Circle and USDC. I honestly expected the whole thing to be payments, stablecoins and serious finance stuff that I probably wouldn’t touch. Then I opened Pump fun and Arc was sitting right there in the chain filters with coins already moving around. That was a funny way to realize how quickly a new chain stops being whatever it was “supposed” to be once actual users show up. I’ve been checking it through Pump because I a...",
+      "author": "/u/Ok_Cost_9697",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 39.94
+    },
+    {
+      "title": "TRON's USDT stablecoin supply surpasses Ethereu... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU25CY2R0SWlEVXBkNkh2U0NpUU1VQlNWMk9Mc3ZubGg2aFJxeEQ5WFoxMUpEc0JBYTdnYnd5N0o1VElCLWExTVM1Z24xVWRGRHp4NUFLRll6R3hHdmJlV2N2Z2VFdF90ZkNyNkJidnJSRGhGNC00V3d0bVBVWURWbFVWUG4xazVrNHJfOUJYUnZMNjV3QmhZYVVEVW5tYjZvTjdKRnVlQlA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T19:54:27+00:00",
+      "snippet": "TRON's USDT stablecoin supply surpasses Ethereu... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 39.84
+    },
+    {
+      "title": "Robinhood Chain Dollar-Pegged Stablecoin Market Cap Tops $1 Billion - Longbridge",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92dUJabkVRUFktdzhYQzhObUNXNnRJakZhQXJiMEgzLXgtb0c5TzRVTElycDUtRzFySmJJTmFzaXpMWDU4OFdJYVY4aXVFWl9lb2c?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T17:49:14+00:00",
+      "snippet": "Robinhood Chain Dollar-Pegged Stablecoin Market Cap Tops $1 Billion Longbridge",
+      "author": "",
+      "query": "Robinhood stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin",
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 38.53
+    },
+    {
+      "title": "Chainstack extends Arc Mainnet support: Stablecoin Layer 1 built by Circle - The Defiant",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMzlrWXAzN3dPeXdhNkRSX3VPeV9MZkNwRGpQcnhRMHhmYldobk9aTjM3LUJ2T3dtYkZPUExxaDh3cjZXQnc1SzVYSnhIVHRMRVpsNWtoVldBOXQ3WlhXNnpTcFU2cU1wR0ZRSTF2LVlCVEVDQ3NPRWtKdkNBMmU4SlVBZzhhbXBIRjFiRHhncVJsRXptc2FpckYxam0xVTZYUE5iX3R3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T16:28:23+00:00",
+      "snippet": "Chainstack extends Arc Mainnet support: Stablecoin Layer 1 built by Circle The Defiant",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 37.69
+    },
+    {
+      "title": "Hyperliquid Launches USDC and USDT Manual Borrows Against HYPE & Bitcoin - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGRqYi16ZFUzWExpOGZ5TTZseXhVSHgxRGpCS1hiUnlSUngwVkhDZDRWelc5aWZCUkRMRFRVUGNyNkRJTHN1dTJRUnEtTkIyWVhxb3dpTEVRX19aUTVXRC1FYWR2SlZiTnhVM043WFpWMV9fa0w4M0lDQ0dkQmxUbm1XM2g5UDhFMjJ2S3J4TGhkaDdQWTdEYUxBeWFtSG10TDJhNQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T12:07:21+00:00",
+      "snippet": "Hyperliquid Launches USDC and USDT Manual Borrows Against HYPE & Bitcoin Yahoo Finance",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT"
+      ],
+      "sentiment": "positive",
+      "score": 36.85
+    },
+    {
+      "title": "Circle Wrapped BTC Exchanges CIRBTC Markets | Buy & Sell & Trade - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mOWJVeXFNcjNKbURwRHN1RWpVS2t2T25rRWN6UmJtU1hNS2hJcHMtenZQZEo2aEVDNnF0VFg2TXhfbXhXRnZkRDVhQmVwZnlWRXFZaFBzc05PMjdZclRNcEhuNXJ6M1k?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-19T00:45:06+00:00",
+      "snippet": "Circle Wrapped BTC Exchanges CIRBTC Markets | Buy & Sell & Trade CryptoRank",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 35.36
+    },
+    {
+      "title": "Circle's Arc blockchain won't reverse stolen US... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2YwUEFqck03YTdhLURfb3U4ZXB3SVk1am01ZkJOUnpkNXBsbzZSRDZyaU5QSm5wLV9PNkdZT09zckl3RUFJQkZJY0pnQWlLX1pTVDYxRnBQQjBIUk9JOXFlbXJGeVcxVElQZk8za3VMdS1WNVpsNXhTNi0zWVRGWjRmdEpjd1hsbngwNEx4WFdNTmY2a3BUUkpScC1IeThvWlJiWTNuckNPUVp5elYtU1Fn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-19T00:25:08+00:00",
+      "snippet": "Circle's Arc blockchain won't reverse stolen US... Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 35.16
+    },
+    {
+      "title": "What Is a Stablecoin Reward, and Why Did the CLARITY Act’s Failure Keep It Alive? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeU5EVEd3VDR0N29COUdTSGdUbG54Nl82cUJlZGNzVnpkUG5Uc2dQckE4Z1RHQ1U2N3VSM05CRThZSjJ2TFdiZ1RfOGJ0dFhrQW1fYTJHVmlHc2dsbURjWmFqdjYyTlR5VHVLRjRwQk5nSDJnRFRNR1V5V0lqSmR4QlV3d3A0cWFoUVdacUxvTVNKTjlwSlNqcS1rLXVnLW8?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T23:10:49+00:00",
+      "snippet": "What Is a Stablecoin Reward, and Why Did the CLARITY Act’s Failure Keep It Alive? Yahoo Finance",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.38
+    },
+    {
+      "title": "Circle's Arc blockchain launches with $649M USD... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRHVjelRYaFBDTGhaQnU4N0VaX0dhbHZqRVhDQjdXNkF6UVd1UmRybG96cExydWthazdjbGcwQTk2X1ROLXJkY0pvZkh3UGpPWFJwNzZwNms2bWl6aE1ORk5ET2VRNVBqczVNS1lTbHBmamJhX1pSSGYwRUJpU2NndTdRY1k2eDhwdl9vWVE1VVhqdw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T20:01:48+00:00",
+      "snippet": "Circle's Arc blockchain launches with $649M USD... Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "positive",
+      "score": 34.29
+    },
+    {
+      "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-09-19T04:10:06+00:00",
+      "snippet": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "risk",
+      "score": 34.2
+    },
+    {
+      "title": "SOLOWIN HOLDINGS Reports FY2026 Revenue Growth as Stablecoin and Digital Finance Business Expands - Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNVV0alUwd0F4Qm5temx6VjJmWWRSOFVyWEwwSW0xX2ZEMFRtX1JVSEtFQXQ2WVktelg1dE1vQjlwSUdNU0NhUzJkQ0JVTkVlS0tSQ0pIblN6czVKTzVwQjhlbFU1Q19SS1MtRUJUOEdHc3QxZGlHbVN2STQ0RVh4V0dueVhtODFiS2pyZnZySWtqTTJQQ01QallWc3ZneXhPVzRPVml1aERTUmt6SV9sLTFITHJjRGRhMzBUVDRWNDF4R3pHNTlwbDhR?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T13:00:00+00:00",
+      "snippet": "SOLOWIN HOLDINGS Reports FY2026 Revenue Growth as Stablecoin and Digital Finance Business Expands Quiver Quantitative",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 33.64
+    },
+    {
+      "title": "GENIUS Act Creates Stablecoin Regulatory Framework - Legis1",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FSmJ2bXZKRlk5LUtndnpubWVGbnE4ZE91QlpidU5YLS1wT0pFUkRXSExfd2Nvb29qVS16eTJ5MU55RHJfM3JGcENWX0dUeHozY2NZQWVMUl9vOUswT3NpOGY4NEM4TWhFY21ORlZCeUtjdTU0THc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T13:46:37+00:00",
+      "snippet": "GENIUS Act Creates Stablecoin Regulatory Framework Legis1",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 33.51
+    },
+    {
+      "title": "Arc Mainnet is live — but now comes the part that actually matters",
+      "url": "https://www.reddit.com/r/cripto_cex/comments/1wjj556/arc_mainnet_is_live_but_now_comes_the_part_that/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-09-18T07:10:07+00:00",
+      "snippet": "Circle's Arc mainnet is officially live, and I think the interesting part starts now. There's been plenty of attention around Arc because Circle is trying to push beyond USDC simply being a stablecoin and build infrastructure around payments, settlement and on-chain finance. Launching the network is one milestone. Getting people and institutions to actually use it is another. That's why I'd rather watch what happens over the next few months than assume a successful mainnet launch automatically...",
+      "author": "/u/Creative-Elephant-37",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 33.0
+    },
+    {
+      "title": "Arc Gas Fees Explained: Why Circle's Chain Charges in USDC",
+      "url": "https://www.reddit.com/r/BananaGun/comments/1wk26w6/arc_gas_fees_explained_why_circles_chain_charges/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-09-18T20:56:13+00:00",
+      "snippet": "submitted by /u/bananagun_news to r/BananaGun [link] [comments]",
+      "author": "/u/bananagun_news",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 32.38
+    },
+    {
+      "title": "AI Agents Are Starting to Pay for Things in Crypto. Which Coin Do They Use: XRP, Solana, or USDC? - 247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcDVjaUhtYUJIZ0l6QVRXVWdIdjJoNUZxTHpkX1RLYTVBUE1HWnl5V3BvLUtpWm1aQVBkMzJZMmwycXRRQ18ybmJNSHc3SEtQNVA5YmQ4d2Vpc1dqTVlVMVFJYWpYdHZsZnZWbUlPMm9iWTY0X2hXNkVMNzY5OFBZd1kzU0Q0bFAxMVJJT3B0TDZjaFd6djFrNjlDbkprQWdkaS02NEdMQjZ0MXUxbnE1THZLeVR0S2NoaEJ1SmFCaDRSa1AtMmlvc0xSQVg5WjU3Mko5MVNrVWpIZnlmMDBrYUpxWHJ6dw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T18:08:00+00:00",
+      "snippet": "AI Agents Are Starting to Pay for Things in Crypto. Which Coin Do They Use: XRP, Solana, or USDC? 247wallst.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 31.23
+    },
+    {
+      "title": "Tether Price, USDT Price, Live Charts, and Marketcap: usdt, buy usdt, usdt buy - Coinbase",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRFktc093SFZDZWJIU0xKN1ZDYm5KXzYzMFotNmZ2Y3FRdEdKTTRFWTdGTTF4MVRsTUR3ZlVFUURYWUZHS0dzbVJmd0NfMnB0MTBxNGNB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T04:24:34+00:00",
+      "snippet": "Tether Price, USDT Price, Live Charts, and Marketcap: usdt, buy usdt, usdt buy Coinbase",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 30.15
+    },
+    {
+      "title": "Discontinuing support for USDC.Noble",
+      "url": "https://www.reddit.com/r/USDC/comments/1wjuq3p/discontinuing_support_for_usdcnoble/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-09-18T16:19:19+00:00",
+      "snippet": "I saw the following messages on both Osmosis and the Circle site: Circle is discontinuing support for USDC on Noble. Convert your USDC.noble to Alloyed USDC in the app 1:1, with no slippage, no fee and no price impact. and Circle is Discontinuing Support for USDC and CCTP V1 on Noble My questions are: It seems possible to convert USDC.noble to USDC or USDC.inj on Osmosis. Can these be transferred to other IBC or EVM chains? Which conversion do you recommend if I might want to send them to a CEX...",
+      "author": "/u/on_zero",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 30.08
+    },
+    {
+      "title": "Discontinuing support for USDC on Noble",
+      "url": "https://www.reddit.com/r/StableCoins/comments/1wjul3w/discontinuing_support_for_usdc_on_noble/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-09-18T16:14:09+00:00",
+      "snippet": "I saw the following messages on both Osmosis and the Circle site: Circle is discontinuing support for USDC on Noble. Convert your USDC.noble to Alloyed USDC in the app 1:1, with no slippage, no fee and no price impact. and Circle is Discontinuing Support for USDC and CCTP V1 on Noble My questions are: It seems possible to convert USDC.noble to USDC or USDC.inj on Osmosis. Can these be transferred to other IBC or EVM chains? Which conversion do you recommend if I might want to send them to a CEX...",
+      "author": "/u/on_zero",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 30.03
+    },
+    {
+      "title": "USDT Holders De-Risk as Ethereum Fees Hit Lows - coinpedia.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzaHpkbGNPeDJWLTh1cFRMMlpkaUR6MzVTNWc0ckZfSjJwUm55MndlWHcyR2ZzQU4wcGpwWHc5bmNKRHNJaXZnMmRYYU1YbFpfZGRuRnowLTJvNWlCa3F2cUU3RXljbWdlMVRid3ROS1Qxb2dUeHN1M3FOeGxvYkHSAYQBQVVfeXFMUHd6Y1hidXl6MjRWSDZkV0xxTmJ6aTc2YnJXYWxrVENyeGc4Y3BuZkZwSDdvMnlyV3JRS1p1UTk2MWlHaTB3Q3BlenlpQXRHZkZzVkpab082TklwYm9yZ0ItOWZjVTV0enhqcV8xSDduUnVSVURnVUxnOWM4VGhyeFN0MjJ2?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T14:14:18+00:00",
+      "snippet": "USDT Holders De-Risk as Ethereum Fees Hit Lows coinpedia.org",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 28.79
+    },
+    {
+      "title": "Why is Circle Internet stock surging today? - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUFhVHItRU55TXlIQTVxYW85Y0dNanlQX0pfQVlkVVpaWE9Fb09adllISk1ndHU3NnVYTkNGOUljOXVMQ1Z5c281UV9FV3RPOHJDMU90Vkp6aTc5UXR2YjcyeWFQVXlpSUtPNE1RVTZGaW9ERE1rS2JhOF9YRkVsWThOQzhYTHZFVm1ueTJQY3VuOTB6SnJpNmQ0Uk8tY09iVWpHeW9pRQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T14:04:17+00:00",
+      "snippet": "Why is Circle Internet stock surging today? Investing.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 28.69
+    },
+    {
+      "title": "Aave V4's Arc market holds $76M USDC, less than $100K borrowed - Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWG1ZVjFqaG84ekRKR0VYZFZJWm4yRjR0Q0FybktHVVYtR3ZHbmNpUmRqMXJXdjdvSGl5SF80VlhoY3Z6U2RKSHJMMUsxajBjekRDNFRBdVVVaDVGZEZjMDMwODNReHpITUYtczNLdGhFejVzMDMta01QMjdkUUlCUXNxemFLcDJfMHJiZTRYQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T12:50:03+00:00",
+      "snippet": "Aave V4's Arc market holds $76M USDC, less than $100K borrowed Altcoin Buzz",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 27.92
+    },
+    {
+      "title": "WisdomTree Opens Tokenized Treasury Fund To MoonPay's 35 Million Accounts",
+      "url": "https://thedefiant.io/news/tradfi-and-fintech/wisdomtree-moonpay-wtgxx-tokenized-treasury-stablecoin-reserves",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-09-18T13:38:51+00:00",
+      "snippet": "MoonPay will build an access point for WTGXX and hold the tokenized money market fund against its stablecoin reserves. The fund runs $1.23 billion, fifth-largest in a $15.4 billion tokenized Treasury market.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 27.67
+    },
+    {
+      "title": "Brent Tops $106 And Hike Odds Reach 64% As Crypto Sells Off",
+      "url": "https://thedefiant.io/news/markets/brent-tops-106-hike-odds-reach-64-crypto-sells-off-sep-10-2026",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-09-19T04:10:06+00:00",
+      "snippet": "One hundred and three of the 125 largest non-stablecoin tokens were lower on the day after August producer prices came in at 0.4% and the 30-year Treasury yield passed every close of the past five years. Bitcoin traded at $77,120. Ether.fi rose 14.2% on a buyback vote that closed a week ago.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.0
+    },
+    {
+      "title": "Stablecoin Regulation Stalls as South Korea Payments Hit ₩860B - OneSafe.io",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mWHdKSGhXWm5sSHZhZ2ZndDZESkE2S1R3YzRDQTh6VHNiWmpwM21XY3NxYjg4WXlQbDZ4R1hJYUQ2Q3dmSGI1S19EU2xYUWJzRGYyQUlDOVFFakhsZ1hPakhIUFZlSnQ4WjlmSWJB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T03:12:31+00:00",
+      "snippet": "Stablecoin Regulation Stalls as South Korea Payments Hit ₩860B OneSafe.io",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 26.9
+    },
+    {
+      "title": "Kite Teams Up With Circle to Build Arc-Based AI Agent Payments System - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uc2JWSjljdmJHaUFGWE1mNDlsT0w0b245YmE4dl9ZMW53UVJma2l3QUdRUVlDNFBYMVY5N3VxM0h5aTlHWWZXdlAwbEJZYTZuU2xrdQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T10:47:13+00:00",
+      "snippet": "Kite Teams Up With Circle to Build Arc-Based AI Agent Payments System bloomingbit",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "neutral",
+      "score": 26.64
+    },
+    {
+      "title": "Circle launches Arc mainnet with more than 100 institutional and ecosystem builders - technode.global",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlNoemhTTU9XSWViZGItN2t1T0dNTm5SWkFrLUVKUTZac2hCWFYyQzEtWFYySnltSEkyZ2JxMUx5YjVKRldkZTZhMHdyN1BMVFJReVlPdVhmUWJHZXhiaUdvLWxvZFJ2a0dDaDcxS1pidUgtVzlWU3dtMDZ3ZFk5NTlzOEtDQzU1dHpvbFpXak9iMkU2VE1JczV0OXk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T07:35:16+00:00",
+      "snippet": "Circle launches Arc mainnet with more than 100 institutional and ecosystem builders technode.global",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "positive",
+      "score": 26.51
+    },
+    {
+      "title": "Circle launches Arc Studio AI agent for building onchain apps - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUUlUNzJUM0d4MFhHeXVmVUlHZXk2UlJJTlk2LWxzVTdBVUR3VHd2Z3dpQWdNWjNrQlQ5TElla2Z3a1UxcFVsTVp6NnNDWWxFVGJGWl9fR09vOHY4UUFpQkRMV19WMDhjbEc5YkV6V21yS3djbTF3MllSdGc1Ym9yZUdGUWE0LUFnNXc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T05:59:00+00:00",
+      "snippet": "Circle launches Arc Studio AI agent for building onchain apps Crypto News",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "positive",
+      "score": 25.51
+    },
+    {
+      "title": "Circle Takes On Coinbase: Distribution Costs Consume 60% of Revenue, Can Arc Chain Break the Deadlock? - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaWm5HZTBBT21uRl9fOF9CNUJ6cE1iYlBYSG9taWVOdmpwMmxvQVBVS2xYbTdVVlJaWXZpd1hKZ3dILTQ5ZW9OU2lXUW9tOUhmU2ZCN29nUmFxZFlh?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T05:09:40+00:00",
+      "snippet": "Circle Takes On Coinbase: Distribution Costs Consume 60% of Revenue, Can Arc Chain Break the Deadlock? 深潮TechFlow",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "positive",
+      "score": 25.0
+    },
+    {
+      "title": "HYPE hits record above $90 as Hyperliquid launches manual borrowing",
+      "url": "https://cointelegraph.com/markets/hype-ath-above-90-hyperliquid-manual-borrowing-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-09-18T11:54:24+00:00",
+      "snippet": "HYPE hit a record $90.92 after Hyperliquid opened manual borrowing, letting users borrow stablecoins against HYPE and Bitcoin collateral.",
+      "author": "Cointelegraph by Helen Partz",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 24.54
+    },
+    {
+      "title": "South Korean Firms' Stablecoin Cross-Border Payments Hit ₩860 Billion as Regulation Stalls - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNHh2dWg2RVI5QW5UdFFleTA4QnF1WkJMeHJLYi1oRUJwV21qRGpFLWIzclRsZDNpNFBRblVqUkJUczBQaXRTMHk1N0FBdjM4MnNEbDJwbEJiS0FldF84ZlhFTnNmZ3Z1RkxKMWZuYnFHY3cwdUE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T23:25:00+00:00",
+      "snippet": "South Korean Firms' Stablecoin Cross-Border Payments Hit ₩860 Billion as Regulation Stalls finance.biggo.com",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 24.53
+    },
+    {
+      "title": "Galaxy launches 2 stablecoin vaults on Kamino - Crypto News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NeVJrR0V5UE9nSkQybTNla0lXZWNSMGhvMjFkS3NyX2VoVmZPNFBMS0J6MjU4ZGsxTTJzenRGa2JMQl9ud1NvRGFJS2dkUUs5dzJIUll4RWM3WXJmZEUzRkpoSmZMZkRkQTJXREpiM01OYmxi?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-18T04:17:00+00:00",
+      "snippet": "Galaxy launches 2 stablecoin vaults on Kamino Crypto News",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 24.45
+    },
+    {
+      "title": "Tether loses 251,350 Ethereum USDT wallets in 1... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnpJTjV2VVFNT1U4YXFfWi1fNFQ3elN2WW1wWnRkUWkzVUl4NjBOY2lqTzNNQ3l2aGRLdDZTY2UtVGU3RHFXY2pneVlaUThGSVVZTW5EVlkyWEVLZ09wZEo4S0FQLS1qQS1wTE90UGRPVElZTkpNT2xsWGtwQ0FXYTJES3BFekFDTlo5N0pUN1VZTlJLY3FNYjNETkg?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T19:06:09+00:00",
+      "snippet": "Tether loses 251,350 Ethereum USDT wallets in 1... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 24.33
+    },
+    {
+      "title": "Circle Stock Gains 6%; UK Narrows Stablecoin Payment Rules - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUF95d1hEcTcxUmd6RWF5T3JKeVRHTExnZGpOc2s2NTM1Y0dXU2dFMmlJSXE4WFU3Z05odVNiamdTWDRKRzhFb0d5aXZMbFB2d25ncDBqRmR4UGY5LTJ5N0wxRjZOaDVkSUh3Q3I4V21IRUFSeWZDcGQ1Q2l1OXdObFRFcw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T18:31:42+00:00",
+      "snippet": "Circle Stock Gains 6%; UK Narrows Stablecoin Payment Rules TechStock²",
+      "author": "",
+      "query": "Circle stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 23.97
+    },
+    {
+      "title": "Circle Unveils Proprietary Layer-1 Blockchain \"Arc,\" Designed to Pay Gas Fees in USDC - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0WXlHR3dYLTlfbnI2cG9mUC1lTjRPaFNpeFFyNnB6blBKYTFuSjhpRTdsTEVEQ0N6LTl6eTBDY1J2UVVPM2w5blVubXYxSVRuVFByR0xqNFI5dzU0R3FoZFB5YzdFY1NETEVtRlBrWk5KUTZXSmc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T18:29:00+00:00",
+      "snippet": "Circle Unveils Proprietary Layer-1 Blockchain \"Arc,\" Designed to Pay Gas Fees in USDC finance.biggo.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 23.95
+    },
+    {
+      "title": "What Is Circle's Arc? The Blockchain That Charges Gas in USDC - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRVFUUVRjLW1pRVRMeldvTG9zbjNUY0tCQXdhY0ppMlFCSG5qVEd3eno5dk15a0dUcGpTNGtaQm50MFFYLVRqaDRhQkM0aEZVSzFrYkc0eko2SGRZSWVPNVpHbk9yT2NvZWRmQm9LRFlRZTJZUVpwUm4xRUE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T18:08:42+00:00",
+      "snippet": "What Is Circle's Arc? The Blockchain That Charges Gas in USDC CoinMarketCap",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 23.74
+    },
+    {
+      "title": "Coinbase One Raises USDC Rewards to 3.75% APY as the New Battle for Stablecoin Capital Intensify - Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMWdleHBfc2NobUw2TEpKM0JhR0szMFNzOUtUV0JLcnpldEw1M29HcE9QcDdvMjYzNkcyeklyZjNDWk15cTl6R2lVYVRjUXZnX2JEUXB1UlNZaGVNX3VjbnJPZFYweWg0c3YxblJWbEdGMXdTdXVBdkc2b1ZpdXZ3bFJ3bWZfd01GWXNRb2d1Y3BiRXhPUTlXTEUxRGxnQ1B2WWNNZmNDZklreTdDSnZLSHAxREZWVUo3bi1ycQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T18:02:00+00:00",
+      "snippet": "Coinbase One Raises USDC Rewards to 3.75% APY as the New Battle for Stablecoin Capital Intensify Tekedia",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 23.67
+    },
+    {
+      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+      "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+      "source": "CoinDesk",
+      "platform": "RSS Feed",
+      "published": "2026-09-18T07:37:32+00:00",
+      "snippet": "Stablecoin payments company dtcpay completed a $25 million Series A funding round with a strategic investment from Japan’s SBI Group.",
+      "author": "Omkar Godbole",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 22.69
+    },
+    {
+      "title": "Bitcoin Runs to $81,000 and NEAR Adds 32% as Tokenization Tokens Lead",
+      "url": "https://thedefiant.io/news/markets/bitcoin-81000-near-tokenization-tokens-lead-rally-sep-18-2026",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-09-18T16:36:08+00:00",
+      "snippet": "Crypto rallied through the Asia and Europe sessions and extended at the U.S. open, and 111 of the 125 largest non-stablecoin tokens are higher. Bitcoin is up 5.8% at $80,829 after touching $81,000, its best level since Sept. 4. NEAR Protocol added 32%, Starknet 27% and Arbitrum 26%, a day after the",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 21.8
+    },
+    {
+      "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+      "url": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-09-17T17:31:12+00:00",
+      "snippet": "MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of its stablecoin reserves while helping expand access to US investors.",
+      "author": "Cointelegraph by Nate Kostar",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 21.71
+    },
+    {
+      "title": "Stablecoin payments firm dtcpay closes $25M round with SBI backing",
+      "url": "https://cointelegraph.com/news/dtcpay-25m-series-a-sbi-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-09-18T09:14:03+00:00",
+      "snippet": "Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan’s SBI Group.",
+      "author": "Cointelegraph by Ezra Reguerra",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 21.56
+    },
+    {
+      "title": "How to Find and Buy Trending Tokens on Arc Chain",
+      "url": "https://www.reddit.com/r/kybernetwork/comments/1wjjc5a/how_to_find_and_buy_trending_tokens_on_arc_chain/",
+      "source": "Reddit RSS",
+      "platform": "Reddit",
+      "published": "2026-09-18T07:21:36+00:00",
+      "snippet": "Circle launched the public mainnet of Arc, an open Layer 1 built for financial markets, real-time payments and agent-driven activity, on September 16, 2026. Trading activity showed up on day one, with launchpads, memecoins and new pools appearing within hours. This guide explains what Arc is, where to spot trending tokens and how to buy them with the right tools. What Is Arc Chain? Arc is Circle's own blockchain, and its biggest difference is how you pay fees. Mainnet runs on chain ID 5042, and...",
+      "author": "/u/Merlinmerlin66",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle"
+      ],
+      "sentiment": "positive",
+      "score": 21.1
+    },
+    {
+      "title": "S&P Global Agrees to Buy OpenZeppelin and Fold Smart Contract Audits Into Ratings",
+      "url": "https://unchainedcrypto.com/sp-global-agrees-to-buy-openzeppelin-and-fold-smart-contract-audits-into-ratings/",
+      "source": "Unchained",
+      "platform": "RSS Feed",
+      "published": "2026-09-17T22:29:11+00:00",
+      "snippet": "The ratings firm that cut Tether's stability grade to its lowest level last year is buying the security company behind the open source smart contract libraries widely used across DeFi, and it is placing the business under S&P Global Ratings. The post S&P Global Agrees to Buy OpenZeppelin and Fold Smart Contract Audits Into Ratings appeared first on Unchained .",
+      "author": "Unchained",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "risk",
+      "score": 20.84
+    },
+    {
+      "title": "Morpho Opens Borrowing Against Coinbase's Tokenized Stocks",
+      "url": "https://thedefiant.io/news/defi/morpho-coinbase-tokenized-stocks-borrowing-base",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-09-18T14:24:02+00:00",
+      "snippet": "Holders of five Coinbase stock tokens can pledge them for USDC loans on Base.",
+      "author": "The Defiant Team",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 20.8
+    },
+    {
+      "title": "World Launches ‘World Money’ Financial Super App in More Than 150 Countries, Integrating Stablecoins and Stripe - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PcXhWcjRKVTZfUWRScUR0eGpCemZ1R040VGQxbHltUTMydEstYmFDNEQ1aVFQN2VxVW1RTVJ2czNtTVdkRHVtdU1lRWYwdVA4c3hpMA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T21:44:42+00:00",
+      "snippet": "World Launches ‘World Money’ Financial Super App in More Than 150 Countries, Integrating Stablecoins and Stripe bloomingbit",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 20.36
+    },
+    {
+      "title": "World launches self-custodial ‘super app’ World Money",
+      "url": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "Cointelegraph",
+      "platform": "RSS Feed",
+      "published": "2026-09-18T03:40:28+00:00",
+      "snippet": "World Money is rolling out across more than 150 countries, combining stablecoin payments, digital asset rewards and trading in a self-custodial app.",
+      "author": "Cointelegraph by Felix Ng",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 20.22
+    },
+    {
+      "title": "Stablecoins Court CFOs as Crypto Loses Washington - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2FuUm5VR0Eza29MQnA3dlMwY3NtcTFoQUxQcEdzemVMTUlqcno4dHR4RlVJOWc0ODBCSVRWZjJFU2c1VTZDekxUcFdfWTIyMlRaUEd3cjlUdm5XS0RZRVdRcTFtQnJpR3NRZzB4Mzk0ZHpRbDh1ZDRNZktIMkl0TUNQdDM5bENXSXoteG9fbTNZbzBrOEhDNHdDb0RUOVJodFN5UF8yVldaUQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T20:52:13+00:00",
+      "snippet": "Stablecoins Court CFOs as Crypto Loses Washington PYMNTS.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 17.94
+    },
+    {
+      "title": "Tether Quietly Becomes a $1.5 Billion Lender to U.S. Gold Dealer Gold.com - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoTVNaRTRUV3BlMHVaemEyNWFxNXZHdVF1UHhtNkJEZHhDeU9WTXhBdjY1a1B2NFczLUkwenlFUjBhUER4XzRqVUtiZDRHWk9VWkxuVnpISFp1R2hJaTBWSTk2UjdVdkkwQ3VCQTM0cGx5NlcxUEE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T18:37:00+00:00",
+      "snippet": "Tether Quietly Becomes a $1.5 Billion Lender to U.S. Gold Dealer Gold.com finance.biggo.com",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 16.53
+    },
+    {
+      "title": "Arc Network Draws Fresh USDC On-Ramps as SwissBorg and Gate Cut Out Costly Bridges - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0VHdkU3NPcE92eWR0X1NfVUluTVhvT2hDZFZ4VnVRcWxCMVhJSzI4cXRvMzNFSE12cW9FWjRCX0tUMHRvVTN2MGtUbTRLTERSbFNfS3FWWWl0c19uMjNuWDgxN0dNSC1tZjhuSnpnOEZLYW5oOGc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T18:31:00+00:00",
+      "snippet": "Arc Network Draws Fresh USDC On-Ramps as SwissBorg and Gate Cut Out Costly Bridges finance.biggo.com",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 16.47
+    },
+    {
+      "title": "Column Rolls Out Four-Pronged Fintech Platform Linking Stablecoins to Global Banking - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uWDNSQk5USC1ENU1vc2Z5LTE2S0t6b3Y1OXdSWmlTM05iTF9fcjRuX0M5Sm9zM1ZnejBJRTZUSU5Qei1nXzNjTnNvMHB4ZENRWUxOLUpnckl0bTRGaGxRcHJBVm83djZvU3BkOENtQnNobHF1dnc?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-09-17T18:31:00+00:00",
+      "snippet": "Column Rolls Out Four-Pronged Fintech Platform Linking Stablecoins to Global Banking finance.biggo.com",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 16.47
+    },
+    {
+      "title": "Solana's Historic Governance Vote — While Robinhood Invades Its Meme Coin Turf",
+      "url": "https://thedefiant.io/podcasts-and-videos/podcast/solana-s-historic-governance-vote-while-robinhood-invades-its-meme-coin-turf",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-09-17T19:32:39+00:00",
+      "snippet": "Solana just took the most historic step in its governance history: its first real on-chain vote, where any SOL holder — not just validators — could weigh in on the network's constitution, inflation and fees. Camila Russo sits down with Nick Almond, Head of Governance at the Jito Foundation, right",
+      "author": "Camila Russo",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Robinhood"
+      ],
+      "sentiment": "neutral",
+      "score": 12.32
+    },
+    {
+      "title": "Financial Data Giant S&P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
+      "url": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
+      "source": "Decrypt",
+      "platform": "RSS Feed",
+      "published": "2026-09-17T16:33:12+00:00",
+      "snippet": "S&P Global is expanding into the technology risks underpinning stablecoins, tokenized funds, and other onchain financial products.",
+      "author": "Jason Nelson",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 12.19
+    }
+  ],
+  "summary": {
+    "entity_counts": {
+      "Circle": 21,
+      "USDC": 15,
+      "Tether": 4,
+      "USDT": 5,
+      "Stablecoin": 25,
+      "Robinhood": 2
+    },
+    "platform_counts": {
+      "News RSS": 34,
+      "RSS Feed": 13,
+      "Reddit": 6
+    },
+    "risk_count": 7,
+    "top_risks": [
+      {
+        "title": "Revolut Starts EURR Rollout With Bridge as Regulated Issuer",
+        "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-starts-eurr-rollout-with-bridge-as-regulated-issuer",
+        "source": "The Defiant",
+        "platform": "RSS Feed",
+        "published": "2026-09-19T04:10:06+00:00",
+        "snippet": "Revolut opens EURR to selected customers in three countries; Bridge reported €374 outstanding, compared with €394.5 million of Circle’s EURC.",
+        "author": "The Defiant Team",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Circle"
+        ],
+        "sentiment": "risk",
+        "score": 34.2
+      },
+      {
+        "title": "GENIUS Act Creates Stablecoin Regulatory Framework - Legis1",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FSmJ2bXZKRlk5LUtndnpubWVGbnE4ZE91QlpidU5YLS1wT0pFUkRXSExfd2Nvb29qVS16eTJ5MU55RHJfM3JGcENWX0dUeHozY2NZQWVMUl9vOUswT3NpOGY4NEM4TWhFY21ORlZCeUtjdTU0THc?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-18T13:46:37+00:00",
+        "snippet": "GENIUS Act Creates Stablecoin Regulatory Framework Legis1",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 33.51
+      },
+      {
+        "title": "WisdomTree Opens Tokenized Treasury Fund To MoonPay's 35 Million Accounts",
+        "url": "https://thedefiant.io/news/tradfi-and-fintech/wisdomtree-moonpay-wtgxx-tokenized-treasury-stablecoin-reserves",
+        "source": "The Defiant",
+        "platform": "RSS Feed",
+        "published": "2026-09-18T13:38:51+00:00",
+        "snippet": "MoonPay will build an access point for WTGXX and hold the tokenized money market fund against its stablecoin reserves. The fund runs $1.23 billion, fifth-largest in a $15.4 billion tokenized Treasury market.",
+        "author": "The Defiant Team",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 27.67
+      },
+      {
+        "title": "Stablecoin Regulation Stalls as South Korea Payments Hit ₩860B - OneSafe.io",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mWHdKSGhXWm5sSHZhZ2ZndDZESkE2S1R3YzRDQTh6VHNiWmpwM21XY3NxYjg4WXlQbDZ4R1hJYUQ2Q3dmSGI1S19EU2xYUWJzRGYyQUlDOVFFakhsZ1hPakhIUFZlSnQ4WjlmSWJB?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-18T03:12:31+00:00",
+        "snippet": "Stablecoin Regulation Stalls as South Korea Payments Hit ₩860B OneSafe.io",
+        "author": "",
+        "query": "stablecoin regulation",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 26.9
+      },
+      {
+        "title": "South Korean Firms' Stablecoin Cross-Border Payments Hit ₩860 Billion as Regulation Stalls - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPNHh2dWg2RVI5QW5UdFFleTA4QnF1WkJMeHJLYi1oRUJwV21qRGpFLWIzclRsZDNpNFBRblVqUkJUczBQaXRTMHk1N0FBdjM4MnNEbDJwbEJiS0FldF84ZlhFTnNmZ3Z1RkxKMWZuYnFHY3cwdUE?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-09-17T23:25:00+00:00",
+        "snippet": "South Korean Firms' Stablecoin Cross-Border Payments Hit ₩860 Billion as Regulation Stalls finance.biggo.com",
+        "author": "",
+        "query": "USDT stablecoin",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 24.53
+      },
+      {
+        "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+        "url": "https://cointelegraph.com/news/wisdomtree-moonpay-team-up-to-expand-us-access-to-tokenized-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "platform": "RSS Feed",
+        "published": "2026-09-17T17:31:12+00:00",
+        "snippet": "MoonPay plans to use WisdomTree’s $1.2 billion WTGXX tokenized fund as part of its stablecoin reserves while helping expand access to US investors.",
+        "author": "Cointelegraph by Nate Kostar",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 21.71
+      },
+      {
+        "title": "S&P Global Agrees to Buy OpenZeppelin and Fold Smart Contract Audits Into Ratings",
+        "url": "https://unchainedcrypto.com/sp-global-agrees-to-buy-openzeppelin-and-fold-smart-contract-audits-into-ratings/",
+        "source": "Unchained",
+        "platform": "RSS Feed",
+        "published": "2026-09-17T22:29:11+00:00",
+        "snippet": "The ratings firm that cut Tether's stability grade to its lowest level last year is buying the security company behind the open source smart contract libraries widely used across DeFi, and it is placing the business under S&P Global Ratings. The post S&P Global Agrees to Buy OpenZeppelin and Fold Smart Contract Audits Into Ratings appeared first on Unchained .",
+        "author": "Unchained",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Tether"
+        ],
+        "sentiment": "risk",
+        "score": 20.84
+      }
+    ],
+    "narratives": [
+      {
+        "entity": "Stablecoin",
+        "count": 25,
+        "headline": "I went looking at Arc because I assumed it would be boring institutional stuff",
+        "url": "https://www.reddit.com/r/CryptoInvesting/comments/1wk6qgi/i_went_looking_at_arc_because_i_assumed_it_would/"
+      },
+      {
+        "entity": "Circle",
+        "count": 21,
+        "headline": "Circle Says It Won’t Rush to Reverse Arc Transactions Even After USDC Hack Worth Hundreds of Millions - bloomingbit",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3alFDSHJWZ011MWVBXzdjc29SZWhiaXc1LUs5THJzN3NUOWo5NUhKbzVIZlZNQlh1NUp5TkdRQ3hTbjNCSllvbWRUTkN6dGQzVlVEaA?oc=5"
+      },
+      {
+        "entity": "USDC",
+        "count": 15,
+        "headline": "Circle Says It Won’t Rush to Reverse Arc Transactions Even After USDC Hack Worth Hundreds of Millions - bloomingbit",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3alFDSHJWZ011MWVBXzdjc29SZWhiaXc1LUs5THJzN3NUOWo5NUhKbzVIZlZNQlh1NUp5TkdRQ3hTbjNCSllvbWRUTkN6dGQzVlVEaA?oc=5"
+      },
+      {
+        "entity": "USDT",
+        "count": 5,
+        "headline": "TRON's USDT stablecoin supply surpasses Ethereu... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU25CY2R0SWlEVXBkNkh2U0NpUU1VQlNWMk9Mc3ZubGg2aFJxeEQ5WFoxMUpEc0JBYTdnYnd5N0o1VElCLWExTVM1Z24xVWRGRHp4NUFLRll6R3hHdmJlV2N2Z2VFdF90ZkNyNkJidnJSRGhGNC00V3d0bVBVWURWbFVWUG4xazVrNHJfOUJYUnZMNjV3QmhZYVVEVW5tYjZvTjdKRnVlQlA?oc=5"
+      },
+      {
+        "entity": "Tether",
+        "count": 4,
+        "headline": "Tether Price, USDT Price, Live Charts, and Marketcap: usdt, buy usdt, usdt buy - Coinbase",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfRFktc093SFZDZWJIU0xKN1ZDYm5KXzYzMFotNmZ2Y3FRdEdKTTRFWTdGTTF4MVRsTUR3ZlVFUURYWUZHS0dzbVJmd0NfMnB0MTBxNGNB?oc=5"
+      },
+      {
+        "entity": "Robinhood",
+        "count": 2,
+        "headline": "Robinhood Chain Dollar-Pegged Stablecoin Market Cap Tops $1 Billion - Longbridge",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92dUJabkVRUFktdzhYQzhObUNXNnRJakZhQXJiMEgzLXgtb0c5TzRVTElycDUtRzFySmJJTmFzaXpMWDU4OFdJYVY4aXVFWl9lb2c?oc=5"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News",
+      "ok": true,
+      "fetched": 859,
+      "kept": 34,
+      "message": ""
+    },
+    {
+      "name": "Bluesky",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Tetrher USDT: HTTP Error 403: Forbidden; set BSKY_IDENTIFIER and BSKY_APP_PASSWORD secrets for free authenticated search"
+    },
+    {
+      "name": "Hacker News",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "Reddit RSS",
+      "ok": false,
+      "fetched": 10,
+      "kept": 6,
+      "message": "Tetrher USDT: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Mastodon",
+      "ok": true,
+      "fetched": 0,
+      "kept": 0,
+      "message": ""
+    },
+    {
+      "name": "YouTube Search",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "YOUTUBE_API_KEY not configured"
+    },
+    {
+      "name": "CoinDesk",
+      "ok": true,
+      "fetched": 25,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Cointelegraph",
+      "ok": true,
+      "fetched": 30,
+      "kept": 4,
+      "message": ""
+    },
+    {
+      "name": "Decrypt",
+      "ok": true,
+      "fetched": 37,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "The Defiant",
+      "ok": true,
+      "fetched": 100,
+      "kept": 6,
+      "message": ""
+    },
+    {
+      "name": "Unchained",
+      "ok": true,
+      "fetched": 10,
+      "kept": 1,
+      "message": ""
+    },
+    {
+      "name": "Bankless",
+      "ok": false,
+      "fetched": 0,
+      "kept": 0,
+      "message": "Public RSS URL is not stable; keep disabled unless a working public feed is confirmed."
+    }
+  ],
+  "coverage_notes": [
+    "X/Twitter direct monitoring is not enabled because official API read access is paid. This dashboard avoids scraping or bypassing access controls.",
+    "Bluesky search uses the public endpoint when available. If it returns 403, add free-account BSKY_IDENTIFIER and BSKY_APP_PASSWORD repository secrets.",
+    "Reddit RSS and Mastodon public search may be rate-limited or incomplete depending on the platform.",
+    "YouTube search is optional and only runs when a free-quota YOUTUBE_API_KEY secret is configured."
+  ]
+}
