@@ -1,25 +1,210 @@
 {
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21T06:39:35.230982+00:00",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T06:07:53.599884+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
-      "title": "DBS and Circle Strengthen Asia’s Stablecoin Infrastructure With USDC Partnership - Crypto Economy",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNENaWWJNWTExb0dGZ0JJNHhPSjJDempuRVpjcmQxV0FOaVpGZ19ndVZsSkNEc2E4N1Jldm50SnZma0NmTDMyWWxyYnY4V2RaZFF6QmhHUW5CWmloN25lTnJLdUcxR1dvZk0za1FNOGs0ZUE3VGVzMUZmOXhNV1VMWDlPOGR2WTZ1bDJiaXVPZ0NqdGQ0OFdBQnlfZFI4ZE5PVlM1enBxeG1PYkU?oc=5",
+      "title": "Stablecoin Whales' USDT and USDC Holdings Drop by $21.86 Billion - Kriptofoni",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMlE0ME1EOF9fWW1mZUUxN1VRN0xNNGhRUElodmFBcnRULWRvenhtVjZOX2pSMUc2dW9yeWNtSzl3NXg1M1preWFKUmlxZUdWQlI3Q0RmLVBGZHdPQW5aSVdxaHNJbV9tdC1ESk1DanlCT2UwQlZVd3pUTQ?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-11-21T01:51:09+00:00",
-      "snippet": "DBS and Circle Strengthen Asia’s Stablecoin Infrastructure With USDC Partnership Crypto Economy",
+      "published": "2026-11-21T14:41:00+00:00",
+      "snippet": "Stablecoin Whales' USDT and USDC Holdings Drop by $21.86 Billion Kriptofoni",
       "author": "",
-      "query": "Circle stablecoin",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC",
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 42.84
+    },
+    {
+      "title": "Tether makes strategic investment in Swiss stablecoin firm Scrypt - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONEMxbU81alJRaFlzc09zTlpmYnQ1U1BYZ3haVDBKcjVLUGxvQy15dXlQWElHQ2JUaDVoSG9WNTJrU29nT0l0RlpybFNqamRzTFZnaDdvcnB5VFV3OHV4TVdpZWR6ZFNFR0Vac1IxcjYtaFllSWFSc2hzUG9tRzRGdHp1am1PMGRKZ3kzMWI3Y2RqbENRSVBVSmNuR2lfaWdabWR1SEVqTXMzbGJJczBXbw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-22T02:09:50+00:00",
+      "snippet": "Tether makes strategic investment in Swiss stablecoin firm Scrypt 디지털투데이",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 42.52
+    },
+    {
+      "title": "What Tether’s SCRYPT Backing Means for Stablecoin Payments - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV2xFRlhYbDUxR2c3dHloemtfT2F3UWExR3hUVlFfY1ZwcnpCcVpqQmc2N1dJWG5jVnpaQ3ZYaElCUnFpNDRkUkJpUWptRnlsYm5qVFhNMDlYSmlEUndVN2loZDNSOFlKV2VkMWx0ei16ZXVOOFdYQ2lybXdUbEc0bjY2WQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-22T01:10:40+00:00",
+      "snippet": "What Tether’s SCRYPT Backing Means for Stablecoin Payments OneSafe",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 41.9
+    },
+    {
+      "title": "Tether moves $166M USDT amid rising US dollar a... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmg3d2ZTN1FSaXdIbkNESnVubVVWRy1Jb2tTYUtmNzB5NEdYVVFzOUNKTEdvZndfQWZIQjFibEVjWUFBcmJaMzFhTHJjTElZSU9odVlvLUNXUHlpZlZULURwSFhremxfR25pSHhXcEpQMm95WUpFWmNxdU8zMy1Ud3Q4dW5RVW9Nd3NTVmRhUXFTY1B2ekRYWkVPZ182a2NOa012dWZ6dW1BQnFXUUZ4RmFB?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-22T00:34:02+00:00",
+      "snippet": "Tether moves $166M USDT amid rising US dollar a... Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 41.52
+    },
+    {
+      "title": "Tether Treasury Transfers About 143 Million USDT Worth $142 Million to Unknown Wallet - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdm9vRlVjNWw5SzBuN2o1bUJRN1BQT21GdlUtZkVDdVZIV2gybnF0T0pLN0YtM3RKOGpHczdaSGx1RkRHNG5yRW9RQzZ2aVM2b3pKV2N4MDJXb24wdjFDWk9mejRUU3psOVg4QU1oenVPYi1fMEt2YW5qRTBNZU5VSUdlb0s1bUR2cEFNb3lnenM1WWs1cHMyU2VCeVhRMXZZQXVfdXBKZWc3SFBCaEJLSEQzZ2JmMzBEdGRZck9IS1p3NnZaTDVocjdUTV9qWjlqODJUUG1tTnNhbWt6aDRVWQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T21:41:48+00:00",
+      "snippet": "Tether Treasury Transfers About 143 Million USDT Worth $142 Million to Unknown Wallet TradingView",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 39.72
+    },
+    {
+      "title": "Circle minted $500M USDC on Solana but most sta... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXBadVFVMzNiTjd0cnhMR3FOODlHV0o4Q05aYVQ4UlNvWXpfMnZJbDNUcm5XbVVqcEs1Ymg4RkpHb1VObHc4OC0yWTJhNHF6cUgza3dkM3BWRmhVWmxHZ1RDUTVaaUxvdk1OZjZ1UWNpMzc4cTZTTTBtRmQtU2ZEaElGUzhZS2VxclpJYWp3?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T19:54:11+00:00",
+      "snippet": "Circle minted $500M USDC on Solana but most sta... Pluang",
+      "author": "",
+      "query": "Circle USDC",
       "engagement": 0,
       "entities": [
         "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 38.6
+    },
+    {
+      "title": "Circle mints 500M USDC on Solana in about 20 minutes - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HdmpJczdyVjFZc1hjX3ptMXVJOGljaGVEYkNXSEtOblJWV1dHSzBXQjJydW9MRDRGcG9OcHNuV1Ria3hSMFM5YlNRMndZQVBiX1U3RVNUbzR3ZU5XRnFuSGE0VlBXdGhM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T19:34:05+00:00",
+      "snippet": "Circle mints 500M USDC on Solana in about 20 minutes Crypto Briefing",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "Circle",
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 38.39
+    },
+    {
+      "title": "$100M USDC stablecoin moved from Coinbase to un... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFduVnRzRFJIU2RNbGQ3RWhTYWowdXo1MFRsZjl5Z2hmQ2hleDU0RFNxR1FjSTMxNlQxWWo4ZFVobXhZcTMzRW9YUW5QNnBFYUE2enFyX3JvYzdXemhFWTduOGM3aW1HXzhudmhjekZ3ZXdkXzU0UTd3MjdmUTFUVC1VUDIxeVR1dmtjYkdHVHU?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T18:07:42+00:00",
+      "snippet": "$100M USDC stablecoin moved from Coinbase to un... Pluang",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
         "USDC",
         "Stablecoin"
       ],
-      "sentiment": "positive",
-      "score": 51.37
+      "sentiment": "neutral",
+      "score": 37.49
+    },
+    {
+      "title": "Metacomp raises $10 million from Tether and Further Asset Management to strengthen payments across Asia, Middle East, Africa - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMjJvTDhoWjFfUVBWUkUyU3BiaThvcGxlRDlYMDZqZDBDODB6b1gxQVpsaXAxaTlUdkU0TFFBemxMX1J4ZDZSSWljYlNJS1hRcllkSHR4akdJVzJNSHk0S21Oc3NHR2FWTHVBQ0pXZ0xZbXcwenZZR2ZmVTlIWm44b0oyWHBCaU9fSnMxYXF4Mmk3eVBJNHBHRFNiN0ZITzlfNXl5c1NreU81VHJlMnVzMF9OWmhBOEJ1NFpmWC1kNDhaZHFjNFNLMV9rQlFMVWJWX0RYTTBLcjhUWjZuYTY1dG8zUEQxYjdITlBERUpOQ0c0aDdUOTRaREg1TlloWkdfNFNvUjJDVEZ4OVBieW1F?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-22T05:36:04+00:00",
+      "snippet": "Metacomp raises $10 million from Tether and Further Asset Management to strengthen payments across Asia, Middle East, Africa 디지털투데이",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 37.16
+    },
+    {
+      "title": "Tether moves $166M USDT to unknown wallet amid ongoing large treasury transfers - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0I5V1otRkx0dFFYamJCOUpvLVpJdEp2VUpGcUF6dmd2R0ktdGFKRHBONndBN2hxT2F4MzVvWmQtMmM1WTBvN3hvOXlUcmFNRGZNNFd3VkZHeGtpYjZJbElodU5FMy1LS1dLZVJRNTNTWEEwOFZsN0Z4aWhLMW5FRFltRXhnLW5ITzZDV0wxNFlkNndlRVFKY0pXcmZtZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T16:05:15+00:00",
+      "snippet": "Tether moves $166M USDT to unknown wallet amid ongoing large treasury transfers Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 36.22
+    },
+    {
+      "title": "Tether Treasury moves 165.9 million USDT to an unidentified wallet - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWW5seVEyTFlOR1Y1SGQtcHhrMGhkWnAzdFB6UmFLLTRrU1lGSjFFWkdtelBRWko5cS1NUmQyZ01COW5tVUplbjdBQTNnV1AwakRJME1xTDlEak9aZm5MT2ZvdGtualNvdmpJUUpSc0g0dE5jNHF0dVQ1RjdrNHJzclJteDk?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T15:53:52+00:00",
+      "snippet": "Tether Treasury moves 165.9 million USDT to an unidentified wallet Crypto Briefing",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 36.1
+    },
+    {
+      "title": "Chainalysis Finds 55% Jump in China-Linked Stablecoin Payments Tied to AI Proxy Access - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOOENJelFNUTVyYjZqWU5VbEFYM084SnlHMUhEdWFwSTVLR3QzRVZMOGNTLVhlMlhKY1BRS3N5S2h0bTdPd0lxQW1yanY0UkhGd3NoU2VXekgtMzFsazZZNWNObFp6RFNsdEpFTGdkVXB0eEtNbEE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-22T01:25:00+00:00",
+      "snippet": "Chainalysis Finds 55% Jump in China-Linked Stablecoin Payments Tied to AI Proxy Access BigGo Finance",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 34.55
     },
     {
       "title": "Tether Burns Billions In USDT As Stablecoin Market Cap Contracts - TronWeekly",
@@ -37,24 +222,201 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 48.65
+      "score": 33.98
     },
     {
-      "title": "DBS and Circle Expand Institutional Access as USDC Price Utility Gains Focus - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMUkxTFVJMUk0dlR1ZVNZUW5QQjZTemI3U2U0ckwxYXU1bWt5ZkV3WldjTWV5S2RaRmxpWG56aDFMcnFFNURkVE1WOWRXTmlsSEwxU3BWblhBMFpWZEVOekZyRkp2MUZZR2tGbU9BQkRCNnZhVjloMTRnUFJPTmpGbXZKZHMyN1V4UjB0V3M0QThoem01OXNjWm9ScFFRbWZ1WXFjOVJWdUJBcHBoMXctMmtxMmF4a0Vfd2JiYnhJbDh1N1hWZWdULVR0Qjh5QnpieVItVQ?oc=5",
+      "title": "Tether USDt price in focus as Tether backs SCRYPT for institutional settlement - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOGw4RDNPTlpwLVBkTkxwSUhmSm5vV1FDTGtyNEx0UDE0cEkxd2dUaVBpT0JKZ3l4eWxzd0dSSkVaREhPZ256QlpmN3VWZm8zZTlkMUtIczFvUFdyTUpUTlpTTkJHNzF2N1pnMUllWHJyakgwN0NIU3MyTnZkUEJMaVA4N0lmdjVmeHJRelBfOTZpV3VNajdTWWxXUTNNREhnUmVDeENydjNEWndYTlVXcGljQjk0VVowQkFQVkp6T0syUGlkSktJckg0NXh3NU5oWHpRclBodw?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-11-21T06:02:27+00:00",
-      "snippet": "DBS and Circle Expand Institutional Access as USDC Price Utility Gains Focus ad-hoc-news.de",
+      "published": "2026-11-21T12:12:03+00:00",
+      "snippet": "Tether USDt price in focus as Tether backs SCRYPT for institutional settlement ad-hoc-news.de",
       "author": "",
-      "query": "Circle stablecoin",
+      "query": "Tetrher USDT",
       "engagement": 0,
       "entities": [
-        "Circle",
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 33.79
+    },
+    {
+      "title": "Stablecoin Payments Now Require Agent Authority: MAS Sandbox - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00MU5LMUVpajNCMnQ5aDNXNndzcnA4Vk43RXFmSFhabklmU2o5NUFOSHlyaTZyRE1OYlhnSHUyUWRQUnlJUGxsTko1Ylg3ZVpOUFp2anFuaEhUT2lkX3lEeWxYRkU3dUlCVGtJMmZsblo?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-22T00:10:48+00:00",
+      "snippet": "Stablecoin Payments Now Require Agent Authority: MAS Sandbox OneSafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 33.78
+    },
+    {
+      "title": "Coinbase moves 127,745,921 USDC from institutional arm to its exchange - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSk9LTHJnYzdsYVFrbWViUzhKa0JXOFRmU0FkOUdPa1Z0aXNtRFZwamVfeGFDR1ZyVHk3dzRzNHo4TExmZkxzQ2h4Nzc2eXFwcXYxMEpieVNudUtSRy1zN2daS25US2xkdHZKMll4ZTctQnhnSVR4akpHdVZfYTdaOA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T22:20:52+00:00",
+      "snippet": "Coinbase moves 127,745,921 USDC from institutional arm to its exchange Crypto Briefing",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
         "USDC"
       ],
       "sentiment": "neutral",
-      "score": 44.61
+      "score": 32.63
+    },
+    {
+      "title": "Tether launches QVAC AI stack enabling local AI models and integrated crypto payments on devices - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOU1mMkE2emFVd1FkVUVqT1BnS1RTUzNySTBnRkZHaGtRXzlRMjFoYkRPOXBDQVZ1M0d6bGk4QmM2NGVNTE02Tk16SDhOSUFRSW5HU1FpWnNUdWNlZWZzQk5IQkh3WlZsYmRMLVlZX2EwVktPZlh4bTE3WmtGaVZ1dTNDd3pkczNGUkJ3UFo3YTRLdllMT0xtN181Ymd6R3JneUFJUkZfT1RKQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T14:20:45+00:00",
+      "snippet": "Tether launches QVAC AI stack enabling local AI models and integrated crypto payments on devices Pluang",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "positive",
+      "score": 31.38
+    },
+    {
+      "title": "Over $2B USDS swapped for USDC via Sky Protocol; Chainflip lost $4.86M in hack; Bitcoin holds $60K amid selloff - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORmtBMGQxd1VQRkw3VkxKaXhvWXlnWEUwaFZpOUdFbEZDeWV0T2JYMllvRTdlSXVRXzF4VVRGeHFPVkN0MHFGdUFUZFozSVhrZXN5OXJYYUVubFlSdm5RaVVQNkFpdFFuZ3hzaFNTQUc3UFp3Q01Jai0zVWNxVHBUWl9kMVU2ZFItWDhKOHI0MUVyN0pKU0JvMldvOC1yX0tZbGZ6WDJVbnNJNDdhaGMxWi13?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T19:24:00+00:00",
+      "snippet": "Over $2B USDS swapped for USDC via Sky Protocol; Chainflip lost $4.86M in hack; Bitcoin holds $60K amid selloff Pluang",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 30.79
+    },
+    {
+      "title": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0Q1STZOVllEWmZRZlVtNF9FbDU4Sk0zNUxCOFpfOWYwcEVYcE1oYjY4V05LRzBjR3dneFJ0bUQ3VHVwN1V1NmdWNkFhZVpwZ2FCdzdwWjBPYlM2XzVzZFpHczJlZjZkZWU1eFVRZ2E2WUszODRtZTlYZVpJV2podw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T15:35:45+00:00",
+      "snippet": "Chainalysis reports 55% surge in China-linked stablecoin payments after US AI launches Crypto Briefing",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "positive",
+      "score": 30.29
+    },
+    {
+      "title": "Tether USDt price in focus after Tether backs SCRYPT - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTBxLWJQRE5paGlDQlBrMnlkblhzNHRHTWhKVjAtakIwb1lBZllyZFhIaUk1cm9OUTQxTjN5QkhkbTBtSEU3TElDMmx2Z1ZrX2xVb3hDdWFOZlhmMXA4aFRTRkhWY3d3LXliV0FfaERIWW8tQXVRVDVobnBGOHZ6QUUzOVhadllndDBuMWNmYWtiT1FrRnlGV2ZUVDdYMEJfcWxmdGhiSU83cGllOHdjZ21Ta2c?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T06:07:43+00:00",
+      "snippet": "Tether USDt price in focus after Tether backs SCRYPT ad-hoc-news.de",
+      "author": "",
+      "query": "Tetrher USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether",
+        "USDT"
+      ],
+      "sentiment": "neutral",
+      "score": 29.99
+    },
+    {
+      "title": "MUFG Details Canton Test for Intraday JGB Repo Funding",
+      "url": "https://thedefiant.io/converge/tradfi-and-fintech/mufg-details-canton-test-for-intraday-jgb-repo-funding",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-11-22T04:25:54+00:00",
+      "snippet": "The bank-led experiment would preserve bonds’ existing legal status while exploring digital deposits, stablecoins and longer settlement windows.",
+      "author": "The Defiant",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 29.83
+    },
+    {
+      "title": "Coinbase moves $100M in USDC to an unidentified wallet - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GWFpVSzB1eFZrdkg4TXFoelA1MC1vNzI1TzBhYnNndXl5Q3VRRjhqYmdOLUFsZEVVellKTlNPMWd5REt5bDdDZlI5ZnNTcVczdmdRQS11eGtjMEh1WjA0T3B1a2pBakN5cklUUFZzVFpfRXRlaUczN2lPQQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T17:49:53+00:00",
+      "snippet": "Coinbase moves $100M in USDC to an unidentified wallet Crypto Briefing",
+      "author": "",
+      "query": "Circle USDC",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 29.81
+    },
+    {
+      "title": "Sky's USDS stablecoin supply drops 40% as $2B r... - Pluang",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORzVneEF6Q2pJVHlZMWJ3SnYzTEJuZWN4cDAtbW45VjlQQWJYTEFXckhybEpRVm9Gd3RMYmJZM1NYdlUwalY1eUxza1V4YnlvNDZLb2hyYjdIWFUxc2tVd09hU2hHano3T1VVdVR6VEZtWS1IN1ZwRURWOGxfUTFoZy1MRldfMHhzNEN2TVZnZ2pCTi1lTDBzSjZn?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T17:06:35+00:00",
+      "snippet": "Sky's USDS stablecoin supply drops 40% as $2B r... Pluang",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.36
+    },
+    {
+      "title": "Sky's USDS Stablecoin Loses $2 Billion in One Day as Investors Rush to Exit - Coinpaper",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHNVNVNObUxxUm5jYVlmbHFMLWQtcGV0cG15ckl2Y09na2ZzdlJsZWpJbDI1VXF3V3p4NC05bktVbHpGc010eDdGak4tZ0d0R1BiVVpVZ0kwd1Y2Ylp1Vk16eC0wdU5xa0dBOGtyV2dZM1JISFZNTlhpNkVmYUZwR1dqU1lKalljRWhoNS00S290VzItVFRwSEhENTROWldocVR6SQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T17:02:14+00:00",
+      "snippet": "Sky's USDS Stablecoin Loses $2 Billion in One Day as Investors Rush to Exit Coinpaper",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 29.31
+    },
+    {
+      "title": "125 Million USDC Transferred to Ethena From Unknown Wallet - Kriptofoni",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLN2xrMHpZdl9ybmNEdUtTTGZwTS1CdVpSdzVmNGIzTHNLcXJBaC1zUllEUHFBS05jZENSWFNjUHk3dkxqV3VnMkRrb3k4clVBQjM1MnQ2NHU2Mmg3bVJQOWh2eEZYN0ZBeEFfTkx2d1Q?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T16:41:00+00:00",
+      "snippet": "125 Million USDC Transferred to Ethena From Unknown Wallet Kriptofoni",
+      "author": "",
+      "query": "USDC stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 29.09
     },
     {
       "title": "Sky's Peg Stability Module processed $2B in USDS-USDC swaps, maintaining stablecoin peg amid redemption wave. - Pluang",
@@ -71,24 +433,40 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 43.43
+      "score": 28.76
     },
     {
-      "title": "DBS Partners With Circle to Enable Direct USDC Minting and Redemption for Institutions: 5 outlets compared - NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUdPR3FFeVgxT3BvODQtdG5mR1daNndaTW9IcHRfZnhhUkZyZi00TTBxaGEyN2ctRWt3SnIyUmFpUjd4U0EyUnJaRHpqcTZpSWdjQmhWaE94TE9WMXZ5UmJ0cWdrVHc1UGlkaHRENXFqQWtCR0lqWVZqb1JyLVM1cDRfaC1heEUtZVRBUFNWc0Y1NEtTNl9hd3Z3aHpFdTBtYVZJWlFtTGdKd3QtRzk0UHB6NzBQTjUtSC1fVXUzTVdFNVdSR0c4cmdtbUdSZjdSblI3Zkd4eXJVRFhmakZEWC1CZHRXdzRlb1E?oc=5",
+      "title": "Tether Treasury Receives 200M USDT from Unknown Wallet - Coinfomania",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaGZENnp0a1Q2aTlUNUUyellQelk1SldmUnFhQXpxVzVrdXAyUm1oMUJsTUt3UERaVnRCOW9ucWh2SVk2MEJ6cmUwTkktd1VvNUV5MG1ZMHN0N2RQTUNTWktrZmJvdlpNT0loX29CdVlIUlNJSEtrT0VIZm12UzZHcVpIV3FGdw?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-11-20T17:29:58+00:00",
-      "snippet": "DBS Partners With Circle to Enable Direct USDC Minting and Redemption for Institutions: 5 outlets compared NewsCord",
+      "published": "2026-11-21T02:55:11+00:00",
+      "snippet": "Tether Treasury Receives 200M USDT from Unknown Wallet Coinfomania",
       "author": "",
-      "query": "Circle USDC",
+      "query": "Tetrher USDT",
       "engagement": 0,
       "entities": [
-        "Circle",
-        "USDC"
+        "Tether",
+        "USDT"
       ],
-      "sentiment": "risk",
-      "score": 41.77
+      "sentiment": "neutral",
+      "score": 27.99
+    },
+    {
+      "title": "Bitcoin ETF Outflows and Stablecoin Decline Raise Concerns Over BTC Support Levels - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUXBhbkQ4NDdVX3o0ejJTc0xPRTZwYTc5bGxGWjhzaGhIQ0w5TVQ3LV9nU1hhVWFVWE5USzRNaVVUZkZwS3kxMVl3SXBtUktMV2xyZ0RmX21Pck5EblJRWjBSRG1fUjlFYUdOekRReVhIdFJrUVhESUxUaEZDbmJwc0RLcHRXRGRMWkd3ZEJXWm9GeGtTSUNTeGluZERRWGF3TUY1djdNaC1ZTmxtOWhBMkVuNm9rTmM?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T13:23:25+00:00",
+      "snippet": "Bitcoin ETF Outflows and Stablecoin Decline Raise Concerns Over BTC Support Levels KuCoin",
+      "author": "",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 27.03
     },
     {
       "title": "DBS is building two paths for 24/7 dollars with JPMorgan and Circle using USDC - CryptoSlate",
@@ -105,7 +483,7 @@
         "USDC"
       ],
       "sentiment": "neutral",
-      "score": 41.35
+      "score": 26.68
     },
     {
       "title": "Sky TVL Falls 45% in a Week as USDC Reserve Shrinks - Cryptonews.net",
@@ -121,14 +499,62 @@
         "USDC"
       ],
       "sentiment": "risk",
-      "score": 41.35
+      "score": 26.68
+    },
+    {
+      "title": "Tether builds out QVAC, an open-source AI ecosystem that runs models on your devices - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9acE5kN2dpVHBVTTNaYWY0T2pWS1ZneUFINzU1bnIySmQ1S0ladEdMRTFBd2Vxem9TSzhwNE00ejVFdm0tb3RXWVN4STI2RUdoTGxWWWtTSTBZQ2VWdGg4cTQtTXgtUmhUc0VfZHJXck5aZw?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T12:36:00+00:00",
+      "snippet": "Tether builds out QVAC, an open-source AI ecosystem that runs models on your devices Crypto Briefing",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 26.54
+    },
+    {
+      "title": "MoonPay Seeks US Bank Charter as Ripple's RLUSD Faces New Stablecoin Competition - Coinpaper",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnNzWkpSUURiZzZoYUx3N0VvSXg1S3hDTzNvbnNaWlJqTnlrOFZSNldsaVBUQkdwcGxxd01tVzduNjFRNTBLT29DZC14TFBFckdNUDBicDAxbVlRVWxJMlNkem5MZWFwVXZVR2N2dG5kOVU5Wm53SWZ2c3FnY1Y1RU8xRkN0RktsU2RueC03QUV1VlRsZ294SFVxNFgyZUxXY0RtcWY0dXJBV1pXUkE?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T11:42:07+00:00",
+      "snippet": "MoonPay Seeks US Bank Charter as Ripple's RLUSD Faces New Stablecoin Competition Coinpaper",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.98
+    },
+    {
+      "title": "Stablecoin Regulation Update: GOP Regret Signals Shift - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94ZnN5S29pR1JtVXo1R2dVUlBIRDQ1NFZ6ODN3a21PN2FsWlNseldESTUyMjRyUjlEb1FyRzFSNU5PODBqZU1RRW5pU0xfZlEwM01rWVlhWmtCLU9QbFRZZlQ0ejFuXzhSN29sMFRLQ1p6LWJY?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T03:36:39+00:00",
+      "snippet": "Stablecoin Regulation Update: GOP Regret Signals Shift OneSafe",
+      "author": "",
+      "query": "stablecoin regulation",
+      "engagement": 0,
+      "entities": [
+        "Stablecoin"
+      ],
+      "sentiment": "risk",
+      "score": 25.92
     },
     {
       "title": "Aave V4 Plan Would Put Idle USDC Into Circle Gateway - The Defiant",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2lmM1YzSWdYamhFVm4zRmdwMmtCYUxBYWl4ZFNwWkxGQzZsWkdyaTNBUkp4aUllZDNZZHNyWVV6enpEUUFwbk8yemNBWDZ0MkhMTGxZRVJ4R2Excm51NGlwRENENzZWOFRUa25TT0JhbFNNYnhvYWlkRlV1RGhWR3lKb0lTbElJOWJPTQ?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-11-20T23:55:25+00:00",
+      "published": "2026-11-20T22:55:05+00:00",
       "snippet": "Aave V4 Plan Would Put Idle USDC Into Circle Gateway The Defiant",
       "author": "",
       "query": "Circle USDC",
@@ -138,46 +564,47 @@
         "USDC"
       ],
       "sentiment": "neutral",
-      "score": 40.79
+      "score": 25.49
     },
     {
-      "title": "250M: USDC Treasury Mints New Supply to Strengthen Liquidity - Coinfomania",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTEJTUnBTUDFwd2xxOGVQRXhBOElFQUhxSkpNTWowYWtmTjNYcENBekpzZmM3NTZySWUwWUpsNUJiQTVxZlYxMko0ZDI1bkhPRjU0dEVNOEs5cVE4SWcwZFFMb3RCX3lGRllsTThweGYtWkNybzdjQ3BNLWhOVGNpMjFxejVfZ2JEOUt3Sw?oc=5",
+      "title": "Pulsar USDT Deposits Bring TRON Stablecoins to Virtual Cards - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nbkFnTEZvNTVVOE9FaU52N0lZdUNSck4zOFR2b1pqUkg3V2c0dmxVbl9WYU56VVJOVmJxYnBHYVdHQmlwWlVTS2xtZ1hyNDNJOWFOUlBMOA?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-11-21T02:57:11+00:00",
-      "snippet": "250M: USDC Treasury Mints New Supply to Strengthen Liquidity Coinfomania",
+      "published": "2026-11-20T22:40:41+00:00",
+      "snippet": "Pulsar USDT Deposits Bring TRON Stablecoins to Virtual Cards Cryptonews.net",
       "author": "",
-      "query": "Robinhood crypto USDC",
+      "query": "USDT stablecoin",
+      "engagement": 0,
+      "entities": [
+        "USDT",
+        "Stablecoin"
+      ],
+      "sentiment": "neutral",
+      "score": 25.34
+    },
+    {
+      "title": "Revert Lend Launches on Aero, Letting Base Liquidity Providers Borrow USDC Against LP Positions - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jc2VRNGdrMTRFcHdJTFgwM0VrOUZ2cjB3X0ZOb3FMNm1ycGlTMXprZUtNWS0tYTd2TnVJcF9hYXcxY1EwRjVrNWlfY2FsblFXUlM4MA?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-20T22:51:27+00:00",
+      "snippet": "Revert Lend Launches on Aero, Letting Base Liquidity Providers Borrow USDC Against LP Positions Cryptonews.net",
+      "author": "",
+      "query": "USDC stablecoin",
       "engagement": 0,
       "entities": [
         "USDC"
       ],
       "sentiment": "risk",
-      "score": 40.18
-    },
-    {
-      "title": "Stablecoin Regulation Update: GOP Regret Signals Shift - OneSafe",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94ZnN5S29pR1JtVXo1R2dVUlBIRDQ1NFZ6ODN3a21PN2FsWlNseldESTUyMjRyUjlEb1FyRzFSNU5PODBqZU1RRW5pU0xfZlEwM01rWVlhWmtCLU9QbFRZZlQ0ejFuXzhSN29sMFRLQ1p6LWJY?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-21T01:26:08+00:00",
-      "snippet": "Stablecoin Regulation Update: GOP Regret Signals Shift OneSafe",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 39.23
+      "score": 24.82
     },
     {
       "title": "Dems Urge SEC to Reconsider Stablecoin Rules: Key Takeaways - OneSafe",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkZVOEZfT3MwWGtSQnFOOTNndHNmR0ZkZ2lodWRTczV3YzFQYjJQLTRDakJDUWlpQnBVRlpBcUhjbFdhc0FLRUZRTDg5YmNGY2pRdlFaNl82LWZRYmh5Sl91cDNlV2NCWEZtbUhCX1FFdFN0VUZVZ0dHNnhrdkRhV2NmY21XXzl4?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-11-21T00:41:47+00:00",
+      "published": "2026-11-21T00:51:08+00:00",
       "snippet": "Dems Urge SEC to Reconsider Stablecoin Rules: Key Takeaways OneSafe",
       "author": "",
       "query": "stablecoin regulation",
@@ -186,23 +613,39 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 38.77
+      "score": 24.2
     },
     {
-      "title": "Sky says USDC reserves held through $2B in USDS swaps - Crypto News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tblg0VmtrcFlfeXAyRWREREdBeWdsR1dtRThrNWpIblN3R2htRkRKdk1GYnZmVzdvUzBpTEtPUXN4ODQ4UzJZbXh5S0dyQnU0Z2o0Vw?oc=5",
+      "title": "Tether Faces Insolvency Risk if Gold, Bitcoin Price Declines Persist - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aR1ZHZGMzRTVqT3NaXzd3TDhlbVhJMzlXZUxLRTAyckh5cFFweENIVlk1ZmltQjRsVF9vRHRScHVWQ1JVazRGTHdROTB3alplT1BwZg?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-11-20T16:35:57+00:00",
-      "snippet": "Sky says USDC reserves held through $2B in USDS swaps Crypto News",
+      "published": "2026-11-21T07:58:28+00:00",
+      "snippet": "Tether Faces Insolvency Risk if Gold, Bitcoin Price Declines Persist bloomingbit",
+      "author": "",
+      "query": "Tether USDT",
+      "engagement": 0,
+      "entities": [
+        "Tether"
+      ],
+      "sentiment": "neutral",
+      "score": 23.65
+    },
+    {
+      "title": "Stablecoin Payouts for Businesses: How They Work and What to Consider - CoinGape",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb3RRd2kxeFVMRTlBQXBaYzhzMUxqMWpmdHAwYWl2T3FWX25nZUl1SGUzN2xQSkM5bUtOVUtDSEZHWTk0bk1OVkdPYk55UzNwaVFqWnRqaVVvU2lnajduMEEzYjdNU3FKUzQtMUQ4WU9XVkpTLU1KTUhRM3FJUUxHUFJCOFp5ZHgxenRxQzkwUmJxTC1VSEwwZU00UQ?oc=5",
+      "source": "Google News",
+      "platform": "News RSS",
+      "published": "2026-11-21T07:07:23+00:00",
+      "snippet": "Stablecoin Payouts for Businesses: How They Work and What to Consider CoinGape",
       "author": "",
       "query": "USDC stablecoin",
       "engagement": 0,
       "entities": [
-        "USDC"
+        "Stablecoin"
       ],
-      "sentiment": "risk",
-      "score": 38.71
+      "sentiment": "neutral",
+      "score": 23.11
     },
     {
       "title": "Dems call on SEC to reconsider stablecoin rules - Bangkok Post",
@@ -218,24 +661,7 @@
         "Stablecoin"
       ],
       "sentiment": "risk",
-      "score": 37.32
-    },
-    {
-      "title": "S&P Holds Weakest Score as Tether USDt Price Stays Near Peg - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWk5yOUVva1ZuYnhNNmVHZlFReUNFM0dvQU1HMHdFTTNKckRCal9hYXYtZWFHLUNGeml6SDZZb2c5LTUtbWtRcnZZVWJsYU1tb1BLZUdwRmVqalBxTlJ4TmdELVh5d2ZBZEZnZjVIQlRBcElpLUZSRmVEUnpNWW0yXzFQdmhJZXcyUkZ6Y1R6Rm9KYUVKOERxc3pMd253SkpFMzJFX1FSNGl0VkxUdTl4WkdvUENKMHNTS2w1bllB?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T17:34:55+00:00",
-      "snippet": "S&P Holds Weakest Score as Tether USDt Price Stays Near Peg ad-hoc-news.de",
-      "author": "",
-      "query": "Tetrher USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 36.82
+      "score": 22.65
     },
     {
       "title": "Stablecoin Whale Holdings Plunge, Fueling Concern Over Crypto Buying Power - bloomingbit",
@@ -245,13 +671,29 @@
       "published": "2026-11-21T05:30:34+00:00",
       "snippet": "Stablecoin Whale Holdings Plunge, Fueling Concern Over Crypto Buying Power bloomingbit",
       "author": "",
-      "query": "Tether USDT",
+      "query": "USDC stablecoin",
       "engagement": 0,
       "entities": [
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 36.78
+      "score": 22.11
+    },
+    {
+      "title": "Aave Raises Ethereum USDC Borrow Cap to $4 Billion",
+      "url": "https://thedefiant.io/news/defi/aave-raises-ethereum-usdc-borrow-cap-to-4-billion",
+      "source": "The Defiant",
+      "platform": "RSS Feed",
+      "published": "2026-11-21T19:02:34+00:00",
+      "snippet": "If supply stayed at Nov. 21 levels, filling the new cap would leave about 170 million USDC unborrowed, versus roughly 1.06 billion in the snapshot.",
+      "author": "The Defiant",
+      "query": "",
+      "engagement": 0,
+      "entities": [
+        "USDC"
+      ],
+      "sentiment": "neutral",
+      "score": 22.01
     },
     {
       "title": "Tether-Linked Fund Seeks Yield on XAUt - Briefs Finance",
@@ -267,7 +709,7 @@
         "Tether"
       ],
       "sentiment": "neutral",
-      "score": 36.41
+      "score": 21.74
     },
     {
       "title": "Stablecoin Payments: What the OCC’s Approval Means - OneSafe",
@@ -283,41 +725,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 36.24
-    },
-    {
-      "title": "Pulsar USDT Deposits Bring TRON Stablecoins to Virtual Cards - Coinpedia",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMTlpNC00aWc0T3FUQmpjLXBfZWwxa3dEWkpXSXlPNWxTdHR0MnZOYWVybnBiWkJsQVZGVXVjQ1lLazU4aF93TXZrR1JZTzdYenJzMHQ5MHJVY1ctdGlNTDgtQ3k0QXVhSVhJb2V2clRGb1dNMHVNbVkyUllVZzVTaXduVjFRanNxZWh4S2x6QUJkZ9IBlwFBVV95cUxPbW1jZ2ZfU0tiY08wRkttX0R1Q2pDbDlLd2hjb2JfOGFvd2kzYmkyZTFLcWpFYlA0am84cjNkZkFWZ2RsODB0d1BkeW1BQlRsa0owUEhVRzE0RnZ5Z29BaUxxWmxKQ3d1aTJXLVBtTWczQXRmbF9oWlZxekplSlRjcTFaSWlnMDRuNEM1TjNVV2ZNVmhadUxj?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T16:35:37+00:00",
-      "snippet": "Pulsar USDT Deposits Bring TRON Stablecoins to Virtual Cards Coinpedia",
-      "author": "",
-      "query": "USDT stablecoin",
-      "engagement": 0,
-      "entities": [
-        "USDT",
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 36.2
-    },
-    {
-      "title": "Convert 1 MXN (Mexican Peso) to USDT (Tether USDT) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HMVNJRGM4Q0Fud1ZQU0x5TFljcFlnTVBIbE5ycm4tTUJLclZkMlFiQTgxd28wWnNFLWhTZ3U2ZFZoNEtjU1hPMlAwQ2lhSzh6ZDZSYnFXTjdnUnM?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T15:44:00+00:00",
-      "snippet": "Convert 1 MXN (Mexican Peso) to USDT (Tether USDT) Bybit",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 35.67
+      "score": 21.57
     },
     {
       "title": "Sky's USDC Exit Reserve Rises 29% to 1.13 Billion - The Defiant",
@@ -333,7 +741,7 @@
         "USDC"
       ],
       "sentiment": "risk",
-      "score": 35.42
+      "score": 20.75
     },
     {
       "title": "Tether Invests in Four Companies to Expand Global Payment Channels - KuCoin",
@@ -349,32 +757,15 @@
         "Tether"
       ],
       "sentiment": "neutral",
-      "score": 34.97
+      "score": 20.3
     },
     {
-      "title": "Tether burns 8 billion USDT in 20 days as circulating supply retreats from 2026 highs - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NZmRsU2RBd2dCcTRVOEo1R3ZiMmdDZmkwcVB0WnhWSnRLMjNsazltY09Xbk1uTV8wcWF5UFNPM3M1Wjh5SnFNRElSTTRXZTROWUxvS2REdzlWU0t2MDdQTWNGcEhYU0ZhaHVkWnJFMzk?oc=5",
+      "title": "Stablecoin Whale Dry Powder Continues Shrinking Across Crypto - Santiment",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTZSUVotaks5SlUweVRDM3dPanNMay1EekRwTDdqM2wteHYweXdldDJjVzcwZXFyZlRkVEx5YU93TzlBSGF1X1Z3ZmxhRkVfRFlvNTlUbmdVV3dOLTNOQ2hhTjI1Q1h2NndnVHgxUmNHVmVvbHdsSUVsSXplOHJ1Q1lrU1RoRXZZWXdkVEoyRl9qMTlXamwyUWhGMFdnNjBEU2k3ak1HTWdrV28?oc=5",
       "source": "Google News",
       "platform": "News RSS",
-      "published": "2026-11-20T14:33:18+00:00",
-      "snippet": "Tether burns 8 billion USDT in 20 days as circulating supply retreats from 2026 highs Crypto Briefing",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 34.93
-    },
-    {
-      "title": "Stablecoin Payments Are Redefining Business Hours - OneSafe",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMVFpaUmpCVHJtSVg0a19tQmhrWmZsREFXSlR5SWRnYV9YLXdHdnJsZDgtODZJSzhLMnF1ZjJmUEFXS3ozTWZZUUdTdDBRbjhJdW1rR21TcVc5TEZRdUNSNGI3aGxoQ2hiWFdZR3pqX3pVUUYy?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-21T02:26:41+00:00",
-      "snippet": "Stablecoin Payments Are Redefining Business Hours OneSafe",
+      "published": "2026-11-21T02:32:51+00:00",
+      "snippet": "Stablecoin Whale Dry Powder Continues Shrinking Across Crypto Santiment",
       "author": "",
       "query": "USDC stablecoin",
       "engagement": 0,
@@ -382,7 +773,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 34.86
+      "score": 20.26
     },
     {
       "title": "Stablecoin Payments Go Live: What Visa’s Move Means for Your Business - OneSafe",
@@ -398,57 +789,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 34.7
-    },
-    {
-      "title": "Circle Sinks 36% in a Month as Bitcoin Slides and USDC Stalls. Time to Sell, or Load Up? - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNay1mN1gzSE1BRWZfSU1NNG5mbUhKSTAzbEVudFpYSWRtaGoxc0ZqNDM2QkRuTlZIa1JHOS13WG1nVi15dUpGVlNoQ1lLM1BKdWtPZUlHLXhWT2lub1dTM3NKaXlWcjA3SFJmRVVtRWY3TThobkMtSjJyY1psaGpwR3NWMlNmX3FheFZibFVoUVZzZDdYX3JpMl95eXVvNU1rWm5hRDVFcW9NZnYtNjEwdGljdzZZLXQyZmhGem5JZnlfVTRGOTZtak9CM21lUEpRdTJtdFNCNU9XNXRMQUduVGtNSXhEQQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T13:57:15+00:00",
-      "snippet": "Circle Sinks 36% in a Month as Bitcoin Slides and USDC Stalls. Time to Sell, or Load Up? TIKR.com",
-      "author": "",
-      "query": "Circle USDC",
-      "engagement": 0,
-      "entities": [
-        "Circle",
-        "USDC"
-      ],
-      "sentiment": "neutral",
-      "score": 34.55
-    },
-    {
-      "title": "Stablecoin Whale Dry Powder Continues Shrinking Across Crypto - Santiment",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTZSUVotaks5SlUweVRDM3dPanNMay1EekRwTDdqM2wteHYweXdldDJjVzcwZXFyZlRkVEx5YU93TzlBSGF1X1Z3ZmxhRkVfRFlvNTlUbmdVV3dOLTNOQ2hhTjI1Q1h2NndnVHgxUmNHVmVvbHdsSUVsSXplOHJ1Q1lrU1RoRXZZWXdkVEoyRl9qMTlXamwyUWhGMFdnNjBEU2k3ak1HTWdrV28?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-21T01:08:28+00:00",
-      "snippet": "Stablecoin Whale Dry Powder Continues Shrinking Across Crypto Santiment",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 34.05
-    },
-    {
-      "title": "Pulsar Enables USDT Deposits on TRON, Expanding Access to Everyday Stablecoin Payments - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sUkRFQkxSckpkMjNQOUNEc0dNT1AzbVNPZktrX1BOMHJLVVY1REZFeFpWdF8wT2dJZVd6NlpBU2lvWEF2elBMZjl0Qk0xMmJKVDFRa0U3RTdiZmFUcUdkZWsteElscHM?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T12:46:06+00:00",
-      "snippet": "Pulsar Enables USDT Deposits on TRON, Expanding Access to Everyday Stablecoin Payments BeInCrypto",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "USDT",
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 33.81
+      "score": 20.03
     },
     {
       "title": "DBS Expands Stablecoin and Tokenized Deposit Services for Corporate Clients - KuCoin",
@@ -464,24 +805,7 @@
         "Stablecoin"
       ],
       "sentiment": "positive",
-      "score": 33.8
-    },
-    {
-      "title": "Sky stablecoin loses $1.5B in USDC reserves aft... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODZiUms2RTN0aDZ4NlpBUFNUVXdrX0ZpSWNtNHZ0R3VRWlNoVHFtLXV2aTNZMm9ZbUpleV9WN1lpN3NaYV95YzB1ek55N0pCeGtlUjB2bWVYOXFMN1dLMXlIa2JsRlpSQ2M3VGpVX0poellUQXcwb1AxTUs5MFJMMWpXbHVfNk9uazVWamlpQWd1V0ZfaENfLWIxQmxwTzFWVUpCS0VCZHJXSU5XT2cw?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T20:18:42+00:00",
-      "snippet": "Sky stablecoin loses $1.5B in USDC reserves aft... Pluang",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "USDC",
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 33.53
+      "score": 19.13
     },
     {
       "title": "Crypto Treasury Management Under the New U.S. Stablecoin Rules - OneSafe",
@@ -491,48 +815,13 @@
       "published": "2026-11-21T00:11:07+00:00",
       "snippet": "Crypto Treasury Management Under the New U.S. Stablecoin Rules OneSafe",
       "author": "",
-      "query": "USDC stablecoin",
+      "query": "stablecoin regulation",
       "engagement": 0,
       "entities": [
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 33.45
-    },
-    {
-      "title": "S&P Retains Weakest Stability Score as Tether USDt price Holds Near Peg - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb0VTMEhReTN4TlZaczZOTW5xTkwxMFlISGpIV1hMRFRSdlJDZmVLeXlGZWRRRXZORzF1TldmRWZ2bVF2eXpSc2Q4bFVpeXlvR0N4WUREVFpReW9MUmVBZHZQcEVUcHJHZE1aTU1PcVFmRllzNm5VanBlVy1QSHl1ZHVMdGJkOWIzdXd0YU84VDR2bHhIMC01MUUtTHliWXAzTlgtZEhTbDRuU2l0RkNtNGV3d3BxYlc4TmxNYXp1UDNtX3k4dGRBQWRWakpMZw?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T12:08:54+00:00",
-      "snippet": "S&P Retains Weakest Stability Score as Tether USDt price Holds Near Peg ad-hoc-news.de",
-      "author": "",
-      "query": "Tetrher USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 33.43
-    },
-    {
-      "title": "Convert 1 USDT (Tether USDT) to USDC (USD Coin) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rQi12U0llc3ZCcHNxc1RIQnA3anYtdWNhYXByNE1Gbm1kenhVcE1yVklpQkhJRDFselpJb19CRGNPU0JVaVVPYkhQRUtHdnJ3UElCWUdBeDBQUQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T00:00:00+00:00",
-      "snippet": "Convert 1 USDT (Tether USDT) to USDC (USD Coin) Bybit",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "USDC",
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 33.33
+      "score": 18.78
     },
     {
       "title": "COTI to Pull Plug on Cardano's DJED Stablecoin Dec. 31, With Under 900,000 Tokens Left - BigGo Finance",
@@ -548,41 +837,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 33.28
-    },
-    {
-      "title": "Tether Backs SCRYPT to Expand USDT Cross-Border Payments - Korea IT Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04SHplREZQT3hLeFRHN05yYWQzcmtZelVIanhjRlNjMDNYTDhVM2QwRTFQTDhNSVB2WXN6MTNZbmN6b0VkaUFGRUZGWDVVWUdlNzlPRE5GQ1hGQVlWdjhWSnZnREFiUEJ0dFY2WDh2bjc?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T11:21:00+00:00",
-      "snippet": "Tether Backs SCRYPT to Expand USDT Cross-Border Payments Korea IT Times",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 32.93
-    },
-    {
-      "title": "Tether Invests in SCRYPT to Scale Institutional Stablecoin Infrastructure - FF News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWhxT3hZS0I3OHhIbDl4RTBjSGlMRDc1a2ZRc2NSQm1RVE9hZGdlS3hoZUFIalJ4UUhLQXNHV1RJcktlYXU0Ql9fczRnRjhOMmVRVU9FdEpZeWRiVUFfQ3NtOGV5V1VZQ0pYSnNCenVoRGt6b24yTnlPeFFqcEZ0ZDlsd0FXTHBsZGdUQTdBcnlERmo5MjJUX2NIdllJV29l?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T10:19:57+00:00",
-      "snippet": "Tether Invests in SCRYPT to Scale Institutional Stablecoin Infrastructure FF News",
-      "author": "",
-      "query": "USDT stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 32.29
+      "score": 18.61
     },
     {
       "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims - Cryptonews.net",
@@ -598,7 +853,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 32.21
+      "score": 17.54
     },
     {
       "title": "Jeremy Allaire: New research shows agents with USDC are more capable than those without machine money - Traders Union",
@@ -614,40 +869,7 @@
         "USDC"
       ],
       "sentiment": "neutral",
-      "score": 32.06
-    },
-    {
-      "title": "World Bank enlists Citi and Circle to test stablecoin-based disbursements - FinTech Futures",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM3pCaUx1WVNZcXp2UHljVHQ4Qlo5MVpiRkNIOXg5YW9SR25iQUNmaXBjTGFESUM4bUlKcTNLQlFiSldSRDFIN1BBVi1kYVVqMFVjblkzWXQtN3V5ZHV1UXZCYlg0M2dZdmVETVBVR05COF9WXzdZVGUzZ1VfTWp5U0FISUxXUTdjSDZmMEdONzdXaDN1NE5KYUxTUGpsTUJfZHF0STVGNF81UUIzS2Q5WGhRMW5TcEIzQ2p3bHVsRXdFaGJ2c1B3c1B0MmFwZl9MU19r?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T09:50:37+00:00",
-      "snippet": "World Bank enlists Citi and Circle to test stablecoin-based disbursements FinTech Futures",
-      "author": "",
-      "query": "Circle stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Circle",
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 31.99
-    },
-    {
-      "title": "Bitcoin buyers face a trading issue as stablecoins just suffer their biggest supply drop since 2022 - CryptoSlate",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdVhZbC11TGxrQ25xTU1CS2FLR25vVWZiaFFlSmxVSEdWS3VpYVBVTFlXOGp5R2tESXpiYjdfbU5sRkpfYWlEYmlsMWVJZno1T25fdWhIT3hraF9UZ3R0cG1NUlBfRVFvVUVGTHlfZkZKQlpZNkJmWUFzMHdueHBJcS1UenRTd2RnVTVLT3hHV2VzS2dNSWplWHJGelJtQlJ1SGxkUDVXOE81VjhNVTI5SGpIbm40eHNiSnhEOWQ4ckZjQQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T12:40:46+00:00",
-      "snippet": "Bitcoin buyers face a trading issue as stablecoins just suffer their biggest supply drop since 2022 CryptoSlate",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 31.26
+      "score": 17.39
     },
     {
       "title": "The Final Missing Pieces of America's Stablecoin Rulebook Have Arrived at White House - Latin Times",
@@ -663,72 +885,7 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 31.11
-    },
-    {
-      "title": "Visa expands stablecoin-powered cross-border payouts across - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSYTdxRTNnXy1MZkJ6M0NZd1JINy15NkVNYng0RFZjTkw2RHVtSW13OTlibzlDTm4xdDFHM0ZSX05LMzhwZ3NsWlMtVl9mV3J4N0V1WlpvRjdlYmR6YjNZN0FVcVpYQjVjUmVoNm1sQUl1NUE?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T16:47:34+00:00",
-      "snippet": "Visa expands stablecoin-powered cross-border payouts across KuCoin",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "positive",
-      "score": 30.7
-    },
-    {
-      "title": "SEC Defends 5 Million Baht Cap On Foreign Stablecoin Transfers - Retail News Asia",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGRBUGw0NUd0ZWVEc29ENk9XWHNZb2VDcmJzWG5LNDlsUnhOQ0VTMFlTZ0htcnhHT1dpUXJ1SS1FRHY3d3VVbWV1Q2YxMVdQUWtqd3FMbVpDdG1ZR2hBUFNwT2dvcWhwUFVJeWRfamxwU0hWUVloVG5GT2pyZFd0ZTZVRjVkQlJlWm8zZ1dJdw?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T11:40:24+00:00",
-      "snippet": "SEC Defends 5 Million Baht Cap On Foreign Stablecoin Transfers Retail News Asia",
-      "author": "",
-      "query": "USDT stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 30.63
-    },
-    {
-      "title": "S&P Sounds Alarm on Tether’s USDT as Risky Assets Surge to 28% - CryptoRank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2NsNmxUbE5Fa3l6TDlWbW1GQ1l5OXdER2l2RERrMnNxcGxyWHZyclJDX2FJOGk4cVd2alBUOW5ZUG40TVMxd3J0c1ZNd3RfM3RXWERkSGRXZ1BzbFdtM2duVnh6UnV6R3FWZFZIcmxKbUhtQUJYeDlHbWhIU2hhRkVrU0FWeEhpWmJBQUh1bnpFNXdSVi1LUmRrYXltUQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T07:29:30+00:00",
-      "snippet": "S&P Sounds Alarm on Tether’s USDT as Risky Assets Surge to 28% CryptoRank",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 30.52
-    },
-    {
-      "title": "ICBA urges FASB to delay stablecoin cash rule as Sky’s reserve risk surfaces - Cryptopolitan",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11bmlRSGdlLURaaHd0U2k1MUFhTG9xV0VLb1VmZmpCc1lfZkVraUc0RTJVQV9BdWN1djlQSG1tMWVxaWY5UTFLbjRoOFlBc0ZSeWx5RWRHM2F3ek54VXZtR2JKS2RyTWVkdWZmVnZueTRuVEtQY3huOUxKWC1ERnc?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T11:14:24+00:00",
-      "snippet": "ICBA urges FASB to delay stablecoin cash rule as Sky’s reserve risk surfaces Cryptopolitan",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 30.36
+      "score": 16.44
     },
     {
       "title": "US Republican Leaders Regret Splitting Stablecoin and Crypto Market Structure Bills - bloomingbit",
@@ -744,755 +901,40 @@
         "Stablecoin"
       ],
       "sentiment": "neutral",
-      "score": 30.33
-    },
-    {
-      "title": "Euro Stablecoins: Price Stability Is Only the First Test - Securities.io",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RTjhva3IwaEdCSVlKb2FTMUp5X3FzZlJPRjJScVhMOXd2Sm5vQVFIQXhJcGwwQTdwNWlMWWdsVmlsMUJza2VwSHhkUkc2MENqUHNucmRGZDZzUmlQRkRpaEpmM0MxQ2NMSUJF?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T10:50:27+00:00",
-      "snippet": "Euro Stablecoins: Price Stability Is Only the First Test Securities.io",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 30.11
-    },
-    {
-      "title": "MiCA-Licensed ZBX and BoomFi Power HOPPA’s Stablecoin Exchange Launch - mykxlg.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYld4Rk12TXlNWnJsWUtXSjFUbXRVajh6eFpNQXJYbFZfWHhqTkRSZUFZLVplcmFrOUpaSEpmRG1IMHVDTHVoYkgzSFZJODZWcFVwN29VSVlOa1VhYUNncHhObVp6ZF9IcXNMWHZmdEFHWGZvWF9XMVlndXpnSERqVUNPZWVfQVdVZDA4MkFrVE1zSUZHTjFJYmZoM256NjNPSTM4VVlGVTVmMmplbUhUUC1tbllaOVVnRHBXRlE5RFljWWZtNklKNk5oVVVQRVlESDZGZFNDQWhuaFV0dVI1QktQZFp6WXduMFFJdWpzT2FRdEJkU2pyTFVPcFpaN0EyZk9v?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T04:02:24+00:00",
-      "snippet": "MiCA-Licensed ZBX and BoomFi Power HOPPA’s Stablecoin Exchange Launch mykxlg.com",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 29.61
-    },
-    {
-      "title": "Plume Extends RWA Vault Access to Monad and Robinhood Chain - www.tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oR3kxeVJldWxUY1g1ZWsycm4yQkZ4UVVvdHVaWkF0R1VoRjV4MjRLQ3VDckNka1FadmJvSk5zZkV3UUt4bWg5YmhvcEtxZGpHNldmQVgyd1M?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T17:43:59+00:00",
-      "snippet": "Plume Extends RWA Vault Access to Monad and Robinhood Chain www.tokenpost.com",
-      "author": "",
-      "query": "Robinhood stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Robinhood"
-      ],
-      "sentiment": "neutral",
-      "score": 29.42
-    },
-    {
-      "title": "Emerging Market Stablecoin Growth Is Creating Risks to Global Financial Stability - Council on Foreign Relations",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYURTaVNUa1VTNVlaaDkxdWNFdndKN2l1YlM2elB6c09ocXd3UWVwNmZNMzRPQlAyd0M2emdPMHF4OWFxVGt4bWowVmFSNmRIR3lZTWhwSUZUdUllNWdIaFZ3V2k5d1pIVGhJeHZZNTRmWUQ4YUZvMklqd205TzBSYUlURGNkYWJwWjhpWlVpc2dTekFuNDB6T1lsblc4aFpJWWp3TEhVRm5OeXEtTzVF?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T14:16:45+00:00",
-      "snippet": "Emerging Market Stablecoin Growth Is Creating Risks to Global Financial Stability Council on Foreign Relations",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "positive",
-      "score": 29.13
-    },
-    {
-      "title": "Ripple USD stablecoin gains major exchange supp... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNczB3eHBWMEF3NEtoMHJNTVFwWFNlVDhRZ2djYnJRV2NPWnhBMTZkWDV5SU4wSkVPaUtIX3J1cmdGcXVwY2dVNmREa21tN3VJd21qcHI0OU40bnRtOGU0eHFIdHlFcmUyZVdVVHZZOUpiSzdmVDl6YzNBT3drUzg4eGh6NUZEM216eXVMQTZ0UGpkWlk?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T17:14:09+00:00",
-      "snippet": "Ripple USD stablecoin gains major exchange supp... Pluang",
-      "author": "",
-      "query": "Robinhood stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 29.11
-    },
-    {
-      "title": "USDC now has two supervisors in the European Union under MiCA - Observatorio Blockchain",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHpCdUdOU0xkay1VTEs1bW9kaTF2bDNTWXJlUWhPTmh2U01rbjNEUEdvV1U2TzQ5Q2Y4R2hETkhtYjhXbzhQeW5JcFNTVUhEOHJ5U09PUGwxdDNlNWxNWk9uN1FJX0MyekZranVvZk9NNWNnSDhkNnp0RXNLUUpFUDdB?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T09:00:00+00:00",
-      "snippet": "USDC now has two supervisors in the European Union under MiCA Observatorio Blockchain",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "USDC"
-      ],
-      "sentiment": "risk",
-      "score": 28.96
-    },
-    {
-      "title": "Convert 1 USDT (Tether USDT) to UAH (Ukrainian Hryvnia) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rZ3IyOU9RYXhjSXlLYUdSMTgyZGRkcDJxR0p1WkhCeVRrdW1lWThBekI5MkxVNDF2a2ZsREVlbXgtZW1EMlNFZ1ZfczFvcVM1eU56QmxTUzM?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T04:54:09+00:00",
-      "snippet": "Convert 1 USDT (Tether USDT) to UAH (Ukrainian Hryvnia) Bybit",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 28.9
-    },
-    {
-      "title": "Sky Protocol's Peg Stability Module maintained stable USDS-USDC swaps amid $518M flagged crypto activity. - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVBIc01pVWRZUkhvNDI1QnpHR1pFNWNLZ0JrRld0NG5hWjdKTVd1cWVQVUxMQkpXV2lYR2ZPSDRWZ2lFRGthUWdFRW1kc1VNd2M2RloyWFVTa2kxZTZOckVqdnZGSXdaWk1EcTJCbUlmb0FodFU4bXBydU1tYnF0SzlNRWt4QnByVzlWamJCZEhkaDh3RGVMR2d2THVhOUpxNFZxdFJTRVNFYUFCdWhz?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T16:45:57+00:00",
-      "snippet": "Sky Protocol's Peg Stability Module maintained stable USDS-USDC swaps amid $518M flagged crypto activity. Pluang",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "USDC"
-      ],
-      "sentiment": "neutral",
-      "score": 28.81
-    },
-    {
-      "title": "Bitcoin Price Struggles Under $65K as World Bank Explores USDC Rails: Follow the Dollar Liquidity? - 99Bitcoins",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWRMam44N2tkNlFOSmRGbk10YVFEX1Q0OXp4T1MtYnd1TktXOUJLS3JZNkF0WVg3M1Y0Q0p4T3hIUDJfZzgxcFJkc2Q5cHA4NzV2cTZlM0FFTldUUmgwYk5hd0xGWTJZamVyOFBHajl2UFdVMF9PNExlZXMxQ0Rqdk54SV9XLVQwNUREeEg0MjI?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T08:42:10+00:00",
-      "snippet": "Bitcoin Price Struggles Under $65K as World Bank Explores USDC Rails: Follow the Dollar Liquidity? 99Bitcoins",
-      "author": "",
-      "query": "Circle USDC",
-      "engagement": 0,
-      "entities": [
-        "USDC"
-      ],
-      "sentiment": "risk",
-      "score": 28.77
-    },
-    {
-      "title": "Tether Burns 4 Billion USDT From Ethereum Treasury - The Defiant",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeThBMmNWbnZCTm5tOFNEM0hkU2doQjgzbzhBRjJycW1GNGlwZWRiUkRPTGxMZ3BCMmxwNVRZQ1RSV1R6SjVSRDZoMGM0emU4MFpsYWd1M2hPT3BURHItQzFUcUhJWDJEb3NGdDFSZEJxVldBZDVpX3dKNEUzTUNxRVZpekJqdjBuTnc?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T04:29:57+00:00",
-      "snippet": "Tether Burns 4 Billion USDT From Ethereum Treasury The Defiant",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 28.65
-    },
-    {
-      "title": "DBS enables corporate clients to convert deposits into USDC - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWbXBFc3h3cFB2RXhLWVpzT1J4OGZ4ZDljUGo5eFlxaENrNFBMd3dlV3Q0a0hGWC1hdFpKamhjbU9UNTdxTEJYN2hZMUh3YU00Qjd4U2lEcGVGRUdnVVhZMXlzZU90cTVVcUxtbHNab0p2cDNFdk5peEZTWGRFQQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T15:44:33+00:00",
-      "snippet": "DBS enables corporate clients to convert deposits into USDC Crypto Briefing",
-      "author": "",
-      "query": "Circle USDC",
-      "engagement": 0,
-      "entities": [
-        "USDC"
-      ],
-      "sentiment": "neutral",
-      "score": 28.17
-    },
-    {
-      "title": "Tether Insiders Seek to Turn Gold Into a 4% Yield Machine - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmFLaVVWR2NZYjVsWXk2ZHBsQTB0S01xWVZLX2EwY0RJcFJXREZ4cE81SGwwNUROSlRhbGxXNTNVZ1BTa0tzaHdQNFh5WHFSdy1iQjMzRGxOUGI3dlFBZzJqUG1HT1NsbENDMmJPZEJnbnZZUEpJZVBRUlRNT293MzRnVjBXbEpZcE9MTTJaVjlGdk9WWGtxX3pTdU0wT3lWeXJkYWZWenZKUzA?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T15:20:19+00:00",
-      "snippet": "Tether Insiders Seek to Turn Gold Into a 4% Yield Machine Bloomberg.com",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether"
-      ],
-      "sentiment": "neutral",
-      "score": 27.92
-    },
-    {
-      "title": "Ripple’s RLUSD Outpaces Tether’s USDT in DeFi Over 24 Hours - Crypto Economy",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmhGclZUQkNxcVUtOHVGeUR1YmVaWnZwV3RXRlo2VUpjaW9PNTAwRXBGVXFqZDdCOGNrSlFYTElxX3FDdzNZekd6SzVvbTNVNFNjQWRwZWpXVFk1d2hCWm1WV3RyY1MzT2dLeUVEb3ZDZnRMRUFLWlVuLUFGRllCYW1TeGQ5eFhYN3k0T1BR?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T02:49:53+00:00",
-      "snippet": "Ripple’s RLUSD Outpaces Tether’s USDT in DeFi Over 24 Hours Crypto Economy",
-      "author": "",
-      "query": "Tetrher USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 27.6
-    },
-    {
-      "title": "Convert 1 USDT (Tether USDT) to SAR (Saudi Riyal) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCNnVuRWd4WGJieXZJRmZKa3Q2TU0xUGRxQUJDWk1oMjVRSUpVanplZFIxM3NzazZjNXJyeXRMdmRfd2NLczJuNVlKZDF4UDhrc1dmeF9JNl8?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T02:49:16+00:00",
-      "snippet": "Convert 1 USDT (Tether USDT) to SAR (Saudi Riyal) Bybit",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 27.6
-    },
-    {
-      "title": "Robinhood Just Dropped 29% in a Month. Is It Time to Sell, or Load Up? - TIKR.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGxybUFPTVY3WEpkX1h5TUtyRHBRd09nYnRXSmxLWldfdDBfbkF1ZFNiOWZRU0RKM0I3RWgwMGluOHBvZldjR0xLSTlyRlBEaGpJQ09WQ2I4aVlNNWlUcWVEN1lZUUJ1SFpmNWpPMFl2MWQ1cE1Pdm9GNXN0aU1LanY4azZqeFA5UW04M0hEcUhoeUx5YmVIQg?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T13:59:55+00:00",
-      "snippet": "Robinhood Just Dropped 29% in a Month. Is It Time to Sell, or Load Up? TIKR.com",
-      "author": "",
-      "query": "Robinhood crypto USDC",
-      "engagement": 0,
-      "entities": [
-        "Robinhood"
-      ],
-      "sentiment": "neutral",
-      "score": 27.08
-    },
-    {
-      "title": "Tether Backs Swiss Stablecoin Firm SCRYPT as It Expands Into Payments - CoinMarketCap",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUlhQzZEVTI4bXplZTNIb3FWdUNXd3hkWlNvTE1PZmxpUFdMdVlnQ3ZWZDNWMEFEOTZFUmpUQXBQdTVQenItcHh4ZDlwV1JmZFdUVW84bVMxcmN4ZUl1d3d2OFJSZXZpamFLajRLWWdYdGE2dllHUmlfOWVFdzJXd3FPaGxMNjRGUUdtYjJUWE5tOEEzVDVGSzM2OHI?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T22:12:59+00:00",
-      "snippet": "Tether Backs Swiss Stablecoin Firm SCRYPT as It Expands Into Payments CoinMarketCap",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "Stablecoin"
-      ],
-      "sentiment": "positive",
-      "score": 26.59
-    },
-    {
-      "title": "Tether’s SCRYPT Bet: What Stablecoin Payments Mean Now - OneSafe",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2RFWG15RUt6c05ST2F5SldHVDZYcDNtYXF4VXlRZ3JEQ1dUTUlhaVFFa3IzM1gyclhWeWxWbDBCZVdheXRFUU93VFp1MWlPTmt5ZFpFUk9qRDBjekd6ZC0tclBaRnVxV1RQNmpySC1JVDVIWHdwMGkwTldxb3ZYaQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T00:54:05+00:00",
-      "snippet": "Tether’s SCRYPT Bet: What Stablecoin Payments Mean Now OneSafe",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 26.4
-    },
-    {
-      "title": "Sky’s USDS stablecoin shrinks 35% as $1.5B exits reserves - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNG44b3pGQklNaUttd0l0QWpHQmFTbDZmVlkwY3RlU2dYTlc5RVNmalJ1b3Q3TGxkb2VHRGxKU0tacFFiWnFucG1ieVhJajB4R0NoWWZ2d0o0OXlKSnM2SU0wSHUyS3YzLXJHbmdRTmFkbHhBcnRuOA?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T20:02:53+00:00",
-      "snippet": "Sky’s USDS stablecoin shrinks 35% as $1.5B exits reserves Crypto Briefing",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 25.86
-    },
-    {
-      "title": "Convert 10 USDT (Tether USDT) to CZK (Czech Koruna) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xcm1NdjNmTGdNMm94cWZfUmRPQU0wbTdfWVRlZzZrd2JyelNzWWdDN19NV1lvVGdYRHROa1NEU0U3ckxNOE4zNGFHcHlQX1ZIVFU1MFBhYWFDX3ky?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T00:00:00+00:00",
-      "snippet": "Convert 10 USDT (Tether USDT) to CZK (Czech Koruna) Bybit",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 25.83
-    },
-    {
-      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzlJRHFySHFYYms0cW9YRWhlN2p4emQwaWx1VXNNQlFNNGZKanFOSllVZXFDY2MxQ1UzeF96VWVQWkY4MEFxZ21zT3VwQUdYQi16M0R4b2lRR3dCX2Z4bnVWQW5TRDFVQXp3U0YzWFFoRm5pX2tnN3pnOFJWSEt4R2Y0OWJBTGc3amQ2YzlUUXJnU0FEcW1sdXdJY1JPVGRyeTNPdC03UHFXU1dHREJFNzN0OWw2QVdwem84ZENlUlBSMExJbEdVVkE2aGc0MElKLUtod0d3?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T19:53:42+00:00",
-      "snippet": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report CoinDesk",
-      "author": "",
-      "query": "Circle stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 25.77
-    },
-    {
-      "title": "GENIUS Act State Stablecoin Regulation Faces New Senate Challenge - TronWeekly",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGVUV5X2tpTmhrLVZCc0c1cHFIc0Q4QnBrenE2eW9jdmJfTGpISVJuTlM4U25sOURwdWhMU2g2eUhSLWVSQXJnV09zd1RwTUNPZnJBUC11TW5zc205dGJMNHp4Q0xuTFdaazNPYl8za1VrRGszQ3ZuTmtiZ3A?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T19:30:00+00:00",
-      "snippet": "GENIUS Act State Stablecoin Regulation Faces New Senate Challenge TronWeekly",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 25.52
-    },
-    {
-      "title": "Convert 1 USDT (Tether USDT) to AZN (Azerbaijani Manat) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52akc5VDB2dnNfVmllZFltXzhZNlpCLVl4S0dWQ19iYk1Hbk9Rd2NtdFBuNWxmMWxtZnJPREI1NmVEZU93QURWXzlrU0w0UmNOV3N0QzVuQ3I?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T23:26:11+00:00",
-      "snippet": "Convert 1 USDT (Tether USDT) to AZN (Azerbaijani Manat) Bybit",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 25.48
-    },
-    {
-      "title": "Tether Takes Stake in Swiss Stablecoin Firm SCRYPT to Build Out Cross-Border Payments - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44eW9RbTVsWXpCRjFoa3Y3ekZ6QWc0Y05DMmNzY09CWWJJNzh0QllhczhhbVFXeTFsN1IzYUJiUmxaanQtaTV4bWlMS3BmRUV5dHBaUHhhN19UTkhPNk9WSmVDel9rdnpxal9DSnVPcGVPQVJYbkE?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T23:05:00+00:00",
-      "snippet": "Tether Takes Stake in Swiss Stablecoin Firm SCRYPT to Build Out Cross-Border Payments BigGo Finance",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 25.26
-    },
-    {
-      "title": "MAS Calls for Common Standards as Stablecoin Use Expands in Cross-Border Payments - KuCoin",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzYtNjJsTUExcGdfRm5ZZ1RUWjM1OHRBYzEtbzhFa2lXcV80SzFOOEJpajJ6dXFVUmU3U3dtMzZTUWJBaHlUVDRxMU1ZMmdYOHNfMVFKbi1xcUt1QUxzalUtM2d3cS1USlNZci1IaEF4bmJNYzJ6MHplUTlFMHN0SV91Sjh5aVNOcUNsd010cWNOMUtfaGFxQzNpY3RWLW5qYTQ4emRpdW83OVZQcl9OcHFCQWs2dw?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T07:36:05+00:00",
-      "snippet": "MAS Calls for Common Standards as Stablecoin Use Expands in Cross-Border Payments KuCoin",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "positive",
-      "score": 24.96
-    },
-    {
-      "title": "ECB’s Sleijpen Says Stablecoin Run Could Force Policy Rethink - TOKENPOST",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01Z1E2TEQtZkhQWEgxS3ZzTnc2c0RrbDBmdHpHc1BQMmpFakk3ZDJFOEZiY1hRaEd5UzBiRkV6REM4Rk56a3BsdjBhMXRIMW9NelJBT3Z4UVpuVUE?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T09:40:37+00:00",
-      "snippet": "ECB’s Sleijpen Says Stablecoin Run Could Force Policy Rethink TOKENPOST",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 24.38
-    },
-    {
-      "title": "Stablecoin Regulation: MoonPay's Bank Charter Bid Explained - OneSafe",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGMTdQOTdiVEFOcEoyOWRjT2d5amY4bC1VMXRTbVl0ZUhtbEVvOFRjZWhRT0tMaVFDU2Joa3hXLTQzdjJ5enhkaWxKaFJRaEdzai1BcXNIa3BrSjVQdFJKY0hmTmlwS3ZuQkZCemtab08yZjIxLWtBT0tR?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T01:24:06+00:00",
-      "snippet": "Stablecoin Regulation: MoonPay's Bank Charter Bid Explained OneSafe",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 24.21
-    },
-    {
-      "title": "How Low Could Circle Stock Go? - Trefis",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSExFYWZPdllUUEhiLXR2b0VqbTNuUzc0d2tyY0hxV21KY1Y2cWVBaXB2S2R4WWFuQncwQVJDVGJUcm1NRWNOcTlZLXNQb2xhQ2FyYzFKVWxaLTRlcmFDZXdIczN1NUhFN25ZRm8yVWNwUGlZWXYwNFQyaGl5SEdYVUkxWWF1dFBCX2YyMGNuZUlyUkxm?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T08:42:24+00:00",
-      "snippet": "How Low Could Circle Stock Go? Trefis",
-      "author": "",
-      "query": "Circle USDC",
-      "engagement": 0,
-      "entities": [
-        "Circle"
-      ],
-      "sentiment": "neutral",
-      "score": 23.78
-    },
-    {
-      "title": "Circle Stock At $52: What Would It Take To Get To $90? - Trefis",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTRRMmJUeDEyZFY1WE9VTC01WmRUbUc5YTI3QUdoa0xsYVBoUmo2U2liMUpXdVZiaW9WcndnSXJCV3lwV3lvMmZ5WGRGZE9TS2R4NkNxZlFqSjJyODFBSFVYMGlWR2pvNFMtcU43VnU2WUZodTFqV1JPV3doSVNTUWFUdVpGZDRIaHc3SlNJaEdDTmNtdS0zSmJ6T1QwZ1J3WXRkZ0Y1Y09FeUtzNnU4VQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T08:42:17+00:00",
-      "snippet": "Circle Stock At $52: What Would It Take To Get To $90? Trefis",
-      "author": "",
-      "query": "Circle USDC",
-      "engagement": 0,
-      "entities": [
-        "Circle"
-      ],
-      "sentiment": "neutral",
-      "score": 23.77
-    },
-    {
-      "title": "Sky's USDS stablecoin holds $1 peg amid $518M i... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDFFX0tLLVlraGZzU2FWOHR5cFNmV3ZZTDBzaVo4Y19oUXN1cEtfTGExTWxCT19Ic3hCZld2WXAtakhUdXJwejI0bzBiT2QzbXJ5NW91aVVaZ1FKUjBueDFnejMxT0ZkR1dQQ25EbEZQNHdDMktvbjdDRzlyUnNiV3V2VnNTRHNjTjZuelhkMEU5M3ZYQll0ejB4M3hlSHdiZTZrTEhYNXNBUDBZWHc?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T08:23:54+00:00",
-      "snippet": "Sky's USDS stablecoin holds $1 peg amid $518M i... Pluang",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 23.58
-    },
-    {
-      "title": "DBS bets it can lose the deposit and keep the client",
-      "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "platform": "RSS Feed",
-      "published": "2026-11-20T15:32:30+00:00",
-      "snippet": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.",
-      "author": "Cointelegraph by Adrian Zmudzinski",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 23.56
-    },
-    {
-      "title": "MoonPay applies for U.S. national trust bank charter to pursue stablecoin issuance - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmpnMllPN2EzaFFwZ1BVaVVIUnBZQzkxVGIyeHJFTlhyR0E2bGhQaWFwbDBiWHV4SUo1M2V4dVVUbTYzRGgwMTRYS2xjUHFLcVR3enRSUEpjd2pTTWduTXBTdUdWazJ5RUwwbzRrMUJQa1Z6ZEpEbzZMc0xGVlJxN1JmZUtoRU9OWGd5cFJjbjVzQzZTWGlDWTBpQ2RrWHVObmJzTlo4VVJCY3R2VUVOQnAwYUIxME5CR1A5NEE5eVVnd1I0?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T00:20:07+00:00",
-      "snippet": "MoonPay applies for U.S. national trust bank charter to pursue stablecoin issuance 디지털투데이",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 23.54
-    },
-    {
-      "title": "Convert 1000 EUR (EUR) to USDT (Tether USDT) - Bybit",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GaEc0WFhhSE1ocEVIUG5QZTNKS016VTgtdy00NWRSTHppc0xZMHV5TjM2VFU4SFpkbDh0Z1JKNl81UDhmd2l1ZER0SkloSWd6QUgydndWNGdaNy1uRG84?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T20:08:00+00:00",
-      "snippet": "Convert 1000 EUR (EUR) to USDT (Tether USDT) Bybit",
-      "author": "",
-      "query": "Tether USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 23.42
-    },
-    {
-      "title": "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact - JournalArta",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYmpxT0pHOTZqYVNMaHpnMmdQazU3UWczUWQzVENxbVBJdXB1U2VzOTdTeXdnN0x1Vk4wUjJPSUdQdmFaaUVDeGhMTWM4MnhoWnlmSmpHZk9tZVhMbXVfZ3BoWFJTQm1ETXhDVFZDZ3FUOGxtYjh2Nk9UQzJ5dEV5U3plMVdvUm9hUmxwMUVYc1RiLTg?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T08:03:23+00:00",
-      "snippet": "Bank of England & FCA Sterling Stablecoin Rules: Treasury Impact JournalArta",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 23.37
-    },
-    {
-      "title": "S&P Global Maintains Lowest Stability Score for Tether’s USDT - Bitcoin News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzdteVo2YVVuWWRUVGhDYVNCdUtGNDFNbHpMNENxS3REd0Y0Z2dXc2tvNEJEWlJuNE50ZENZNVljWktiN040enctc2E0LUhONk9mVFdOcGVSY0VQNnJCMEJVVW9lbWk2MmlZWmNucHBzeUl1eUtudG1McGR5NkNHRWdRSGU2bXNiRWZYZzNnS1ZjbWc1Vkl6S3cwZTRWQQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T18:55:54+00:00",
-      "snippet": "S&P Global Maintains Lowest Stability Score for Tether’s USDT Bitcoin News",
-      "author": "",
-      "query": "Tetrher USDT",
-      "engagement": 0,
-      "entities": [
-        "Tether",
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 22.67
-    },
-    {
-      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
-      "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "Cointelegraph",
-      "platform": "RSS Feed",
-      "published": "2026-11-19T21:01:42+00:00",
-      "snippet": "MoonPay’s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight.",
-      "author": "Cointelegraph by Nate Kostar",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "risk",
-      "score": 22.24
-    },
-    {
-      "title": "Wagyu Operator Pledges Refunds After XMR1 Sell-Off",
-      "url": "https://thedefiant.io/news/hacks/wagyu-operator-pledges-refunds-after-xmr1-sell-off",
-      "source": "The Defiant",
-      "platform": "RSS Feed",
-      "published": "2026-11-20T17:38:02+00:00",
-      "snippet": "Scam Sniffer estimated the token sales brought in about $13.3 million in USDC. PerpetualCow pledged to cover losses personally.",
-      "author": "The Defiant",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "USDC"
-      ],
-      "sentiment": "neutral",
-      "score": 21.14
-    },
-    {
-      "title": "North Korea-linked wallets ran $101.9M through Sky’s stablecoin swap - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IakZZQk9iTGZmMXg1UjBTb3k3ZDJSSzNIUzRaNmo3QVU0VWRqTEFISVltdXQxT2xGQWVDcVhIdWVwb0FkOXBaSE5hLWwzV2hXU2lITEZWRU1NZw?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T04:25:38+00:00",
-      "snippet": "North Korea-linked wallets ran $101.9M through Sky’s stablecoin swap Cryptonews.net",
-      "author": "",
-      "query": "Circle stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 21.1
-    },
-    {
-      "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
-      "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
-      "source": "Decrypt",
-      "platform": "RSS Feed",
-      "published": "2026-11-20T12:10:14+00:00",
-      "snippet": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.",
-      "author": "Decrypt Agent",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 20.75
-    },
-    {
-      "title": "Visa Direct Adds Stablecoin Payments: What to Know - OneSafe",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdm1jTjFaQjk3ajhRTjJIUXlxYUlscVc0RWpzT3ZMekdrREpHYzVIVjVOelZwbTJRc1pzdEVKaXVCTnNvT1NscjhkU0NEMXA0TTlESU9GaWtmWWtDLW5md2dSdlBJRldnSEJ2Qjd6OG12bV9qdnVpUEFVYmcwdWNnbmFFdlk?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T01:39:17+00:00",
-      "snippet": "Visa Direct Adds Stablecoin Payments: What to Know OneSafe",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 19.37
-    },
-    {
-      "title": "Stablecoin Payments: Visa's Asia Expansion - OneSafe",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94c2dBZXRHdWY5UTZsYTBGUVd3MkFIXzRiMl9vZWdlTnU2SGd2ampDbGprSVNKcU4ta21FcGp4SjV5eWliSzVadU53cm5LSmo4ZGlaTUszbTFxdnhtRlp3d29qTDBIM083Vi1OTlF2UQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-20T01:31:41+00:00",
-      "snippet": "Stablecoin Payments: Visa's Asia Expansion OneSafe",
-      "author": "",
-      "query": "stablecoin regulation",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 19.29
-    },
-    {
-      "title": "Sky's USDS stablecoin shrinks by more than a third as $1.5 billion leaves after a report on North Korea-linked flows - MLQ.ai",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdVp6Vmw5UEliOS1PUnFiOFVKcUZSdHZYN2MxVXF4NEhsLW9NNFRZY2FlcnEtYVZWWGl3bFJCa2pCbUMyV2QyRWx1ZmFxdTdJM1FWWmtHNV9QNEhMNlJMRlVaelA3bDh0dW9EOXVQYThCNHBoa1hSYkVsR3hCbFJMZnU3blgwM09HcEZwM1ZCcUtxNmhURzJ4cXBlNEkxR1JMQ2xDaU5iTVNiT013YUg5TTNmbnpIZzFsdEcxVnJjNmx2UklGZTFvSjd0MGN5cnc?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T21:53:37+00:00",
-      "snippet": "Sky's USDS stablecoin shrinks by more than a third as $1.5 billion leaves after a report on North Korea-linked flows MLQ.ai",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 17.02
-    },
-    {
-      "title": "Pulsar Money Adds USDT Deposits on Tron for Virtual Card Spending - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhSEdDYUhCYlB6aG84MHJnWDUyNEhPT1NaRGlWNldWUTNFS1FmaXZHd0RqSnluTlE3dUpPalNIYXZfWjVlSEJ1QXJNOVVLV09aZm1xWnB1WjBhQQ?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T20:18:58+00:00",
-      "snippet": "Pulsar Money Adds USDT Deposits on Tron for Virtual Card Spending Cryptonews.net",
-      "author": "",
-      "query": "USDT stablecoin",
-      "engagement": 0,
-      "entities": [
-        "USDT"
-      ],
-      "sentiment": "neutral",
-      "score": 16.03
-    },
-    {
-      "title": "TRON Stablecoin Supply Reaches $93.7 Billion, Lifting Global Share to 33.1% - Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMVjRGamsyY2RkMlFlR1Bud0RYMnJHQjV3SWJva0hyX3VoQlpIV2ZiZU41NXVveEVMTlEtSEYxQlA1MzUyWkt5Wi1ZYmw2ZVBfejlrU1diN19EZw?oc=5",
-      "source": "Google News",
-      "platform": "News RSS",
-      "published": "2026-11-19T19:59:47+00:00",
-      "snippet": "TRON Stablecoin Supply Reaches $93.7 Billion, Lifting Global Share to 33.1% Cryptonews.net",
-      "author": "",
-      "query": "USDC stablecoin",
-      "engagement": 0,
-      "entities": [
-        "Stablecoin"
-      ],
-      "sentiment": "neutral",
-      "score": 15.83
-    },
-    {
-      "title": "Sky’s USDS Circulating Supply Falls 39% in One Day",
-      "url": "https://thedefiant.io/news/defi/sky-s-usds-circulating-supply-falls-39-in-one-day",
-      "source": "The Defiant",
-      "platform": "RSS Feed",
-      "published": "2026-11-20T04:42:25+00:00",
-      "snippet": "DefiLlama’s daily readings show roughly 2 billion fewer USDS in circulation. One Ethereum swap burned 400 million USDS and paid the sender USDC.",
-      "author": "The Defiant",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "USDC"
-      ],
-      "sentiment": "neutral",
-      "score": 15.32
-    },
-    {
-      "title": "Lighter Lists Anthropic-Linked Token on Robinhood Chain",
-      "url": "https://thedefiant.io/news/defi/lighter-lists-anthropic-linked-token-on-robinhood-chain",
-      "source": "The Defiant",
-      "platform": "RSS Feed",
-      "published": "2026-11-19T19:12:15+00:00",
-      "snippet": "ANT is a Robinhood-issued debt token, not direct Anthropic equity. US persons and investors in several other markets are excluded.",
-      "author": "The Defiant",
-      "query": "",
-      "engagement": 0,
-      "entities": [
-        "Robinhood"
-      ],
-      "sentiment": "risk",
-      "score": 14.64
+      "score": 15.66
     }
   ],
   "summary": {
     "entity_counts": {
-      "Circle": 9,
-      "USDC": 20,
-      "Tether": 23,
-      "USDT": 19,
-      "Stablecoin": 50,
-      "Robinhood": 3
+      "Circle": 4,
+      "USDC": 16,
+      "Tether": 16,
+      "USDT": 10,
+      "Stablecoin": 29,
+      "Robinhood": 0
     },
     "platform_counts": {
-      "News RSS": 84,
-      "RSS Feed": 6
+      "News RSS": 53,
+      "RSS Feed": 2
     },
-    "risk_count": 24,
+    "risk_count": 8,
     "top_risks": [
+      {
+        "title": "MUFG Details Canton Test for Intraday JGB Repo Funding",
+        "url": "https://thedefiant.io/converge/tradfi-and-fintech/mufg-details-canton-test-for-intraday-jgb-repo-funding",
+        "source": "The Defiant",
+        "platform": "RSS Feed",
+        "published": "2026-11-22T04:25:54+00:00",
+        "snippet": "The bank-led experiment would preserve bonds’ existing legal status while exploring digital deposits, stablecoins and longer settlement windows.",
+        "author": "The Defiant",
+        "query": "",
+        "engagement": 0,
+        "entities": [
+          "Stablecoin"
+        ],
+        "sentiment": "risk",
+        "score": 29.83
+      },
       {
         "title": "Sky's Peg Stability Module processed $2B in USDS-USDC swaps, maintaining stablecoin peg amid redemption wave. - Pluang",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFo2dlJfNVdvTWhZTlZFalFROTFXRFNBd2pUT0Ffdnp1enZfNEZpTW10UFBTVWJFT1BPVUhpWjA2RWx5bEI4MHJEYnkzU1ZJUUp1TWpldkZraG9pZkJMeHYzQ0NTU2VGQlE3TTAxdUtXZE5JdzkyekhQNjV1SklyUHVPUFRNbmZzLWZ0ZmxBelViNUNiUFhBZi04RnRQQQ?oc=5",
@@ -1508,24 +950,7 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 43.43
-      },
-      {
-        "title": "DBS Partners With Circle to Enable Direct USDC Minting and Redemption for Institutions: 5 outlets compared - NewsCord",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUdPR3FFeVgxT3BvODQtdG5mR1daNndaTW9IcHRfZnhhUkZyZi00TTBxaGEyN2ctRWt3SnIyUmFpUjd4U0EyUnJaRHpqcTZpSWdjQmhWaE94TE9WMXZ5UmJ0cWdrVHc1UGlkaHRENXFqQWtCR0lqWVZqb1JyLVM1cDRfaC1heEUtZVRBUFNWc0Y1NEtTNl9hd3Z3aHpFdTBtYVZJWlFtTGdKd3QtRzk0UHB6NzBQTjUtSC1fVXUzTVdFNVdSR0c4cmdtbUdSZjdSblI3Zkd4eXJVRFhmakZEWC1CZHRXdzRlb1E?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-11-20T17:29:58+00:00",
-        "snippet": "DBS Partners With Circle to Enable Direct USDC Minting and Redemption for Institutions: 5 outlets compared NewsCord",
-        "author": "",
-        "query": "Circle USDC",
-        "engagement": 0,
-        "entities": [
-          "Circle",
-          "USDC"
-        ],
-        "sentiment": "risk",
-        "score": 41.77
+        "score": 28.76
       },
       {
         "title": "Sky TVL Falls 45% in a Week as USDC Reserve Shrinks - Cryptonews.net",
@@ -1541,30 +966,14 @@
           "USDC"
         ],
         "sentiment": "risk",
-        "score": 41.35
-      },
-      {
-        "title": "250M: USDC Treasury Mints New Supply to Strengthen Liquidity - Coinfomania",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTEJTUnBTUDFwd2xxOGVQRXhBOElFQUhxSkpNTWowYWtmTjNYcENBekpzZmM3NTZySWUwWUpsNUJiQTVxZlYxMko0ZDI1bkhPRjU0dEVNOEs5cVE4SWcwZFFMb3RCX3lGRllsTThweGYtWkNybzdjQ3BNLWhOVGNpMjFxejVfZ2JEOUt3Sw?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-11-21T02:57:11+00:00",
-        "snippet": "250M: USDC Treasury Mints New Supply to Strengthen Liquidity Coinfomania",
-        "author": "",
-        "query": "Robinhood crypto USDC",
-        "engagement": 0,
-        "entities": [
-          "USDC"
-        ],
-        "sentiment": "risk",
-        "score": 40.18
+        "score": 26.68
       },
       {
         "title": "Stablecoin Regulation Update: GOP Regret Signals Shift - OneSafe",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94ZnN5S29pR1JtVXo1R2dVUlBIRDQ1NFZ6ODN3a21PN2FsWlNseldESTUyMjRyUjlEb1FyRzFSNU5PODBqZU1RRW5pU0xfZlEwM01rWVlhWmtCLU9QbFRZZlQ0ejFuXzhSN29sMFRLQ1p6LWJY?oc=5",
         "source": "Google News",
         "platform": "News RSS",
-        "published": "2026-11-21T01:26:08+00:00",
+        "published": "2026-11-21T03:36:39+00:00",
         "snippet": "Stablecoin Regulation Update: GOP Regret Signals Shift OneSafe",
         "author": "",
         "query": "stablecoin regulation",
@@ -1573,14 +982,30 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 39.23
+        "score": 25.92
+      },
+      {
+        "title": "Revert Lend Launches on Aero, Letting Base Liquidity Providers Borrow USDC Against LP Positions - Cryptonews.net",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jc2VRNGdrMTRFcHdJTFgwM0VrOUZ2cjB3X0ZOb3FMNm1ycGlTMXprZUtNWS0tYTd2TnVJcF9hYXcxY1EwRjVrNWlfY2FsblFXUlM4MA?oc=5",
+        "source": "Google News",
+        "platform": "News RSS",
+        "published": "2026-11-20T22:51:27+00:00",
+        "snippet": "Revert Lend Launches on Aero, Letting Base Liquidity Providers Borrow USDC Against LP Positions Cryptonews.net",
+        "author": "",
+        "query": "USDC stablecoin",
+        "engagement": 0,
+        "entities": [
+          "USDC"
+        ],
+        "sentiment": "risk",
+        "score": 24.82
       },
       {
         "title": "Dems Urge SEC to Reconsider Stablecoin Rules: Key Takeaways - OneSafe",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkZVOEZfT3MwWGtSQnFOOTNndHNmR0ZkZ2lodWRTczV3YzFQYjJQLTRDakJDUWlpQnBVRlpBcUhjbFdhc0FLRUZRTDg5YmNGY2pRdlFaNl82LWZRYmh5Sl91cDNlV2NCWEZtbUhCX1FFdFN0VUZVZ0dHNnhrdkRhV2NmY21XXzl4?oc=5",
         "source": "Google News",
         "platform": "News RSS",
-        "published": "2026-11-21T00:41:47+00:00",
+        "published": "2026-11-21T00:51:08+00:00",
         "snippet": "Dems Urge SEC to Reconsider Stablecoin Rules: Key Takeaways OneSafe",
         "author": "",
         "query": "stablecoin regulation",
@@ -1589,23 +1014,7 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 38.77
-      },
-      {
-        "title": "Sky says USDC reserves held through $2B in USDS swaps - Crypto News",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tblg0VmtrcFlfeXAyRWREREdBeWdsR1dtRThrNWpIblN3R2htRkRKdk1GYnZmVzdvUzBpTEtPUXN4ODQ4UzJZbXh5S0dyQnU0Z2o0Vw?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-11-20T16:35:57+00:00",
-        "snippet": "Sky says USDC reserves held through $2B in USDS swaps Crypto News",
-        "author": "",
-        "query": "USDC stablecoin",
-        "engagement": 0,
-        "entities": [
-          "USDC"
-        ],
-        "sentiment": "risk",
-        "score": 38.71
+        "score": 24.2
       },
       {
         "title": "Dems call on SEC to reconsider stablecoin rules - Bangkok Post",
@@ -1621,7 +1030,7 @@
           "Stablecoin"
         ],
         "sentiment": "risk",
-        "score": 37.32
+        "score": 22.65
       },
       {
         "title": "Sky's USDC Exit Reserve Rises 29% to 1.13 Billion - The Defiant",
@@ -1637,94 +1046,39 @@
           "USDC"
         ],
         "sentiment": "risk",
-        "score": 35.42
-      },
-      {
-        "title": "Sky stablecoin loses $1.5B in USDC reserves aft... - Pluang",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNODZiUms2RTN0aDZ4NlpBUFNUVXdrX0ZpSWNtNHZ0R3VRWlNoVHFtLXV2aTNZMm9ZbUpleV9WN1lpN3NaYV95YzB1ek55N0pCeGtlUjB2bWVYOXFMN1dLMXlIa2JsRlpSQ2M3VGpVX0poellUQXcwb1AxTUs5MFJMMWpXbHVfNk9uazVWamlpQWd1V0ZfaENfLWIxQmxwTzFWVUpCS0VCZHJXSU5XT2cw?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-11-19T20:18:42+00:00",
-        "snippet": "Sky stablecoin loses $1.5B in USDC reserves aft... Pluang",
-        "author": "",
-        "query": "USDC stablecoin",
-        "engagement": 0,
-        "entities": [
-          "USDC",
-          "Stablecoin"
-        ],
-        "sentiment": "risk",
-        "score": 33.53
-      },
-      {
-        "title": "Bitcoin buyers face a trading issue as stablecoins just suffer their biggest supply drop since 2022 - CryptoSlate",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdVhZbC11TGxrQ25xTU1CS2FLR25vVWZiaFFlSmxVSEdWS3VpYVBVTFlXOGp5R2tESXpiYjdfbU5sRkpfYWlEYmlsMWVJZno1T25fdWhIT3hraF9UZ3R0cG1NUlBfRVFvVUVGTHlfZkZKQlpZNkJmWUFzMHdueHBJcS1UenRTd2RnVTVLT3hHV2VzS2dNSWplWHJGelJtQlJ1SGxkUDVXOE81VjhNVTI5SGpIbm40eHNiSnhEOWQ4ckZjQQ?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-11-20T12:40:46+00:00",
-        "snippet": "Bitcoin buyers face a trading issue as stablecoins just suffer their biggest supply drop since 2022 CryptoSlate",
-        "author": "",
-        "query": "USDC stablecoin",
-        "engagement": 0,
-        "entities": [
-          "Stablecoin"
-        ],
-        "sentiment": "risk",
-        "score": 31.26
-      },
-      {
-        "title": "SEC Defends 5 Million Baht Cap On Foreign Stablecoin Transfers - Retail News Asia",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaGRBUGw0NUd0ZWVEc29ENk9XWHNZb2VDcmJzWG5LNDlsUnhOQ0VTMFlTZ0htcnhHT1dpUXJ1SS1FRHY3d3VVbWV1Q2YxMVdQUWtqd3FMbVpDdG1ZR2hBUFNwT2dvcWhwUFVJeWRfamxwU0hWUVloVG5GT2pyZFd0ZTZVRjVkQlJlWm8zZ1dJdw?oc=5",
-        "source": "Google News",
-        "platform": "News RSS",
-        "published": "2026-11-20T11:40:24+00:00",
-        "snippet": "SEC Defends 5 Million Baht Cap On Foreign Stablecoin Transfers Retail News Asia",
-        "author": "",
-        "query": "USDT stablecoin",
-        "engagement": 0,
-        "entities": [
-          "Stablecoin"
-        ],
-        "sentiment": "risk",
-        "score": 30.63
+        "score": 20.75
       }
     ],
     "narratives": [
       {
         "entity": "Stablecoin",
-        "count": 50,
-        "headline": "DBS and Circle Strengthen Asia’s Stablecoin Infrastructure With USDC Partnership - Crypto Economy",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNENaWWJNWTExb0dGZ0JJNHhPSjJDempuRVpjcmQxV0FOaVpGZ19ndVZsSkNEc2E4N1Jldm50SnZma0NmTDMyWWxyYnY4V2RaZFF6QmhHUW5CWmloN25lTnJLdUcxR1dvZk0za1FNOGs0ZUE3VGVzMUZmOXhNV1VMWDlPOGR2WTZ1bDJiaXVPZ0NqdGQ0OFdBQnlfZFI4ZE5PVlM1enBxeG1PYkU?oc=5"
-      },
-      {
-        "entity": "Tether",
-        "count": 23,
-        "headline": "Tether Burns Billions In USDT As Stablecoin Market Cap Contracts - TronWeekly",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fT3lTTWJIUWw0VDBfNHdjUWdfa1pQVlBzSXdnUjVyazNMT2FUNkV6ZWttMkhQeTNKaThLWFp0ZHBEZ3Z5TF9oZG1oTmdzWUpDUWFwc1dodnpMLURvVUFxRnVWRUN6N2pMLUc5SDB2SHc5a2ZkS1ByZnZNWTJmVk0?oc=5"
+        "count": 29,
+        "headline": "Stablecoin Whales' USDT and USDC Holdings Drop by $21.86 Billion - Kriptofoni",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMlE0ME1EOF9fWW1mZUUxN1VRN0xNNGhRUElodmFBcnRULWRvenhtVjZOX2pSMUc2dW9yeWNtSzl3NXg1M1preWFKUmlxZUdWQlI3Q0RmLVBGZHdPQW5aSVdxaHNJbV9tdC1ESk1DanlCT2UwQlZVd3pUTQ?oc=5"
       },
       {
         "entity": "USDC",
-        "count": 20,
-        "headline": "DBS and Circle Strengthen Asia’s Stablecoin Infrastructure With USDC Partnership - Crypto Economy",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNENaWWJNWTExb0dGZ0JJNHhPSjJDempuRVpjcmQxV0FOaVpGZ19ndVZsSkNEc2E4N1Jldm50SnZma0NmTDMyWWxyYnY4V2RaZFF6QmhHUW5CWmloN25lTnJLdUcxR1dvZk0za1FNOGs0ZUE3VGVzMUZmOXhNV1VMWDlPOGR2WTZ1bDJiaXVPZ0NqdGQ0OFdBQnlfZFI4ZE5PVlM1enBxeG1PYkU?oc=5"
+        "count": 16,
+        "headline": "Stablecoin Whales' USDT and USDC Holdings Drop by $21.86 Billion - Kriptofoni",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMlE0ME1EOF9fWW1mZUUxN1VRN0xNNGhRUElodmFBcnRULWRvenhtVjZOX2pSMUc2dW9yeWNtSzl3NXg1M1preWFKUmlxZUdWQlI3Q0RmLVBGZHdPQW5aSVdxaHNJbV9tdC1ESk1DanlCT2UwQlZVd3pUTQ?oc=5"
+      },
+      {
+        "entity": "Tether",
+        "count": 16,
+        "headline": "Tether makes strategic investment in Swiss stablecoin firm Scrypt - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONEMxbU81alJRaFlzc09zTlpmYnQ1U1BYZ3haVDBKcjVLUGxvQy15dXlQWElHQ2JUaDVoSG9WNTJrU29nT0l0RlpybFNqamRzTFZnaDdvcnB5VFV3OHV4TVdpZWR6ZFNFR0Vac1IxcjYtaFllSWFSc2hzUG9tRzRGdHp1am1PMGRKZ3kzMWI3Y2RqbENRSVBVSmNuR2lfaWdabWR1SEVqTXMzbGJJczBXbw?oc=5"
       },
       {
         "entity": "USDT",
-        "count": 19,
-        "headline": "Tether Burns Billions In USDT As Stablecoin Market Cap Contracts - TronWeekly",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fT3lTTWJIUWw0VDBfNHdjUWdfa1pQVlBzSXdnUjVyazNMT2FUNkV6ZWttMkhQeTNKaThLWFp0ZHBEZ3Z5TF9oZG1oTmdzWUpDUWFwc1dodnpMLURvVUFxRnVWRUN6N2pMLUc5SDB2SHc5a2ZkS1ByZnZNWTJmVk0?oc=5"
+        "count": 10,
+        "headline": "Stablecoin Whales' USDT and USDC Holdings Drop by $21.86 Billion - Kriptofoni",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMlE0ME1EOF9fWW1mZUUxN1VRN0xNNGhRUElodmFBcnRULWRvenhtVjZOX2pSMUc2dW9yeWNtSzl3NXg1M1preWFKUmlxZUdWQlI3Q0RmLVBGZHdPQW5aSVdxaHNJbV9tdC1ESk1DanlCT2UwQlZVd3pUTQ?oc=5"
       },
       {
         "entity": "Circle",
-        "count": 9,
-        "headline": "DBS and Circle Strengthen Asia’s Stablecoin Infrastructure With USDC Partnership - Crypto Economy",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNENaWWJNWTExb0dGZ0JJNHhPSjJDempuRVpjcmQxV0FOaVpGZ19ndVZsSkNEc2E4N1Jldm50SnZma0NmTDMyWWxyYnY4V2RaZFF6QmhHUW5CWmloN25lTnJLdUcxR1dvZk0za1FNOGs0ZUE3VGVzMUZmOXhNV1VMWDlPOGR2WTZ1bDJiaXVPZ0NqdGQ0OFdBQnlfZFI4ZE5PVlM1enBxeG1PYkU?oc=5"
-      },
-      {
-        "entity": "Robinhood",
-        "count": 3,
-        "headline": "Plume Extends RWA Vault Access to Monad and Robinhood Chain - www.tokenpost.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oR3kxeVJldWxUY1g1ZWsycm4yQkZ4UVVvdHVaWkF0R1VoRjV4MjRLQ3VDckNka1FadmJvSk5zZkV3UUt4bWg5YmhvcEtxZGpHNldmQVgyd1M?oc=5"
+        "count": 4,
+        "headline": "Circle minted $500M USDC on Solana but most sta... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSXBadVFVMzNiTjd0cnhMR3FOODlHV0o4Q05aYVQ4UlNvWXpfMnZJbDNUcm5XbVVqcEs1Ymg4RkpHb1VObHc4OC0yWTJhNHF6cUgza3dkM3BWRmhVWmxHZ1RDUTVaaUxvdk1OZjZ1UWNpMzc4cTZTTTBtRmQtU2ZEaElGUzhZS2VxclpJYWp3?oc=5"
       }
     ]
   },
@@ -1732,8 +1086,8 @@
     {
       "name": "Google News",
       "ok": true,
-      "fetched": 706,
-      "kept": 84,
+      "fetched": 693,
+      "kept": 53,
       "message": ""
     },
     {
@@ -1782,21 +1136,21 @@
       "name": "Cointelegraph",
       "ok": true,
       "fetched": 30,
-      "kept": 2,
+      "kept": 0,
       "message": ""
     },
     {
       "name": "Decrypt",
       "ok": true,
       "fetched": 37,
-      "kept": 1,
+      "kept": 0,
       "message": ""
     },
     {
       "name": "The Defiant",
       "ok": true,
       "fetched": 100,
-      "kept": 3,
+      "kept": 2,
       "message": ""
     },
     {
